@@ -1,0 +1,195 @@
+ID белка,Название семейства/белка,Описание предсказания,Источник предсказания,Вхождение из orf,ORF,Start,End
+HUANSSPS.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,308,330
+HUANSSPS.n+1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,289,308
+HUANSSPS.n+1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,401,947
+HUANSSPS.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,340,360
+HUANSSPS.n+1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,361,371
+HUANSSPS.n+1,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,810,822
+HUANSSPS.n+1,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,927,947
+HUANSSPS.n+1,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,779,842
+HUANSSPS.n+1,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,827,841
+HUANSSPS.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,266,288
+HUANSSPS.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,266,288
+HUANSSPS.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,183,201
+HUANSSPS.n+1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,329,339
+HUANSSPS.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,183,202
+HUANSSPS.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,372,400
+HUANSSPS.n+1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,1,182
+HUANSSPS.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,340,359
+HUANSSPS.n+1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,202,265
+HUANSSPS.n+1,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,459,523
+HUANSSPS.n+1,-,Coil,Coils,-,-,620,640
+HUANSSPS.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,379,401
+HUANSSPS.n+1,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,540,614
+HUANSSPS.n+1,-,Coil,Coils,-,-,136,156
+HUANSSPS.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,309,328
+AY257977.n+0,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,238,247
+AY257977.n+0,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,216,228
+AY257977.n+0,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,186,248
+AY257977.n+0,-,Coil,Coils,-,-,26,46
+HV511037.n+1,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,586,656
+HV511037.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,328,350
+HV511037.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,360,382
+HV511037.n+1,-,Coil,Coils,-,-,743,763
+HV511037.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,359,384
+HV511037.n+1,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,945,965
+HV511037.n+1,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,944,988
+HV511037.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,302,320
+HV511037.n+1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,1,301
+HV511037.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,327,353
+HV511037.n+1,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,498,563
+HV511037.n+1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,321,326
+HV511037.n+1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,354,358
+HV511037.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,193,215
+HV511037.n+1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,385,395
+HV511037.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,395,417
+HV511037.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,396,415
+HV511037.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,299,321
+HV511037.n+1,-,Coil,Coils,-,-,158,185
+HV511037.n+1,-,Coil,Coils,-,-,688,715
+HV511037.n+1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,416,1009
+HV511037.n+0,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,26,37
+HV511037.n+0,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,1,37
+OR951076.n+2,-,Hydrophobic region of a signal peptide.,Phobius,An enzyme that catalyzes the replication of RNA from an RNA template,,3,12
+OR951076.n+2,-,Signal peptide region,Phobius,ORF1a; coding region disrupted by sequencing gap,1A,1,24
+OR951076.n+2,-,N-terminal region of a signal peptide.,Phobius,An enzyme that catalyzes the replication of RNA from an RNA template,,1,2
+OR951076.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,25,39
+OR951076.n+2,-,C-terminal region of a signal peptide.,Phobius,An enzyme that catalyzes the replication of RNA from an RNA template,,13,24
+PP512783.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,280,302
+PP512783.n+0,-,Coil,Coils,-,-,3,38
+PP512783.n+0,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,99,250
+PP512783.n+0,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,332,336
+PP512783.n+0,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,274,279
+PP512783.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,81,98
+PP512783.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,309,331
+PP512783.n+0,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,306,310
+PP512783.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,280,305
+PP512783.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,251,273
+PP512783.n+0,-,Coil,Coils,-,-,53,73
+PP512783.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,81,103
+PP512783.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,311,331
+PP512783.n+0,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,1,80
+OR951013.n+1,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,228,237
+OR951013.n+1,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,25,43
+OR951013.n+1,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,23,43
+OR951013.n+1,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,228,250
+MN035429.n+1,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,191,312
+OQ986647.n+2,-,ps-ssRNAv_Astroviridae_RdRp,CDD,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1,173
+OR871060.n+2,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,170,287
+OR871060.n+2,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,131,264
+MN035574.n+1,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,21,48
+MN733910.n+2,MFS transporter superfamily,MFS general substrate transporter like domains,Gene3D,An enzyme that catalyzes the replication of RNA from an RNA template,,2,152
+MN733910.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,1,24
+MN733910.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,62,83
+MN733910.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,90,112
+MN733910.n+2,"Sugar transporter, conserved site",Sugar transport proteins signature 2.,ProSitePatterns,An enzyme that catalyzes the replication of RNA from an RNA template,,121,146
+MN733910.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,25,42
+MN733910.n+2,Proton-coupled symporters,ALPHA-KETOGLUTARATE PERMEASE,PANTHER,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,5,151
+MN733910.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,110,114
+MN733910.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,138,152
+MN733910.n+2,Major facilitator superfamily domain,Major facilitator superfamily (MFS) profile.,ProSiteProfiles,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,25,152
+MN733910.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,61,83
+MN733910.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,116,138
+MN733910.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,43,61
+MN733910.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,115,137
+MN733910.n+2,"Sugar transporter, conserved site",Sugar transport proteins signature 1.,ProSitePatterns,An enzyme that catalyzes the replication of RNA from an RNA template,,79,96
+MN733910.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,84,89
+MN733910.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,24,46
+MN733910.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,90,109
+OR951065.n+2,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,1,22
+OR951056.n+2,-,ps-ssRNAv_Astroviridae_RdRp,CDD,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,11,237
+OR951056.n+2,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,73,204
+OR951056.n+2,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,112,236
+OR951076.n+1,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,165,297
+OR951076.n+1,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,203,329
+OR951076.n+1,-,ps-ssRNAv_Astroviridae_RdRp,CDD,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,85,330
+OR951029.n+0,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,99,216
+OR951029.n+0,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,58,190
+OR951029.n+0,-,ps-ssRNAv_Astroviridae_RdRp,CDD,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1,223
+GU222334.n+2,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,1,21
+GU222334.n+2,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,9,21
+PQ335170.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,1,162
+PQ335170.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,163,183
+PQ335170.n+2,-,Coil,Coils,-,-,204,204
+PQ335170.n+2,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,781,790
+PQ335170.n+2,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,758,790
+PQ335170.n+2,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,760,780
+PQ335170.n+2,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,803,833
+PQ335170.n+2,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,803,817
+PQ335170.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,246,268
+PQ335170.n+2,-,Coil,Coils,-,-,1284,1284
+PQ335170.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,163,181
+PQ335170.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,182,1288
+PQ335170.n+2,-,Coil,Coils,-,-,116,136
+PQ335170.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,203,225
+MN035369.n+1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,1,11
+MN035369.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,11,30
+MN035369.n+1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,30,34
+MN035369.n+1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,12,29
+MN036159.n+0,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,7,25
+MN036159.n+0,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,1,25
+PQ110289.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,12,36
+PQ110289.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,1,11
+PQ110289.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,15,37
+PQ110289.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,37,41
+PP211271.n+0,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,23,51
+PP211271.n+0,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,23,35
+OR951065.n+1,-,ps-ssRNAv_Astroviridae_RdRp,CDD,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,87,330
+OR951065.n+1,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,207,318
+OR951065.n+1,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,166,297
+MN033141.n+0,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,20,146
+MN033141.n+0,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1,111
+MN033141.n+0,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,330,383
+Z16420.n+0,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,13,87
+Z16420.n+0,-,Coil,Coils,-,-,93,120
+MN034197.n+1,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1,93
+MN034197.n+1,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,5,124
+OR951044.n+0,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,119,236
+OR951044.n+0,-,ps-ssRNAv_Astroviridae_RdRp,CDD,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1,243
+OR951044.n+0,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,78,210
+OR951043.n+1,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,73,205
+OR951043.n+1,-,ps-ssRNAv_Astroviridae_RdRp,CDD,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,3,238
+OR951043.n+1,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,114,231
+OR951063.n+1,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,269,389
+OR951063.n+1,-,ps-ssRNAv_Astroviridae_RdRp,CDD,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,148,390
+OR951063.n+1,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,227,357
+MN034422.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,59,68
+MN034422.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,1,39
+MN034422.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,40,58
+MN033177.n+0,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,69,79
+MN033177.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,135,157
+MN033177.n+0,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,44,48
+MN033177.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,35,57
+MN033177.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,244,266
+MN033177.n+0,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,101,131
+MN033177.n+0,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,1,22
+MN033177.n+0,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,596,661
+MN033177.n+0,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,298,322
+MN033177.n+0,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,273,323
+MN033177.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,78,100
+MN033177.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,49,68
+MN033177.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,23,43
+MN033177.n+0,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,266,1096
+MN033177.n+0,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,158,243
+MN033177.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,132,157
+MN033177.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,80,100
+MN033177.n+0,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,244,265
+ATVPOLY4A.n+2,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,52,65
+ATVPOLY4A.n+2,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,41,65
+OR951063.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,26,31
+OR951063.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,32,55
+OR951063.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,6,25
+OR951063.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,56,84
+OR951063.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,2,24
+OR951063.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,28,50
+OR951063.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,1,5
+MN033591.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,303,326
+MN033591.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,1,302
+MN033591.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,327,337
+MN033591.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,338,358
+MN033591.n+2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,359,438
+OR951024.n+0,-,ps-ssRNAv_Astroviridae_RdRp,CDD,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,78,321
+OR951024.n+0,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,197,320
+OR951024.n+0,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,157,288
+ATVPOLY1A.n+2,-,consensus disorder prediction,MobiDBLite,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,44,65
+HUANSSPS.n+2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,5,22

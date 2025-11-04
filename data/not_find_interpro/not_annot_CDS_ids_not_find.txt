@@ -1,0 +1,42 @@
+OR951056.n+1 | MAG: Bat astrovirus isolate YN2016_218_5311 sequence
+OR951044.n+1 | MAG: Bat astrovirus isolate GD2017_207_17582 sequence
+OR951029.n+1 | MAG: Bat astrovirus isolate GD2016_188_81480 sequence
+OR951029.n+2 | MAG: Bat astrovirus isolate GD2016_188_81480 sequence
+OR951024.n+1 | MAG: Bat astrovirus isolate GD2017_173_19604 sequence
+OR951024.n+2 | MAG: Bat astrovirus isolate GD2017_173_19604 sequence
+PL092225.n+0 | KR 1020240003760-A/77: New regulatory elements for enhancing RNA stability or mRNA translation, ZCCHC2 interacting with the same, and use thereof
+PL092225.n+1 | KR 1020240003760-A/77: New regulatory elements for enhancing RNA stability or mRNA translation, ZCCHC2 interacting with the same, and use thereof
+PL092225.n+2 | KR 1020240003760-A/77: New regulatory elements for enhancing RNA stability or mRNA translation, ZCCHC2 interacting with the same, and use thereof
+PL092217.n+1 | KR 1020240003760-A/69: New regulatory elements for enhancing RNA stability or mRNA translation, ZCCHC2 interacting with the same, and use thereof
+PL092213.n+0 | KR 1020240003760-A/65: New regulatory elements for enhancing RNA stability or mRNA translation, ZCCHC2 interacting with the same, and use thereof
+PL092213.n+2 | KR 1020240003760-A/65: New regulatory elements for enhancing RNA stability or mRNA translation, ZCCHC2 interacting with the same, and use thereof
+OR871060.n+0 | MAG: Astroviridae sp. isolate HAFQP22/11 cRNA sequence
+OR800315.n+1 | MAG: Feral pigeon astrovirus isolate NYJ-1/2023 nonstructural protein-like gene, complete sequence
+OP474168.n+0 | MAG: Pangolin astrovirus A4 genomic sequence
+MN733910.n+0 | Astroviridae sp. clone XKHW-11 genomic sequence
+MN733910.n+1 | Astroviridae sp. clone XKHW-11 genomic sequence
+MN036159.n+1 | MAG: Astroviridae sp. isolate H2_Bulk_Litter_12_scaffold_3666 sequence
+MN036131.n+1 | MAG: Astroviridae sp. isolate H4_Rhizo_Litter_20_scaffold_3123 sequence
+MN035838.n+0 | MAG: Astroviridae sp. isolate H4_Bulk_47_scaffold_62 sequence
+MN035574.n+0 | MAG: Astroviridae sp. isolate H2_Rhizo_Litter_49_scaffold_25815 sequence
+MN035574.n+2 | MAG: Astroviridae sp. isolate H2_Rhizo_Litter_49_scaffold_25815 sequence
+MN035369.n+2 | MAG: Astroviridae sp. isolate H3_Bulk_42_scaffold_5271 sequence
+MN034849.n+0 | MAG: Astroviridae sp. isolate H4_Bulk_Litter_24_scaffold_8515 sequence
+MN034849.n+1 | MAG: Astroviridae sp. isolate H4_Bulk_Litter_24_scaffold_8515 sequence
+MN033907.n+2 | MAG: Astroviridae sp. isolate H1_Bulk_Litter_4_scaffold_9531 sequence
+MN033591.n+0 | MAG: Astroviridae sp. isolate H4_Rhizo_44_scaffold_12707 sequence
+MN033141.n+1 | MAG: Astroviridae sp. isolate H4_Bulk_46_scaffold_28672 sequence
+MN032977.n+0 | MAG: Astroviridae sp. isolate H1_Bulk_Litter_4_scaffold_35 sequence
+S47249.n+0 | {astrovirus genome 3' end} [human astrovirus type 1, Genomic RNA, 118 nt]
+S47249.n+1 | {astrovirus genome 3' end} [human astrovirus type 1, Genomic RNA, 118 nt]
+S47249.n+2 | {astrovirus genome 3' end} [human astrovirus type 1, Genomic RNA, 118 nt]
+KC599256.n+0 | Astrovirus YN12018/CHN/2012 large polymerase protein-like gene, partial sequence
+KC599256.n+1 | Astrovirus YN12018/CHN/2012 large polymerase protein-like gene, partial sequence
+GU222330.n+2 | Avian nephritis virus AFBI-2010 isolate VF04-1/2 structural protein gene, partial sequence; and 3' UTR
+GU222346.n+0 | Avian nephritis virus AFBI-2010 isolate VF07-13/7 3' UTR
+GU222345.n+0 | Avian nephritis virus AFBI-2010 isolate VF07-13/3 3' UTR
+GU222344.n+0 | Avian nephritis virus AFBI-2010 isolate VF07-13/1 3' UTR
+AY257977.n+1 | Human astrovirus type 4 nonstructural protein (ORF1A) pseudogene, partial sequence
+ATVPOLY4A.n+0 | Human astrovirus serotype 5 (a5) RNA fragment
+ATVPOLY1A.n+0 | Human astrovirus serotype 2 (a2) RNA fragment
+Z16420.n+2 | Human astrovirus type 1 mRNA for non-structural protein

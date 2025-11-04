@@ -1,0 +1,3 @@
+PQ055535.3| product: hypothetical protein | MAG: Qianjiang astro-like virus 10 isolate QJ3DS5660 cRNA sequence
+PQ055532.3| product: hypothetical protein | MAG: Qianjiang astro-like virus 8 isolate QJ3DS2284 cRNA sequence
+PQ055524.4| product: hypothetical protein | MAG: Qianjiang astro-like virus 1 isolate QJ3DG2844 cRNA sequence

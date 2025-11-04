@@ -1,0 +1,13 @@
+PX395426.1| product: nonstructural polyprotein | Chicken astrovirus strain CAst/Bayern/2024 isolate Contig-13 nonstructural polyprotein gene, partial cds
+PX395425.1| product: nonstructural polyprotein | Chicken astrovirus strain CAst/Bayern/2024 isolate Contig-12 nonstructural polyprotein gene, partial cds
+PQ421847.3| product: hypothetical protein | MAG: Astrovirus sp. isolate LS-SCDW-2 genomic sequence
+PQ150499.2| product: hypothetical protein | MAG: Solanum melongena bastro-like virus isolate Hebei_128 genomic sequence
+PQ161557.3| product: hypothetical protein | MAG: Bastrovirus Brazil/sewage isolate CS26 hypothetical protein genes, complete cds; and hypothetical protein gene, partial cds
+PQ055535.3| product: hypothetical protein | MAG: Qianjiang astro-like virus 10 isolate QJ3DS5660 cRNA sequence
+PQ055532.3| product: hypothetical protein | MAG: Qianjiang astro-like virus 8 isolate QJ3DS2284 cRNA sequence
+PQ055524.4| product: hypothetical protein | MAG: Qianjiang astro-like virus 1 isolate QJ3DG2844 cRNA sequence
+OL739530.1| product: hypothetical protein | Mamastrovirus sp. strain PAstV-04-LC-Corsica-2017 hypothetical protein gene, partial cds
+MN841288.2| product: hypothetical protein 2 | Solanum melongena bastro-like virus strain pt065-phy-4-plant 65, complete genome
+MK387179.1| product: nonstructural polyprotein | Porcine bastrovirus isolate PBastV_USA_SD3/2017 nonstructural polyprotein gene, partial cds
+MK387178.1| product: nonstructural polyprotein | Porcine bastrovirus isolate PBastV_USA_SD2/2017 nonstructural polyprotein gene, partial cds
+MK387177.1| product: nonstructural polyprotein | Porcine bastrovirus isolate PBastV_USA_SD1/2017 nonstructural polyprotein gene, partial cds

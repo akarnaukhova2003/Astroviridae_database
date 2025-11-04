@@ -1,0 +1,44 @@
+ID белка,Название семейства/белка,Описание предсказания,Источник предсказания,Вхождение из orf,ORF,Start,End
+PQ055536.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,59,421
+PQ055536.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,75,469
+PQ055535.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,121,433
+PQ055535.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,71,458
+PQ055536.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,491,644
+PQ055539.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,80,467
+PQ055539.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,140,394
+PQ055529.1|,-,dsRNA-binding domain-like,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,113,198
+PQ055530.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,79,492
+PQ055530.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,100,500
+PQ055528.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,80,492
+PQ055528.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,127,452
+OP413943.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,400,573
+OP413943.1|,Astrovirus transmembrane protein 1A,Astrovirus transmembrane protein 1A,Pfam,1a,1A,239,410
+OP413943.1|,-,Trypsin-like peptidase domain,Pfam,"Non structural gene; 2b like nuclear targetting sequence, serine protease",1A,443,562
+PQ055539.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,154,314
+PQ055539.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,3C-like serine protease motif,1A,273,307
+PQ055524.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,996,1159
+PQ055535.1|,-,Trypsin-like peptidase domain,Pfam,"Non structural gene; 2b like nuclear targetting sequence, serine protease",1A,600,731
+PQ055535.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,596,748
+PQ055536.3|,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,Capsid precursor protein,2,242,398
+PQ055536.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,215,400
+PQ055532.2|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,234,331
+PQ055532.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,79,387
+OP413943.2|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,94,316
+PQ055538.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,227,433
+PQ055538.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,131,431
+PQ055529.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,99,500
+PQ055529.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,73,492
+PQ055524.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,139,474
+PQ055524.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,105,503
+PQ055537.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,131,419
+PQ055537.2|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,269,373
+PQ055530.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,251,429
+PQ055530.3|,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,Capsid precursor protein,2,253,430
+PQ055528.3|,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,Capsid precursor protein,2,115,305
+PQ055528.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,130,381
+PQ055528.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,872,932
+PQ055528.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,3C-like serine protease motif,1A,903,932
+PQ055533.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,119,491
+PQ055533.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,75,494
+PQ055533.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,264,403
+PQ055538.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,813,1003
