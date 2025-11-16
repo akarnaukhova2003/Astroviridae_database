@@ -1,0 +1,68 @@
+AC,ID белка,Название семейства/белка,Описание предсказания,Источник предсказания,Вхождение из orf,ORF,Start,End,Source File,координаты рамки
+PP512783,PP512783_7,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,3,78,,2957-3196
+PP512783,PP512783_7,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,10,77,,2957-3196
+PP512783,PP512783_10,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,2,140,,3651-4274
+PQ110289,PQ110289_5,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,174,444,,832-2226
+PQ110289,PQ110289_5,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,85,447,,832-2226
+OP474168,OP474168_4,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,72,291,,146-2197
+PQ110289,PQ110289_1,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,123,254,,2-883
+MN733910,MN733910_2,Major facilitator superfamily,Major Facilitator Superfamily,Pfam,ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,,15,152,,3-458
+MN733910,MN733910_2,MFS transporter superfamily,MFS general substrate transporter,SUPERFAMILY,An enzyme that catalyzes the replication of RNA from an RNA template,,4,151,,3-458
+MN036159,MN036159_16,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,164,448,,2005-296
+MN036159,MN036159_16,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,114,511,,2005-296
+PP512783,PP512783_8,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,78,168,,3151-3660
+PP512783,PP512783_6,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,42,353,,1880-2953
+PP512783,PP512783_6,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,80,356,,1880-2953
+PP512783,PP512783_4,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,141,225,interpro_выдача/notannot_CDS_interpro/not_annot_CDS_nucl_ORFs_merged_output.csv,879-1895
+PP512783,PP512783_4,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,26,64,,879-1895
+MN036159,MN036159_12,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,10,72,,2193-1933
+MN035429,MN035429_4,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,7,338,,2-1213
+MN035429,MN035429_4,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,14,373,,2-1213
+MN035838,MN035838_32,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,915,1302,,5684-45
+MN035838,MN035838_32,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,909,1268,,5684-45
+MN034849,MN034849_9,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,409,559,,1686-1
+MN034849,MN034849_9,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,8,284,,1686-1
+MN034849,MN034849_9,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,Capsid precursor protein,2,401,496,,1686-1
+MN034849,MN034849_9,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,28,218,,1686-1
+MN036131,MN036131_3,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,127,445,,1927-281
+MN036131,MN036131_3,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,121,484,,1927-281
+MN034422,MN034422_12,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,15,342,,1781-561
+MN034422,MN034422_12,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,27,314,,1781-561
+MN035893,MN035893_4,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,73,369,,1-1419
+MN035893,MN035893_4,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,26,424,,1-1419
+MN035574,MN035574_15,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,91,339,,1554-208
+MN035574,MN035574_15,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,34,384,,1554-208
+MN035369,MN035369_8,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,5,229,,1683-1
+MN035369,MN035369_8,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,5,226,,1683-1
+MN033141,MN033141_3,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1,208,,1-1179
+MN033141,MN033141_3,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1,213,,1-1179
+MN033591,MN033591_1,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,73,432,,3-1316
+MN033591,MN033591_1,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,73,433,,3-1316
+MN034422,MN034422_15,Phospholipase A2 domain superfamily,"Phospholipase A2, PLA2",SUPERFAMILY,ORF 2,2,52,88,,715-2
+MN034197,MN034197_2,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,14,172,,2-799
+MN034197,MN034197_2,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,15,149,,2-799
+MN033907,MN033907_6,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1,247,,1317-139
+MN033907,MN033907_6,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,3,288,,1317-139
+MN033177,MN033177_4,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,497,671,,1-3288
+MN033177,MN033177_4,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,911,1094,,1-3288
+MN033177,MN033177_4,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,811,1095,,1-3288
+HUANSSPS,HUANSSPS_6,Mamastrovirus p20 protein,Astroviridae polyprotein 1,Pfam,Capsid precursor protein,2,783,938,,2-2842
+HUANSSPS,HUANSSPS_6,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,464,610,,2-2842
+HUANSSPS,HUANSSPS_6,-,Trypsin-like peptidase domain,Pfam,"Non structural gene; 2b like nuclear targetting sequence, serine protease",1A,474,592,,2-2842
+HUANSSPS,HUANSSPS_6,Astrovirus transmembrane protein 1A,Astrovirus transmembrane protein 1A,Pfam,1a,1A,203,446,,2-2842
+HUANSSPS,HUANSSPS_6,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,691,782,interpro_выдача/notannot_CDS_interpro/not_annot_CDS_nucl_ORFs_merged_output.csv,2-2842
+HUANSSPS,HUANSSPS_6,Astrovirus p19 protein,Astrovirus p19 protein,Pfam,Capsid precursor protein,2,28,201,,2-2842
+HV511037,HV511037_6,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,722,810,interpro_выдача/notannot_CDS_interpro/not_annot_CDS_nucl_ORFs_merged_output.csv,2-3028
+HV511037,HV511037_6,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,498,653,,2-3028
+HUANSSPS,HUANSSPS_14,Turkey astrovirus capsid protein,Turkey astrovirus capsid protein,Pfam,Capsid,2,468,832,,4217-6712
+HUANSSPS,HUANSSPS_14,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,53,294,,4217-6712
+HV511037,HV511037_9,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,81,465,,3019-4548
+HV511037,HV511037_9,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,64,510,,3019-4548
+HUANSSPS,HUANSSPS_10,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,174,446,,2773-4329
+HUANSSPS,HUANSSPS_10,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,40,511,,2773-4329
+MN032977,MN032977_56,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1027,1435,,6674-498
+MN032977,MN032977_56,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1132,1386,,6674-498
+MN032977,MN032977_56,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,Capsid precursor protein,2,1627,1770,,6674-498
+MN032977,MN032977_56,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,510,684,,6674-498
+MN032977,MN032977_56,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1620,1779,,6674-498
+HV511037,HV511037_16,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,57,281,,4472-6619
