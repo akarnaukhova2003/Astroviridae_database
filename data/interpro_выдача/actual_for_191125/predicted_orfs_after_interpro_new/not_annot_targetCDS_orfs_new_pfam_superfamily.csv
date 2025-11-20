@@ -1,0 +1,243 @@
+ID белка,Название семейства/белка,Описание предсказания,Источник предсказания,Вхождение из orf,ORF,Start,End,Source File,id_prefix,start,end
+OQ709190.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,400.0,751.0,,OQ709190,89,2369
+OQ709190.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,208.0,361.0,,OQ709190,89,2369
+OQ709190.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,3C-like serine protease motif,1A,228.0,351.0,,OQ709190,89,2369
+OQ709190.1|,"Viral polyprotein, parechovirus P3A",Picornaviridae P3A protein,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,75.0,142.0,,OQ709190,89,2369
+OQ709190.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,373.0,754.0,,OQ709190,89,2369
+PQ421845.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,439.0,589.0,,PQ421845,3756,6080
+PQ421845.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,621.0,677.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PQ421845,3756,6080
+PQ421845.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,20.0,367.0,,PQ421845,2101,3465
+PQ421845.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,11.0,336.0,,PQ421845,2101,3465
+PQ421845.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,10.0,177.0,,PQ421845,159,1940
+PQ421845.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,17.0,105.0,,PQ421845,159,1940
+MW853972.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,889.0,1110.0,,MW853972,1,3630
+MW853972.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,-,1A,6.0,216.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MW853972,1,3630
+MW853972.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,-,1A,437.0,685.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MW853972,1,3630
+MW853972.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,897.0,1075.0,,MW853972,1,3630
+MW853972.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,430.0,688.0,,MW853972,1,3630
+OQ709193.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,1538.0,1702.0,,OQ709193,517,7025
+OQ709193.1|,Picornavirus capsid,picornavirus capsid protein,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,79.0,197.0,,OQ709193,517,7025
+OQ709193.1|,Picornavirus capsid,picornavirus capsid protein,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,361.0,455.0,,OQ709193,517,7025
+OQ709193.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1716.0,2165.0,,OQ709193,517,7025
+OQ709193.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,1188.0,1346.0,,OQ709193,517,7025
+OQ709193.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,13.0,247.0,,OQ709193,517,7025
+OQ709193.1|,"Helicase, superfamily 3, single-stranded DNA/RNA virus",RNA helicase,Pfam,-,1A,1195.0,1298.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,OQ709193,517,7025
+OQ709193.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,321.0,720.0,,OQ709193,517,7025
+OQ709193.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1744.0,2148.0,,OQ709193,517,7025
+OQ709193.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,3C-like serine protease motif,1A,1568.0,1692.0,,OQ709193,517,7025
+MW924357.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,6.0,247.0,,MW924357,1,1236
+MW924357.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,21.0,296.0,,MW924357,1,1236
+PQ055527.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1147.0,1331.0,,PQ055527,24,6293
+PQ055527.1|,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,Capsid precursor protein,2,1768.0,1896.0,,PQ055527,24,6293
+PQ055527.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1094.0,1329.0,,PQ055527,24,6293
+PQ055527.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1714.0,1896.0,,PQ055527,24,6293
+OQ709192.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,22.0,190.0,,OQ709192,80,1588
+OQ709192.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,204.0,501.0,,OQ709192,80,1588
+OQ709192.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,3C-like serine protease motif,1A,11.0,173.0,,OQ709192,80,1588
+OQ709192.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,219.0,501.0,,OQ709192,80,1588
+OQ709189.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,102.0,255.0,,OQ709189,301,2922
+OQ709189.1|,"Helicase, superfamily 3, single-stranded DNA/RNA virus",RNA helicase,Pfam,-,1A,128.0,227.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,OQ709189,301,2922
+OQ709189.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,3C-like serine protease motif,1A,461.0,625.0,,OQ709189,301,2922
+OQ709189.1|,"Poliovirus core protein 3a, soluble domain",Soluble domain of poliovirus core protein 3a,SUPERFAMILY,An enzyme that catalyzes the replication of RNA from an RNA template,,351.0,394.0,,OQ709189,301,2922
+OQ709189.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,648.0,869.0,,OQ709189,301,2922
+OQ709189.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,666.0,867.0,,OQ709189,301,2922
+OQ709189.1|,Poliovirus 3A protein-like,Poliovirus 3A protein like,Pfam,Capsid precursor protein,2,361.0,397.0,,OQ709189,301,2922
+OQ709189.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,458.0,638.0,,OQ709189,301,2922
+PX289196.1|,-,Trypsin-like peptidase domain,Pfam,"Non structural gene; 2b like nuclear targetting sequence, serine protease",1A,485.0,612.0,,PX289196,1,3029
+PX289196.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,483.0,624.0,,PX289196,1,3029
+PX289196.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,696.0,789.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PX289196,1,3029
+PX289196.3|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,12.0,251.0,,PX289196,4589,6703
+PX289196.3|,"Capsid polyprotein VP90, C-terminal",C-terminal tail of astrovirus capsid projection or spike,Pfam,An enzyme that catalyzes the replication of RNA from an RNA template,,425.0,665.0,,PX289196,4589,6703
+PX289196.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,2.0,401.0,,PX289196,3284,4570
+PX289196.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,2.0,421.0,,PX289196,3284,4570
+MZ443626.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1000.0,1254.0,,MZ443626,50,4276
+MZ443626.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,-,1A,610.0,849.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MZ443626,50,4276
+MZ443626.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1002.0,1282.0,,MZ443626,50,4276
+MZ443626.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,690.0,869.0,,MZ443626,50,4276
+MZ443626.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,-,1A,60.0,300.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MZ443626,50,4276
+MZ443626.2|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,61.0,252.0,,MZ443626,4240,5370
+OM514376.2|,"Peptidase A6, nodavirus coat protein",Peptidase A6 family,Pfam,non-structural; results from a translational frameshift between ORF1a and ORF1b,,21.0,425.0,,OM514376,2128,3561
+OM514376.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,44.0,397.0,,OM514376,189,1676
+OM514376.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,35.0,420.0,,OM514376,189,1676
+PQ421854.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,21.0,367.0,,PQ421854,2096,3460
+PQ421854.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,11.0,337.0,,PQ421854,2096,3460
+PQ421854.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,17.0,106.0,,PQ421854,154,1935
+PQ421854.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,10.0,177.0,,PQ421854,154,1935
+PQ421854.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,620.0,673.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PQ421854,3751,6069
+PQ421854.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,437.0,588.0,,PQ421854,3751,6069
+MW346737.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1066.0,1267.0,,MW346737,24,4268
+MW346737.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,605.0,854.0,,MW346737,24,4268
+MW346737.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,-,1A,609.0,852.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MW346737,24,4268
+MW346737.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1016.0,1303.0,,MW346737,24,4268
+MW346737.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,-,1A,35.0,346.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MW346737,24,4268
+PQ421853.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,17.0,105.0,,PQ421853,161,1951
+PQ421853.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,10.0,177.0,,PQ421853,161,1951
+PQ421853.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,622.0,678.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PQ421853,3767,6097
+PQ421853.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,440.0,596.0,,PQ421853,3767,6097
+PQ421853.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,25.0,385.0,,PQ421853,2112,3530
+PQ421853.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,22.0,355.0,,PQ421853,2112,3530
+PX289197.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,476.0,626.0,,PX289197,1,3029
+PX289197.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,696.0,789.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PX289197,1,3029
+PX289197.1|,-,Trypsin-like peptidase domain,Pfam,"Non structural gene; 2b like nuclear targetting sequence, serine protease",1A,485.0,612.0,,PX289197,1,3029
+PX289197.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,2.0,401.0,,PX289197,3284,4570
+PX289197.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,2.0,421.0,,PX289197,3284,4570
+PX289197.3|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,12.0,251.0,,PX289197,4589,6703
+PX289197.3|,"Capsid polyprotein VP90, C-terminal",C-terminal tail of astrovirus capsid projection or spike,Pfam,An enzyme that catalyzes the replication of RNA from an RNA template,,425.0,665.0,,PX289197,4589,6703
+MN841288.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1545.0,1897.0,,MN841288,841,6864
+MN841288.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,1097.0,1197.0,,MN841288,841,6864
+MN841288.1|,-,AAA domain,Pfam,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,1100.0,1198.0,,MN841288,841,6864
+MN841288.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1593.0,1887.0,,MN841288,841,6864
+PQ421852.2|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,312.0,368.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PQ421852,3613,5013
+PQ421852.2|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,130.0,293.0,,PQ421852,3613,5013
+PQ421852.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,491.0,703.0,,PQ421852,8,3376
+PQ421852.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,22.0,355.0,,PQ421852,8,3376
+PQ421852.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,25.0,378.0,,PQ421852,8,3376
+PQ421843.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,21.0,367.0,,PQ421843,2624,3988
+PQ421843.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,11.0,337.0,,PQ421843,2624,3988
+PQ421843.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,439.0,595.0,,PQ421843,6,2333
+PQ421843.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,621.0,677.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PQ421843,6,2333
+PQ421843.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,17.0,104.0,,PQ421843,4146,5924
+PQ421843.3|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,10.0,177.0,,PQ421843,4146,5924
+OP413956.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,49.0,436.0,,OP413956,2610,4061
+OP413956.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,143.0,392.0,,OP413956,2610,4061
+OP413956.1|,-,Trypsin-like peptidase domain,Pfam,"Non structural gene; 2b like nuclear targetting sequence, serine protease",1A,438.0,563.0,,OP413956,1,2589
+OP413956.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,654.0,722.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,OP413956,1,2589
+OP413956.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,425.0,590.0,,OP413956,1,2589
+OP413956.1|,Astrovirus transmembrane protein 1A,Astrovirus transmembrane protein 1A,Pfam,1a,1A,267.0,404.0,,OP413956,1,2589
+MW645022.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,-,1A,604.0,809.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MW645022,1,2463
+MW645022.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,599.0,709.0,,MW645022,1,2463
+MW645022.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,-,1A,61.0,339.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MW645022,1,2463
+MH188020.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,-,1A,606.0,844.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MH188020,64,5349
+MH188020.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,-,1A,30.0,334.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MH188020,64,5349
+MH188020.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,685.0,845.0,,MH188020,64,5349
+MH188020.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,997.0,1271.0,,MH188020,64,5349
+MH188020.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1467.0,1644.0,,MH188020,64,5349
+MH188020.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1015.0,1292.0,,MH188020,64,5349
+NC_040647.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,-,1A,606.0,844.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,NC_040647,64,5349
+NC_040647.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,-,1A,30.0,334.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,NC_040647,64,5349
+NC_040647.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,685.0,845.0,,NC_040647,64,5349
+NC_040647.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,997.0,1271.0,,NC_040647,64,5349
+NC_040647.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1467.0,1644.0,,NC_040647,64,5349
+NC_040647.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1015.0,1292.0,,NC_040647,64,5349
+ON932807.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,41.0,444.0,,ON932807,1,1372
+ON932807.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,41.0,446.0,,ON932807,1,1372
+MZ182271.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,-,1A,1122.0,1357.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MZ182271,21,5030
+MZ182271.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,1199.0,1364.0,,MZ182271,21,5030
+MZ182271.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,-,1A,78.0,333.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MZ182271,21,5030
+MZ182271.1|,Macro domain-like,Macro domain-like,SUPERFAMILY,"Non structural gene; 2b like nuclear targetting sequence, serine protease",1A,688.0,814.0,,MZ182271,21,5030
+PQ421846.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,22.0,367.0,,PQ421846,2103,3467
+PQ421846.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,12.0,336.0,,PQ421846,2103,3467
+PQ421846.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,439.0,589.0,,PQ421846,3758,6082
+PQ421846.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,621.0,677.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PQ421846,3758,6082
+PQ421846.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,17.0,105.0,,PQ421846,161,1942
+PQ421846.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,10.0,177.0,,PQ421846,161,1942
+PX289198.1|,-,Trypsin-like peptidase domain,Pfam,"Non structural gene; 2b like nuclear targetting sequence, serine protease",1A,567.0,694.0,,PX289198,1,3273
+PX289198.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,558.0,706.0,,PX289198,1,3273
+PX289198.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,778.0,871.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PX289198,1,3273
+PX289198.3|,"Capsid polyprotein VP90, C-terminal",C-terminal tail of astrovirus capsid projection or spike,Pfam,An enzyme that catalyzes the replication of RNA from an RNA template,,425.0,665.0,,PX289198,4833,6947
+PX289198.3|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,12.0,251.0,,PX289198,4833,6947
+PX289198.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,2.0,401.0,,PX289198,3528,4814
+PX289198.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,2.0,421.0,,PX289198,3528,4814
+MW924358.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,271.0,424.0,,MW924358,1,1280
+MW924358.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,-,1A,31.0,102.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MW924358,1,1280
+MT568535.2|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,62.0,236.0,,MT568535,4261,5243
+MT568535.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,-,1A,609.0,852.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MT568535,7,4251
+MT568535.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,-,1A,35.0,346.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MT568535,7,4251
+MT568535.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1019.0,1302.0,,MT568535,7,4251
+MT568535.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1066.0,1267.0,,MT568535,7,4251
+MT568535.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,605.0,855.0,,MT568535,7,4251
+MZ291967.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,-,1A,78.0,333.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MZ291967,225,2311
+MW924356.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,14.0,152.0,,MW924356,1,846
+MW924356.2|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,48.0,230.0,,MW924356,872,1924
+PQ421841.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,210.0,383.0,,PQ421841,356,1525
+PQ421841.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,44.0,397.0,,PQ421841,1564,3051
+PQ421841.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,36.0,442.0,,PQ421841,1564,3051
+OQ709191.1|,Picornavirus capsid,picornavirus capsid protein,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,89.0,193.0,,OQ709191,202,6465
+OQ709191.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,304.0,689.0,,OQ709191,202,6465
+OQ709191.1|,"Helicase, superfamily 3, single-stranded DNA/RNA virus",RNA helicase,Pfam,-,1A,1136.0,1238.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,OQ709191,202,6465
+OQ709191.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,1456.0,1622.0,,OQ709191,202,6465
+OQ709191.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,22.0,236.0,,OQ709191,202,6465
+OQ709191.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,1113.0,1263.0,,OQ709191,202,6465
+OQ709191.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1636.0,2079.0,,OQ709191,202,6465
+OQ709191.1|,Calicivirus coat protein,Calicivirus coat protein,Pfam,Capsid precursor protein,2,329.0,485.0,,OQ709191,202,6465
+OQ709191.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,3C-like serine protease motif,1A,1511.0,1613.0,,OQ709191,202,6465
+OQ709191.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1732.0,2067.0,,OQ709191,202,6465
+PP211223.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,244.0,477.0,,PP211223,1,2935
+PP211223.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,655.0,900.0,,PP211223,1,2935
+PP211223.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,-,1A,245.0,472.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PP211223,1,2935
+PP211223.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,574.0,957.0,,PP211223,1,2935
+MZ182272.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,-,1A,78.0,333.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MZ182272,29,3325
+MZ182272.1|,Macro domain-like,Macro domain-like,SUPERFAMILY,"Non structural gene; 2b like nuclear targetting sequence, serine protease",1A,688.0,814.0,,MZ182272,29,3325
+OQ709188.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,2.0,109.0,,OQ709188,162,1621
+OQ709188.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,122.0,481.0,,OQ709188,162,1621
+OQ709188.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,152.0,480.0,,OQ709188,162,1621
+OQ709188.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,3C-like serine protease motif,1A,1.0,100.0,,OQ709188,162,1621
+MW347540.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,-,1A,510.0,753.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MW347540,219,4166
+MW347540.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,-,1A,20.0,247.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MW347540,219,4166
+MW347540.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,920.0,1203.0,,MW347540,219,4166
+MW347540.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,967.0,1168.0,,MW347540,219,4166
+MW347540.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,506.0,756.0,,MW347540,219,4166
+PQ150499.1|,-,AAA domain,Pfam,Protein sequence is in conflict with the conceptual translation; ORF1b,1B,1100.0,1198.0,,PQ150499,427,6450
+PQ150499.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1593.0,1887.0,,PQ150499,427,6450
+PQ150499.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,1097.0,1197.0,,PQ150499,427,6450
+PQ150499.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1545.0,1897.0,,PQ150499,427,6450
+PQ421848.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,622.0,678.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PQ421848,4,2334
+PQ421848.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,440.0,635.0,,PQ421848,4,2334
+PQ421848.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,17.0,105.0,,PQ421848,4150,5940
+PQ421848.3|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,10.0,177.0,,PQ421848,4150,5940
+PQ421848.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,11.0,337.0,,PQ421848,2625,3989
+PQ421848.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,21.0,367.0,,PQ421848,2625,3989
+PQ421847.4|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,440.0,635.0,,PQ421847,3760,6090
+PQ421847.4|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,622.0,678.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PQ421847,3760,6090
+PQ421847.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,17.0,105.0,,PQ421847,153,1943
+PQ421847.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,10.0,177.0,,PQ421847,153,1943
+PQ421847.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,7.0,314.0,,PQ421847,2104,3309
+PQ421847.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,9.0,284.0,,PQ421847,2104,3309
+OP413950.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,143.0,397.0,,OP413950,2641,4092
+OP413950.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,49.0,436.0,,OP413950,2641,4092
+OP413950.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,426.0,592.0,,OP413950,29,2620
+OP413950.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,655.0,723.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,OP413950,29,2620
+OP413950.1|,Astrovirus transmembrane protein 1A,Astrovirus transmembrane protein 1A,Pfam,1a,1A,268.0,405.0,,OP413950,29,2620
+OP413950.1|,-,Trypsin-like peptidase domain,Pfam,"Non structural gene; 2b like nuclear targetting sequence, serine protease",1A,439.0,564.0,,OP413950,29,2620
+OQ709194.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,125.0,367.0,,OQ709194,59,1159
+OQ709194.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,3C-like serine protease motif,1A,1.0,100.0,,OQ709194,59,1159
+OQ709194.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,150.0,367.0,,OQ709194,59,1159
+OQ709194.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,2.0,108.0,,OQ709194,59,1159
+KX290465.1|,Picornavirus capsid,picornavirus capsid protein,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,120.0,206.0,,KX290465,652,7407
+KX290465.1|,Picornavirus capsid,picornavirus capsid protein,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,357.0,441.0,,KX290465,652,7407
+KX290465.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,1225.0,1424.0,,KX290465,652,7407
+KX290465.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,1637.0,1798.0,,KX290465,652,7407
+KX290465.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,3C-like serine protease motif,1A,1631.0,1784.0,,KX290465,652,7407
+KX290465.1|,"Helicase, superfamily 3, single-stranded DNA/RNA virus",RNA helicase,Pfam,-,1A,1298.0,1397.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,KX290465,652,7407
+KX290465.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,490.0,677.0,,KX290465,652,7407
+KX290465.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,266.0,485.0,,KX290465,652,7407
+KX290465.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1830.0,2226.0,,KX290465,652,7407
+KX290465.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,7.0,256.0,,KX290465,652,7407
+KX290465.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1802.0,2239.0,,KX290465,652,7407
+KX290465.1|,AIG1-type guanine nucleotide-binding (G) domain,AIG1 family,Pfam,non-structural; results from a translational frameshift between ORF1a and ORF1b,,755.0,893.0,,KX290465,652,7407
+KX290465.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,748.0,915.0,,KX290465,652,7407
+PQ161557.2|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,48.0,230.0,,PQ161557,4280,5332
+PQ161557.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,603.0,848.0,,PQ161557,31,4254
+PQ161557.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1031.0,1283.0,,PQ161557,31,4254
+PQ161557.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1001.0,1275.0,,PQ161557,31,4254
+PQ161557.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,-,1A,39.0,300.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PQ161557,31,4254
+PQ161557.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,-,1A,609.0,848.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PQ161557,31,4254
+OQ802761.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,-,1A,608.0,847.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,OQ802761,75,4484
+OQ802761.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1010.0,1289.0,,OQ802761,75,4484
+OQ802761.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,1066.0,1326.0,,OQ802761,75,4484
+OQ802761.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,698.0,858.0,,OQ802761,75,4484
+OQ802761.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,-,1A,58.0,379.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,OQ802761,75,4484
+OQ802761.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,Ha,,602.0,763.0,,OQ802761,75,4484
+PQ421844.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,587.0,643.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PQ421844,3757,5979
+PQ421844.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,405.0,555.0,,PQ421844,3757,5979
+PQ421844.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,10.0,177.0,,PQ421844,160,1941
+PQ421844.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,17.0,105.0,,PQ421844,160,1941
+PQ421844.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,11.0,336.0,,PQ421844,2102,3466
+PQ421844.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,20.0,367.0,,PQ421844,2102,3466
+PQ421842.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,21.0,367.0,,PQ421842,2089,3453
+PQ421842.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,11.0,337.0,,PQ421842,2089,3453
+PQ421842.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B,17.0,104.0,,PQ421842,153,1931
+PQ421842.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,Capsid,2,10.0,177.0,,PQ421842,153,1931
+PQ421842.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,3C-like serine protease motif,1A,405.0,571.0,,PQ421842,3744,5969
+PQ421842.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,-,1A,587.0,643.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,PQ421842,3744,5969
+MW645021.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,-,1A,35.0,340.0,interpro_выдача/not_annot_targetCDS_ids_pfam_superfamily.csv,MW645021,1,1294
