@@ -14,5 +14,6 @@
     - **predicted_orfs_after_interpro_new** - тут собраны файлы, полученные в результате обработки выдачи интерпро.
     not_annot_CDS_nucl_ORFs_merged_output_orf_results_coords_AC*.csv и not_annot_targetCDS_orfs_new*.csv - файлы, в которых я постаралась предсказать рамки из текстовой выдачи interpro;
     notannot_CDS_ORFs_findings.txt - собрала общую статистику по находнам для неаннотированных CDS
-    notannot_targetCDS_ORFs_conflicts.txt - собрала конфликтные находки из файла not_annot_targetCDS_orfs_new_pfam_superfamily.csv 
+    notannot_targetCDS_ORFs_findings
+.txt - собрала конфликтные находки из файла not_annot_targetCDS_orfs_new_pfam_superfamily.csv 
 
