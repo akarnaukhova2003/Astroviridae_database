@@ -12,5 +12,7 @@
     not_annot_targetCDS_new*.tsv (для 48-ми геномов, для которых не нашлось таргетных ORF; есть общий файл и разделенный на pfam+superfamily и остальное - так проще отделить "мусорные" находки) и 
     not_annot_CDS_nucl_ORFs_merged_output.csv (для 22-ти геномов, у которых не проаннотированы рамки)
     - **predicted_orfs_after_interpro_new** - тут собраны файлы, полученные в результате обработки выдачи интерпро.
-    not_annot_CDS_nucl_ORFs_merged_output_orf_results_coords_AC*.csv и not_annot_targetCDS_orfs_new.csv - файлы, в которых я постаралась предсказать рамки из текстовой выдачи interpro;
+    not_annot_CDS_nucl_ORFs_merged_output_orf_results_coords_AC*.csv и not_annot_targetCDS_orfs_new*.csv - файлы, в которых я постаралась предсказать рамки из текстовой выдачи interpro;
     notannot_CDS_ORFs_findings.txt - собрала общую статистику по находнам для неаннотированных CDS
+    notannot_targetCDS_ORFs_conflicts.txt - собрала конфликтные находки из файла not_annot_targetCDS_orfs_new_pfam_superfamily.csv 
+
