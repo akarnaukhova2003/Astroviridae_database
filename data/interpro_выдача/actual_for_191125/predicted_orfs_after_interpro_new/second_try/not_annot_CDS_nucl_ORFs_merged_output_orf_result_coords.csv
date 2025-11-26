@@ -1,0 +1,823 @@
+ID белка,Название семейства/белка,Описание предсказания,Источник предсказания,Вхождение из orf,ORF,id_prefix,coords,strand
+PP512783_33,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PP512783,2331-2176,-
+PP512783_33,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,2331-2176,-
+PP512783_33,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,2331-2176,-
+PP512783_33,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,2331-2176,-
+PP512783_25,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,3689-3237,-
+PP512783_25,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,3689-3237,-
+PP512783_25,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,3689-3237,-
+PP512783_25,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PP512783,3689-3237,-
+PP512783_25,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PP512783,3689-3237,-
+PP512783_25,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,3689-3237,-
+PP512783_25,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,3689-3237,-
+PP512783_25,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,3689-3237,-
+PP512783_25,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,3689-3237,-
+PP512783_25,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,3689-3237,-
+OR800315_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,OR800315,405-1,-
+OR800315_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OR800315,405-1,-
+OR800315_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,OR800315,405-1,-
+OR800315_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OR800315,405-1,-
+PQ110289_11,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ110289,910-725,-
+PQ110289_11,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ110289,910-725,-
+PQ110289_11,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ110289,910-725,-
+PP512783_32,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PP512783,2544-2359,-
+PP512783_32,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,2544-2359,-
+PP512783_32,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,2544-2359,-
+PP512783_32,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,2544-2359,-
+PP512783_7,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PP512783,2957-3196,+
+PP512783_7,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PP512783,2957-3196,+
+PP512783_7,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PP512783,2957-3196,+
+OP474168_3,-,consensus disorder prediction,MobiDBLite,-,-,OP474168,1905-2060,+
+PP512783_34,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,2233-2084,-
+PP512783_34,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PP512783,2233-2084,-
+PP512783_34,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,2233-2084,-
+MN036159_3,-,consensus disorder prediction,MobiDBLite,-,-,MN036159,419-607,+
+PQ110289_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ110289,1613-1783,+
+PQ110289_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ110289,1613-1783,+
+PQ110289_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ110289,1613-1783,+
+PQ110289_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ110289,1613-1783,+
+PQ110289_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ110289,1613-1783,+
+PQ110289_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ110289,1613-1783,+
+PQ110289_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ110289,1613-1783,+
+OR800315_1,-,consensus disorder prediction,MobiDBLite,-,-,OR800315,16-360,+
+OR800315_1,-,consensus disorder prediction,MobiDBLite,-,-,OR800315,16-360,+
+OR800315_1,-,consensus disorder prediction,MobiDBLite,-,-,OR800315,16-360,+
+OR800315_1,-,consensus disorder prediction,MobiDBLite,-,-,OR800315,16-360,+
+PQ110289_14,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ110289,294-118,-
+PQ110289_14,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ110289,294-118,-
+PQ110289_14,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ110289,294-118,-
+PQ110289_14,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ110289,294-118,-
+OP474168_2,-,consensus disorder prediction,MobiDBLite,-,-,OP474168,298-513,+
+OP474168_2,-,consensus disorder prediction,MobiDBLite,-,-,OP474168,298-513,+
+PP512783_42,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,744-460,-
+OP474168_12,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OP474168,714-337,-
+OP474168_12,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,OP474168,714-337,-
+OP474168_12,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,OP474168,714-337,-
+OP474168_12,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OP474168,714-337,-
+PQ110289_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ110289,388-188,-
+PQ110289_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ110289,388-188,-
+PQ110289_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ110289,388-188,-
+PQ110289_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ110289,388-188,-
+MN036159_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN036159,1743-1447,-
+MN036159_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN036159,1743-1447,-
+MN036159_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN036159,1743-1447,-
+MN036159_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN036159,1743-1447,-
+MN036159_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN036159,1743-1447,-
+MN036159_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN036159,1743-1447,-
+MN036159_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN036159,1743-1447,-
+PP512783_38,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PP512783,1397-1209,-
+PP512783_38,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,1397-1209,-
+PP512783_38,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,1397-1209,-
+PP512783_38,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,1397-1209,-
+PP512783_10,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PP512783,3651-4274,+
+PP512783_10,Viral coat protein subunit,-,Gene3D,-,-,PP512783,3651-4274,+
+PQ110289_5,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ110289,832-2226,+
+PQ110289_5,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ110289,832-2226,+
+PQ110289_9,-,consensus disorder prediction,MobiDBLite,-,-,PQ110289,1295-981,-
+OP474168_4,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,OP474168,146-2197,+
+OP474168_4,-,consensus disorder prediction,MobiDBLite,-,-,OP474168,146-2197,+
+OP474168_4,-,consensus disorder prediction,MobiDBLite,-,-,OP474168,146-2197,+
+OP474168_4,-,consensus disorder prediction,MobiDBLite,-,-,OP474168,146-2197,+
+OP474168_4,-,Capsid polyprotein VP90,FunFam,-,-,OP474168,146-2197,+
+OP474168_4,Viral coat protein subunit,-,Gene3D,-,-,OP474168,146-2197,+
+PP512783_31,-,SignalP-noTM,SignalP_EUK,-,-,PP512783,2623-2447,-
+PP512783_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,1-1008,+
+PP512783_3,-,Coil,Coils,-,-,PP512783,1-1008,+
+PP512783_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PP512783,1-1008,+
+PP512783_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,1-1008,+
+PP512783_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,1-1008,+
+PP512783_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,1-1008,+
+PP512783_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,1-1008,+
+PP512783_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PP512783,1-1008,+
+PP512783_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,1-1008,+
+PP512783_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,1-1008,+
+PP512783_3,-,Coil,Coils,-,-,PP512783,1-1008,+
+PP512783_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,1-1008,+
+PP512783_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,1-1008,+
+PP512783_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,1-1008,+
+PQ110289_4,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ110289,1871-2188,+
+PQ110289_4,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ110289,1871-2188,+
+PQ110289_4,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ110289,1871-2188,+
+PQ110289_4,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ110289,1871-2188,+
+PQ110289_4,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ110289,1871-2188,+
+PQ110289_4,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ110289,1871-2188,+
+PQ110289_4,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ110289,1871-2188,+
+PQ110289_4,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ110289,1871-2188,+
+PQ110289_4,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ110289,1871-2188,+
+PQ110289_1,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ110289,2-883,+
+PQ110289_2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ110289,1280-1501,+
+PQ110289_2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ110289,1280-1501,+
+PQ110289_2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ110289,1280-1501,+
+MN733910_2,MFS transporter superfamily,MFS general substrate transporter like domains,Gene3D,-,-,MN733910,3-458,+
+MN733910_2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN733910,3-458,+
+MN733910_2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN733910,3-458,+
+MN733910_2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN733910,3-458,+
+MN733910_2,"Sugar transporter, conserved site",Sugar transport proteins signature 1.,ProSitePatterns,-,-,MN733910,3-458,+
+MN733910_2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN733910,3-458,+
+MN733910_2,Proton-coupled symporters,ALPHA-KETOGLUTARATE PERMEASE,PANTHER,-,-,MN733910,3-458,+
+MN733910_2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN733910,3-458,+
+MN733910_2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN733910,3-458,+
+MN733910_2,"Sugar transporter, conserved site",Sugar transport proteins signature 2.,ProSitePatterns,-,-,MN733910,3-458,+
+MN733910_2,Major facilitator superfamily domain,Major facilitator superfamily (MFS) profile.,ProSiteProfiles,-,-,MN733910,3-458,+
+MN733910_2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN733910,3-458,+
+MN733910_2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN733910,3-458,+
+MN733910_2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN733910,3-458,+
+MN733910_2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN733910,3-458,+
+MN733910_2,Major facilitator superfamily,Major Facilitator Superfamily,Pfam,-,-,MN733910,3-458,+
+MN733910_2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN733910,3-458,+
+MN733910_2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN733910,3-458,+
+MN733910_2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN733910,3-458,+
+MN733910_2,MFS transporter superfamily,MFS general substrate transporter,SUPERFAMILY,-,-,MN733910,3-458,+
+PP512783_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,4051-3650,-
+PP512783_23,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,4051-3650,-
+PP512783_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,4051-3650,-
+PP512783_23,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PP512783,4051-3650,-
+PP512783_14,-,Coil,Coils,-,-,PP512783,4878-5123,+
+MN036159_16,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MN036159,2005-296,-
+MN036159_16,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MN036159,2005-296,-
+MN036159_16,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MN036159,2005-296,-
+MN036159_16,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN036159,2005-296,-
+PP512783_29,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,2853-2650,-
+OP474168_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OP474168,463-191,-
+OP474168_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OP474168,463-191,-
+OP474168_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OP474168,463-191,-
+OP474168_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OP474168,463-191,-
+OP474168_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,OP474168,463-191,-
+OP474168_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,OP474168,463-191,-
+OP474168_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,OP474168,463-191,-
+OP474168_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,OP474168,463-191,-
+OP474168_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OP474168,463-191,-
+MN036159_2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN036159,196-402,+
+MN036159_2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN036159,196-402,+
+MN036159_2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN036159,196-402,+
+MN036159_2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN036159,196-402,+
+PP512783_15,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,5165-4953,-
+PP512783_15,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PP512783,5165-4953,-
+PP512783_15,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,5165-4953,-
+PP512783_15,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,5165-4953,-
+PP512783_15,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,5165-4953,-
+PP512783_15,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,5165-4953,-
+PP512783_15,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,5165-4953,-
+OR800315_2,-,consensus disorder prediction,MobiDBLite,-,-,OR800315,140-397,+
+OR800315_2,-,consensus disorder prediction,MobiDBLite,-,-,OR800315,140-397,+
+OR800315_2,-,consensus disorder prediction,MobiDBLite,-,-,OR800315,140-397,+
+OR800315_2,-,consensus disorder prediction,MobiDBLite,-,-,OR800315,140-397,+
+OR800315_2,-,SignalP-TM,SignalP_GRAM_POSITIVE,-,-,OR800315,140-397,+
+PP512783_8,-,consensus disorder prediction,MobiDBLite,-,-,PP512783,3151-3660,+
+PP512783_8,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PP512783,3151-3660,+
+PP512783_36,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PP512783,1574-1401,-
+PP512783_36,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,1574-1401,-
+PP512783_36,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,1574-1401,-
+PP512783_36,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,1574-1401,-
+PP512783_36,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,1574-1401,-
+PP512783_36,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,1574-1401,-
+MN036159_1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN036159,56-316,+
+MN036159_1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN036159,56-316,+
+MN036159_1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN036159,56-316,+
+MN036159_1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN036159,56-316,+
+PP512783_6,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,PP512783,1880-2953,+
+PP512783_6,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PP512783,1880-2953,+
+PP512783_6,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PP512783,1880-2953,+
+PP512783_6,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PP512783,1880-2953,+
+PP512783_19,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,4598-4425,-
+PP512783_19,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PP512783,4598-4425,-
+PP512783_19,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,4598-4425,-
+PP512783_24,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PP512783,3573-3412,-
+PP512783_24,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,3573-3412,-
+PP512783_24,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,3573-3412,-
+PP512783_24,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,3573-3412,-
+PP512783_4,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PP512783,879-1895,+
+PP512783_4,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PP512783,879-1895,+
+PP512783_4,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PP512783,879-1895,+
+MN036159_12,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,MN036159,2193-1933,-
+MN036159_12,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,MN036159,2193-1933,-
+PP512783_37,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PP512783,1801-1244,-
+PP512783_37,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PP512783,1801-1244,-
+PP512783_37,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PP512783,1801-1244,-
+PP512783_37,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PP512783,1801-1244,-
+MN733910_4,-,consensus disorder prediction,MobiDBLite,-,-,MN733910,410-108,-
+OR800315_3,-,consensus disorder prediction,MobiDBLite,-,-,OR800315,198-590,+
+OR800315_3,-,consensus disorder prediction,MobiDBLite,-,-,OR800315,198-590,+
+MN036159_9,-,C-terminal region of a signal peptide.,Phobius,-,-,MN036159,1710-2102,+
+MN036159_9,-,Hydrophobic region of a signal peptide.,Phobius,-,-,MN036159,1710-2102,+
+MN036159_9,-,SignalP-noTM,SignalP_EUK,-,-,MN036159,1710-2102,+
+MN036159_9,-,SignalP-TM,SignalP_GRAM_POSITIVE,-,-,MN036159,1710-2102,+
+MN036159_9,-,Signal peptide region,Phobius,-,-,MN036159,1710-2102,+
+MN036159_9,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN036159,1710-2102,+
+MN036159_9,-,N-terminal region of a signal peptide.,Phobius,-,-,MN036159,1710-2102,+
+MN035838_15,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035838,3631-3834,+
+MN035838_15,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035838,3631-3834,+
+MN035838_15,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,3631-3834,+
+MN035838_15,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035838,3631-3834,+
+MN035838_15,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035838,3631-3834,+
+MN035838_15,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035838,3631-3834,+
+MN035838_15,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,3631-3834,+
+MN035574_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035574,824-648,-
+MN035574_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035574,824-648,-
+MN035574_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035574,824-648,-
+MN035574_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035574,824-648,-
+MN035429_4,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MN035429,2-1213,+
+MN035429_4,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN035429,2-1213,+
+MN035429_4,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MN035429,2-1213,+
+MN034422_10,-,consensus disorder prediction,MobiDBLite,-,-,MN034422,1519-1773,+
+MN034422_10,-,consensus disorder prediction,MobiDBLite,-,-,MN034422,1519-1773,+
+MN035574_14,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035574,644-492,-
+MN035574_14,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035574,644-492,-
+MN035574_14,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035574,644-492,-
+MN035574_14,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035574,644-492,-
+MN036159_18,-,consensus disorder prediction,MobiDBLite,-,-,MN036159,315-1,-
+MN036159_18,-,consensus disorder prediction,MobiDBLite,-,-,MN036159,315-1,-
+MN036159_18,-,N-terminal region of a signal peptide.,Phobius,-,-,MN036159,315-1,-
+MN036159_18,-,C-terminal region of a signal peptide.,Phobius,-,-,MN036159,315-1,-
+MN036159_18,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN036159,315-1,-
+MN036159_18,-,Hydrophobic region of a signal peptide.,Phobius,-,-,MN036159,315-1,-
+MN036159_18,-,Signal peptide region,Phobius,-,-,MN036159,315-1,-
+MN035838_32,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035838,5684-45,-
+MN035838_32,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MN035838,5684-45,-
+MN035838_32,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,5684-45,-
+MN035838_32,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035838,5684-45,-
+MN035838_32,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035838,5684-45,-
+MN035838_32,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN035838,5684-45,-
+MN035838_32,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,5684-45,-
+MN035838_32,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MN035838,5684-45,-
+MN035838_32,Viral coat protein subunit,-,Gene3D,-,-,MN035838,5684-45,-
+MN035838_32,-,consensus disorder prediction,MobiDBLite,-,-,MN035838,5684-45,-
+MN035838_32,-,consensus disorder prediction,MobiDBLite,-,-,MN035838,5684-45,-
+MN035838_32,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,5684-45,-
+MN035838_32,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MN035838,5684-45,-
+MN035838_32,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035838,5684-45,-
+MN035838_32,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035838,5684-45,-
+MN035838_32,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,5684-45,-
+MN035838_22,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035838,5617-5444,-
+MN035838_22,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035838,5617-5444,-
+MN035838_22,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,5617-5444,-
+MN034849_8,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN034849,773-564,-
+MN034849_8,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN034849,773-564,-
+MN034849_8,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN034849,773-564,-
+MN034849_8,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN034849,773-564,-
+MN035838_26,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035838,2941-2744,-
+MN035838_26,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,2941-2744,-
+MN035838_26,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035838,2941-2744,-
+MN035838_26,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035838,2941-2744,-
+MN035574_4,-,SignalP-TM,SignalP_GRAM_POSITIVE,-,-,MN035574,629-787,+
+MN035574_4,-,consensus disorder prediction,MobiDBLite,-,-,MN035574,629-787,+
+MN035574_4,-,consensus disorder prediction,MobiDBLite,-,-,MN035574,629-787,+
+MN035838_16,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,3813-4097,+
+MN035838_16,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035838,3813-4097,+
+MN035838_16,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035838,3813-4097,+
+MN035838_16,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035838,3813-4097,+
+MN035838_16,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,3813-4097,+
+MN035838_16,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035838,3813-4097,+
+MN035838_16,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035838,3813-4097,+
+MN034849_9,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,MN034849,1686-1,-
+MN034849_9,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN034849,1686-1,-
+MN034849_9,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MN034849,1686-1,-
+MN034849_9,-,consensus disorder prediction,MobiDBLite,-,-,MN034849,1686-1,-
+MN034849_9,-,consensus disorder prediction,MobiDBLite,-,-,MN034849,1686-1,-
+MN034849_9,-,consensus disorder prediction,MobiDBLite,-,-,MN034849,1686-1,-
+MN034849_9,-,consensus disorder prediction,MobiDBLite,-,-,MN034849,1686-1,-
+MN034849_9,Viral coat protein subunit,-,Gene3D,-,-,MN034849,1686-1,-
+MN034849_9,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,,Picorna,MN034849,1686-1,-
+MN034849_9,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MN034849,1686-1,-
+MN035369_5,-,SignalP-noTM,SignalP_EUK,-,-,MN035369,1234-1491,+
+MN035574_10,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035574,1174-1488,+
+MN035574_10,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035574,1174-1488,+
+MN035574_10,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035574,1174-1488,+
+MN035574_10,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035574,1174-1488,+
+MN035574_10,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035574,1174-1488,+
+MN035574_12,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035574,998-828,-
+MN036131_3,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MN036131,1927-281,-
+MN036131_3,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MN036131,1927-281,-
+MN036131_3,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MN036131,1927-281,-
+MN036131_3,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN036131,1927-281,-
+MN035838_19,-,Hydrophobic region of a signal peptide.,Phobius,-,-,MN035838,4595-4759,+
+MN035838_19,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035838,4595-4759,+
+MN035838_19,-,Signal peptide region,Phobius,-,-,MN035838,4595-4759,+
+MN035838_19,-,N-terminal region of a signal peptide.,Phobius,-,-,MN035838,4595-4759,+
+MN035838_19,-,C-terminal region of a signal peptide.,Phobius,-,-,MN035838,4595-4759,+
+MN034422_12,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN034422,1781-561,-
+MN034422_12,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MN034422,1781-561,-
+MN035893_4,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MN035893,1-1419,+
+MN035893_4,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN035893,1-1419,+
+MN035574_8,-,consensus disorder prediction,MobiDBLite,-,-,MN035574,927-1196,+
+MN035574_8,-,consensus disorder prediction,MobiDBLite,-,-,MN035574,927-1196,+
+MN035574_8,-,consensus disorder prediction,MobiDBLite,-,-,MN035574,927-1196,+
+MN035838_29,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035838,1009-779,-
+MN035838_29,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,1009-779,-
+MN035838_29,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035838,1009-779,-
+MN035838_29,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035838,1009-779,-
+MN035838_29,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,1009-779,-
+MN035893_7,-,consensus disorder prediction,MobiDBLite,-,-,MN035893,1106-810,-
+MN035574_15,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MN035574,1554-208,-
+MN035574_15,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN035574,1554-208,-
+MN035369_8,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MN035369,1683-1,-
+MN035369_8,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MN035369,1683-1,-
+MN035369_8,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN035369,1683-1,-
+MN035369_8,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MN035369,1683-1,-
+MN036159_17,-,consensus disorder prediction,MobiDBLite,-,-,MN036159,401-69,-
+MN035838_23,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035838,4375-4199,-
+MN035838_23,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035838,4375-4199,-
+MN035838_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,4375-4199,-
+MN035369_7,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035369,1487-1041,-
+MN035369_7,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035369,1487-1041,-
+MN035369_7,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035369,1487-1041,-
+MN035369_7,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035369,1487-1041,-
+MN035369_7,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035369,1487-1041,-
+MN035369_7,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035369,1487-1041,-
+MN035369_7,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035369,1487-1041,-
+MN035369_7,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035369,1487-1041,-
+MN035369_7,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035369,1487-1041,-
+MN035369_7,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035369,1487-1041,-
+MN035838_8,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,1732-1926,+
+MN035838_8,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035838,1732-1926,+
+MN035838_8,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035838,1732-1926,+
+MN035838_8,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035838,1732-1926,+
+MN035574_5,-,consensus disorder prediction,MobiDBLite,-,-,MN035574,672-884,+
+MN035574_5,-,consensus disorder prediction,MobiDBLite,-,-,MN035574,672-884,+
+MN034422_7,-,consensus disorder prediction,MobiDBLite,-,-,MN034422,916-1146,+
+MN034422_7,-,consensus disorder prediction,MobiDBLite,-,-,MN034422,916-1146,+
+MN034422_7,-,consensus disorder prediction,MobiDBLite,-,-,MN034422,916-1146,+
+MN034422_7,-,consensus disorder prediction,MobiDBLite,-,-,MN034422,916-1146,+
+MN035838_27,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035838,1642-1481,-
+MN035838_27,-,Signal peptide region,Phobius,-,-,MN035838,1642-1481,-
+MN035838_27,-,C-terminal region of a signal peptide.,Phobius,-,-,MN035838,1642-1481,-
+MN035838_27,-,Hydrophobic region of a signal peptide.,Phobius,-,-,MN035838,1642-1481,-
+MN035838_27,-,N-terminal region of a signal peptide.,Phobius,-,-,MN035838,1642-1481,-
+MN034849_4,-,C-terminal region of a signal peptide.,Phobius,-,-,MN034849,518-670,+
+MN034849_4,-,N-terminal region of a signal peptide.,Phobius,-,-,MN034849,518-670,+
+MN034849_4,-,Hydrophobic region of a signal peptide.,Phobius,-,-,MN034849,518-670,+
+MN034849_4,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN034849,518-670,+
+MN034849_4,-,Signal peptide region,Phobius,-,-,MN034849,518-670,+
+MN034849_4,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN034849,518-670,+
+MN035574_16,-,consensus disorder prediction,MobiDBLite,-,-,MN035574,245-3,-
+MN035893_2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035893,554-748,+
+MN035893_2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035893,554-748,+
+MN035893_2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035893,554-748,+
+MN035893_2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035893,554-748,+
+MN035893_2,-,consensus disorder prediction,MobiDBLite,-,-,MN035893,554-748,+
+MN035893_2,-,consensus disorder prediction,MobiDBLite,-,-,MN035893,554-748,+
+MN035369_6,-,C-terminal region of a signal peptide.,Phobius,-,-,MN035369,1430-1651,+
+MN035369_6,-,Hydrophobic region of a signal peptide.,Phobius,-,-,MN035369,1430-1651,+
+MN035369_6,-,Signal peptide region,Phobius,-,-,MN035369,1430-1651,+
+MN035369_6,-,N-terminal region of a signal peptide.,Phobius,-,-,MN035369,1430-1651,+
+MN035369_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035369,1430-1651,+
+MN035893_1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035893,17-169,+
+MN035893_1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035893,17-169,+
+MN035893_1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035893,17-169,+
+MN035893_1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035893,17-169,+
+MN034422_1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN034422,3-206,+
+MN034422_1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN034422,3-206,+
+MN034422_1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN034422,3-206,+
+MN034422_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN034422,642-394,-
+MN034422_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN034422,642-394,-
+MN034422_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN034422,642-394,-
+MN034422_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN034422,642-394,-
+MN034422_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN034422,642-394,-
+MN034422_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN034422,642-394,-
+MN034422_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN034422,642-394,-
+MN035838_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035838,1099-1356,+
+MN035838_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,1099-1356,+
+MN035838_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN035838,1099-1356,+
+MN035838_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN035838,1099-1356,+
+MN035838_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN035838,1099-1356,+
+MN035838_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035838,1099-1356,+
+MN035838_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN035838,1099-1356,+
+MN032977_37,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,5002-4655,-
+MN032977_37,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,5002-4655,-
+MN032977_37,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,5002-4655,-
+MN032977_37,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,5002-4655,-
+MN033907_5,-,consensus disorder prediction,MobiDBLite,-,-,MN033907,571-347,-
+MN033907_5,-,consensus disorder prediction,MobiDBLite,-,-,MN033907,571-347,-
+MN032977_36,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,5305-5147,-
+MN032977_36,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,5305-5147,-
+MN032977_36,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,5305-5147,-
+MN032977_36,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,5305-5147,-
+MN032977_23,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,3876-4652,+
+MN032977_23,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,3876-4652,+
+MN032977_23,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,3876-4652,+
+MN032977_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,3876-4652,+
+MN032977_23,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,3876-4652,+
+MN032977_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,3876-4652,+
+MN032977_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,3876-4652,+
+MN032977_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,3876-4652,+
+MN032977_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,3876-4652,+
+MN032977_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,3876-4652,+
+MN032977_23,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,3876-4652,+
+MN032977_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,3876-4652,+
+MN032977_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,3876-4652,+
+MN032977_38,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,4627-4307,-
+MN032977_38,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,4627-4307,-
+MN032977_38,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,4627-4307,-
+MN032977_38,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,4627-4307,-
+MN032977_38,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,4627-4307,-
+MN032977_38,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,4627-4307,-
+MN032977_38,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,4627-4307,-
+MN033177_1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN033177,29-202,+
+MN033177_1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033177,29-202,+
+MN033177_1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN033177,29-202,+
+MN033177_1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033177,29-202,+
+MN033177_1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033177,29-202,+
+MN033177_1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033177,29-202,+
+MN033177_1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN033177,29-202,+
+MN032977_8,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,1385-1594,+
+MN032977_8,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,1385-1594,+
+MN032977_41,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,4087-3875,-
+MN032977_41,-,SignalP-noTM,SignalP_GRAM_NEGATIVE,-,-,MN032977,4087-3875,-
+MN032977_41,-,SignalP-TM,SignalP_GRAM_POSITIVE,-,-,MN032977,4087-3875,-
+MN032977_41,-,Hydrophobic region of a signal peptide.,Phobius,-,-,MN032977,4087-3875,-
+MN032977_41,-,C-terminal region of a signal peptide.,Phobius,-,-,MN032977,4087-3875,-
+MN032977_41,-,Signal peptide region,Phobius,-,-,MN032977,4087-3875,-
+MN032977_41,-,N-terminal region of a signal peptide.,Phobius,-,-,MN032977,4087-3875,-
+MN032977_41,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,4087-3875,-
+MN033177_9,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033177,2529-2380,-
+MN033177_9,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN033177,2529-2380,-
+MN033177_9,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN033177,2529-2380,-
+MN033177_9,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033177,2529-2380,-
+MN032977_15,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,2932-3087,+
+MN032977_50,-,N-terminal region of a signal peptide.,Phobius,-,-,MN032977,1780-1478,-
+MN032977_50,-,C-terminal region of a signal peptide.,Phobius,-,-,MN032977,1780-1478,-
+MN032977_50,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,1780-1478,-
+MN032977_50,-,SignalP-noTM,SignalP_EUK,-,-,MN032977,1780-1478,-
+MN032977_50,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,1780-1478,-
+MN032977_50,-,Hydrophobic region of a signal peptide.,Phobius,-,-,MN032977,1780-1478,-
+MN032977_50,-,Signal peptide region,Phobius,-,-,MN032977,1780-1478,-
+MN032977_14,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,2838-3044,+
+MN033177_11,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN033177,1689-1462,-
+MN032977_52,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,1393-1244,-
+MN032977_52,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,1393-1244,-
+MN033141_7,-,SignalP-TM,SignalP_GRAM_POSITIVE,-,-,MN033141,419-243,-
+MN032977_39,-,SignalP-TM,SignalP_GRAM_POSITIVE,-,-,MN032977,4303-4100,-
+MN032977_39,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,4303-4100,-
+MN032977_39,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,4303-4100,-
+MN032977_39,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,4303-4100,-
+MN032977_39,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,4303-4100,-
+MN032977_39,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,4303-4100,-
+MN032977_39,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,4303-4100,-
+MN032977_46,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,2446-2255,-
+MN032977_46,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,2446-2255,-
+MN032977_46,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,2446-2255,-
+MN032977_46,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,2446-2255,-
+MN033141_3,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MN033141,1-1179,+
+MN033141_3,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MN033141,1-1179,+
+MN033141_3,-,consensus disorder prediction,MobiDBLite,-,-,MN033141,1-1179,+
+MN033141_3,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MN033141,1-1179,+
+MN033141_3,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN033141,1-1179,+
+MN033591_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033591,1132-935,-
+MN033591_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN033591,1132-935,-
+MN033591_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN033591,1132-935,-
+MN033591_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033591,1132-935,-
+MN033177_10,-,consensus disorder prediction,MobiDBLite,-,-,MN033177,2150-1935,-
+MN033177_10,-,consensus disorder prediction,MobiDBLite,-,-,MN033177,2150-1935,-
+MN033177_10,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033177,2150-1935,-
+MN033177_10,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN033177,2150-1935,-
+MN033177_10,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033177,2150-1935,-
+MN032977_29,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,6231-6401,+
+MN032977_29,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,6231-6401,+
+MN032977_29,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,6231-6401,+
+MN032977_29,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,6231-6401,+
+MN033907_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033907,955-1314,+
+MN033907_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033907,955-1314,+
+MN033907_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN033907,955-1314,+
+MN033907_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN033907,955-1314,+
+MN033591_1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033591,3-1316,+
+MN033591_1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033591,3-1316,+
+MN033591_1,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MN033591,3-1316,+
+MN033591_1,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN033591,3-1316,+
+MN033591_1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN033591,3-1316,+
+MN033591_1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033591,3-1316,+
+MN033591_1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033591,3-1316,+
+MN032977_22,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,4378-4530,+
+MN032977_22,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,4378-4530,+
+MN032977_22,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,4378-4530,+
+MN032977_22,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,4378-4530,+
+MN033141_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033141,927-532,-
+MN033141_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN033141,927-532,-
+MN033141_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN033141,927-532,-
+MN033141_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033141,927-532,-
+MN032977_6,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,1254-1568,+
+MN032977_6,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,1254-1568,+
+MN034422_15,Phospholipase A2 domain superfamily,Phospholipase A2 domain,Gene3D,-,-,MN034422,715-2,-
+MN034422_15,Phospholipase A2 domain superfamily,"Phospholipase A2, PLA2",SUPERFAMILY,-,-,MN034422,715-2,-
+MN034422_15,-,consensus disorder prediction,MobiDBLite,-,-,MN034422,715-2,-
+MN034422_15,-,consensus disorder prediction,MobiDBLite,-,-,MN034422,715-2,-
+MN034422_15,-,consensus disorder prediction,MobiDBLite,-,-,MN034422,715-2,-
+MN034422_15,-,consensus disorder prediction,MobiDBLite,-,-,MN034422,715-2,-
+MN032977_31,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,6423-6617,+
+MN032977_31,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,6423-6617,+
+MN032977_31,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,6423-6617,+
+MN033141_2,-,consensus disorder prediction,MobiDBLite,-,-,MN033141,878-1054,+
+MN033141_2,-,consensus disorder prediction,MobiDBLite,-,-,MN033141,878-1054,+
+MN033177_14,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN033177,1191-775,-
+MN033177_14,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN033177,1191-775,-
+MN033177_14,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033177,1191-775,-
+MN033177_14,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN033177,1191-775,-
+MN033177_14,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033177,1191-775,-
+MN033177_14,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033177,1191-775,-
+MN033177_14,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033177,1191-775,-
+MN032977_4,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,499-708,+
+MN032977_4,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,499-708,+
+MN032977_4,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,499-708,+
+MN033591_2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN033591,1087-1317,+
+MN033591_2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033591,1087-1317,+
+MN033591_2,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN033591,1087-1317,+
+MN033591_2,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033591,1087-1317,+
+MN033141_4,-,consensus disorder prediction,MobiDBLite,-,-,MN033141,1181-900,-
+MN033141_4,-,consensus disorder prediction,MobiDBLite,-,-,MN033141,1181-900,-
+MN033141_1,-,consensus disorder prediction,MobiDBLite,-,-,MN033141,813-980,+
+MN033141_1,-,consensus disorder prediction,MobiDBLite,-,-,MN033141,813-980,+
+MN033141_1,-,consensus disorder prediction,MobiDBLite,-,-,MN033141,813-980,+
+MN034197_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN034197,964-1200,+
+MN034197_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN034197,964-1200,+
+MN034197_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN034197,964-1200,+
+MN034197_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN034197,964-1200,+
+MN034197_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN034197,964-1200,+
+MN034197_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN034197,964-1200,+
+MN032977_53,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,1129-854,-
+MN032977_53,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,1129-854,-
+MN032977_53,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,1129-854,-
+MN032977_53,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,1129-854,-
+MN032977_53,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,1129-854,-
+MN032977_53,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,1129-854,-
+MN032977_53,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,1129-854,-
+MN032977_44,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,3109-2801,-
+MN032977_44,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,3109-2801,-
+MN032977_44,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,3109-2801,-
+MN032977_44,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,3109-2801,-
+MN032977_44,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,3109-2801,-
+MN032977_44,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,3109-2801,-
+MN032977_44,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,3109-2801,-
+MN032977_13,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,2692-2919,+
+MN034197_2,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MN034197,2-799,+
+MN034197_2,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MN034197,2-799,+
+MN034197_2,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN034197,2-799,+
+MN034197_2,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MN034197,2-799,+
+MN033907_6,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MN033907,1317-139,-
+MN033907_6,-,consensus disorder prediction,MobiDBLite,-,-,MN033907,1317-139,-
+MN033907_6,-,consensus disorder prediction,MobiDBLite,-,-,MN033907,1317-139,-
+MN033907_6,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN033907,1317-139,-
+MN033907_6,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MN033907,1317-139,-
+MN034197_7,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN034197,694-476,-
+MN034197_7,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN034197,694-476,-
+MN034197_7,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN034197,694-476,-
+MN033177_4,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033177,1-3288,+
+MN033177_4,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN033177,1-3288,+
+MN033177_4,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN033177,1-3288,+
+MN033177_4,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN033177,1-3288,+
+MN033177_4,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,MN033177,1-3288,+
+MN033177_4,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN033177,1-3288,+
+MN033177_4,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN033177,1-3288,+
+MN033177_4,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033177,1-3288,+
+MN033177_4,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,MN033177,1-3288,+
+MN033177_4,-,consensus disorder prediction,MobiDBLite,-,-,MN033177,1-3288,+
+MN033177_4,-,consensus disorder prediction,MobiDBLite,-,-,MN033177,1-3288,+
+MN033177_4,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN033177,1-3288,+
+MN033177_4,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033177,1-3288,+
+MN033177_4,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033177,1-3288,+
+MN033177_4,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN033177,1-3288,+
+MN033177_4,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033177,1-3288,+
+MN033177_4,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033177,1-3288,+
+MN033177_4,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033177,1-3288,+
+MN033177_4,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MN033177,1-3288,+
+MN033177_4,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN033177,1-3288,+
+MN033177_4,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033177,1-3288,+
+MN033177_12,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN033177,1559-1410,-
+MN033177_12,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN033177,1559-1410,-
+MN033177_12,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN033177,1559-1410,-
+MN033177_12,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN033177,1559-1410,-
+MN034197_1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN034197,165-326,+
+MN034197_1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN034197,165-326,+
+MN034197_1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN034197,165-326,+
+MN034197_1,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN034197,165-326,+
+HUANSSPS_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,Mamastrovirus p20 protein,Astroviridae polyprotein 1,Pfam,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,consensus disorder prediction,MobiDBLite,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,consensus disorder prediction,MobiDBLite,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,consensus disorder prediction,MobiDBLite,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,consensus disorder prediction,MobiDBLite,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,HUANSSPS,2-2842,+
+HUANSSPS_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,Trypsin-like peptidase domain,Pfam,,1A,HUANSSPS,2-2842,+
+HUANSSPS_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,Coil,Coils,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,Astrovirus transmembrane protein 1A,Astrovirus transmembrane protein 1A,Pfam,,1A,HUANSSPS,2-2842,+
+HUANSSPS_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,Coil,Coils,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,2-2842,+
+HUANSSPS_6,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,HUANSSPS,2-2842,+
+HUANSSPS_6,Astrovirus p19 protein,Astrovirus p19 protein,Pfam,-,-,HUANSSPS,2-2842,+
+HV511037_6,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,HV511037,2-3028,+
+HV511037_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HV511037,2-3028,+
+HV511037_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HV511037,2-3028,+
+HV511037_6,-,Coil,Coils,-,-,HV511037,2-3028,+
+HV511037_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,2-3028,+
+HV511037_6,-,consensus disorder prediction,MobiDBLite,-,-,HV511037,2-3028,+
+HV511037_6,-,consensus disorder prediction,MobiDBLite,-,-,HV511037,2-3028,+
+HV511037_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,2-3028,+
+HV511037_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,2-3028,+
+HV511037_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,2-3028,+
+HV511037_6,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,HV511037,2-3028,+
+HV511037_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HV511037,2-3028,+
+HV511037_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,2-3028,+
+HV511037_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HV511037,2-3028,+
+HV511037_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HV511037,2-3028,+
+HV511037_6,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,HV511037,2-3028,+
+HV511037_6,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,HV511037,2-3028,+
+HV511037_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HV511037,2-3028,+
+HV511037_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,2-3028,+
+HV511037_6,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HV511037,2-3028,+
+HV511037_6,-,Coil,Coils,-,-,HV511037,2-3028,+
+HV511037_6,-,Coil,Coils,-,-,HV511037,2-3028,+
+HV511037_6,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,2-3028,+
+HUANSSPS_14,Turkey astrovirus capsid protein,Turkey astrovirus capsid protein,Pfam,-,-,HUANSSPS,4217-6712,+
+HUANSSPS_14,-,consensus disorder prediction,MobiDBLite,-,-,HUANSSPS,4217-6712,+
+HUANSSPS_14,-,consensus disorder prediction,MobiDBLite,-,-,HUANSSPS,4217-6712,+
+HUANSSPS_14,-,consensus disorder prediction,MobiDBLite,-,-,HUANSSPS,4217-6712,+
+HUANSSPS_14,-,consensus disorder prediction,MobiDBLite,-,-,HUANSSPS,4217-6712,+
+HUANSSPS_14,Viral coat protein subunit,-,Gene3D,-,-,HUANSSPS,4217-6712,+
+HUANSSPS_14,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,HUANSSPS,4217-6712,+
+HUANSSPS_14,-,Capsid polyprotein VP90,FunFam,-,-,HUANSSPS,4217-6712,+
+HV511037_13,-,N-terminal region of a signal peptide.,Phobius,-,-,HV511037,5847-6113,+
+HV511037_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,5847-6113,+
+HV511037_13,-,Signal peptide region,Phobius,-,-,HV511037,5847-6113,+
+HV511037_13,-,Hydrophobic region of a signal peptide.,Phobius,-,-,HV511037,5847-6113,+
+HV511037_13,-,C-terminal region of a signal peptide.,Phobius,-,-,HV511037,5847-6113,+
+HV511037_13,-,SignalP-noTM,SignalP_EUK,-,-,HV511037,5847-6113,+
+HV511037_25,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,3704-3522,-
+HV511037_25,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HV511037,3704-3522,-
+HV511037_25,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,3704-3522,-
+HV511037_28,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HV511037,3050-2838,-
+HV511037_28,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,3050-2838,-
+HV511037_28,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HV511037,3050-2838,-
+HV511037_28,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,3050-2838,-
+HV511037_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,5256-4294,-
+HV511037_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HV511037,5256-4294,-
+HV511037_23,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HV511037,5256-4294,-
+HV511037_23,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,5256-4294,-
+HV511037_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,5256-4294,-
+HV511037_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,5256-4294,-
+HV511037_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,5256-4294,-
+HV511037_23,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HV511037,5256-4294,-
+HV511037_23,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HV511037,5256-4294,-
+HV511037_23,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HV511037,5256-4294,-
+HV511037_23,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,5256-4294,-
+HUANSSPS_34,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,2512-2186,-
+HUANSSPS_34,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HUANSSPS,2512-2186,-
+HUANSSPS_34,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HUANSSPS,2512-2186,-
+HUANSSPS_34,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,2512-2186,-
+HUANSSPS_34,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HUANSSPS,2512-2186,-
+HUANSSPS_34,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HUANSSPS,2512-2186,-
+HUANSSPS_34,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HUANSSPS,2512-2186,-
+HUANSSPS_34,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HUANSSPS,2512-2186,-
+HUANSSPS_34,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HUANSSPS,2512-2186,-
+HUANSSPS_34,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,2512-2186,-
+HV511037_38,-,consensus disorder prediction,MobiDBLite,-,-,HV511037,988-824,-
+MN032977_58,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,522-22,-
+MN032977_58,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,522-22,-
+MN032977_58,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,522-22,-
+MN032977_58,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,522-22,-
+HV511037_4,-,consensus disorder prediction,MobiDBLite,-,-,HV511037,2283-2492,+
+HV511037_4,-,consensus disorder prediction,MobiDBLite,-,-,HV511037,2283-2492,+
+HV511037_4,-,consensus disorder prediction,MobiDBLite,-,-,HV511037,2283-2492,+
+HUANSSPS_20,-,SignalP-TM,SignalP_GRAM_POSITIVE,-,-,HUANSSPS,6441-6193,-
+HUANSSPS_20,-,consensus disorder prediction,MobiDBLite,-,-,HUANSSPS,6441-6193,-
+HUANSSPS_20,-,consensus disorder prediction,MobiDBLite,-,-,HUANSSPS,6441-6193,-
+HUANSSPS_40,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HUANSSPS,1497-1096,-
+HUANSSPS_22,-,C-terminal region of a signal peptide.,Phobius,-,-,HUANSSPS,5348-5157,-
+HUANSSPS_22,-,N-terminal region of a signal peptide.,Phobius,-,-,HUANSSPS,5348-5157,-
+HUANSSPS_22,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HUANSSPS,5348-5157,-
+HUANSSPS_22,-,Hydrophobic region of a signal peptide.,Phobius,-,-,HUANSSPS,5348-5157,-
+HUANSSPS_22,-,SignalP-noTM,SignalP_EUK,-,-,HUANSSPS,5348-5157,-
+HUANSSPS_22,-,Signal peptide region,Phobius,-,-,HUANSSPS,5348-5157,-
+HUANSSPS_22,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,5348-5157,-
+HUANSSPS_22,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HUANSSPS,5348-5157,-
+HUANSSPS_43,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HUANSSPS,780-613,-
+HUANSSPS_43,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HUANSSPS,780-613,-
+HUANSSPS_43,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,780-613,-
+HV511037_8,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,3167-3499,+
+HV511037_8,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HV511037,3167-3499,+
+HV511037_8,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,3167-3499,+
+HV511037_30,-,SignalP-noTM,SignalP_EUK,-,-,HV511037,2859-2686,-
+HV511037_9,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,HV511037,3019-4548,+
+HV511037_9,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,HV511037,3019-4548,+
+HV511037_9,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,HV511037,3019-4548,+
+HV511037_9,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,HV511037,3019-4548,+
+HV511037_9,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,HV511037,3019-4548,+
+HV511037_35,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HV511037,1563-1339,-
+HV511037_35,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,1563-1339,-
+HV511037_35,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,1563-1339,-
+HV511037_35,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HV511037,1563-1339,-
+HV511037_22,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,4642-4421,-
+HV511037_22,-,Hydrophobic region of a signal peptide.,Phobius,-,-,HV511037,4642-4421,-
+HV511037_22,-,Signal peptide region,Phobius,-,-,HV511037,4642-4421,-
+HV511037_22,-,N-terminal region of a signal peptide.,Phobius,-,-,HV511037,4642-4421,-
+HV511037_22,-,C-terminal region of a signal peptide.,Phobius,-,-,HV511037,4642-4421,-
+HV511037_22,-,SignalP-noTM,SignalP_EUK,-,-,HV511037,4642-4421,-
+HV511037_33,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,2352-1864,-
+HV511037_33,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,2352-1864,-
+HV511037_33,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HV511037,2352-1864,-
+HV511037_33,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HV511037,2352-1864,-
+HUANSSPS_35,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HUANSSPS,2238-1858,-
+HUANSSPS_35,-,Signal peptide region,Phobius,-,-,HUANSSPS,2238-1858,-
+HUANSSPS_35,-,C-terminal region of a signal peptide.,Phobius,-,-,HUANSSPS,2238-1858,-
+HUANSSPS_35,-,N-terminal region of a signal peptide.,Phobius,-,-,HUANSSPS,2238-1858,-
+HUANSSPS_35,-,Hydrophobic region of a signal peptide.,Phobius,-,-,HUANSSPS,2238-1858,-
+HV511037_20,-,SignalP-TM,SignalP_GRAM_POSITIVE,-,-,HV511037,5833-5654,-
+HV511037_31,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,2560-2282,-
+HV511037_31,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,2560-2282,-
+HV511037_31,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HV511037,2560-2282,-
+HV511037_31,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HV511037,2560-2282,-
+HV511037_31,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HV511037,2560-2282,-
+HUANSSPS_10,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,HUANSSPS,2773-4329,+
+HUANSSPS_10,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,HUANSSPS,2773-4329,+
+HUANSSPS_10,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,HUANSSPS,2773-4329,+
+HUANSSPS_10,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,HUANSSPS,2773-4329,+
+HUANSSPS_10,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,HUANSSPS,2773-4329,+
+HUANSSPS_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HUANSSPS,6213-6482,+
+HUANSSPS_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,6213-6482,+
+HUANSSPS_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HUANSSPS,6213-6482,+
+HUANSSPS_13,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,6213-6482,+
+HUANSSPS_13,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HUANSSPS,6213-6482,+
+HV511037_29,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,3019-2702,-
+HV511037_29,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,3019-2702,-
+HV511037_29,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HV511037,3019-2702,-
+HV511037_29,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HV511037,3019-2702,-
+HV511037_29,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,3019-2702,-
+HV511037_29,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,3019-2702,-
+MN032977_56,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,6674-498,-
+MN032977_56,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,6674-498,-
+MN032977_56,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,6674-498,-
+MN032977_56,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN032977,6674-498,-
+MN032977_56,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,6674-498,-
+MN032977_56,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,6674-498,-
+MN032977_56,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,6674-498,-
+MN032977_56,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,6674-498,-
+MN032977_56,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,6674-498,-
+MN032977_56,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,6674-498,-
+MN032977_56,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,6674-498,-
+MN032977_56,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,6674-498,-
+MN032977_56,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,6674-498,-
+MN032977_56,-,consensus disorder prediction,MobiDBLite,-,-,MN032977,6674-498,-
+MN032977_56,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,6674-498,-
+MN032977_56,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MN032977,6674-498,-
+MN032977_56,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,,Picorna,MN032977,6674-498,-
+MN032977_56,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,6674-498,-
+MN032977_56,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MN032977,6674-498,-
+MN032977_56,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,6674-498,-
+MN032977_56,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,MN032977,6674-498,-
+MN032977_56,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,MN032977,6674-498,-
+MN032977_56,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,6674-498,-
+MN032977_56,Viral coat protein subunit,-,Gene3D,-,-,MN032977,6674-498,-
+MN032977_56,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,6674-498,-
+MN032977_56,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,6674-498,-
+MN032977_56,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MN032977,6674-498,-
+MN032977_56,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MN032977,6674-498,-
+MN032977_56,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MN032977,6674-498,-
+MN032977_56,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MN032977,6674-498,-
+MN032977_56,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MN032977,6674-498,-
+HV511037_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,1959-2138,+
+HV511037_3,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,1959-2138,+
+HV511037_3,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HV511037,1959-2138,+
+HUANSSPS_26,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,4603-4430,-
+HUANSSPS_26,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HUANSSPS,4603-4430,-
+HUANSSPS_26,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HUANSSPS,4603-4430,-
+HUANSSPS_26,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HUANSSPS,4603-4430,-
+HUANSSPS_25,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HUANSSPS,4683-4501,-
+HUANSSPS_25,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HUANSSPS,4683-4501,-
+HUANSSPS_25,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HUANSSPS,4683-4501,-
+HUANSSPS_25,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,4683-4501,-
+HUANSSPS_27,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,4449-4264,-
+HUANSSPS_27,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HUANSSPS,4449-4264,-
+HUANSSPS_27,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HUANSSPS,4449-4264,-
+HUANSSPS_27,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HUANSSPS,4449-4264,-
+HUANSSPS_18,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HUANSSPS,6634-6368,-
+HUANSSPS_18,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HUANSSPS,6634-6368,-
+HUANSSPS_18,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HUANSSPS,6634-6368,-
+HUANSSPS_18,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HUANSSPS,6634-6368,-
+HUANSSPS_5,-,consensus disorder prediction,MobiDBLite,-,-,HUANSSPS,1753-1914,+
+HV511037_16,-,Coil,Coils,-,-,HV511037,4472-6619,+
+HV511037_16,-,Coil,Coils,-,-,HV511037,4472-6619,+
+HV511037_16,Viral coat protein subunit,-,Gene3D,-,-,HV511037,4472-6619,+
+HV511037_16,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,HV511037,4472-6619,+
+HV511037_16,-,consensus disorder prediction,MobiDBLite,-,-,HV511037,4472-6619,+
+HV511037_16,-,consensus disorder prediction,MobiDBLite,-,-,HV511037,4472-6619,+
+HV511037_16,-,consensus disorder prediction,MobiDBLite,-,-,HV511037,4472-6619,+
+HV511037_16,-,consensus disorder prediction,MobiDBLite,-,-,HV511037,4472-6619,+
+HV511037_16,-,consensus disorder prediction,MobiDBLite,-,-,HV511037,4472-6619,+
+HV511037_40,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,HV511037,607-110,-
+HV511037_40,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,HV511037,607-110,-
+HV511037_40,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,HV511037,607-110,-
+HV511037_40,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HV511037,607-110,-
+HUANSSPS_1,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,HUANSSPS,3-161,+

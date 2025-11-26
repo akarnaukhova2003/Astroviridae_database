@@ -1,0 +1,149 @@
+Конфликтные:
+KX290465
+OQ709188
+OQ709189
+OQ709190
+OQ709191
+OQ709192
+OQ709193
+OQ709194
+PQ421852
+
+Успешные:
+PX289198
+PQ421842
+PQ421844
+PX289196
+PX289197
+PQ421853
+PQ421848
+PP211223
+PQ421843
+PQ421846
+PQ421854
+PQ055527
+PQ421841
+PQ421845
+PQ421847
+PQ161557
+PQ150499
+MW924356
+OP413956
+MW924358
+OP413950
+ON932807
+MZ443626
+MW924357
+MN841288
+OM514376
+MW346737
+OQ802761
+NC_040647
+MH188020
+MW853972
+MT568535
+MW347540
+
+Не найденные:
+MW645021
+MW645022
+MZ182271
+MZ182272
+MZ291967
+PX395425
+
+Другие:
+{'ac': 'PQ421842', 'orf': 'NotSpecific', 'coords': '153-1931', 'strand': '-'}
+{'ac': 'PQ421853', 'orf': 'NotSpecific', 'coords': '161-1951', 'strand': '-'}
+{'ac': 'PP211223', 'orf': 'nan', 'coords': '1-2935', 'strand': '+'}
+{'ac': 'PP211223', 'orf': 'Bastro', 'coords': '1-2935', 'strand': '+'}
+{'ac': 'PQ421848', 'orf': 'NotSpecific', 'coords': '4150-5940', 'strand': '+'}
+{'ac': 'PQ421844', 'orf': 'NotSpecific', 'coords': '160-1941', 'strand': '-'}
+{'ac': 'PQ055527', 'orf': 'Picorna', 'coords': '24-6293', 'strand': '+'}
+{'ac': 'PQ055527', 'orf': 'NotSpecific', 'coords': '24-6293', 'strand': '+'}
+{'ac': 'PQ161557', 'orf': 'NotSpecific', 'coords': '4280-5332', 'strand': '+'}
+{'ac': 'PQ421843', 'orf': 'NotSpecific', 'coords': '4146-5924', 'strand': '+'}
+{'ac': 'PQ161557', 'orf': 'nan', 'coords': '31-4254', 'strand': '+'}
+{'ac': 'PQ161557', 'orf': 'Bastro', 'coords': '31-4254', 'strand': '+'}
+{'ac': 'PQ161557', 'orf': 'Bastro', 'coords': '31-4254', 'strand': '+'}
+{'ac': 'PQ421854', 'orf': 'NotSpecific', 'coords': '154-1935', 'strand': '-'}
+{'ac': 'PQ421847', 'orf': 'NotSpecific', 'coords': '153-1943', 'strand': '-'}
+{'ac': 'PQ421845', 'orf': 'NotSpecific', 'coords': '159-1940', 'strand': '-'}
+{'ac': 'PQ150499', 'orf': 'Bastro', 'coords': '427-6450', 'strand': '+'}
+{'ac': 'PQ150499', 'orf': 'nan', 'coords': '427-6450', 'strand': '+'}
+{'ac': 'PQ421846', 'orf': 'NotSpecific', 'coords': '161-1942', 'strand': '-'}
+{'ac': 'OQ709194', 'orf': 'Picorna', 'coords': '59-1159', 'strand': '+'}
+{'ac': 'OQ709189', 'orf': 'nan', 'coords': '301-2922', 'strand': '+'}
+{'ac': 'OQ709189', 'orf': 'Picorna', 'coords': '301-2922', 'strand': '+'}
+{'ac': 'OQ709189', 'orf': 'Picorna', 'coords': '301-2922', 'strand': '+'}
+{'ac': 'OQ709189', 'orf': 'Picorna', 'coords': '301-2922', 'strand': '+'}
+{'ac': 'MW645022', 'orf': 'Bastro', 'coords': '1-2463', 'strand': '+'}
+{'ac': 'MW645022', 'orf': 'nan', 'coords': '1-2463', 'strand': '+'}
+{'ac': 'MW645022', 'orf': 'Bastro', 'coords': '1-2463', 'strand': '+'}
+{'ac': 'MW924358', 'orf': 'Bastro', 'coords': '1-1280', 'strand': '+'}
+{'ac': 'OQ709192', 'orf': 'Picorna', 'coords': '80-1588', 'strand': '+'}
+{'ac': 'MZ182271', 'orf': 'Bastro', 'coords': '21-5030', 'strand': '+'}
+{'ac': 'MZ182271', 'orf': 'nan', 'coords': '21-5030', 'strand': '+'}
+{'ac': 'MZ182271', 'orf': 'Bastro', 'coords': '21-5030', 'strand': '+'}
+{'ac': 'MZ182271', 'orf': 'DontKnow', 'coords': '21-5030', 'strand': '+'}
+{'ac': 'MW924356', 'orf': 'NotSpecific', 'coords': '872-1924', 'strand': '+'}
+{'ac': 'OQ709193', 'orf': 'Picorna', 'coords': '517-7025', 'strand': '+'}
+{'ac': 'OQ709193', 'orf': 'Picorna', 'coords': '517-7025', 'strand': '+'}
+{'ac': 'OQ709193', 'orf': 'nan', 'coords': '517-7025', 'strand': '+'}
+{'ac': 'OQ709193', 'orf': 'NotSpecific', 'coords': '517-7025', 'strand': '+'}
+{'ac': 'OQ709193', 'orf': 'NotSpecific', 'coords': '517-7025', 'strand': '+'}
+{'ac': 'OQ709193', 'orf': 'Picorna', 'coords': '517-7025', 'strand': '+'}
+{'ac': 'MT568535', 'orf': 'NotSpecific', 'coords': '4261-5243', 'strand': '+'}
+{'ac': 'MZ443626', 'orf': 'Bastro', 'coords': '50-4276', 'strand': '+'}
+{'ac': 'MZ443626', 'orf': 'nan', 'coords': '50-4276', 'strand': '+'}
+{'ac': 'MZ443626', 'orf': 'Bastro', 'coords': '50-4276', 'strand': '+'}
+{'ac': 'OQ709188', 'orf': 'Picorna', 'coords': '162-1621', 'strand': '+'}
+{'ac': 'MN841288', 'orf': 'nan', 'coords': '841-6864', 'strand': '+'}
+{'ac': 'MN841288', 'orf': 'Bastro', 'coords': '841-6864', 'strand': '+'}
+{'ac': 'OM514376', 'orf': 'Specific', 'coords': '2128-3561', 'strand': '+'}
+{'ac': 'MW346737', 'orf': 'nan', 'coords': '24-4268', 'strand': '+'}
+{'ac': 'MW346737', 'orf': 'Bastro', 'coords': '24-4268', 'strand': '+'}
+{'ac': 'MW346737', 'orf': 'Bastro', 'coords': '24-4268', 'strand': '+'}
+{'ac': 'OQ709191', 'orf': 'Picorna', 'coords': '202-6465', 'strand': '+'}
+{'ac': 'OQ709191', 'orf': 'NotSpecific', 'coords': '202-6465', 'strand': '+'}
+{'ac': 'OQ709191', 'orf': 'NotSpecific', 'coords': '202-6465', 'strand': '+'}
+{'ac': 'OQ709191', 'orf': 'nan', 'coords': '202-6465', 'strand': '+'}
+{'ac': 'OQ709191', 'orf': 'Calici', 'coords': '202-6465', 'strand': '+'}
+{'ac': 'OQ709191', 'orf': 'Picorna', 'coords': '202-6465', 'strand': '+'}
+{'ac': 'MZ182272', 'orf': 'Bastro', 'coords': '29-3325', 'strand': '+'}
+{'ac': 'MZ182272', 'orf': 'DontKnow', 'coords': '29-3325', 'strand': '+'}
+{'ac': 'MZ443626', 'orf': 'NotSpecific', 'coords': '4240-5370', 'strand': '+'}
+{'ac': 'OQ802761', 'orf': 'Bastro', 'coords': '75-4484', 'strand': '+'}
+{'ac': 'OQ802761', 'orf': 'nan', 'coords': '75-4484', 'strand': '+'}
+{'ac': 'OQ802761', 'orf': 'Bastro', 'coords': '75-4484', 'strand': '+'}
+{'ac': 'OQ802761', 'orf': 'nan', 'coords': '75-4484', 'strand': '+'}
+{'ac': 'KX290465', 'orf': 'Picorna', 'coords': '652-7407', 'strand': '+'}
+{'ac': 'KX290465', 'orf': 'Picorna', 'coords': '652-7407', 'strand': '+'}
+{'ac': 'KX290465', 'orf': 'nan', 'coords': '652-7407', 'strand': '+'}
+{'ac': 'KX290465', 'orf': 'Picorna', 'coords': '652-7407', 'strand': '+'}
+{'ac': 'KX290465', 'orf': 'NotSpecific', 'coords': '652-7407', 'strand': '+'}
+{'ac': 'KX290465', 'orf': 'NotSpecific', 'coords': '652-7407', 'strand': '+'}
+{'ac': 'KX290465', 'orf': 'NotSpecific', 'coords': '652-7407', 'strand': '+'}
+{'ac': 'KX290465', 'orf': 'Specific', 'coords': '652-7407', 'strand': '+'}
+{'ac': 'KX290465', 'orf': 'nan', 'coords': '652-7407', 'strand': '+'}
+{'ac': 'OQ709190', 'orf': 'Picorna', 'coords': '89-2369', 'strand': '+'}
+{'ac': 'OQ709190', 'orf': 'Picorna', 'coords': '89-2369', 'strand': '+'}
+{'ac': 'NC_040647', 'orf': 'Bastro', 'coords': '64-5349', 'strand': '+'}
+{'ac': 'NC_040647', 'orf': 'Bastro', 'coords': '64-5349', 'strand': '+'}
+{'ac': 'NC_040647', 'orf': 'nan', 'coords': '64-5349', 'strand': '+'}
+{'ac': 'NC_040647', 'orf': 'NotSpecific', 'coords': '64-5349', 'strand': '+'}
+{'ac': 'MH188020', 'orf': 'Bastro', 'coords': '64-5349', 'strand': '+'}
+{'ac': 'MH188020', 'orf': 'Bastro', 'coords': '64-5349', 'strand': '+'}
+{'ac': 'MH188020', 'orf': 'nan', 'coords': '64-5349', 'strand': '+'}
+{'ac': 'MH188020', 'orf': 'NotSpecific', 'coords': '64-5349', 'strand': '+'}
+{'ac': 'MW853972', 'orf': 'Bastro', 'coords': '1-3630', 'strand': '+'}
+{'ac': 'MW853972', 'orf': 'Bastro', 'coords': '1-3630', 'strand': '+'}
+{'ac': 'MW853972', 'orf': 'nan', 'coords': '1-3630', 'strand': '+'}
+{'ac': 'MZ291967', 'orf': 'Bastro', 'coords': '225-2311', 'strand': '+'}
+{'ac': 'MW645021', 'orf': 'Bastro', 'coords': '1-1294', 'strand': '+'}
+{'ac': 'MT568535', 'orf': 'Bastro', 'coords': '7-4251', 'strand': '+'}
+{'ac': 'MT568535', 'orf': 'Bastro', 'coords': '7-4251', 'strand': '+'}
+{'ac': 'MT568535', 'orf': 'nan', 'coords': '7-4251', 'strand': '+'}
+{'ac': 'MW347540', 'orf': 'Bastro', 'coords': '219-4166', 'strand': '+'}
+{'ac': 'MW347540', 'orf': 'Bastro', 'coords': '219-4166', 'strand': '+'}
+{'ac': 'MW347540', 'orf': 'nan', 'coords': '219-4166', 'strand': '+'}

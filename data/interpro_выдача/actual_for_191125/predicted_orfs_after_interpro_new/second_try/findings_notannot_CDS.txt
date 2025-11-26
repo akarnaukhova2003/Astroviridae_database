@@ -1,0 +1,33 @@
+Конфликтные:
+MN032977
+MN033177
+PP512783
+
+Успешные:
+PQ110289
+OP474168
+MN036159
+MN035429
+MN035838
+MN034849
+MN036131
+MN034422
+MN035893
+MN035574
+MN035369
+MN033141
+MN033591
+MN034197
+MN033907
+HUANSSPS
+HV511037
+
+Не найденные:
+MN733910
+OR800315
+
+Другие:
+{'ac': 'MN034849', 'orf': 'NotSpecific', 'coords': '1686-1', 'strand': '-'}
+{'ac': 'MN034849', 'orf': 'Picorna', 'coords': '1686-1', 'strand': '-'}
+{'ac': 'MN032977', 'orf': 'Picorna', 'coords': '6674-498', 'strand': '-'}
+{'ac': 'MN032977', 'orf': 'NotSpecific', 'coords': '6674-498', 'strand': '-'}

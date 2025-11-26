@@ -1,0 +1,361 @@
+ID белка,Название семейства/белка,Описание предсказания,Источник предсказания,Вхождение из orf,ORF,id_prefix,coords,strand
+PQ055536.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055536,2006-3565,+
+PQ055536.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055536,2006-3565,+
+PX289198.1|,-,Trypsin-like peptidase domain,Pfam,,1A,PX289198,1-3273,+
+PX289198.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PX289198,1-3273,+
+PX289198.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PX289198,1-3273,+
+PP211222.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PP211222,1-1330,+
+PP211222.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PP211222,1-1330,+
+PQ421842.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421842,2089-3453,-
+PQ421842.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421842,2089-3453,-
+PQ055536.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ055536,12-1988,+
+PQ421844.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421844,3757-5979,-
+PQ421844.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421844,3757-5979,-
+PQ421842.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421842,153-1931,-
+PQ421842.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421842,153-1931,-
+PQ421851.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421851,77-1135,+
+PQ421851.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421851,77-1135,+
+PX289196.1|,-,Trypsin-like peptidase domain,Pfam,,1A,PX289196,1-3029,+
+PX289196.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PX289196,1-3029,+
+PX289196.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PX289196,1-3029,+
+PX289197.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PX289197,1-3029,+
+PX289197.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PX289197,1-3029,+
+PX289197.1|,-,Trypsin-like peptidase domain,Pfam,,1A,PX289197,1-3029,+
+PQ055539.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ055539,94-1074,+
+PQ055539.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,PQ055539,94-1074,+
+PQ421853.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421853,161-1951,-
+PQ421853.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421853,161-1951,-
+PQ421848.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421848,4-2334,+
+PQ421848.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421848,4-2334,+
+PX289196.3|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PX289196,4589-6703,+
+PX289196.3|,"Capsid polyprotein VP90, C-terminal",C-terminal tail of astrovirus capsid projection or spike,Pfam,,2,PX289196,4589-6703,+
+PP211223.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,PP211223,1-2935,+
+PP211223.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PP211223,1-2935,+
+PP211223.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,PP211223,1-2935,+
+PP211223.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PP211223,1-2935,+
+PQ421852.2|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421852,3613-5013,-
+PQ421852.2|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421852,3613-5013,-
+PQ421843.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421843,2624-3988,+
+PQ421843.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421843,2624-3988,+
+PQ055538.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055538,2955-4265,+
+PQ055538.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055538,2955-4265,+
+PX095754.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PX095754,1-1113,-
+PX095754.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PX095754,1-1113,-
+PQ421846.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421846,2103-3467,-
+PQ421846.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421846,2103-3467,-
+PP211221.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,PP211221,1-2065,+
+PP211221.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PP211221,1-2065,+
+PP211221.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PP211221,1-2065,+
+PP211221.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,PP211221,1-2065,+
+PQ421848.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421848,4150-5940,+
+PQ421848.3|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421848,4150-5940,+
+PQ421844.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421844,160-1941,-
+PQ421844.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421844,160-1941,-
+PQ055528.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ055528,51-2909,+
+PQ055528.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,PQ055528,51-2909,+
+PQ421846.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421846,3758-6082,-
+PQ421846.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421846,3758-6082,-
+PQ421854.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421854,2096-3460,-
+PQ421854.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421854,2096-3460,-
+PQ421852.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421852,8-3376,-
+PQ421852.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421852,8-3376,-
+PQ421852.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421852,8-3376,-
+PQ421848.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421848,2625-3989,+
+PQ421848.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421848,2625-3989,+
+PQ055533.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055533,2152-3846,+
+PQ055533.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055533,2152-3846,+
+PQ055527.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055527,24-6293,+
+PQ055527.1|,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,,Picorna,PQ055527,24-6293,+
+PQ055527.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PQ055527,24-6293,+
+PQ055527.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ055527,24-6293,+
+PQ055535.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055535,2366-3979,+
+PQ055535.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055535,2366-3979,+
+PX289198.3|,"Capsid polyprotein VP90, C-terminal",C-terminal tail of astrovirus capsid projection or spike,Pfam,,2,PX289198,4833-6947,+
+PX289198.3|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PX289198,4833-6947,+
+PQ421841.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421841,356-1525,+
+PQ055539.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055539,1074-2684,+
+PQ055539.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055539,1074-2684,+
+PQ161557.2|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ161557,4280-5332,+
+PX289196.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PX289196,3284-4570,+
+PX289196.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PX289196,3284-4570,+
+PX395423.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PX395423,1-582,+
+PX289197.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PX289197,3284-4570,+
+PX289197.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PX289197,3284-4570,+
+PQ055530.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055530,751-2526,+
+PQ055530.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055530,751-2526,+
+PQ055528.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055528,2918-4876,+
+PQ055528.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055528,2918-4876,+
+PQ421845.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421845,3756-6080,-
+PQ421845.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421845,3756-6080,-
+PQ421843.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421843,6-2333,+
+PQ421843.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421843,6-2333,+
+PQ055524.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ055524,9-3545,+
+PQ421847.4|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421847,3760-6090,-
+PQ421847.4|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421847,3760-6090,-
+PQ421842.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421842,3744-5969,-
+PQ421842.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421842,3744-5969,-
+PQ421853.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421853,3767-6097,-
+PQ421853.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421853,3767-6097,-
+PQ421843.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421843,4146-5924,+
+PQ421843.3|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421843,4146-5924,+
+PQ055535.1|,-,Trypsin-like peptidase domain,Pfam,,1A,PQ055535,15-2306,+
+PQ055535.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ055535,15-2306,+
+PQ161557.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,PQ161557,31-4254,+
+PQ161557.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ161557,31-4254,+
+PQ161557.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PQ161557,31-4254,+
+PQ161557.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,PQ161557,31-4254,+
+PQ161557.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,PQ161557,31-4254,+
+PQ421854.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421854,154-1935,-
+PQ421854.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421854,154-1935,-
+PQ055536.3|,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,,Picorna,PQ055536,3577-5322,+
+PQ055536.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ055536,3577-5322,+
+PX289198.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PX289198,3528-4814,+
+PX289198.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PX289198,3528-4814,+
+PQ421847.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421847,153-1943,-
+PQ421847.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421847,153-1943,-
+PQ055532.2|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PQ055532,2496-3995,+
+PQ055532.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055532,2496-3995,+
+PQ421854.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421854,3751-6069,-
+PQ421854.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421854,3751-6069,-
+PX289197.3|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PX289197,4589-6703,+
+PX289197.3|,"Capsid polyprotein VP90, C-terminal",C-terminal tail of astrovirus capsid projection or spike,Pfam,,2,PX289197,4589-6703,+
+PQ421841.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421841,1564-3051,+
+PQ421841.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421841,1564-3051,+
+PQ421845.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421845,2101-3465,-
+PQ421845.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421845,2101-3465,-
+PQ421844.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421844,2102-3466,-
+PQ421844.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421844,2102-3466,-
+PQ421847.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421847,2104-3309,-
+PQ421847.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421847,2104-3309,-
+PQ055529.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055529,4444-6219,+
+PQ055529.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055529,4444-6219,+
+PQ421845.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421845,159-1940,-
+PQ421845.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421845,159-1940,-
+PQ150499.1|,-,AAA domain,Pfam,,Bastro,PQ150499,427-6450,+
+PQ150499.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ150499,427-6450,+
+PQ150499.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,PQ150499,427-6450,+
+PQ150499.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PQ150499,427-6450,+
+PQ055537.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055537,1888-3489,+
+PQ055537.2|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PQ055537,1888-3489,+
+PQ055530.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ055530,2474-4705,+
+PQ055530.3|,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,,Picorna,PQ055530,2474-4705,+
+PX395422.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PX395422,1-368,+
+PQ055528.3|,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,,Picorna,PQ055528,4557-6113,+
+PQ055528.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ055528,4557-6113,+
+PQ421853.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421853,2112-3530,-
+PQ421853.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421853,2112-3530,-
+PQ421846.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421846,161-1942,-
+PQ421846.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421846,161-1942,-
+PQ055533.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ055533,3692-5212,+
+PQ055538.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ055538,7-3072,+
+OQ709194.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ709194,59-1159,+
+OQ709194.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,OQ709194,59-1159,+
+OQ709194.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ709194,59-1159,+
+OQ709194.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OQ709194,59-1159,+
+OQ802757.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ802757,1-564,+
+OQ802757.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ802757,1-564,+
+OQ802714.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ802714,1-481,+
+OQ802714.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,OQ802714,1-481,+
+MW239205.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW239205,1-1265,-
+MW239205.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MW239205,1-1265,-
+OQ709189.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OQ709189,301-2922,+
+OQ709189.1|,"Helicase, superfamily 3, single-stranded DNA/RNA virus",RNA helicase,Pfam,,1A,OQ709189,301-2922,+
+OQ709189.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,OQ709189,301-2922,+
+OQ709189.1|,"Poliovirus core protein 3a, soluble domain",Soluble domain of poliovirus core protein 3a,SUPERFAMILY,,Picorna,OQ709189,301-2922,+
+OQ709189.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ709189,301-2922,+
+OQ709189.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ709189,301-2922,+
+OQ709189.1|,Poliovirus 3A protein-like,Poliovirus 3A protein like,Pfam,,Picorna,OQ709189,301-2922,+
+OQ709189.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OQ709189,301-2922,+
+OM954095.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,OM954095,125-2841,+
+OM954095.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,OM954095,125-2841,+
+OM954095.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OM954095,125-2841,+
+MW645022.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MW645022,1-2463,+
+MW645022.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MW645022,1-2463,+
+MW645022.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MW645022,1-2463,+
+MW924356.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW924356,1-846,+
+OP413956.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OP413956,2610-4061,+
+OP413956.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OP413956,2610-4061,+
+MW924358.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW924358,1-1280,+
+MW924358.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MW924358,1-1280,+
+AY831433.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,AY831433,1-685,+
+AY831433.1|,-,Trypsin-like peptidase domain,Pfam,,1A,AY831433,1-685,+
+DQ327612.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327612,1-465,+
+OQ709192.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OQ709192,80-1588,+
+OQ709192.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ709192,80-1588,+
+OQ709192.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,OQ709192,80-1588,+
+OQ709192.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ709192,80-1588,+
+DQ327615.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327615,1-465,+
+MG846413.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,MG846413,1-1162,+
+DQ327608.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327608,1-465,+
+OR234607.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OR234607,1-1551,+
+OR234607.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OR234607,1-1551,+
+DQ327611.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327611,1-465,+
+OK483336.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,OK483336,1-355,+
+OK483335.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,OK483335,1-355,+
+DQ327610.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327610,1-465,+
+DQ327613.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327613,1-465,+
+DQ327618.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327618,1-465,+
+OQ802763.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OQ802763,1-1697,+
+OQ802763.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ802763,1-1697,+
+OQ802763.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,OQ802763,1-1697,+
+OQ802763.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,OQ802763,1-1697,+
+MZ182271.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MZ182271,21-5030,+
+MZ182271.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MZ182271,21-5030,+
+MZ182271.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MZ182271,21-5030,+
+MZ182271.1|,Macro domain-like,Macro domain-like,SUPERFAMILY,,DontKnow,MZ182271,21-5030,+
+MW924356.2|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,MW924356,872-1924,+
+OM953852.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OM953852,16-4485,+
+OM953852.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,OM953852,16-4485,+
+OM953852.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,OM953852,16-4485,+
+OM953852.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,OM953852,16-4485,+
+OM953852.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OM953852,16-4485,+
+OM953852.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OM953852,16-4485,+
+OR645486.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OR645486,1-572,+
+OR645486.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OR645486,1-572,+
+OP413950.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OP413950,2641-4092,+
+OP413950.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OP413950,2641-4092,+
+OQ709193.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OQ709193,517-7025,+
+OQ709193.1|,Picornavirus capsid,picornavirus capsid protein,Pfam,,Picorna,OQ709193,517-7025,+
+OQ709193.1|,Picornavirus capsid,picornavirus capsid protein,Pfam,,Picorna,OQ709193,517-7025,+
+OQ709193.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ709193,517-7025,+
+OQ709193.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OQ709193,517-7025,+
+OQ709193.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,OQ709193,517-7025,+
+OQ709193.1|,"Helicase, superfamily 3, single-stranded DNA/RNA virus",RNA helicase,Pfam,,1A,OQ709193,517-7025,+
+OQ709193.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,OQ709193,517-7025,+
+OQ709193.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ709193,517-7025,+
+OQ709193.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,OQ709193,517-7025,+
+ON932807.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,ON932807,1-1372,+
+ON932807.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,ON932807,1-1372,+
+MT896155.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MT896155,1-802,+
+MT896155.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MT896155,1-802,+
+MT568535.2|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,MT568535,4261-5243,+
+MZ443626.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MZ443626,50-4276,+
+MZ443626.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MZ443626,50-4276,+
+MZ443626.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MZ443626,50-4276,+
+MZ443626.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MZ443626,50-4276,+
+MZ443626.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MZ443626,50-4276,+
+DQ327617.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327617,1-465,+
+PQ055524.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055524,3488-5317,+
+PQ055524.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055524,3488-5317,+
+OR234613.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OR234613,1-1542,+
+OR234613.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OR234613,1-1542,+
+OQ709188.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OQ709188,162-1621,+
+OQ709188.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ709188,162-1621,+
+OQ709188.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ709188,162-1621,+
+OQ709188.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,OQ709188,162-1621,+
+OM953853.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,OM953853,99-1535,+
+OM953853.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OM953853,99-1535,+
+MW924357.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MW924357,1-1236,+
+MW924357.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW924357,1-1236,+
+MN841288.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MN841288,841-6864,+
+MN841288.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MN841288,841-6864,+
+MN841288.1|,-,AAA domain,Pfam,,Bastro,MN841288,841-6864,+
+MN841288.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN841288,841-6864,+
+OM514376.2|,"Peptidase A6, nodavirus coat protein",Peptidase A6 family,Pfam,,Specific,OM514376,2128-3561,+
+MW239194.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW239194,1-1246,-
+MW239194.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MW239194,1-1246,-
+OP413956.1|,-,Trypsin-like peptidase domain,Pfam,,1A,OP413956,1-2589,+
+OP413956.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,OP413956,1-2589,+
+OP413956.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OP413956,1-2589,+
+OP413956.1|,Astrovirus transmembrane protein 1A,Astrovirus transmembrane protein 1A,Pfam,,1A,OP413956,1-2589,+
+OM514376.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OM514376,189-1676,+
+OM514376.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OM514376,189-1676,+
+MW346737.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MW346737,24-4268,+
+MW346737.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MW346737,24-4268,+
+MW346737.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MW346737,24-4268,+
+MW346737.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW346737,24-4268,+
+MW346737.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MW346737,24-4268,+
+DQ327614.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327614,1-465,+
+OP413950.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OP413950,29-2620,+
+OP413950.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,OP413950,29-2620,+
+OP413950.1|,Astrovirus transmembrane protein 1A,Astrovirus transmembrane protein 1A,Pfam,,1A,OP413950,29-2620,+
+OP413950.1|,-,Trypsin-like peptidase domain,Pfam,,1A,OP413950,29-2620,+
+OQ709191.1|,Picornavirus capsid,picornavirus capsid protein,Pfam,,Picorna,OQ709191,202-6465,+
+OQ709191.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,OQ709191,202-6465,+
+OQ709191.1|,"Helicase, superfamily 3, single-stranded DNA/RNA virus",RNA helicase,Pfam,,1A,OQ709191,202-6465,+
+OQ709191.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OQ709191,202-6465,+
+OQ709191.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,OQ709191,202-6465,+
+OQ709191.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OQ709191,202-6465,+
+OQ709191.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ709191,202-6465,+
+OQ709191.1|,Calicivirus coat protein,Calicivirus coat protein,Pfam,,Calici,OQ709191,202-6465,+
+OQ709191.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,OQ709191,202-6465,+
+OQ709191.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ709191,202-6465,+
+AY027809.1|,Astrovirus transmembrane protein 1A,Astrovirus transmembrane protein 1A,Pfam,,1A,AY027809,1-289,+
+KM408170.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,KM408170,1-270,+
+MW239195.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MW239195,1-1233,-
+MW239195.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW239195,1-1233,-
+KM408171.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,KM408171,1-422,+
+MZ182272.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MZ182272,29-3325,+
+MZ182272.1|,Macro domain-like,Macro domain-like,SUPERFAMILY,,DontKnow,MZ182272,29-3325,+
+MT896156.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MT896156,1-792,+
+MT896156.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MT896156,1-792,+
+DQ327616.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327616,1-465,+
+MW239289.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MW239289,1-735,+
+MW239289.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW239289,1-735,+
+MZ443626.2|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,MZ443626,4240-5370,+
+MW239381.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MW239381,1-831,+
+MW239381.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW239381,1-831,+
+MW239504.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MW239504,6-1099,+
+MW239504.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW239504,6-1099,+
+OQ802761.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,OQ802761,75-4484,+
+OQ802761.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,OQ802761,75-4484,+
+OQ802761.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ802761,75-4484,+
+OQ802761.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OQ802761,75-4484,+
+OQ802761.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,OQ802761,75-4484,+
+OQ802761.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OQ802761,75-4484,+
+KX290465.1|,Picornavirus capsid,picornavirus capsid protein,Pfam,,Picorna,KX290465,652-7407,+
+KX290465.1|,Picornavirus capsid,picornavirus capsid protein,Pfam,,Picorna,KX290465,652-7407,+
+KX290465.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,KX290465,652-7407,+
+KX290465.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,KX290465,652-7407,+
+KX290465.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,KX290465,652-7407,+
+KX290465.1|,"Helicase, superfamily 3, single-stranded DNA/RNA virus",RNA helicase,Pfam,,1A,KX290465,652-7407,+
+KX290465.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,KX290465,652-7407,+
+KX290465.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,KX290465,652-7407,+
+KX290465.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,KX290465,652-7407,+
+KX290465.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,KX290465,652-7407,+
+KX290465.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,KX290465,652-7407,+
+KX290465.1|,AIG1-type guanine nucleotide-binding (G) domain,AIG1 family,Pfam,,Specific,KX290465,652-7407,+
+KX290465.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,KX290465,652-7407,+
+OQ709190.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ709190,89-2369,+
+OQ709190.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OQ709190,89-2369,+
+OQ709190.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,OQ709190,89-2369,+
+OQ709190.1|,"Viral polyprotein, parechovirus P3A",Picornaviridae P3A protein,Pfam,,Picorna,OQ709190,89-2369,+
+OQ709190.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ709190,89-2369,+
+NC_040647.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,NC_040647,64-5349,+
+NC_040647.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,NC_040647,64-5349,+
+NC_040647.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,NC_040647,64-5349,+
+NC_040647.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,NC_040647,64-5349,+
+NC_040647.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,NC_040647,64-5349,+
+NC_040647.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,NC_040647,64-5349,+
+MH188020.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MH188020,64-5349,+
+MH188020.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MH188020,64-5349,+
+MH188020.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MH188020,64-5349,+
+MH188020.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MH188020,64-5349,+
+MH188020.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,MH188020,64-5349,+
+MH188020.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MH188020,64-5349,+
+MW853972.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW853972,1-3630,+
+MW853972.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MW853972,1-3630,+
+MW853972.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MW853972,1-3630,+
+MW853972.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MW853972,1-3630,+
+MW853972.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MW853972,1-3630,+
+MZ291967.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MZ291967,225-2311,+
+KC411816.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,KC411816,1-505,+
+KC411816.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,KC411816,1-505,+
+DQ327609.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327609,1-465,+
+OQ802762.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,OQ802762,1-1699,+
+OQ802762.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ802762,1-1699,+
+MW645021.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MW645021,1-1294,+
+ON304004.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,ON304004,1-433,-
+ON304004.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,ON304004,1-433,-
+MW347048.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW347048,11-1248,+
+MW347048.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MW347048,11-1248,+
+MT568535.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MT568535,7-4251,+
+MT568535.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MT568535,7-4251,+
+MT568535.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MT568535,7-4251,+
+MT568535.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MT568535,7-4251,+
+MT568535.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MT568535,7-4251,+
+MW347540.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MW347540,219-4166,+
+MW347540.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MW347540,219-4166,+
+MW347540.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW347540,219-4166,+
+MW347540.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MW347540,219-4166,+
+MW347540.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MW347540,219-4166,+

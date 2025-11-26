@@ -1,0 +1,1287 @@
+ID белка,Название семейства/белка,Описание предсказания,Источник предсказания,Вхождение из orf,ORF,id_prefix,coords,strand
+PQ055536.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ055536,2006-3565,+
+PQ055536.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055536,2006-3565,+
+PQ055536.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ055536,2006-3565,+
+PQ055536.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055536,2006-3565,+
+PQ055530.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055530,14-784,+
+PQ055530.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055530,14-784,+
+PX289198.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX289198,1-3273,+
+PX289198.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX289198,1-3273,+
+PX289198.1|,-,Trypsin-like peptidase domain,Pfam,,1A,PX289198,1-3273,+
+PX289198.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PX289198,1-3273,+
+PX289198.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX289198,1-3273,+
+PX289198.1|,-,Coil,Coils,-,-,PX289198,1-3273,+
+PX289198.1|,Zinc finger C2H2-type,Zinc finger C2H2 type domain profile.,ProSiteProfiles,-,-,PX289198,1-3273,+
+PX289198.1|,-,Coil,Coils,-,-,PX289198,1-3273,+
+PX289198.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PX289198,1-3273,+
+PX289198.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PX289198,1-3273,+
+PX289198.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX289198,1-3273,+
+PX289198.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX289198,1-3273,+
+PX289198.1|,-,consensus disorder prediction,MobiDBLite,-,-,PX289198,1-3273,+
+PX289198.1|,-,consensus disorder prediction,MobiDBLite,-,-,PX289198,1-3273,+
+PX289198.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PX289198,1-3273,+
+PX289198.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PX289198,1-3273,+
+PX289198.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX289198,1-3273,+
+PX289198.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PX289198,1-3273,+
+PX289198.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PX289198,1-3273,+
+PX289198.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX289198,1-3273,+
+PX289198.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PX289198,1-3273,+
+PX289198.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX289198,1-3273,+
+PX289198.1|,-,Coil,Coils,-,-,PX289198,1-3273,+
+PX289198.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PX289198,1-3273,+
+PP211222.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PP211222,1-1330,+
+PP211222.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PP211222,1-1330,+
+PP211222.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PP211222,1-1330,+
+PQ421842.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421842,2089-3453,-
+PQ421842.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ421842,2089-3453,-
+PQ421842.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421842,2089-3453,-
+PQ421842.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ421842,2089-3453,-
+PQ421842.2|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,PQ421842,2089-3453,-
+PQ055536.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055536,12-1988,+
+PQ055536.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055536,12-1988,+
+PQ055536.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055536,12-1988,+
+PQ055536.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055536,12-1988,+
+PQ055536.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055536,12-1988,+
+PQ055536.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055536,12-1988,+
+PQ055536.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055536,12-1988,+
+PQ055536.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055536,12-1988,+
+PQ055536.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ055536,12-1988,+
+PQ055536.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PQ055536,12-1988,+
+PQ055536.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055536,12-1988,+
+PQ421844.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421844,3757-5979,-
+PQ421844.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421844,3757-5979,-
+PQ421844.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421844,3757-5979,-
+PQ421844.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421844,3757-5979,-
+PQ421844.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421844,3757-5979,-
+PQ421844.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421844,3757-5979,-
+PQ421844.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421844,3757-5979,-
+PQ421844.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421844,3757-5979,-
+PQ421844.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421844,3757-5979,-
+PQ421844.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421844,3757-5979,-
+PQ421844.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421844,3757-5979,-
+PQ421844.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421844,3757-5979,-
+PQ421844.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421844,3757-5979,-
+PQ421844.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421844,3757-5979,-
+PQ421844.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421844,3757-5979,-
+PQ421844.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421844,3757-5979,-
+PQ421844.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421844,3757-5979,-
+PQ421844.3|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PQ421844,3757-5979,-
+PQ421842.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421842,153-1931,-
+PQ421842.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421842,153-1931,-
+PQ421842.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421842,153-1931,-
+PQ421842.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421842,153-1931,-
+PQ421842.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421842,153-1931,-
+PQ421842.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421842,153-1931,-
+PQ421842.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421842,153-1931,-
+PQ421842.1|,Viral coat protein subunit,-,Gene3D,-,-,PQ421842,153-1931,-
+PQ421842.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421842,153-1931,-
+PQ421851.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421851,77-1135,+
+PQ421851.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421851,77-1135,+
+PQ055539.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055539,2766-3848,+
+PQ055539.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055539,2766-3848,+
+PQ055539.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055539,2766-3848,+
+PX289196.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX289196,1-3029,+
+PX289196.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX289196,1-3029,+
+PX289196.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PX289196,1-3029,+
+PX289196.1|,Zinc finger C2H2-type,Zinc finger C2H2 type domain profile.,ProSiteProfiles,-,-,PX289196,1-3029,+
+PX289196.1|,-,Trypsin-like peptidase domain,Pfam,,1A,PX289196,1-3029,+
+PX289196.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PX289196,1-3029,+
+PX289196.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX289196,1-3029,+
+PX289196.1|,-,Coil,Coils,-,-,PX289196,1-3029,+
+PX289196.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX289196,1-3029,+
+PX289196.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PX289196,1-3029,+
+PX289196.1|,-,Coil,Coils,-,-,PX289196,1-3029,+
+PX289196.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PX289196,1-3029,+
+PX289196.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX289196,1-3029,+
+PX289196.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX289196,1-3029,+
+PX289196.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX289196,1-3029,+
+PX289196.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX289196,1-3029,+
+PX289196.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PX289196,1-3029,+
+PX289196.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PX289196,1-3029,+
+PX289196.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PX289196,1-3029,+
+PX289196.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PX289196,1-3029,+
+PX289196.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PX289196,1-3029,+
+PX289196.1|,-,Coil,Coils,-,-,PX289196,1-3029,+
+PQ055537.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055537,100-1848,+
+PQ055537.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055537,100-1848,+
+PQ055537.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055537,100-1848,+
+PX289197.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX289197,1-3029,+
+PX289197.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX289197,1-3029,+
+PX289197.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PX289197,1-3029,+
+PX289197.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PX289197,1-3029,+
+PX289197.1|,Zinc finger C2H2-type,Zinc finger C2H2 type domain profile.,ProSiteProfiles,-,-,PX289197,1-3029,+
+PX289197.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PX289197,1-3029,+
+PX289197.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX289197,1-3029,+
+PX289197.1|,-,Coil,Coils,-,-,PX289197,1-3029,+
+PX289197.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX289197,1-3029,+
+PX289197.1|,-,Coil,Coils,-,-,PX289197,1-3029,+
+PX289197.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PX289197,1-3029,+
+PX289197.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PX289197,1-3029,+
+PX289197.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PX289197,1-3029,+
+PX289197.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX289197,1-3029,+
+PX289197.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX289197,1-3029,+
+PX289197.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX289197,1-3029,+
+PX289197.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX289197,1-3029,+
+PX289197.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PX289197,1-3029,+
+PX289197.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PX289197,1-3029,+
+PX289197.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PX289197,1-3029,+
+PX289197.1|,-,Coil,Coils,-,-,PX289197,1-3029,+
+PX289197.1|,-,Trypsin-like peptidase domain,Pfam,,1A,PX289197,1-3029,+
+PQ055539.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055539,94-1074,+
+PQ055539.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ055539,94-1074,+
+PQ055539.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PQ055539,94-1074,+
+PQ055539.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,PQ055539,94-1074,+
+PQ055539.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055539,94-1074,+
+PQ421853.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421853,161-1951,-
+PQ421853.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421853,161-1951,-
+PQ421853.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421853,161-1951,-
+PQ421853.1|,Viral coat protein subunit,-,Gene3D,-,-,PQ421853,161-1951,-
+PQ421853.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421853,161-1951,-
+PQ421853.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421853,161-1951,-
+PQ421853.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421853,161-1951,-
+PQ421853.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421853,161-1951,-
+PQ421853.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421853,161-1951,-
+PQ421848.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421848,4-2334,+
+PQ421848.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421848,4-2334,+
+PQ421848.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421848,4-2334,+
+PQ421848.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421848,4-2334,+
+PQ421848.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421848,4-2334,+
+PQ421848.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421848,4-2334,+
+PQ421848.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421848,4-2334,+
+PQ421848.1|,-,SignalP-TM,SignalP_GRAM_POSITIVE,-,-,PQ421848,4-2334,+
+PQ421848.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421848,4-2334,+
+PQ421848.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421848,4-2334,+
+PQ421848.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421848,4-2334,+
+PQ421848.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421848,4-2334,+
+PQ421848.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421848,4-2334,+
+PQ421848.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421848,4-2334,+
+PQ421848.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421848,4-2334,+
+PQ421848.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421848,4-2334,+
+PQ421848.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PQ421848,4-2334,+
+PQ421848.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421848,4-2334,+
+PQ421848.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421848,4-2334,+
+PQ421848.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421848,4-2334,+
+PQ421848.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421848,4-2334,+
+PX289196.3|,Viral coat protein subunit,-,Gene3D,-,-,PX289196,4589-6703,+
+PX289196.3|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PX289196,4589-6703,+
+PX289196.3|,"Capsid polyprotein VP90, C-terminal",C-terminal tail of astrovirus capsid projection or spike,Pfam,,2,PX289196,4589-6703,+
+PX289196.3|,-,consensus disorder prediction,MobiDBLite,-,-,PX289196,4589-6703,+
+PX289196.3|,-,consensus disorder prediction,MobiDBLite,-,-,PX289196,4589-6703,+
+PX289196.3|,-,consensus disorder prediction,MobiDBLite,-,-,PX289196,4589-6703,+
+PX113254.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX113254,14-1296,+
+PX113254.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX113254,14-1296,+
+PX113254.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PX113254,14-1296,+
+PX113254.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX113254,14-1296,+
+PX113254.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PX113254,14-1296,+
+PX113254.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX113254,14-1296,+
+PX113254.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PX113254,14-1296,+
+PX113254.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PX113254,14-1296,+
+PX113254.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX113254,14-1296,+
+PX113254.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX113254,14-1296,+
+PX113254.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PX113254,14-1296,+
+PX113254.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PX113254,14-1296,+
+PX113254.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX113254,14-1296,+
+PX113254.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX113254,14-1296,+
+PP211223.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,PP211223,1-2935,+
+PP211223.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,PP211223,1-2935,+
+PP211223.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PP211223,1-2935,+
+PP211223.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,PP211223,1-2935,+
+PP211223.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,PP211223,1-2935,+
+PP211223.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PP211223,1-2935,+
+PP211223.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PP211223,1-2935,+
+PP211223.1|,(+) RNA virus helicase core domain,(+)RNA virus helicase core domain profile.,ProSiteProfiles,-,-,PP211223,1-2935,+
+PQ055537.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055537,3567-4964,+
+PQ055537.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055537,3567-4964,+
+PQ421852.2|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421852,3613-5013,-
+PQ421852.2|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PQ421852,3613-5013,-
+PQ421852.2|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421852,3613-5013,-
+PQ421843.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ421843,2624-3988,+
+PQ421843.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ421843,2624-3988,+
+PQ421843.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421843,2624-3988,+
+PQ421843.2|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,PQ421843,2624-3988,+
+PQ421843.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421843,2624-3988,+
+PQ055538.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ055538,2955-4265,+
+PQ055538.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ055538,2955-4265,+
+PQ055538.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055538,2955-4265,+
+PQ055538.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055538,2955-4265,+
+PX095754.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PX095754,1-1113,-
+PX095754.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PX095754,1-1113,-
+PX095754.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PX095754,1-1113,-
+PX095754.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PX095754,1-1113,-
+PX095754.1|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,PX095754,1-1113,-
+PQ421846.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421846,2103-3467,-
+PQ421846.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ421846,2103-3467,-
+PQ421846.2|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,PQ421846,2103-3467,-
+PQ421846.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ421846,2103-3467,-
+PQ421846.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421846,2103-3467,-
+PP211221.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PP211221,1-2065,+
+PP211221.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,PP211221,1-2065,+
+PP211221.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PP211221,1-2065,+
+PP211221.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,PP211221,1-2065,+
+PP211221.1|,(+) RNA virus helicase core domain,(+)RNA virus helicase core domain profile.,ProSiteProfiles,-,-,PP211221,1-2065,+
+PP211221.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PP211221,1-2065,+
+PP211221.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,PP211221,1-2065,+
+PQ421848.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421848,4150-5940,+
+PQ421848.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421848,4150-5940,+
+PQ421848.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421848,4150-5940,+
+PQ421848.3|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421848,4150-5940,+
+PQ421848.3|,Viral coat protein subunit,-,Gene3D,-,-,PQ421848,4150-5940,+
+PQ421848.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421848,4150-5940,+
+PQ421848.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421848,4150-5940,+
+PQ421848.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421848,4150-5940,+
+PQ421848.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421848,4150-5940,+
+PQ421844.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421844,160-1941,-
+PQ421844.1|,Viral coat protein subunit,-,Gene3D,-,-,PQ421844,160-1941,-
+PQ421844.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421844,160-1941,-
+PQ421844.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421844,160-1941,-
+PQ421844.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421844,160-1941,-
+PQ421844.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421844,160-1941,-
+PQ421844.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421844,160-1941,-
+PQ421844.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421844,160-1941,-
+PQ421844.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421844,160-1941,-
+PQ055528.1|,-,Coil,Coils,-,-,PQ055528,51-2909,+
+PQ055528.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055528,51-2909,+
+PQ055528.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055528,51-2909,+
+PQ055528.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055528,51-2909,+
+PQ055528.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055528,51-2909,+
+PQ055528.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055528,51-2909,+
+PQ055528.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055528,51-2909,+
+PQ055528.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PQ055528,51-2909,+
+PQ055528.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055528,51-2909,+
+PQ055528.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055528,51-2909,+
+PQ055528.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055528,51-2909,+
+PQ055528.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055528,51-2909,+
+PQ055528.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055528,51-2909,+
+PQ055528.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055528,51-2909,+
+PQ055528.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ055528,51-2909,+
+PQ055528.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055528,51-2909,+
+PQ055528.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055528,51-2909,+
+PQ055528.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055528,51-2909,+
+PQ055528.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,PQ055528,51-2909,+
+PQ421846.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,SignalP-TM,SignalP_GRAM_POSITIVE,-,-,PQ421846,3758-6082,-
+PQ421846.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421846,3758-6082,-
+PQ421846.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421846,3758-6082,-
+PQ421846.3|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421846,3758-6082,-
+PQ421846.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421846,3758-6082,-
+PQ421846.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421846,3758-6082,-
+PQ421846.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421846,3758-6082,-
+PQ421854.2|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421854,2096-3460,-
+PQ421854.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ421854,2096-3460,-
+PQ421854.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421854,2096-3460,-
+PQ421854.2|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,PQ421854,2096-3460,-
+PQ421854.2|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421854,2096-3460,-
+PQ421854.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ421854,2096-3460,-
+PQ421854.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421854,2096-3460,-
+PQ421854.2|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421854,2096-3460,-
+PQ421852.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421852,8-3376,-
+PQ421852.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421852,8-3376,-
+PQ421852.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421852,8-3376,-
+PQ421852.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421852,8-3376,-
+PQ421852.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421852,8-3376,-
+PQ421852.1|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,PQ421852,8-3376,-
+PQ421852.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421852,8-3376,-
+PQ421852.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ421852,8-3376,-
+PQ421852.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421852,8-3376,-
+PQ421852.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421852,8-3376,-
+PQ421852.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421852,8-3376,-
+PQ421852.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421852,8-3376,-
+PQ421852.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421852,8-3376,-
+PQ421852.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421852,8-3376,-
+PQ421852.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421852,8-3376,-
+PQ421852.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ421852,8-3376,-
+PQ421852.1|,Viral coat protein subunit,-,Gene3D,-,-,PQ421852,8-3376,-
+PQ421848.2|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421848,2625-3989,+
+PQ421848.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ421848,2625-3989,+
+PQ421848.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421848,2625-3989,+
+PQ421848.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ421848,2625-3989,+
+PQ421848.2|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,PQ421848,2625-3989,+
+PQ421848.2|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421848,2625-3989,+
+PQ421848.2|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421848,2625-3989,+
+PQ421848.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421848,2625-3989,+
+PQ055533.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055533,2152-3846,+
+PQ055533.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ055533,2152-3846,+
+PQ055533.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055533,2152-3846,+
+PQ055533.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ055533,2152-3846,+
+PQ055527.1|,Phospholipase A2 domain superfamily,Phospholipase A2 domain,Gene3D,-,-,PQ055527,24-6293,+
+PQ055527.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055527,24-6293,+
+PQ055527.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ055527,24-6293,+
+PQ055527.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055527,24-6293,+
+PQ055527.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055527,24-6293,+
+PQ055527.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055527,24-6293,+
+PQ055527.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055527,24-6293,+
+PQ055527.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055527,24-6293,+
+PQ055527.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055527,24-6293,+
+PQ055527.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055527,24-6293,+
+PQ055527.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055527,24-6293,+
+PQ055527.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055527,24-6293,+
+PQ055527.1|,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,,Picorna,PQ055527,24-6293,+
+PQ055527.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055527,24-6293,+
+PQ055527.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055527,24-6293,+
+PQ055527.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PQ055527,24-6293,+
+PQ055527.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055527,24-6293,+
+PQ055527.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ055527,24-6293,+
+PQ055527.1|,Viral coat protein subunit,-,Gene3D,-,-,PQ055527,24-6293,+
+PQ055527.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055527,24-6293,+
+PQ055527.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055527,24-6293,+
+PQ055527.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055527,24-6293,+
+PQ055535.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ055535,2366-3979,+
+PQ055535.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055535,2366-3979,+
+PQ055535.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055535,2366-3979,+
+PX289198.3|,-,consensus disorder prediction,MobiDBLite,-,-,PX289198,4833-6947,+
+PX289198.3|,-,consensus disorder prediction,MobiDBLite,-,-,PX289198,4833-6947,+
+PX289198.3|,Viral coat protein subunit,-,Gene3D,-,-,PX289198,4833-6947,+
+PX289198.3|,"Capsid polyprotein VP90, C-terminal",C-terminal tail of astrovirus capsid projection or spike,Pfam,,2,PX289198,4833-6947,+
+PX289198.3|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PX289198,4833-6947,+
+PQ421841.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421841,356-1525,+
+PQ421841.1|,"Zinc finger, CCCH-type",Zinc finger C3H1-type profile.,ProSiteProfiles,-,-,PQ421841,356-1525,+
+PQ055539.2|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055539,1074-2684,+
+PQ055539.2|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055539,1074-2684,+
+PQ055539.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055539,1074-2684,+
+PQ055539.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ055539,1074-2684,+
+PQ055539.2|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055539,1074-2684,+
+PQ055539.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055539,1074-2684,+
+PQ161557.2|,-,consensus disorder prediction,MobiDBLite,-,-,PQ161557,4280-5332,+
+PQ161557.2|,-,consensus disorder prediction,MobiDBLite,-,-,PQ161557,4280-5332,+
+PQ161557.2|,Viral coat protein subunit,-,Gene3D,-,-,PQ161557,4280-5332,+
+PQ161557.2|,-,consensus disorder prediction,MobiDBLite,-,-,PQ161557,4280-5332,+
+PQ161557.2|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ161557,4280-5332,+
+PX289196.2|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,PX289196,3284-4570,+
+PX289196.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PX289196,3284-4570,+
+PX289196.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PX289196,3284-4570,+
+PX289196.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PX289196,3284-4570,+
+PX289196.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PX289196,3284-4570,+
+PX395423.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PX395423,1-582,+
+PX395423.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PX395423,1-582,+
+PQ055529.1|,-,Coil,Coils,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,Coil,Coils,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,DSRM_SF,CDD,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,dsRNA-binding domain-like,SUPERFAMILY,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,-,Gene3D,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055529,68-4477,+
+PQ055529.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055529,68-4477,+
+PX289197.2|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,PX289197,3284-4570,+
+PX289197.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PX289197,3284-4570,+
+PX289197.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PX289197,3284-4570,+
+PX289197.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PX289197,3284-4570,+
+PX289197.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PX289197,3284-4570,+
+PQ055530.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ055530,751-2526,+
+PQ055530.2|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055530,751-2526,+
+PQ055530.2|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055530,751-2526,+
+PQ055530.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055530,751-2526,+
+PQ055530.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055530,751-2526,+
+PQ055530.2|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055530,751-2526,+
+PQ055528.2|,-,RNA_dep_RNAP,CDD,-,-,PQ055528,2918-4876,+
+PQ055528.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ055528,2918-4876,+
+PQ055528.2|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055528,2918-4876,+
+PQ055528.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055528,2918-4876,+
+PQ055528.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055528,2918-4876,+
+PQ055528.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ055528,2918-4876,+
+PQ055528.2|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055528,2918-4876,+
+PQ421845.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421845,3756-6080,-
+PQ421845.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421845,3756-6080,-
+PQ421845.3|,-,SignalP-TM,SignalP_GRAM_POSITIVE,-,-,PQ421845,3756-6080,-
+PQ421845.3|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PQ421845,3756-6080,-
+PQ421845.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421845,3756-6080,-
+PQ421845.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421845,3756-6080,-
+PQ421845.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421845,3756-6080,-
+PQ421845.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421845,3756-6080,-
+PQ421845.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421845,3756-6080,-
+PQ421845.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421845,3756-6080,-
+PQ421845.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421845,3756-6080,-
+PQ421845.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421845,3756-6080,-
+PQ421845.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421845,3756-6080,-
+PQ421845.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421845,3756-6080,-
+PQ421845.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421845,3756-6080,-
+PQ421845.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421845,3756-6080,-
+PQ421845.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421845,3756-6080,-
+PQ421845.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421845,3756-6080,-
+PQ421845.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421845,3756-6080,-
+PQ421843.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421843,6-2333,+
+PQ421843.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PQ421843,6-2333,+
+PQ421843.1|,-,SignalP-TM,SignalP_GRAM_POSITIVE,-,-,PQ421843,6-2333,+
+PQ421843.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421843,6-2333,+
+PQ421843.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421843,6-2333,+
+PQ421843.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421843,6-2333,+
+PQ421843.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421843,6-2333,+
+PQ421843.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421843,6-2333,+
+PQ421843.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421843,6-2333,+
+PQ421843.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421843,6-2333,+
+PQ421843.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421843,6-2333,+
+PQ421843.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421843,6-2333,+
+PQ421843.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421843,6-2333,+
+PQ421843.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421843,6-2333,+
+PQ421843.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421843,6-2333,+
+PQ421843.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421843,6-2333,+
+PQ421843.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421843,6-2333,+
+PQ421843.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421843,6-2333,+
+PQ421843.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421843,6-2333,+
+PQ055524.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055524,9-3545,+
+PQ055524.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055524,9-3545,+
+PQ055524.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055524,9-3545,+
+PQ055524.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055524,9-3545,+
+PQ055524.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055524,9-3545,+
+PQ055524.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055524,9-3545,+
+PQ055524.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055524,9-3545,+
+PQ055524.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055524,9-3545,+
+PQ055524.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055524,9-3545,+
+PQ055524.1|,-,Coil,Coils,-,-,PQ055524,9-3545,+
+PQ055524.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055524,9-3545,+
+PQ055524.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055524,9-3545,+
+PQ055524.1|,-,Coil,Coils,-,-,PQ055524,9-3545,+
+PQ055524.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055524,9-3545,+
+PQ055524.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ055524,9-3545,+
+PQ055524.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055524,9-3545,+
+PQ055524.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055524,9-3545,+
+PQ055524.1|,-,Coil,Coils,-,-,PQ055524,9-3545,+
+PQ421847.4|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421847,3760-6090,-
+PQ421847.4|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421847,3760-6090,-
+PQ421847.4|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,SignalP-TM,SignalP_GRAM_POSITIVE,-,-,PQ421847,3760-6090,-
+PQ421847.4|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421847,3760-6090,-
+PQ421847.4|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421847,3760-6090,-
+PQ421847.4|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421847,3760-6090,-
+PQ421847.4|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421847,3760-6090,-
+PQ421842.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421842,3744-5969,-
+PQ421842.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421842,3744-5969,-
+PQ421842.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421842,3744-5969,-
+PQ421842.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421842,3744-5969,-
+PQ421842.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421842,3744-5969,-
+PQ421842.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421842,3744-5969,-
+PQ421842.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421842,3744-5969,-
+PQ421842.3|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PQ421842,3744-5969,-
+PQ421842.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421842,3744-5969,-
+PQ421842.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421842,3744-5969,-
+PQ421842.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421842,3744-5969,-
+PQ421842.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421842,3744-5969,-
+PQ421842.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421842,3744-5969,-
+PQ421842.3|,-,Coil,Coils,-,-,PQ421842,3744-5969,-
+PQ421842.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421842,3744-5969,-
+PQ421842.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421842,3744-5969,-
+PQ421842.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421842,3744-5969,-
+PQ421842.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421842,3744-5969,-
+PQ421842.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421842,3744-5969,-
+PQ421853.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,C-terminal region of a signal peptide.,Phobius,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,N-terminal region of a signal peptide.,Phobius,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,Hydrophobic region of a signal peptide.,Phobius,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,SignalP-TM,SignalP_GRAM_POSITIVE,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421853,3767-6097,-
+PQ421853.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421853,3767-6097,-
+PQ421853.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,Signal peptide region,Phobius,-,-,PQ421853,3767-6097,-
+PQ421853.3|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PQ421853,3767-6097,-
+PQ421853.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421853,3767-6097,-
+PQ421853.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421853,3767-6097,-
+PQ421853.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421853,3767-6097,-
+PQ055533.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055533,89-2068,+
+PQ055533.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055533,89-2068,+
+PQ055533.1|,-,Coil,Coils,-,-,PQ055533,89-2068,+
+PQ055533.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055533,89-2068,+
+PQ055533.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055533,89-2068,+
+PQ055533.1|,-,Coil,Coils,-,-,PQ055533,89-2068,+
+PQ055533.1|,-,-,Gene3D,-,-,PQ055533,89-2068,+
+PQ055533.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055533,89-2068,+
+PQ421843.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421843,4146-5924,+
+PQ421843.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421843,4146-5924,+
+PQ421843.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421843,4146-5924,+
+PQ421843.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421843,4146-5924,+
+PQ421843.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421843,4146-5924,+
+PQ421843.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421843,4146-5924,+
+PQ421843.3|,Viral coat protein subunit,-,Gene3D,-,-,PQ421843,4146-5924,+
+PQ421843.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421843,4146-5924,+
+PQ421843.3|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421843,4146-5924,+
+PQ055535.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055535,15-2306,+
+PQ055535.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055535,15-2306,+
+PQ055535.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055535,15-2306,+
+PQ055535.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055535,15-2306,+
+PQ055535.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055535,15-2306,+
+PQ055535.1|,Peptidase S1B,V8 serine protease family signature,PRINTS,-,-,PQ055535,15-2306,+
+PQ055535.1|,Peptidase S1B,V8 serine protease family signature,PRINTS,-,-,PQ055535,15-2306,+
+PQ055535.1|,Peptidase S1B,V8 serine protease family signature,PRINTS,-,-,PQ055535,15-2306,+
+PQ055535.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055535,15-2306,+
+PQ055535.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PQ055535,15-2306,+
+PQ055535.1|,-,Trypsin-like peptidase domain,Pfam,,1A,PQ055535,15-2306,+
+PQ055535.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055535,15-2306,+
+PQ055535.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055535,15-2306,+
+PQ055535.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055535,15-2306,+
+PQ055535.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055535,15-2306,+
+PQ055535.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055535,15-2306,+
+PQ055535.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055535,15-2306,+
+PQ055535.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ055535,15-2306,+
+PQ055535.1|,-,Coil,Coils,-,-,PQ055535,15-2306,+
+PQ161557.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,PQ161557,31-4254,+
+PQ161557.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,PQ161557,31-4254,+
+PQ161557.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ161557,31-4254,+
+PQ161557.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PQ161557,31-4254,+
+PQ161557.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,PQ161557,31-4254,+
+PQ161557.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ161557,31-4254,+
+PQ161557.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,PQ161557,31-4254,+
+PQ161557.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,PQ161557,31-4254,+
+PQ161557.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,PQ161557,31-4254,+
+PQ161557.1|,(+) RNA virus helicase core domain,(+)RNA virus helicase core domain profile.,ProSiteProfiles,-,-,PQ161557,31-4254,+
+PQ421854.1|,Viral coat protein subunit,-,Gene3D,-,-,PQ421854,154-1935,-
+PQ421854.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421854,154-1935,-
+PQ421854.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421854,154-1935,-
+PQ421854.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421854,154-1935,-
+PQ421854.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421854,154-1935,-
+PQ421854.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421854,154-1935,-
+PQ421854.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421854,154-1935,-
+PQ421854.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421854,154-1935,-
+PQ055536.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055536,3577-5322,+
+PQ055536.3|,Viral coat protein subunit,-,Gene3D,-,-,PQ055536,3577-5322,+
+PQ055536.3|,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,,Picorna,PQ055536,3577-5322,+
+PQ055536.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ055536,3577-5322,+
+PQ055536.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055536,3577-5322,+
+PQ055536.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055536,3577-5322,+
+PX289198.2|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,PX289198,3528-4814,+
+PX289198.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PX289198,3528-4814,+
+PX289198.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PX289198,3528-4814,+
+PX289198.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PX289198,3528-4814,+
+PX289198.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PX289198,3528-4814,+
+PQ421847.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421847,153-1943,-
+PQ421847.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421847,153-1943,-
+PQ421847.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421847,153-1943,-
+PQ421847.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421847,153-1943,-
+PQ421847.1|,Viral coat protein subunit,-,Gene3D,-,-,PQ421847,153-1943,-
+PQ421847.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421847,153-1943,-
+PQ421847.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421847,153-1943,-
+PQ421847.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421847,153-1943,-
+PQ421847.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421847,153-1943,-
+PQ055532.2|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PQ055532,2496-3995,+
+PQ055532.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055532,2496-3995,+
+PX395424.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PX395424,1-276,+
+PX395424.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PX395424,1-276,+
+PX395424.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX395424,1-276,+
+PX395424.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PX395424,1-276,+
+PX395424.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX395424,1-276,+
+PX395424.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PX395424,1-276,+
+PX395424.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PX395424,1-276,+
+PQ421854.3|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PQ421854,3751-6069,-
+PQ421854.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421854,3751-6069,-
+PQ421854.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421854,3751-6069,-
+PQ421854.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421854,3751-6069,-
+PQ421854.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421854,3751-6069,-
+PQ421854.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421854,3751-6069,-
+PQ421854.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421854,3751-6069,-
+PQ421854.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421854,3751-6069,-
+PQ421854.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421854,3751-6069,-
+PQ421854.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421854,3751-6069,-
+PQ421854.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421854,3751-6069,-
+PQ421854.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421854,3751-6069,-
+PQ421854.3|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,PQ421854,3751-6069,-
+PQ421854.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421854,3751-6069,-
+PQ421854.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421854,3751-6069,-
+PQ421854.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421854,3751-6069,-
+PQ421854.3|,-,SignalP-TM,SignalP_GRAM_POSITIVE,-,-,PQ421854,3751-6069,-
+PQ421854.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421854,3751-6069,-
+PQ421854.3|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ421854,3751-6069,-
+PX289197.3|,Viral coat protein subunit,-,Gene3D,-,-,PX289197,4589-6703,+
+PX289197.3|,-,consensus disorder prediction,MobiDBLite,-,-,PX289197,4589-6703,+
+PX289197.3|,-,consensus disorder prediction,MobiDBLite,-,-,PX289197,4589-6703,+
+PX289197.3|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PX289197,4589-6703,+
+PX289197.3|,"Capsid polyprotein VP90, C-terminal",C-terminal tail of astrovirus capsid projection or spike,Pfam,,2,PX289197,4589-6703,+
+PQ421841.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421841,1564-3051,+
+PQ421841.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ421841,1564-3051,+
+PQ421841.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421841,1564-3051,+
+PQ421845.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ421845,2101-3465,-
+PQ421845.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421845,2101-3465,-
+PQ421845.2|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,PQ421845,2101-3465,-
+PQ421845.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421845,2101-3465,-
+PQ421845.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ421845,2101-3465,-
+PQ421844.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ421844,2102-3466,-
+PQ421844.2|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,PQ421844,2102-3466,-
+PQ421844.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ421844,2102-3466,-
+PQ421844.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421844,2102-3466,-
+PQ421844.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421844,2102-3466,-
+PQ421847.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421847,2104-3309,-
+PQ421847.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421847,2104-3309,-
+PQ421847.2|,-,Signal peptide region,Phobius,-,-,PQ421847,2104-3309,-
+PQ421847.2|,-,N-terminal region of a signal peptide.,Phobius,-,-,PQ421847,2104-3309,-
+PQ421847.2|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,PQ421847,2104-3309,-
+PQ421847.2|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421847,2104-3309,-
+PQ421847.2|,-,C-terminal region of a signal peptide.,Phobius,-,-,PQ421847,2104-3309,-
+PQ421847.2|,-,Hydrophobic region of a signal peptide.,Phobius,-,-,PQ421847,2104-3309,-
+PQ421847.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ421847,2104-3309,-
+PQ421847.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ421847,2104-3309,-
+PQ055529.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055529,4444-6219,+
+PQ055529.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ055529,4444-6219,+
+PQ055529.2|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055529,4444-6219,+
+PQ055529.2|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055529,4444-6219,+
+PQ055529.2|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055529,4444-6219,+
+PQ055529.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055529,4444-6219,+
+PQ421845.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421845,159-1940,-
+PQ421845.1|,Viral coat protein subunit,-,Gene3D,-,-,PQ421845,159-1940,-
+PQ421845.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421845,159-1940,-
+PQ421845.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421845,159-1940,-
+PQ421845.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421845,159-1940,-
+PQ421845.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421845,159-1940,-
+PQ421845.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421845,159-1940,-
+PQ421845.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421845,159-1940,-
+PQ421845.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421845,159-1940,-
+PQ150499.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ150499,427-6450,+
+PQ150499.1|,-,AAA domain,Pfam,,Bastro,PQ150499,427-6450,+
+PQ150499.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ150499,427-6450,+
+PQ150499.1|,-,Coil,Coils,-,-,PQ150499,427-6450,+
+PQ150499.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,PQ150499,427-6450,+
+PQ150499.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ150499,427-6450,+
+PQ150499.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,PQ150499,427-6450,+
+PQ150499.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,PQ150499,427-6450,+
+PQ150499.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PQ150499,427-6450,+
+PQ055537.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055537,1888-3489,+
+PQ055537.2|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,PQ055537,1888-3489,+
+PQ055530.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055530,2474-4705,+
+PQ055530.3|,-,Coil,Coils,-,-,PQ055530,2474-4705,+
+PQ055530.3|,Viral coat protein subunit,-,Gene3D,-,-,PQ055530,2474-4705,+
+PQ055530.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055530,2474-4705,+
+PQ055530.3|,Phospholipase A2 domain superfamily,Phospholipase A2 domain,Gene3D,-,-,PQ055530,2474-4705,+
+PQ055530.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055530,2474-4705,+
+PQ055530.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ055530,2474-4705,+
+PQ055530.3|,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,,Picorna,PQ055530,2474-4705,+
+PQ055530.3|,-,Coil,Coils,-,-,PQ055530,2474-4705,+
+PX395422.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,PX395422,1-368,+
+PQ055528.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055528,4557-6113,+
+PQ055528.3|,"Icosahedral viral capsid protein, S domain",Viral coat protein (S domain),Pfam,,Picorna,PQ055528,4557-6113,+
+PQ055528.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ055528,4557-6113,+
+PQ055528.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055528,4557-6113,+
+PQ055528.3|,Viral coat protein subunit,-,Gene3D,-,-,PQ055528,4557-6113,+
+PQ421853.2|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421853,2112-3530,-
+PQ421853.2|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421853,2112-3530,-
+PQ421853.2|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421853,2112-3530,-
+PQ421853.2|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,PQ421853,2112-3530,-
+PQ421853.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ421853,2112-3530,-
+PQ421853.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ421853,2112-3530,-
+PQ421853.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ421853,2112-3530,-
+PQ421853.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ421853,2112-3530,-
+PQ421846.1|,Viral coat protein subunit,-,Gene3D,-,-,PQ421846,161-1942,-
+PQ421846.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ421846,161-1942,-
+PQ421846.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ421846,161-1942,-
+PQ421846.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ421846,161-1942,-
+PQ421846.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421846,161-1942,-
+PQ421846.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ421846,161-1942,-
+PQ421846.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,PQ421846,161-1942,-
+PQ421846.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ421846,161-1942,-
+PQ421846.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ421846,161-1942,-
+PQ055533.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055533,3692-5212,+
+PQ055533.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055533,3692-5212,+
+PQ055533.3|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,PQ055533,3692-5212,+
+PQ055533.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055533,3692-5212,+
+PQ055533.3|,Viral coat protein subunit,-,Gene3D,-,-,PQ055533,3692-5212,+
+PQ055533.3|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055533,3692-5212,+
+PQ055533.3|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,PQ055533,3692-5212,+
+PQ055533.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055533,3692-5212,+
+PQ055532.1|,-,C-terminal region of a signal peptide.,Phobius,-,-,PQ055532,102-2342,+
+PQ055532.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055532,102-2342,+
+PQ055532.1|,-,Hydrophobic region of a signal peptide.,Phobius,-,-,PQ055532,102-2342,+
+PQ055532.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055532,102-2342,+
+PQ055532.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055532,102-2342,+
+PQ055532.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055532,102-2342,+
+PQ055532.1|,-,Signal peptide region,Phobius,-,-,PQ055532,102-2342,+
+PQ055532.1|,-,N-terminal region of a signal peptide.,Phobius,-,-,PQ055532,102-2342,+
+PQ055532.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055532,102-2342,+
+PQ055532.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055532,102-2342,+
+PQ055532.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055532,102-2342,+
+PQ055538.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,PQ055538,7-3072,+
+PQ055538.1|,-,Coil,Coils,-,-,PQ055538,7-3072,+
+PQ055538.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,PQ055538,7-3072,+
+PQ055538.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055538,7-3072,+
+PQ055538.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,PQ055538,7-3072,+
+PQ055538.1|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055538,7-3072,+
+PQ055538.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,PQ055538,7-3072,+
+OQ709194.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ709194,59-1159,+
+OQ709194.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,OQ709194,59-1159,+
+OQ709194.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ709194,59-1159,+
+OQ709194.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,OQ709194,59-1159,+
+OQ709194.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,OQ709194,59-1159,+
+OQ709194.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OQ709194,59-1159,+
+OQ709194.1|,Picornavirales 3C/3C-like protease domain,Picornavirales 3C/3C-like protease domain profile.,ProSiteProfiles,-,-,OQ709194,59-1159,+
+PQ055524.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055524,5244-6668,+
+PQ055524.3|,Viral coat protein subunit,-,Gene3D,-,-,PQ055524,5244-6668,+
+PQ055524.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055524,5244-6668,+
+PQ055524.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055524,5244-6668,+
+PQ055524.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055524,5244-6668,+
+PQ055524.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055524,5244-6668,+
+PQ055524.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055524,5244-6668,+
+PQ055524.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055524,5244-6668,+
+PQ055524.3|,-,consensus disorder prediction,MobiDBLite,-,-,PQ055524,5244-6668,+
+OQ802757.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ802757,1-564,+
+OQ802757.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ802757,1-564,+
+OQ802714.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ802714,1-481,+
+OQ802714.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,OQ802714,1-481,+
+MW239205.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MW239205,1-1265,-
+MW239205.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MW239205,1-1265,-
+MW239205.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MW239205,1-1265,-
+MW239205.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,MW239205,1-1265,-
+MW239205.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MW239205,1-1265,-
+MW239205.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW239205,1-1265,-
+MW239205.1|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,MW239205,1-1265,-
+MW239205.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MW239205,1-1265,-
+MW239205.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MW239205,1-1265,-
+OQ709189.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OQ709189,301-2922,+
+OQ709189.1|,"Helicase, superfamily 3, single-stranded DNA/RNA virus",RNA helicase,Pfam,,1A,OQ709189,301-2922,+
+OQ709189.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OQ709189,301-2922,+
+OQ709189.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,OQ709189,301-2922,+
+OQ709189.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,OQ709189,301-2922,+
+OQ709189.1|,-,Poliovirus 3D polymerase  Domain 1 (Nucleotidyltransferase),Gene3D,-,-,OQ709189,301-2922,+
+OQ709189.1|,"Poliovirus core protein 3a, soluble domain",Soluble domain of poliovirus core protein 3a,SUPERFAMILY,,Picorna,OQ709189,301-2922,+
+OQ709189.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ709189,301-2922,+
+OQ709189.1|,-,-,Gene3D,-,-,OQ709189,301-2922,+
+OQ709189.1|,"Helicase, superfamily 3, single-stranded RNA virus",Superfamily 3 helicase of positive ssRNA viruses domain profile.,ProSiteProfiles,-,-,OQ709189,301-2922,+
+OQ709189.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ709189,301-2922,+
+OQ709189.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OQ709189,301-2922,+
+OQ709189.1|,"Poliovirus core protein 3a, soluble domain",-,Gene3D,-,-,OQ709189,301-2922,+
+OQ709189.1|,Poliovirus 3A protein-like,Poliovirus 3A protein like,Pfam,,Picorna,OQ709189,301-2922,+
+OQ709189.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OQ709189,301-2922,+
+OQ709189.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,OQ709189,301-2922,+
+OQ709189.1|,Picornavirales 3C/3C-like protease domain,Picornavirales 3C/3C-like protease domain profile.,ProSiteProfiles,-,-,OQ709189,301-2922,+
+OM954095.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,OM954095,125-2841,+
+OM954095.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,OM954095,125-2841,+
+OM954095.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,OM954095,125-2841,+
+OM954095.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,OM954095,125-2841,+
+OM954095.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OM954095,125-2841,+
+MW645022.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MW645022,1-2463,+
+MW645022.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MW645022,1-2463,+
+MW645022.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MW645022,1-2463,+
+MW645022.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MW645022,1-2463,+
+MW645022.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,MW645022,1-2463,+
+Z11682.1|,-,consensus disorder prediction,MobiDBLite,-,-,Z11682,1-954,+
+Z11682.1|,Turkey astrovirus capsid protein,Turkey astrovirus capsid protein,Pfam,-,-,Z11682,1-954,+
+HUA3TERMS.1|,-,consensus disorder prediction,MobiDBLite,-,-,HUA3TERMS,,
+HUA3TERMS.1|,Turkey astrovirus capsid protein,Turkey astrovirus capsid protein,Pfam,-,-,HUA3TERMS,,
+MW924356.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MW924356,1-846,+
+MW924356.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW924356,1-846,+
+OP413956.2|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,OP413956,2610-4061,+
+OP413956.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OP413956,2610-4061,+
+OP413956.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OP413956,2610-4061,+
+OP413956.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,OP413956,2610-4061,+
+OP413956.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,OP413956,2610-4061,+
+MW924358.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MW924358,1-1280,+
+MW924358.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW924358,1-1280,+
+MW924358.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MW924358,1-1280,+
+AY831433.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,AY831433,1-685,+
+AY831433.1|,-,Trypsin-like peptidase domain,Pfam,,1A,AY831433,1-685,+
+AY831433.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,AY831433,1-685,+
+AY831433.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,AY831433,1-685,+
+DQ327612.1|,"Non-structural protein NS3, peptidase S7, flavivirus","Peptidase S7, Flavivirus NS3 serine protease",Pfam,-,-,DQ327612,1-465,+
+DQ327612.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,DQ327612,1-465,+
+DQ327612.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327612,1-465,+
+DQ327612.1|,-,Coil,Coils,-,-,DQ327612,1-465,+
+OQ709192.1|,-,Poliovirus 3D polymerase  Domain 1 (Nucleotidyltransferase),Gene3D,-,-,OQ709192,80-1588,+
+OQ709192.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OQ709192,80-1588,+
+OQ709192.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ709192,80-1588,+
+OQ709192.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,OQ709192,80-1588,+
+OQ709192.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,OQ709192,80-1588,+
+OQ709192.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ709192,80-1588,+
+OQ709192.1|,-,-,Gene3D,-,-,OQ709192,80-1588,+
+DQ327615.1|,"Non-structural protein NS3, peptidase S7, flavivirus","Peptidase S7, Flavivirus NS3 serine protease",Pfam,-,-,DQ327615,1-465,+
+DQ327615.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327615,1-465,+
+DQ327615.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,DQ327615,1-465,+
+DQ327615.1|,-,Coil,Coils,-,-,DQ327615,1-465,+
+HUAIMMREAA.1|,-,consensus disorder prediction,MobiDBLite,-,-,HUAIMMREAA,,
+HUAIMMREAA.1|,Mamastrovirus p20 protein,Astroviridae polyprotein 1,Pfam,-,-,HUAIMMREAA,,
+MG846413.1|,-,Coil,Coils,-,-,MG846413,1-1162,+
+MG846413.1|,-,consensus disorder prediction,MobiDBLite,-,-,MG846413,1-1162,+
+MG846413.1|,-,Coil,Coils,-,-,MG846413,1-1162,+
+MG846413.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,MG846413,1-1162,+
+MG846413.1|,-,consensus disorder prediction,MobiDBLite,-,-,MG846413,1-1162,+
+MG846413.1|,-,consensus disorder prediction,MobiDBLite,-,-,MG846413,1-1162,+
+HUAIMMREAB.1|,Turkey astrovirus capsid protein,Turkey astrovirus capsid protein,Pfam,-,-,HUAIMMREAB,,
+DQ327608.1|,"Non-structural protein NS3, peptidase S7, flavivirus","Peptidase S7, Flavivirus NS3 serine protease",Pfam,-,-,DQ327608,1-465,+
+DQ327608.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327608,1-465,+
+DQ327608.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,DQ327608,1-465,+
+DQ327608.1|,-,Coil,Coils,-,-,DQ327608,1-465,+
+OR234607.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,OR234607,1-1551,+
+OR234607.1|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,OR234607,1-1551,+
+OR234607.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,OR234607,1-1551,+
+OR234607.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OR234607,1-1551,+
+OR234607.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OR234607,1-1551,+
+DQ327611.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,DQ327611,1-465,+
+DQ327611.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327611,1-465,+
+DQ327611.1|,"Non-structural protein NS3, peptidase S7, flavivirus","Peptidase S7, Flavivirus NS3 serine protease",Pfam,-,-,DQ327611,1-465,+
+DQ327611.1|,-,Coil,Coils,-,-,DQ327611,1-465,+
+OK483336.1|,-,consensus disorder prediction,MobiDBLite,-,-,OK483336,1-355,+
+OK483336.1|,-,consensus disorder prediction,MobiDBLite,-,-,OK483336,1-355,+
+OK483336.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,OK483336,1-355,+
+OK483335.1|,-,consensus disorder prediction,MobiDBLite,-,-,OK483335,1-355,+
+OK483335.1|,-,consensus disorder prediction,MobiDBLite,-,-,OK483335,1-355,+
+OK483335.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,OK483335,1-355,+
+DQ327610.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327610,1-465,+
+DQ327610.1|,"Non-structural protein NS3, peptidase S7, flavivirus","Peptidase S7, Flavivirus NS3 serine protease",Pfam,-,-,DQ327610,1-465,+
+DQ327610.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,DQ327610,1-465,+
+DQ327610.1|,-,Coil,Coils,-,-,DQ327610,1-465,+
+DQ327613.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327613,1-465,+
+DQ327613.1|,"Non-structural protein NS3, peptidase S7, flavivirus","Peptidase S7, Flavivirus NS3 serine protease",Pfam,-,-,DQ327613,1-465,+
+DQ327613.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,DQ327613,1-465,+
+DQ327613.1|,-,Coil,Coils,-,-,DQ327613,1-465,+
+DQ327618.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327618,1-465,+
+DQ327618.1|,"Non-structural protein NS3, peptidase S7, flavivirus","Peptidase S7, Flavivirus NS3 serine protease",Pfam,-,-,DQ327618,1-465,+
+DQ327618.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,DQ327618,1-465,+
+DQ327618.1|,-,Coil,Coils,-,-,DQ327618,1-465,+
+OQ802763.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OQ802763,1-1697,+
+OQ802763.1|,(+) RNA virus helicase core domain,(+)RNA virus helicase core domain profile.,ProSiteProfiles,-,-,OQ802763,1-1697,+
+OQ802763.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ802763,1-1697,+
+OQ802763.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,OQ802763,1-1697,+
+OQ802763.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,OQ802763,1-1697,+
+OQ802763.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,OQ802763,1-1697,+
+OQ802763.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,OQ802763,1-1697,+
+MZ182271.1|,Macro domain-like,"Leucine Aminopeptidase, subunit E, domain 1",Gene3D,-,-,MZ182271,21-5030,+
+MZ182271.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MZ182271,21-5030,+
+MZ182271.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MZ182271,21-5030,+
+MZ182271.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MZ182271,21-5030,+
+MZ182271.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MZ182271,21-5030,+
+MZ182271.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MZ182271,21-5030,+
+MZ182271.1|,Macro domain-like,Macro domain-like,SUPERFAMILY,,DontKnow,MZ182271,21-5030,+
+MW924356.2|,-,consensus disorder prediction,MobiDBLite,-,-,MW924356,872-1924,+
+MW924356.2|,Viral coat protein subunit,-,Gene3D,-,-,MW924356,872-1924,+
+MW924356.2|,-,consensus disorder prediction,MobiDBLite,-,-,MW924356,872-1924,+
+MW924356.2|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,MW924356,872-1924,+
+MW924356.2|,-,consensus disorder prediction,MobiDBLite,-,-,MW924356,872-1924,+
+OM953852.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OM953852,16-4485,+
+OM953852.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,OM953852,16-4485,+
+OM953852.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,OM953852,16-4485,+
+OM953852.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,OM953852,16-4485,+
+OM953852.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,OM953852,16-4485,+
+OM953852.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,OM953852,16-4485,+
+OM953852.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,OM953852,16-4485,+
+OM953852.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OM953852,16-4485,+
+OM953852.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OM953852,16-4485,+
+OR645486.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OR645486,1-572,+
+OR645486.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OR645486,1-572,+
+OP413950.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OP413950,2641-4092,+
+OP413950.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OP413950,2641-4092,+
+OP413950.2|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,OP413950,2641-4092,+
+OP413950.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,OP413950,2641-4092,+
+OP413950.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,OP413950,2641-4092,+
+OQ709193.1|,-,Crohivirus_RdRp,CDD,-,-,OQ709193,517-7025,+
+OQ709193.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OQ709193,517-7025,+
+OQ709193.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OQ709193,517-7025,+
+OQ709193.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,OQ709193,517-7025,+
+OQ709193.1|,Viral coat protein subunit,-,Gene3D,-,-,OQ709193,517-7025,+
+OQ709193.1|,Picornavirus capsid,picornavirus capsid protein,Pfam,,Picorna,OQ709193,517-7025,+
+OQ709193.1|,Picornavirus capsid,picornavirus capsid protein,Pfam,,Picorna,OQ709193,517-7025,+
+OQ709193.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ709193,517-7025,+
+OQ709193.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OQ709193,517-7025,+
+OQ709193.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,OQ709193,517-7025,+
+OQ709193.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OQ709193,517-7025,+
+OQ709193.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,OQ709193,517-7025,+
+OQ709193.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,OQ709193,517-7025,+
+OQ709193.1|,"Helicase, superfamily 3, single-stranded DNA/RNA virus",RNA helicase,Pfam,,1A,OQ709193,517-7025,+
+OQ709193.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,OQ709193,517-7025,+
+OQ709193.1|,"Helicase/polymerase/peptidase polyprotein, Calicivirus-type",Calicivirus non-structural polyprotein family signature,PRINTS,-,-,OQ709193,517-7025,+
+OQ709193.1|,"Helicase/polymerase/peptidase polyprotein, Calicivirus-type",Calicivirus non-structural polyprotein family signature,PRINTS,-,-,OQ709193,517-7025,+
+OQ709193.1|,"Helicase/polymerase/peptidase polyprotein, Calicivirus-type",Calicivirus non-structural polyprotein family signature,PRINTS,-,-,OQ709193,517-7025,+
+OQ709193.1|,"Helicase/polymerase/peptidase polyprotein, Calicivirus-type",Calicivirus non-structural polyprotein family signature,PRINTS,-,-,OQ709193,517-7025,+
+OQ709193.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ709193,517-7025,+
+OQ709193.1|,Picornavirus/Calicivirus coat protein,rhv_like,CDD,-,-,OQ709193,517-7025,+
+OQ709193.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,OQ709193,517-7025,+
+OQ709193.1|,Picornavirus/Calicivirus coat protein,rhv_like,CDD,-,-,OQ709193,517-7025,+
+OQ709193.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,OQ709193,517-7025,+
+OQ709193.1|,-,consensus disorder prediction,MobiDBLite,-,-,OQ709193,517-7025,+
+OQ709193.1|,-,consensus disorder prediction,MobiDBLite,-,-,OQ709193,517-7025,+
+OQ709193.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,OQ709193,517-7025,+
+OQ709193.1|,Viral coat protein subunit,-,Gene3D,-,-,OQ709193,517-7025,+
+ON932807.1|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,ON932807,1-1372,+
+ON932807.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,ON932807,1-1372,+
+ON932807.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,ON932807,1-1372,+
+ON932807.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,ON932807,1-1372,+
+MT896155.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MT896155,1-802,+
+MT896155.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MT896155,1-802,+
+MT896155.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MT896155,1-802,+
+MT896155.1|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,MT896155,1-802,+
+MT896155.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MT896155,1-802,+
+MT568535.2|,Viral coat protein subunit,-,Gene3D,-,-,MT568535,4261-5243,+
+MT568535.2|,-,consensus disorder prediction,MobiDBLite,-,-,MT568535,4261-5243,+
+MT568535.2|,-,consensus disorder prediction,MobiDBLite,-,-,MT568535,4261-5243,+
+MT568535.2|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,MT568535,4261-5243,+
+MZ443626.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MZ443626,50-4276,+
+MZ443626.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MZ443626,50-4276,+
+MZ443626.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MZ443626,50-4276,+
+MZ443626.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MZ443626,50-4276,+
+MZ443626.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MZ443626,50-4276,+
+MZ443626.1|,(+) RNA virus helicase core domain,(+)RNA virus helicase core domain profile.,ProSiteProfiles,-,-,MZ443626,50-4276,+
+MZ443626.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MZ443626,50-4276,+
+MZ443626.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,MZ443626,50-4276,+
+MZ443626.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MZ443626,50-4276,+
+MZ443626.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MZ443626,50-4276,+
+DQ327617.1|,"Non-structural protein NS3, peptidase S7, flavivirus","Peptidase S7, Flavivirus NS3 serine protease",Pfam,-,-,DQ327617,1-465,+
+DQ327617.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,DQ327617,1-465,+
+DQ327617.1|,-,Coil,Coils,-,-,DQ327617,1-465,+
+DQ327617.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327617,1-465,+
+PQ055524.2|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,PQ055524,3488-5317,+
+PQ055524.2|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,PQ055524,3488-5317,+
+PQ055524.2|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,PQ055524,3488-5317,+
+PQ055524.2|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,PQ055524,3488-5317,+
+OR234613.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,OR234613,1-1542,+
+OR234613.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OR234613,1-1542,+
+OR234613.1|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,OR234613,1-1542,+
+OR234613.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OR234613,1-1542,+
+OR234613.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,OR234613,1-1542,+
+OQ709188.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,OQ709188,162-1621,+
+OQ709188.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OQ709188,162-1621,+
+OQ709188.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ709188,162-1621,+
+OQ709188.1|,Picornavirales 3C/3C-like protease domain,Picornavirales 3C/3C-like protease domain profile.,ProSiteProfiles,-,-,OQ709188,162-1621,+
+OQ709188.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ709188,162-1621,+
+OQ709188.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,OQ709188,162-1621,+
+OQ709188.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,OQ709188,162-1621,+
+OQ709188.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,OQ709188,162-1621,+
+OM953853.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,OM953853,99-1535,+
+OM953853.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,OM953853,99-1535,+
+OM953853.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OM953853,99-1535,+
+MW924357.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MW924357,1-1236,+
+MW924357.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MW924357,1-1236,+
+MW924357.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW924357,1-1236,+
+MN841288.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MN841288,841-6864,+
+MN841288.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MN841288,841-6864,+
+MN841288.1|,-,AAA domain,Pfam,,Bastro,MN841288,841-6864,+
+MN841288.1|,-,Coil,Coils,-,-,MN841288,841-6864,+
+MN841288.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,MN841288,841-6864,+
+MN841288.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MN841288,841-6864,+
+MN841288.1|,-,consensus disorder prediction,MobiDBLite,-,-,MN841288,841-6864,+
+MN841288.1|,-,consensus disorder prediction,MobiDBLite,-,-,MN841288,841-6864,+
+MN841288.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MN841288,841-6864,+
+OM514376.2|,"Peptidase A6, nodavirus coat protein",Peptidase A6 family,Pfam,,Specific,OM514376,2128-3561,+
+OM514376.2|,-,consensus disorder prediction,MobiDBLite,-,-,OM514376,2128-3561,+
+OM514376.2|,Viral coat protein subunit,-,Gene3D,-,-,OM514376,2128-3561,+
+MW239194.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW239194,1-1246,-
+MW239194.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MW239194,1-1246,-
+MW239194.1|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,MW239194,1-1246,-
+MW239194.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MW239194,1-1246,-
+OP413956.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OP413956,1-2589,+
+OP413956.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,OP413956,1-2589,+
+OP413956.1|,-,consensus disorder prediction,MobiDBLite,-,-,OP413956,1-2589,+
+OP413956.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OP413956,1-2589,+
+OP413956.1|,-,Trypsin-like peptidase domain,Pfam,,1A,OP413956,1-2589,+
+OP413956.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OP413956,1-2589,+
+OP413956.1|,-,consensus disorder prediction,MobiDBLite,-,-,OP413956,1-2589,+
+OP413956.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,OP413956,1-2589,+
+OP413956.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OP413956,1-2589,+
+OP413956.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,OP413956,1-2589,+
+OP413956.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,OP413956,1-2589,+
+OP413956.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OP413956,1-2589,+
+OP413956.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,OP413956,1-2589,+
+OP413956.1|,Astrovirus transmembrane protein 1A,Astrovirus transmembrane protein 1A,Pfam,,1A,OP413956,1-2589,+
+OP413956.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OP413956,1-2589,+
+OP413956.1|,-,consensus disorder prediction,MobiDBLite,-,-,OP413956,1-2589,+
+OP413956.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,OP413956,1-2589,+
+OP413956.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,OP413956,1-2589,+
+OP413956.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OP413956,1-2589,+
+OP413956.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OP413956,1-2589,+
+OP413956.1|,-,Coil,Coils,-,-,OP413956,1-2589,+
+OP413956.1|,-,Coil,Coils,-,-,OP413956,1-2589,+
+OP413956.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OP413956,1-2589,+
+OP413956.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,OP413956,1-2589,+
+OP413956.1|,-,consensus disorder prediction,MobiDBLite,-,-,OP413956,1-2589,+
+OP413956.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OP413956,1-2589,+
+OM514376.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,OM514376,189-1676,+
+OM514376.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OM514376,189-1676,+
+OM514376.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,OM514376,189-1676,+
+OM514376.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OM514376,189-1676,+
+MW346737.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MW346737,24-4268,+
+MW346737.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MW346737,24-4268,+
+MW346737.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MW346737,24-4268,+
+MW346737.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,MW346737,24-4268,+
+MW346737.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MW346737,24-4268,+
+MW346737.1|,(+) RNA virus helicase core domain,(+)RNA virus helicase core domain profile.,ProSiteProfiles,-,-,MW346737,24-4268,+
+MW346737.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MW346737,24-4268,+
+MW346737.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MW346737,24-4268,+
+MW346737.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW346737,24-4268,+
+MW346737.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MW346737,24-4268,+
+DQ327614.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,DQ327614,1-465,+
+DQ327614.1|,"Non-structural protein NS3, peptidase S7, flavivirus","Peptidase S7, Flavivirus NS3 serine protease",Pfam,-,-,DQ327614,1-465,+
+DQ327614.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327614,1-465,+
+DQ327614.1|,-,Coil,Coils,-,-,DQ327614,1-465,+
+OP413950.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,OP413950,29-2620,+
+OP413950.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,OP413950,29-2620,+
+OP413950.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OP413950,29-2620,+
+OP413950.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OP413950,29-2620,+
+OP413950.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,OP413950,29-2620,+
+OP413950.1|,-,Coil,Coils,-,-,OP413950,29-2620,+
+OP413950.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OP413950,29-2620,+
+OP413950.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,OP413950,29-2620,+
+OP413950.1|,-,consensus disorder prediction,MobiDBLite,-,-,OP413950,29-2620,+
+OP413950.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OP413950,29-2620,+
+OP413950.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OP413950,29-2620,+
+OP413950.1|,-,Coil,Coils,-,-,OP413950,29-2620,+
+OP413950.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OP413950,29-2620,+
+OP413950.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OP413950,29-2620,+
+OP413950.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,OP413950,29-2620,+
+OP413950.1|,-,consensus disorder prediction,MobiDBLite,-,-,OP413950,29-2620,+
+OP413950.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OP413950,29-2620,+
+OP413950.1|,Astrovirus transmembrane protein 1A,Astrovirus transmembrane protein 1A,Pfam,,1A,OP413950,29-2620,+
+OP413950.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,OP413950,29-2620,+
+OP413950.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,OP413950,29-2620,+
+OP413950.1|,-,Trypsin-like peptidase domain,Pfam,,1A,OP413950,29-2620,+
+OP413950.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,OP413950,29-2620,+
+OP413950.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OP413950,29-2620,+
+OP413950.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OP413950,29-2620,+
+OP413950.1|,-,consensus disorder prediction,MobiDBLite,-,-,OP413950,29-2620,+
+OQ709191.1|,Viral coat protein subunit,-,Gene3D,-,-,OQ709191,202-6465,+
+OQ709191.1|,Picornavirus capsid,picornavirus capsid protein,Pfam,,Picorna,OQ709191,202-6465,+
+OQ709191.1|,Picornavirus/Calicivirus coat protein,rhv_like,CDD,-,-,OQ709191,202-6465,+
+OQ709191.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,OQ709191,202-6465,+
+OQ709191.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,OQ709191,202-6465,+
+OQ709191.1|,"Helicase, superfamily 3, single-stranded DNA/RNA virus",RNA helicase,Pfam,,1A,OQ709191,202-6465,+
+OQ709191.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OQ709191,202-6465,+
+OQ709191.1|,-,-,Gene3D,-,-,OQ709191,202-6465,+
+OQ709191.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OQ709191,202-6465,+
+OQ709191.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,OQ709191,202-6465,+
+OQ709191.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,OQ709191,202-6465,+
+OQ709191.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OQ709191,202-6465,+
+OQ709191.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OQ709191,202-6465,+
+OQ709191.1|,Picornavirales 3C/3C-like protease domain,Picornavirales 3C/3C-like protease domain profile.,ProSiteProfiles,-,-,OQ709191,202-6465,+
+OQ709191.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ709191,202-6465,+
+OQ709191.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OQ709191,202-6465,+
+OQ709191.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,OQ709191,202-6465,+
+OQ709191.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,OQ709191,202-6465,+
+OQ709191.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,OQ709191,202-6465,+
+OQ709191.1|,-,Coil,Coils,-,-,OQ709191,202-6465,+
+OQ709191.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OQ709191,202-6465,+
+OQ709191.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OQ709191,202-6465,+
+OQ709191.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,OQ709191,202-6465,+
+OQ709191.1|,"Helicase, superfamily 3, single-stranded RNA virus",Superfamily 3 helicase of positive ssRNA viruses domain profile.,ProSiteProfiles,-,-,OQ709191,202-6465,+
+OQ709191.1|,Calicivirus coat protein,Calicivirus coat protein,Pfam,,Calici,OQ709191,202-6465,+
+OQ709191.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,OQ709191,202-6465,+
+OQ709191.1|,Viral coat protein subunit,-,Gene3D,-,-,OQ709191,202-6465,+
+OQ709191.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,OQ709191,202-6465,+
+OQ709191.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ709191,202-6465,+
+AY027809.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,AY027809,1-289,+
+AY027809.1|,Astrovirus transmembrane protein 1A,Astrovirus transmembrane protein 1A,Pfam,,1A,AY027809,1-289,+
+KM408170.1|,Viral coat protein subunit,-,Gene3D,-,-,KM408170,1-270,+
+KM408170.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,KM408170,1-270,+
+MW239195.1|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,MW239195,1-1233,-
+MW239195.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MW239195,1-1233,-
+MW239195.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MW239195,1-1233,-
+MW239195.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MW239195,1-1233,-
+MW239195.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW239195,1-1233,-
+KM408171.1|,Viral coat protein subunit,-,Gene3D,-,-,KM408171,1-422,+
+KM408171.1|,"Astrovirus capsid protein, inner core domain",Astrovirus capsid protein nucleoplasmin-like domain,Pfam,,2,KM408171,1-422,+
+MZ182272.1|,Macro domain-like,"Leucine Aminopeptidase, subunit E, domain 1",Gene3D,-,-,MZ182272,29-3325,+
+MZ182272.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MZ182272,29-3325,+
+MZ182272.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,MZ182272,29-3325,+
+MZ182272.1|,Macro domain-like,Macro domain-like,SUPERFAMILY,,DontKnow,MZ182272,29-3325,+
+MT896156.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MT896156,1-792,+
+MT896156.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MT896156,1-792,+
+MT896156.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MT896156,1-792,+
+MT896156.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MT896156,1-792,+
+DQ327616.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,DQ327616,1-465,+
+DQ327616.1|,"Non-structural protein NS3, peptidase S7, flavivirus","Peptidase S7, Flavivirus NS3 serine protease",Pfam,-,-,DQ327616,1-465,+
+DQ327616.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327616,1-465,+
+DQ327616.1|,-,Coil,Coils,-,-,DQ327616,1-465,+
+MW239289.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MW239289,1-735,+
+MW239289.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MW239289,1-735,+
+MW239289.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MW239289,1-735,+
+MW239289.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW239289,1-735,+
+MW239289.1|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,MW239289,1-735,+
+MZ443626.2|,Viral coat protein subunit,-,Gene3D,-,-,MZ443626,4240-5370,+
+MZ443626.2|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,MZ443626,4240-5370,+
+MZ443626.2|,-,consensus disorder prediction,MobiDBLite,-,-,MZ443626,4240-5370,+
+MZ443626.2|,-,consensus disorder prediction,MobiDBLite,-,-,MZ443626,4240-5370,+
+MW239381.1|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,MW239381,1-831,+
+MW239381.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MW239381,1-831,+
+MW239381.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MW239381,1-831,+
+MW239381.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MW239381,1-831,+
+MW239381.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW239381,1-831,+
+MW239504.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,MW239504,6-1099,+
+MW239504.1|,-,ps-ssRNAv_Astroviridae_RdRp,CDD,-,-,MW239504,6-1099,+
+MW239504.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MW239504,6-1099,+
+MW239504.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,MW239504,6-1099,+
+MW239504.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW239504,6-1099,+
+OQ802761.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,OQ802761,75-4484,+
+OQ802761.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,OQ802761,75-4484,+
+OQ802761.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,OQ802761,75-4484,+
+OQ802761.1|,(+) RNA virus helicase core domain,(+)RNA virus helicase core domain profile.,ProSiteProfiles,-,-,OQ802761,75-4484,+
+OQ802761.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ802761,75-4484,+
+OQ802761.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OQ802761,75-4484,+
+OQ802761.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,OQ802761,75-4484,+
+OQ802761.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,OQ802761,75-4484,+
+OQ802761.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,OQ802761,75-4484,+
+OQ802761.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,OQ802761,75-4484,+
+KX290465.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,KX290465,652-7407,+
+KX290465.1|,Picornavirus capsid,picornavirus capsid protein,Pfam,,Picorna,KX290465,652-7407,+
+KX290465.1|,Picornavirus capsid,picornavirus capsid protein,Pfam,,Picorna,KX290465,652-7407,+
+KX290465.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,KX290465,652-7407,+
+KX290465.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,KX290465,652-7407,+
+KX290465.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,KX290465,652-7407,+
+KX290465.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,KX290465,652-7407,+
+KX290465.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,KX290465,652-7407,+
+KX290465.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,KX290465,652-7407,+
+KX290465.1|,Viral coat protein subunit,-,Gene3D,-,-,KX290465,652-7407,+
+KX290465.1|,Picornavirus/Calicivirus coat protein,rhv_like,CDD,-,-,KX290465,652-7407,+
+KX290465.1|,Picornavirales 3C/3C-like protease domain,Picornavirales 3C/3C-like protease domain profile.,ProSiteProfiles,-,-,KX290465,652-7407,+
+KX290465.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,KX290465,652-7407,+
+KX290465.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,KX290465,652-7407,+
+KX290465.1|,"Helicase/polymerase/peptidase polyprotein, Calicivirus-type",Calicivirus non-structural polyprotein family signature,PRINTS,-,-,KX290465,652-7407,+
+KX290465.1|,"Helicase/polymerase/peptidase polyprotein, Calicivirus-type",Calicivirus non-structural polyprotein family signature,PRINTS,-,-,KX290465,652-7407,+
+KX290465.1|,GTPase GIMA/IAN/Toc,"GTPASE, IMAP FAMILY MEMBER-RELATED",PANTHER,-,-,KX290465,652-7407,+
+KX290465.1|,-,-,Gene3D,-,-,KX290465,652-7407,+
+KX290465.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,KX290465,652-7407,+
+KX290465.1|,"Helicase, superfamily 3, single-stranded DNA/RNA virus",RNA helicase,Pfam,,1A,KX290465,652-7407,+
+KX290465.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,KX290465,652-7407,+
+KX290465.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,KX290465,652-7407,+
+KX290465.1|,-,consensus disorder prediction,MobiDBLite,-,-,KX290465,652-7407,+
+KX290465.1|,Picornavirus/Calicivirus coat protein,rhv_like,CDD,-,-,KX290465,652-7407,+
+KX290465.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,KX290465,652-7407,+
+KX290465.1|,"Helicase, superfamily 3, single-stranded RNA virus",Superfamily 3 helicase of positive ssRNA viruses domain profile.,ProSiteProfiles,-,-,KX290465,652-7407,+
+KX290465.1|,-,consensus disorder prediction,MobiDBLite,-,-,KX290465,652-7407,+
+KX290465.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,KX290465,652-7407,+
+KX290465.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,KX290465,652-7407,+
+KX290465.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,KX290465,652-7407,+
+KX290465.1|,-,ps-ssRNA_Picornaviridae,CDD,-,-,KX290465,652-7407,+
+KX290465.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,KX290465,652-7407,+
+KX290465.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,KX290465,652-7407,+
+KX290465.1|,AIG1-type guanine nucleotide-binding (G) domain,AIG1 family,Pfam,,Specific,KX290465,652-7407,+
+KX290465.1|,Viral coat protein subunit,-,Gene3D,-,-,KX290465,652-7407,+
+KX290465.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,KX290465,652-7407,+
+KX290465.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,KX290465,652-7407,+
+OQ709190.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,OQ709190,89-2369,+
+OQ709190.1|,"RNA-directed RNA polymerase, C-terminal domain",Viral RNA-dependent RNA polymerase,Pfam,,1B,OQ709190,89-2369,+
+OQ709190.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,OQ709190,89-2369,+
+OQ709190.1|,"Peptidase C3A/C3B, picornaviral",3C cysteine protease (picornain 3C),Pfam,,Picorna,OQ709190,89-2369,+
+OQ709190.1|,Picornavirales 3C/3C-like protease domain,Picornavirales 3C/3C-like protease domain profile.,ProSiteProfiles,-,-,OQ709190,89-2369,+
+OQ709190.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,OQ709190,89-2369,+
+OQ709190.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,OQ709190,89-2369,+
+OQ709190.1|,"Viral polyprotein, parechovirus P3A",Picornaviridae P3A protein,Pfam,,Picorna,OQ709190,89-2369,+
+OQ709190.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,TMHMM,-,-,OQ709190,89-2369,+
+OQ709190.1|,Reverse transcriptase/Diguanylate cyclase domain,-,Gene3D,-,-,OQ709190,89-2369,+
+OQ709190.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ709190,89-2369,+
+OQ709190.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,OQ709190,89-2369,+
+OQ709190.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,OQ709190,89-2369,+
+NC_040647.1|,-,consensus disorder prediction,MobiDBLite,-,-,NC_040647,64-5349,+
+NC_040647.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,NC_040647,64-5349,+
+NC_040647.1|,-,consensus disorder prediction,MobiDBLite,-,-,NC_040647,64-5349,+
+NC_040647.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,NC_040647,64-5349,+
+NC_040647.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,NC_040647,64-5349,+
+NC_040647.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,NC_040647,64-5349,+
+NC_040647.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,NC_040647,64-5349,+
+NC_040647.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,NC_040647,64-5349,+
+NC_040647.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,NC_040647,64-5349,+
+NC_040647.1|,Viral coat protein subunit,-,Gene3D,-,-,NC_040647,64-5349,+
+NC_040647.1|,(+) RNA virus helicase core domain,(+)RNA virus helicase core domain profile.,ProSiteProfiles,-,-,NC_040647,64-5349,+
+NC_040647.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,NC_040647,64-5349,+
+NC_040647.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,NC_040647,64-5349,+
+NC_040647.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,NC_040647,64-5349,+
+NC_040647.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,NC_040647,64-5349,+
+NC_040647.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,NC_040647,64-5349,+
+NC_040647.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,NC_040647,64-5349,+
+MH188020.1|,-,consensus disorder prediction,MobiDBLite,-,-,MH188020,64-5349,+
+MH188020.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MH188020,64-5349,+
+MH188020.1|,-,consensus disorder prediction,MobiDBLite,-,-,MH188020,64-5349,+
+MH188020.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MH188020,64-5349,+
+MH188020.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",Phobius,-,-,MH188020,64-5349,+
+MH188020.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MH188020,64-5349,+
+MH188020.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MH188020,64-5349,+
+MH188020.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MH188020,64-5349,+
+MH188020.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,MH188020,64-5349,+
+MH188020.1|,Viral coat protein subunit,-,Gene3D,-,-,MH188020,64-5349,+
+MH188020.1|,(+) RNA virus helicase core domain,(+)RNA virus helicase core domain profile.,ProSiteProfiles,-,-,MH188020,64-5349,+
+MH188020.1|,-,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",Phobius,-,-,MH188020,64-5349,+
+MH188020.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MH188020,64-5349,+
+MH188020.1|,-,Positive stranded ssRNA viruses,SUPERFAMILY,,NotSpecific,MH188020,64-5349,+
+MH188020.1|,-,Region of a membrane-bound protein predicted to be embedded in the membrane.,Phobius,-,-,MH188020,64-5349,+
+MH188020.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MH188020,64-5349,+
+MH188020.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MH188020,64-5349,+
+MW853972.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MW853972,1-3630,+
+MW853972.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,MW853972,1-3630,+
+MW853972.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MW853972,1-3630,+
+MW853972.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW853972,1-3630,+
+MW853972.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MW853972,1-3630,+
+MW853972.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MW853972,1-3630,+
+MW853972.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MW853972,1-3630,+
+MW853972.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MW853972,1-3630,+
+MW853972.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MW853972,1-3630,+
+MW853972.1|,(+) RNA virus helicase core domain,(+)RNA virus helicase core domain profile.,ProSiteProfiles,-,-,MW853972,1-3630,+
+MZ291967.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,MZ291967,225-2311,+
+MZ291967.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MZ291967,225-2311,+
+KC411816.1|,"Non-structural protein NS3, peptidase S7, flavivirus","Peptidase S7, Flavivirus NS3 serine protease",Pfam,-,-,KC411816,1-505,+
+KC411816.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,KC411816,1-505,+
+KC411816.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,KC411816,1-505,+
+KC411816.1|,-,Coil,Coils,-,-,KC411816,1-505,+
+KC411816.1|,Astrovirus VPg protein,Astrovirus VPg protein,Pfam,,1A,KC411816,1-505,+
+DQ327609.1|,"Peptidase S1, PA clan, chymotrypsin-like fold",-,Gene3D,-,-,DQ327609,1-465,+
+DQ327609.1|,"Peptidase S1, PA clan",Trypsin-like serine proteases,SUPERFAMILY,,1A,DQ327609,1-465,+
+DQ327609.1|,"Non-structural protein NS3, peptidase S7, flavivirus","Peptidase S7, Flavivirus NS3 serine protease",Pfam,-,-,DQ327609,1-465,+
+DQ327609.1|,-,Coil,Coils,-,-,DQ327609,1-465,+
+OQ802762.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,OQ802762,1-1699,+
+OQ802762.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,OQ802762,1-1699,+
+OQ802762.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,OQ802762,1-1699,+
+OQ802762.1|,-,Coil,Coils,-,-,OQ802762,1-1699,+
+MW645021.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MW645021,1-1294,+
+MW645021.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,MW645021,1-1294,+
+ON304004.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,ON304004,1-433,-
+ON304004.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,ON304004,1-433,-
+ON304004.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,ON304004,1-433,-
+MW347048.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW347048,11-1248,+
+MW347048.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MW347048,11-1248,+
+MW347048.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MW347048,11-1248,+
+MT568535.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MT568535,7-4251,+
+MT568535.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MT568535,7-4251,+
+MT568535.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MT568535,7-4251,+
+MT568535.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,MT568535,7-4251,+
+MT568535.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MT568535,7-4251,+
+MT568535.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MT568535,7-4251,+
+MT568535.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MT568535,7-4251,+
+MT568535.1|,(+) RNA virus helicase core domain,(+)RNA virus helicase core domain profile.,ProSiteProfiles,-,-,MT568535,7-4251,+
+MT568535.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MT568535,7-4251,+
+MT568535.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MT568535,7-4251,+
+MW347540.1|,(+) RNA virus helicase core domain,Viral superfamily 1 RNA helicase core domain,Pfam,,Bastro,MW347540,219-4166,+
+MW347540.1|,"RNA-directed RNA polymerase, catalytic domain",RdRp of positive ssRNA viruses catalytic domain profile.,ProSiteProfiles,-,-,MW347540,219-4166,+
+MW347540.1|,Alphavirus-like methyltransferase domain,Viral methyltransferase,Pfam,,Bastro,MW347540,219-4166,+
+MW347540.1|,DNA/RNA polymerase superfamily,DNA/RNA polymerases,SUPERFAMILY,,1B,MW347540,219-4166,+
+MW347540.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MW347540,219-4166,+
+MW347540.1|,"RNA-dependent RNA polymerase, alsuviricetes",RNA dependent RNA polymerase,Pfam,,1B,MW347540,219-4166,+
+MW347540.1|,P-loop containing nucleoside triphosphate hydrolase,-,Gene3D,-,-,MW347540,219-4166,+
+MW347540.1|,Alphavirus-like methyltransferase domain,Alphavirus-like methyltransferase (MT) domain profile.,ProSiteProfiles,-,-,MW347540,219-4166,+
+MW347540.1|,(+) RNA virus helicase core domain,(+)RNA virus helicase core domain profile.,ProSiteProfiles,-,-,MW347540,219-4166,+
+MW347540.1|,P-loop containing nucleoside triphosphate hydrolase,P-loop containing nucleoside triphosphate hydrolases,SUPERFAMILY,,,MW347540,219-4166,+
