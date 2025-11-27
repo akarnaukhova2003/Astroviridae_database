@@ -1,7 +1,23 @@
 Конфликтные:
 MN032977
+ ID белка=MN032977_56, orf=1B, coords=6674-498, strand=-
+ ID белка=MN032977_56, orf=1B, coords=6674-498, strand=-
+ ID белка=MN032977_56, orf=Picorna, coords=6674-498, strand=-
+ ID белка=MN032977_56, orf=1A, coords=6674-498, strand=-
+ ID белка=MN032977_56, orf=NotSpecific, coords=6674-498, strand=-
 MN033177
+ ID белка=MN033177_4, orf=1A, coords=1-3288, strand=+
+ ID белка=MN033177_4, orf=1B, coords=1-3288, strand=+
+ ID белка=MN033177_4, orf=1B, coords=1-3288, strand=+
 PP512783
+ ID белка=PP512783_7, orf=1B, coords=2957-3196, strand=+
+ ID белка=PP512783_7, orf=1B, coords=2957-3196, strand=+
+ ID белка=PP512783_10, orf=2, coords=3651-4274, strand=+
+ ID белка=PP512783_8, orf=2, coords=3151-3660, strand=+
+ ID белка=PP512783_6, orf=1B, coords=1880-2953, strand=+
+ ID белка=PP512783_6, orf=1B, coords=1880-2953, strand=+
+ ID белка=PP512783_4, orf=1A, coords=879-1895, strand=+
+ ID белка=PP512783_4, orf=1A, coords=879-1895, strand=+
 
 Успешные:
 PQ110289
