@@ -1,76 +1,49 @@
 Конфликтные:
 KX290465
- ID белка=KX290465.1|, orf=Picorna, coords=652-7407, strand=+
- ID белка=KX290465.1|, orf=Picorna, coords=652-7407, strand=+
- ID белка=KX290465.1|, orf=nan, coords=652-7407, strand=+
- ID белка=KX290465.1|, orf=1A, coords=652-7407, strand=+
- ID белка=KX290465.1|, orf=Picorna, coords=652-7407, strand=+
- ID белка=KX290465.1|, orf=1A, coords=652-7407, strand=+
- ID белка=KX290465.1|, orf=NotSpecific, coords=652-7407, strand=+
- ID белка=KX290465.1|, orf=NotSpecific, coords=652-7407, strand=+
- ID белка=KX290465.1|, orf=1B, coords=652-7407, strand=+
- ID белка=KX290465.1|, orf=NotSpecific, coords=652-7407, strand=+
- ID белка=KX290465.1|, orf=1B, coords=652-7407, strand=+
- ID белка=KX290465.1|, orf=Specific, coords=652-7407, strand=+
- ID белка=KX290465.1|, orf=nan, coords=652-7407, strand=+
+    ID белка=KX290465.1|, orf=Picorna, coords=652-7407, strand=+
+    ID белка=KX290465.1|, orf=nan, coords=652-7407, strand=+
+    ID белка=KX290465.1|, orf=1A, coords=652-7407, strand=+
+    ID белка=KX290465.1|, orf=NotSpecific, coords=652-7407, strand=+
+    ID белка=KX290465.1|, orf=1B, coords=652-7407, strand=+
+    ID белка=KX290465.1|, orf=Specific, coords=652-7407, strand=+
 OQ709188
- ID белка=OQ709188.1|, orf=1A, coords=162-1621, strand=+
- ID белка=OQ709188.1|, orf=1B, coords=162-1621, strand=+
- ID белка=OQ709188.1|, orf=1B, coords=162-1621, strand=+
- ID белка=OQ709188.1|, orf=Picorna, coords=162-1621, strand=+
+    ID белка=OQ709188.1|, orf=1A, coords=162-1621, strand=+
+    ID белка=OQ709188.1|, orf=1B, coords=162-1621, strand=+
+    ID белка=OQ709188.1|, orf=Picorna, coords=162-1621, strand=+
 OQ709189
- ID белка=OQ709189.1|, orf=nan, coords=301-2922, strand=+
- ID белка=OQ709189.1|, orf=1A, coords=301-2922, strand=+
- ID белка=OQ709189.1|, orf=Picorna, coords=301-2922, strand=+
- ID белка=OQ709189.1|, orf=Picorna, coords=301-2922, strand=+
- ID белка=OQ709189.1|, orf=1B, coords=301-2922, strand=+
- ID белка=OQ709189.1|, orf=1B, coords=301-2922, strand=+
- ID белка=OQ709189.1|, orf=Picorna, coords=301-2922, strand=+
- ID белка=OQ709189.1|, orf=1A, coords=301-2922, strand=+
+    ID белка=OQ709189.1|, orf=nan, coords=301-2922, strand=+
+    ID белка=OQ709189.1|, orf=1A, coords=301-2922, strand=+
+    ID белка=OQ709189.1|, orf=Picorna, coords=301-2922, strand=+
+    ID белка=OQ709189.1|, orf=1B, coords=301-2922, strand=+
 OQ709190
- ID белка=OQ709190.1|, orf=1B, coords=89-2369, strand=+
- ID белка=OQ709190.1|, orf=1A, coords=89-2369, strand=+
- ID белка=OQ709190.1|, orf=Picorna, coords=89-2369, strand=+
- ID белка=OQ709190.1|, orf=Picorna, coords=89-2369, strand=+
- ID белка=OQ709190.1|, orf=1B, coords=89-2369, strand=+
+    ID белка=OQ709190.1|, orf=1B, coords=89-2369, strand=+
+    ID белка=OQ709190.1|, orf=1A, coords=89-2369, strand=+
+    ID белка=OQ709190.1|, orf=Picorna, coords=89-2369, strand=+
 OQ709191
- ID белка=OQ709191.1|, orf=Picorna, coords=202-6465, strand=+
- ID белка=OQ709191.1|, orf=NotSpecific, coords=202-6465, strand=+
- ID белка=OQ709191.1|, orf=1A, coords=202-6465, strand=+
- ID белка=OQ709191.1|, orf=1A, coords=202-6465, strand=+
- ID белка=OQ709191.1|, orf=NotSpecific, coords=202-6465, strand=+
- ID белка=OQ709191.1|, orf=nan, coords=202-6465, strand=+
- ID белка=OQ709191.1|, orf=1B, coords=202-6465, strand=+
- ID белка=OQ709191.1|, orf=Calici, coords=202-6465, strand=+
- ID белка=OQ709191.1|, orf=Picorna, coords=202-6465, strand=+
- ID белка=OQ709191.1|, orf=1B, coords=202-6465, strand=+
+    ID белка=OQ709191.1|, orf=Picorna, coords=202-6465, strand=+
+    ID белка=OQ709191.1|, orf=NotSpecific, coords=202-6465, strand=+
+    ID белка=OQ709191.1|, orf=1A, coords=202-6465, strand=+
+    ID белка=OQ709191.1|, orf=nan, coords=202-6465, strand=+
+    ID белка=OQ709191.1|, orf=1B, coords=202-6465, strand=+
+    ID белка=OQ709191.1|, orf=Calici, coords=202-6465, strand=+
 OQ709192
- ID белка=OQ709192.1|, orf=1A, coords=80-1588, strand=+
- ID белка=OQ709192.1|, orf=1B, coords=80-1588, strand=+
- ID белка=OQ709192.1|, orf=Picorna, coords=80-1588, strand=+
- ID белка=OQ709192.1|, orf=1B, coords=80-1588, strand=+
+    ID белка=OQ709192.1|, orf=1A, coords=80-1588, strand=+
+    ID белка=OQ709192.1|, orf=1B, coords=80-1588, strand=+
+    ID белка=OQ709192.1|, orf=Picorna, coords=80-1588, strand=+
 OQ709193
- ID белка=OQ709193.1|, orf=1A, coords=517-7025, strand=+
- ID белка=OQ709193.1|, orf=Picorna, coords=517-7025, strand=+
- ID белка=OQ709193.1|, orf=Picorna, coords=517-7025, strand=+
- ID белка=OQ709193.1|, orf=1B, coords=517-7025, strand=+
- ID белка=OQ709193.1|, orf=nan, coords=517-7025, strand=+
- ID белка=OQ709193.1|, orf=NotSpecific, coords=517-7025, strand=+
- ID белка=OQ709193.1|, orf=1A, coords=517-7025, strand=+
- ID белка=OQ709193.1|, orf=NotSpecific, coords=517-7025, strand=+
- ID белка=OQ709193.1|, orf=1B, coords=517-7025, strand=+
- ID белка=OQ709193.1|, orf=Picorna, coords=517-7025, strand=+
+    ID белка=OQ709193.1|, orf=1A, coords=517-7025, strand=+
+    ID белка=OQ709193.1|, orf=Picorna, coords=517-7025, strand=+
+    ID белка=OQ709193.1|, orf=1B, coords=517-7025, strand=+
+    ID белка=OQ709193.1|, orf=nan, coords=517-7025, strand=+
+    ID белка=OQ709193.1|, orf=NotSpecific, coords=517-7025, strand=+
 OQ709194
- ID белка=OQ709194.1|, orf=1B, coords=59-1159, strand=+
- ID белка=OQ709194.1|, orf=Picorna, coords=59-1159, strand=+
- ID белка=OQ709194.1|, orf=1B, coords=59-1159, strand=+
- ID белка=OQ709194.1|, orf=1A, coords=59-1159, strand=+
+    ID белка=OQ709194.1|, orf=1B, coords=59-1159, strand=+
+    ID белка=OQ709194.1|, orf=Picorna, coords=59-1159, strand=+
+    ID белка=OQ709194.1|, orf=1A, coords=59-1159, strand=+
 PQ421852
- ID белка=PQ421852.2|, orf=1A, coords=3613-5013, strand=-
- ID белка=PQ421852.2|, orf=1A, coords=3613-5013, strand=-
- ID белка=PQ421852.1|, orf=2, coords=8-3376, strand=-
- ID белка=PQ421852.1|, orf=1B, coords=8-3376, strand=-
- ID белка=PQ421852.1|, orf=1B, coords=8-3376, strand=-
+    ID белка=PQ421852.2|, orf=1A, coords=3613-5013, strand=-
+    ID белка=PQ421852.1|, orf=2, coords=8-3376, strand=-
+    ID белка=PQ421852.1|, orf=1B, coords=8-3376, strand=-
 
 Успешные:
 PX289198
