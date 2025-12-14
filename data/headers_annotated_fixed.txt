@@ -1,0 +1,42 @@
+>PP871917_1 | MAG: Mamastrovirus sp. isolate astro_vt_199 genomic sequence | [1 - 4170] | [0-4173] | 4170 | 4174
+>PP871917_2 | MAG: Mamastrovirus sp. isolate astro_vt_199 genomic sequence | [3935 - 6475] | [0-4173] | 2541 | 4174
+>PP173657_1 | MAG: Ripistuv virus isolate MP3_k141_5253 genomic sequence | [6586 - 32] | [28-6586] | 6555 | 6559
+>PP172843_1 | MAG: Ripikrak virus isolate KCAP1_k141_96123 genomic sequence | [9238 - 74] | [70-9073] | 9165 | 9004
+>PP172690_1 | MAG: Ripinasc virus isolate KCAP1_k141_334640 genomic sequence | [3 - 4331] | [2-4331] | 4329 | 4330
+>ON807348_1 | Mamastrovirus 1 isolate G22-006 putative RNA-dependent RNA polymerase gene, partial cds; and capsid precursor protein gene, complete cds | [1 - 4251] | [0-4254] | 4251 | 4255
+>ON807348_2 | Mamastrovirus 1 isolate G22-006 putative RNA-dependent RNA polymerase gene, partial cds; and capsid precursor protein gene, complete cds | [4139 - 6580] | [0-4254] | 2442 | 4255
+>MZ546174_1 | Human astrovirus strain Astzj-8, complete genome | [187 - 4485] | [198-4488] | 4299 | 4291
+>MZ546174_2 | Human astrovirus strain Astzj-8, complete genome | [4373 - 6841] | [198-4488] | 2469 | 4291
+>OM451148_1 | MAG: Raccoon dog astrovirus 1 isolate HeB-MO1 nonstructural protein and capsid protein precursor, genes, complete cds | [31 - 4269] | [36-4272] | 4239 | 4237
+>OM451148_2 | MAG: Raccoon dog astrovirus 1 isolate HeB-MO1 nonstructural protein and capsid protein precursor, genes, complete cds | [4157 - 6682] | [36-4272] | 2526 | 4237
+>OM451116_1 | MAG: Civet astrovirus isolate SC-F1 nonstructural protein gene, partial cds; and capsid protein precursor, gene, complete cds | [2 - 4150] | [1-4153] | 4149 | 4153
+>OM451116_2 | MAG: Civet astrovirus isolate SC-F1 nonstructural protein gene, partial cds; and capsid protein precursor, gene, complete cds | [4059 - 6653] | [1-4153] | 2595 | 4153
+>OM451114_1 | MAG: Raccoon dog astrovirus 3 isolate SD-F3 nonstructural protein and capsid protein precursor, genes, complete cds | [1 - 4086] | [0-4089] | 4086 | 4090
+>OM451114_2 | MAG: Raccoon dog astrovirus 3 isolate SD-F3 nonstructural protein and capsid protein precursor, genes, complete cds | [4149 - 6413] | [0-4089] | 2265 | 4090
+>OM451113_1 | MAG: Raccoon dog astrovirus 2 isolate SD-F3 nonstructural protein gene, complete cds; and capsid protein precursor, gene, partial cds | [12 - 4187] | [98-4190] | 4176 | 4093
+>OM451113_2 | MAG: Raccoon dog astrovirus 2 isolate SD-F3 nonstructural protein gene, complete cds; and capsid protein precursor, gene, partial cds | [3952 - 6375] | [98-4190] | 2424 | 4093
+>OM451109_1 | MAG: Squirrel astrovirus 1 isolate GD-MO2 nonstructural protein gene, partial cds; and capsid protein precursor, gene, complete cds | [3 - 4151] | [2-4154] | 4149 | 4153
+>OM451109_2 | MAG: Squirrel astrovirus 1 isolate GD-MO2 nonstructural protein gene, partial cds; and capsid protein precursor, gene, complete cds | [4099 - 6498] | [2-4154] | 2400 | 4153
+>OM451115_1 | MAG: Raccoon dog astrovirus 4 isolate SD-MO1, complete genome | [30 - 4268] | [35-4271] | 4239 | 4237
+>OM451115_2 | MAG: Raccoon dog astrovirus 4 isolate SD-MO1, complete genome | [4156 - 6624] | [35-4271] | 2469 | 4237
+>OM451112_1 | MAG: Raccoon dog astrovirus 1 isolate SD-F2, complete genome | [64 - 4302] | [69-4305] | 4239 | 4237
+>OM451112_2 | MAG: Raccoon dog astrovirus 1 isolate SD-F2, complete genome | [4190 - 6709] | [69-4305] | 2520 | 4237
+>OM451111_1 | MAG: Raccoon dog astrovirus 1 isolate SD-F1, complete genome | [53 - 4291] | [58-4294] | 4239 | 4237
+>OM451111_2 | MAG: Raccoon dog astrovirus 1 isolate SD-F1, complete genome | [4179 - 6698] | [58-4294] | 2520 | 4237
+>OM451110_1 | MAG: Squirrel astrovirus 2 isolate FJ-MO1, complete genome | [2 - 4321] | [1-4324] | 4320 | 4324
+>OM451110_2 | MAG: Squirrel astrovirus 2 isolate FJ-MO1, complete genome | [4221 - 6782] | [1-4324] | 2562 | 4324
+>MW863310_1 | Human astrovirus isolate Hu/HY/2019/CHN nonstructural protein and structural protein genes, complete cds | [65 - 4363] | [76-4366] | 4299 | 4291
+>MW863310_2 | Human astrovirus isolate Hu/HY/2019/CHN nonstructural protein and structural protein genes, complete cds | [4251 - 6719] | [76-4366] | 2469 | 4291
+>MW346737_1 | MAG: Astroviridae sp. isolate 1aq-RDRP-4 nonstructural polyprotein gene, complete cds | [3 - 4265] | [24-4268] | 4263 | 4245
+>MN035838_1 | MAG: Astroviridae sp. isolate H4_Bulk_47_scaffold_62 sequence | [5684 - 45] | [5684-45] | 5640 | 5640
+>MN033872_1 | MAG: Astroviridae sp. isolate H3_Bulk_Litter_17_scaffold_52 RNA-dependent RNA polymerase (H3BulkLitter1752_000001) and hypothetical protein (H3BulkLitter1752_000002) genes, complete cds | [689 - 8041] | [838-8044] | 7353 | 7207
+>MN033872_2 | MAG: Astroviridae sp. isolate H3_Bulk_Litter_17_scaffold_52 RNA-dependent RNA polymerase (H3BulkLitter1752_000001) and hypothetical protein (H3BulkLitter1752_000002) genes, complete cds | [8264 - 9856] | [838-8044] | 1593 | 7207
+>NC_030922_1 | Mamastrovirus 1 genomic RNA, complete genome, isolate: V1347 | [1 - 4293] | [0-4296] | 4293 | 4297
+>NC_030922_2 | Mamastrovirus 1 genomic RNA, complete genome, isolate: V1347 | [4181 - 6670] | [0-4296] | 2490 | 4297
+>KC342249_1 | Mamastrovirus 1 isolate km1 nonstructural protein and structural protein genes, complete cds | [73 - 4371] | [84-4374] | 4299 | 4291
+>KC342249_2 | Mamastrovirus 1 isolate km1 nonstructural protein and structural protein genes, complete cds | [4259 - 6727] | [84-4374] | 2469 | 4291
+>AB325804_1 | Mamastrovirus 1 ORF1 gene for nonstructural protein, complete cds, isolate: V1182 | [1 - 4272] | [0-4275] | 4272 | 4276
+>AB308374_1 | Mamastrovirus 1 genomic RNA, complete genome, isolate: V1347 | [1 - 4293] | [0-4296] | 4293 | 4297
+>AB308374_2 | Mamastrovirus 1 genomic RNA, complete genome, isolate: V1347 | [4181 - 6670] | [0-4296] | 2490 | 4297
+>FJ375759_1 | Human astrovirus isolate SH1, complete genome | [71 - 4369] | [82-4372] | 4299 | 4291
+>FJ375759_2 | Human astrovirus isolate SH1, complete genome | [4257 - 6725] | [82-4372] | 2469 | 4291
