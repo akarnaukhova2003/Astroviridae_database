@@ -49,6 +49,7 @@ def parse_domtblout(domtblout_file: str):
 
 def get_ids_without_rdrp(df: pd.DataFrame):
     filtered_df = df.loc[~df['gene_id'].str.contains("RdRP", na=False)]
+
     return set(filtered_df['sequence_id'].dropna().unique()), filtered_df
 
 
