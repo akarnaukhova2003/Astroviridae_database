@@ -219,6 +219,7 @@ AAA_SelU             PF26341.1    226 PV708886_NA_Chenqi-074_Marmota-sibirica_20
 RNA_pol_Rpb5_C       PF01191.25    73 PV708886_NA_Chenqi-074_Marmota-sibirica_2023 -            493      0.06   13.6   0.1   1   1   1.7e-05      0.14   12.4   0.1    20    49   161   190   160   194 0.93 RNA polymerase Rpb5, C-terminal domain
 RdRP_1               PF00680.26   450 PV470470_NA_MP12-k141-82519_Botrylloides-leachii_2021 -            544   2.4e-05   23.7   0.2   1   1   3.2e-09   4.1e-05   23.0   0.2   201   391   210   423   206   443 0.70 Viral RNA-dependent RNA polymerase
 RdRP_4               PF02123.22   465 PV470470_NA_MP12-k141-82519_Botrylloides-leachii_2021 -            544       0.3   10.4   0.0   1   1   3.7e-05      0.48    9.8   0.0   352   407   297   368   290   398 0.73 Viral RNA-directed RNA-polymerase
+RdRP_1               PF00680.26   450 MF033385_NA_S510_Rattus-norvegicus_2017 -            517   7.3e-47  160.6   0.1   1   1   4.9e-51   1.2e-46  159.8   0.1    46   446    73   482    67   485 0.84 Viral RNA-dependent RNA polymerase
 RdRP_2               PF00978.27   440 PP211222_NA_Ra-norvegicus-bastro-5_Rattus-norvegicus_2018 -            443   2.1e-33  116.4   0.0   1   1     3e-37   2.6e-33  116.1   0.0    32   432    40   422    13   426 0.81 RNA dependent RNA polymerase
 RdRP_1               PF00680.26   450 PP211222_NA_Ra-norvegicus-bastro-5_Rattus-norvegicus_2018 -            443      0.11   11.7   0.0   1   1   6.7e-05      0.57    9.3   0.0   228   358   213   328   193   339 0.70 Viral RNA-dependent RNA polymerase
 RdRP_3               PF00998.29   486 PP211222_NA_Ra-norvegicus-bastro-5_Rattus-norvegicus_2018 -            443      0.13   11.4   0.0   1   1   2.2e-05      0.19   10.9   0.0   205   309   214   312   194   339 0.62 Viral RNA dependent RNA polymerase
@@ -771,7 +772,6 @@ RdRP_1               PF00680.26   450 OM953849_NA_CMF2-DN31075-c0-g1-i1_NA_2019 
 RdRP_1               PF00680.26   450 OM953848_NA_CMF1-DN41184-c0-g1-i1_NA_2019 -            500   5.4e-27   95.1   0.1   1   1   2.9e-31   7.5e-27   94.6   0.1    98   413   100   414    71   440 0.88 Viral RNA-dependent RNA polymerase
 RdRP_1               PF00680.26   450 OM953847_NA_CMF1-DN41866-c1-g1-i1_NA_2019 -            533   2.1e-41  142.6   0.1   1   1   1.1e-45   2.7e-41  142.2   0.1    24   408    58   429    32   452 0.85 Viral RNA-dependent RNA polymerase
 RdRP_1               PF00680.26   450 OM953846_NA_CMF2-DN30973-c0-g1-i4_NA_2019 -            528   2.6e-32  112.6   0.8   1   1   1.3e-36   3.3e-32  112.3   0.8    84   446    86   468    52   472 0.87 Viral RNA-dependent RNA polymerase
-RdRP_1               PF00680.26   450 OM953843_NA_CMF1-DN41679-c0-g1-i1_NA_2019 -            577   2.3e-20   73.2   0.0   1   1   1.4e-24   3.5e-20   72.7   0.0    30   369    84   428    72   440 0.80 Viral RNA-dependent RNA polymerase
 RdRP_1               PF00680.26   450 OM953842_NA_CMU2-DN75963-c0-g1-i1_NA_2019 -            455   9.4e-20   71.2   0.1   1   1   5.2e-24   1.3e-19   70.7   0.1    57   438    36   390    13   400 0.79 Viral RNA-dependent RNA polymerase
 RdRP_1               PF00680.26   450 OM953841_NA_CMU2-DN78443-c0-g1-i1_NA_2019 -            483   2.8e-20   72.9   0.0   1   1   2.7e-24   3.5e-20   72.6   0.0    94   389   106   389    75   444 0.86 Viral RNA-dependent RNA polymerase
 Permu_RdRp_palm      PF22152.2    357 OM953841_NA_CMU2-DN78443-c0-g1-i1_NA_2019 -            483      0.18   11.0   0.0   1   1   0.00015       1.9    7.7   0.0    47   178   106   226    96   238 0.65 Permutotetravirus RNA-dependent RNA polymerase palm domain
@@ -1275,5 +1275,5 @@ RdRP_1               PF00680.26   450 Y15937_NA_NA_sheep_NA -            524   5
 # Target file:     Pfam-A.hmm
 # Option settings: hmmscan --domtblout pfam.domtblout Pfam-A.hmm Astroviridae_1B_filtered_aa_83.fasta 
 # Current dir:     /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data
-# Date:            Thu Jan 15 00:21:44 2026
+# Date:            Sat Jan 24 18:25:08 2026
 # [ok]

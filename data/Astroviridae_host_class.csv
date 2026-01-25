@@ -1,0 +1,869 @@
+host,class
+Canis lupus familiaris,Mammalia
+chicken (broiler),
+Homo sapiens,Mammalia
+Trichosurus vulpecula,Mammalia
+goose,Aves
+Rhinolophus sinicus,Mammalia
+Rhinolophus affinis,Mammalia
+Rhinolophus ferrumequinum,Mammalia
+Myotis sp.,Mammalia
+Miniopterus schreibersii,Mammalia
+Chiroptera sp.,
+Hipposideros sp.,Mammalia
+Rhinolophus pusillus,Mammalia
+Taphozous sp.,Mammalia
+Myotis chinensis,Mammalia
+Myotis laniger,Mammalia
+Rousettus leschenaultii,Mammalia
+Myotis adversus,Mammalia
+Myotis siligorensis,Mammalia
+Hipposideros pomona,Mammalia
+Taphozous melanopogon,Mammalia
+Miniopterus pusillus,Mammalia
+Myotis pilosus,Mammalia
+fish,
+Hipposideros larvatus,Mammalia
+Scotophilus kuhlii,Mammalia
+Tylonycteris pachypus,Mammalia
+Gallus gallus gallus,Aves
+pigeon,
+pig,Mammalia
+Chroicocephalus ridibundus,Aves
+Leopardus guttulus,Mammalia
+rat,Mammalia
+Gyps himalayensis,Aves
+Anser anser,Aves
+Neodon fuscus,Mammalia
+Pseudois nayaur,Mammalia
+Urocricetus kamensis,Mammalia
+sheep,Mammalia
+Bactrian camel,Mammalia
+Vulpes vulpes (fox),
+Su. murinus,
+goat; Mixed breed,
+Myotis ciliolabrum,Mammalia
+Leucogeranus leucogeranus,Aves
+Anser sp.,Aves
+Capra hircus,Mammalia
+Suncus murinus,Mammalia
+Crocidura dracula,Mammalia
+Anourosorex squamipes,Mammalia
+Episoriculus caudatus,Mammalia
+Crocidura suaveolens,Mammalia
+Uropsilus gracilis,Mammalia
+Crocidura attenuata,Mammalia
+Gallus gallus,Aves
+cat,Mammalia
+Dicentrarchus labrax,Actinopteri
+Sus scrofa domesticus,Mammalia
+Sus scrofa (wild boar),Mammalia
+Bos taurus,Mammalia
+Marmota sibirica,Mammalia
+Botrylloides leachii,Ascidiacea
+Cebus cuscinus,
+Rattus norvegicus,Mammalia
+Cricetulus longicaudatus,Mammalia
+Ateles chamek,Mammalia
+porcine,
+Tufted duck,Aves
+Gadwall,Aves
+Meleagris gallopavo domesticus,
+Mus musculus,Mammalia
+Pig,Mammalia
+cattle,Mammalia
+swine,Mammalia
+Tursiops truncatus (Bottlenose dolphin),
+Eumetopias jubatus (Steller sea lion),Mammalia
+Zalophus californianus (California sea lion),Mammalia
+Hipposideros armiger,Mammalia
+duck,Aves
+chicken,Aves
+Muscovy duck,Aves
+Phocarctos hookeri (New Zealand sea lion),Mammalia
+rook,Aves
+Eurasian tree sparrow,Aves
+hooded crow,Aves
+Scotophilus dinganii; sex: male,
+Miniopterus fraterculus; sex: male,
+Rattus tanezumi,Mammalia
+Neogale vison,Mammalia
+bovine,Mammalia
+Rattus rattus,Mammalia
+Praomys rostratus,Mammalia
+Mus setulosus,Mammalia
+Miniopterus inflatus,Mammalia
+Mastomys erythroleucus,Mammalia
+Lophuromys chrysopus,Mammalia
+Felis catus (domestic cat),Mammalia
+Rhipicephalus sanguineus,Arachnida
+goat,Mammalia
+canine,
+Niviventer confucianus,Mammalia
+Apodemus chevrieri,Mammalia
+Crocidura fuliginosa,Mammalia
+Eothenomys miletus,Mammalia
+Rattus nitidus,Mammalia
+Niviventer huang,Mammalia
+Leopoldamys neilli,Mammalia
+Araneus ventricosus,Arachnida
+Helobdella robusta,Clitellata
+Gekko chinensis,Lepidosauria
+Hemidactylus frenatus,Lepidosauria
+Eolophus roseicapilla,Aves
+Alisterus scapularis,Aves
+Acalles camelus,Insecta
+Columba livia,Aves
+Mormopterus francoismoutoui,Mammalia
+dairy cow,Mammalia
+Nyctereutes procyonoides(racoon dog),
+Felis catus,Mammalia
+Ortmanniana pectorosa,Bivalvia
+Myotis macrodactylus,Mammalia
+Miniopterus fuliginosus,Mammalia
+Anser indicus (Bar-headed goose),Aves
+duck; breed: muscovy,
+Procambarus clarkii,Malacostraca
+Urva auropunctata,Mammalia
+Bos mutus,Mammalia
+calf,
+Jiangnan White Goose,Aves
+Mareca falcata,Aves
+Crocidura tanakae,Mammalia
+Crocidura shantungensis,Mammalia
+Crocidura lasiura,Mammalia
+Oryctes sp.,
+carrier pigeon,Aves
+Rousettus madagascariensis,Mammalia
+Eidolon dupreanum,Mammalia
+Sus scrofa,Mammalia
+Nyctalus noctula,Mammalia
+ticks,Arachnida
+Heteronotia binoei,Lepidosauria
+Heteronotia planiceps,Lepidosauria
+Pogonophryne immaculata,Actinopteri
+Muraenolepis sp.,Actinopteri
+Microgale brevicaudata; sex: male,
+Rattus rattus; sex: female,
+Rattus rattus; sex: male,
+Rattus rattus; female,
+Rattus rattus; male,
+Mus musculus; male,
+Mus musculus; female,
+Rousettus aegyptiacus,Mammalia
+Aethomys hindei,Mammalia
+Coleura afra,Mammalia
+Miniopterus sp. clade 1 TD-2020,Mammalia
+Miniopterus sp. clade 10 TD-2020,Mammalia
+Miniopterus sp. B76,Mammalia
+Miniopterus minor,Mammalia
+Cardioderma cor,Mammalia
+Hipposideros caffer,Mammalia
+Mops condylurus,Mammalia
+Rhinolophus pearsonii,Mammalia
+Myotis ricketti,Mammalia
+Ia io,Mammalia
+Rhizomys pruinosus,Mammalia
+Rattus pyctoris,Mammalia
+Niviventer sp.,Mammalia
+Caracal caracal,Mammalia
+Eviota sp.,Actinopteri
+Dascyllus reticulatus,Actinopteri
+Chaetodon baronessa,Actinopteri
+Plagiotremus tapeinosoma,Actinopteri
+Chromis viridis,Actinopteri
+Nyctalus plancyi; sex: female,
+Nyctalus plancyi; sex: male,
+Rhinolophus pusillus; sex: male,
+Scotophilus kuhlii; sex: male,
+Scotophilus kuhlii; sex: female,
+Taphozous melanopogon; sex: female,
+Taphozous melanopogon; sex: female (pregnant),
+Tylonycteris robustula; sex: male,
+Eptesicus pachyomus; sex: female,
+Myotis ricketti; sex: male,
+Myotis ricketti; sex: female,
+Miniopterus schreibersii; sex: female,
+Miniopterus schreibersii; sex: male,
+Ovis aries,Mammalia
+Marmota caudata,Mammalia
+Betta splendens,Actinopteri
+Oryctolagus cuniculus,Mammalia
+Peking duckling,
+Woodworthia maculata,Lepidosauria
+Oligosoma aeneum,Lepidosauria
+Pelophylax nigromaculatus,Amphibia
+duck; breed: Pekin,
+dog,Mammalia
+racing pigeon,
+Anguilla dieffenbachii,Actinopteri
+wild boar,Mammalia
+red fox,Mammalia
+Goose,Aves
+Duck,Aves
+Canis lupus familiaris; sex: male,
+Canis lupus familiaris; sex: female,
+Hierococcyx sparverioides,Aves
+Pachyptila vittata,Aves
+Gonidea angulata,Bivalvia
+Araneae,Arachnida
+Oribatida,Arachnida
+Rattus_tanezumi,Mammalia
+Turdus dissimilis,Aves
+Bandicota savilei,Mammalia
+Chalinolobus tuberculatus,Mammalia
+Rhinolophus sp.,Mammalia
+Pipistrellus pipistrellus,Mammalia
+Vespertilio sinensis,Mammalia
+Phasianus colchicus,Aves
+Aythya marila,Aves
+Anas acuta,Aves
+Anas crecca,Aves
+Streptopelia orientalis,Aves
+ferret,Mammalia
+Chodsigoa smithii,Mammalia
+Niviventer niviventer,Mammalia
+Typhlomys cinereus,Mammalia
+Apodemus agrarius,Mammalia
+Pipistrellus abramus,Mammalia
+Myotis davidii,Mammalia
+Hypsugo pulveratus,Mammalia
+Leopoldamys edwardsi,Mammalia
+Niviventer fulvescens,Mammalia
+Berylmys bowersi,Mammalia
+Rattus losea,Mammalia
+Hipposideros pratti,Mammalia
+laying hens,
+Bovine,Mammalia
+Hipposideros sp. (bat),
+bat,
+Rhinolophus sp. (bat),
+Miniopterus sp. (bat),
+Eidolon helvum (bat),
+Nycteris sp. (bat),
+bird,
+Domestic goat,Mammalia
+amur tiger,Mammalia
+Limnochromis auritus,Actinopteri
+Benthochromis horii,Actinopteri
+Xenotilapia nasus,Actinopteri
+Lamprologus kungweensis,Actinopteri
+Petrochromis famula,Actinopteri
+Neolamprologus brevis,Actinopteri
+Enantiopus melanogenys,Actinopteri
+Xenotilapia boulengeri,Actinopteri
+Neolamprologus tetracanthus,Actinopteri
+Retropinna retropinna,Actinopteri
+Nyctereutes procyonoides (Raccoon dog),Mammalia
+Miniopterus orianae oceanensis,Mammalia
+donkey,Mammalia
+Bos taurus breed Hanwoo,
+Eonycteris spelaea,Mammalia
+Rhinolophus stheno,Mammalia
+Rhinolophus thomasi,Mammalia
+Cynopterus sphinx,Mammalia
+Rhinolophus macrotis,Mammalia
+Ovibos moschatus,Mammalia
+Podarcis siculus; sex: female,
+Podarcis siculus; sex: male,
+Tarentola mauritanica; sex: female,
+Tarentola mauritanica; sex: male,
+Canis lupus (wolf),Mammalia
+Cervus elaphus (red deer),Mammalia
+Mustelidae,Mammalia
+Hystrix cristata (porcupine),
+rodent,Mammalia
+feline,
+Bufo gargarizans,Amphibia
+Sus scrofa domesticus (pig),
+Rattus flavipectus,Mammalia
+Hippocampus erectus,Actinopteri
+environment,
+goose embryo,
+Cow,Mammalia
+Blenniella sp.,
+Luposicya lupus,
+Istigobius goldmanni,Actinopteri
+Asterropteryx semipunctata,Actinopteri
+Istigobius nigroocellatus,Actinopteri
+Istigobius decoratus,Actinopteri
+Cabillus tongarevae,Actinopteri
+Capreolus capreolus (roe deer),
+Vulpes vulpes (red fox),Mammalia
+Sichuan takin,Mammalia
+Water buffalo,Mammalia
+Gallus gallus domesticus (broiler),
+cow,Mammalia
+rhinos,
+deer,Mammalia
+piglet,
+Camelus bactrianus,Mammalia
+Camelus dromedarius,Mammalia
+landaise,
+murine,
+Corvus frugilegus,Aves
+Coloeus monedula,Aves
+Hirundo rustica,Aves
+Merops apiaster,Aves
+Hydroprogne caspia,Aves
+Porcine,
+Strophurus ciliaris,Lepidosauria
+goslings,
+Anser indicus,Aves
+Mus pahari,Mammalia
+Mus caroli,Mammalia
+porcupine,
+Manis javanica,Mammalia
+50-day-old Landes geese,Aves
+Miniopterus africanus,Mammalia
+Miniopterus natalensis,Mammalia
+Meriones unguiculatus,Mammalia
+Crow,
+home mice,Mammalia
+Spilopelia senegalensis,Aves
+Spatula clypeata,Aves
+Myotis fimbriatus,Mammalia
+Leersia hexandra,Magnoliopsida
+Mus musculus; IFNAR KO,
+Calliope calliope,Aves
+Cyanopica cyanus,Aves
+Phylloscopus inornatus,Aves
+Periparus ater,Aves
+Prunella montanella,Aves
+domestic cat; sex: male,
+Turdus philomelos,Aves
+chimpanzee,Mammalia
+Petroica macrocephala,Aves
+Zosterops lateralis,Aves
+Paradoxurus hermaphroditus,Mammalia
+Paguma larvata,Mammalia
+Chicken,Aves
+domestic pig,Mammalia
+Myodes,Mammalia
+Coypu,Mammalia
+Gobiomorphus cotidianus,Actinopteri
+Hoary bamboo rat,Mammalia
+Porcupine,
+rabbit,Mammalia
+coypu,Mammalia
+raccoon dog,Mammalia
+eurasian red squirrel,Mammalia
+masked palm civet,Mammalia
+pallas's squirrel,Mammalia
+hoary bamboo rat,Mammalia
+Raccoon dog,Mammalia
+Eurasian red squirrel,Mammalia
+Ailurus fulgens,Mammalia
+Tetragnatha nitens,Arachnida
+Culex tritaeniorhynchus,Insecta
+shellfish,
+Miniopterus gleni; UABBA 33031; male,
+Miniopterus gleni; FMNH 221332; male,
+Miniopterus gleni; FMNH 221331; male,
+Miniopterus gleni; FMNH 221330; male,
+Miniopterus gleni; UADBA 33027; male,
+Macronycteris commersoni; UADBA 50272; female,
+Macronycteris commersoni; UADBA 50270; female,
+Macronycteris commersoni; FMNH 218012; female,
+Mops leucostigma; female,
+Mops leucostigma; male,
+Chaerephon leucogaster; male,
+Triaenops menamena; FMNH 218069; male,
+Triaenops menamena; FMNH 218064; male,
+Triaenops menamena; UADBA 50149; male,
+Triaenops menamena; UADBA 50147; male,
+Triaenops menamena; UADBA 50148; male,
+Miniopterus sororculus; FMNH 218037; female,
+Miniopterus sororculus; FMNH 218034; female,
+Miniopterus sororculus; UADBA 50344; female,
+Miniopterus mahafaliensis; FMNH 218028; male,
+Miniopterus manavi; UADBA 33041; male,
+Miniopterus manavi; UADBA 33039; male,
+Miniopterus manavi; UADBA 33038; male,
+Miniopterus manavi; UADBA 33036; male,
+Miniopterus manavi; UADBA 33034; male,
+Miniopterus manavi; UADBA 33033; male,
+Miniopterus manavi; FMNH 221429; male,
+Miniopterus manavi; FMNH 221428; male,
+Miniopterus mahafaliensis; UADBA 50159; male,
+Miniopterus mahafaliensis; FMNH 218040; male,
+Miniopterus gleni; UADBA 50170; male,
+Miniopterus gleni; UADBA 50174; male,
+Miniopterus gleni; UADBA 50171; male,
+spotted dove,Aves
+feral pigeon,
+white eye,
+house crow,Aves
+Phrynocephalus theobaldi,Lepidosauria
+Phrynocephalus erythrurus,Lepidosauria
+Eptesicus regulus,Mammalia
+Muscovy-duck,Aves
+mice,Mammalia
+Vespula vulgaris,Insecta
+Mormopterus francoismoutoui (Reunion Free-tailed Bat),
+Macaca mulatta,Mammalia
+Arenaria interpres (ruddy turnstone),Aves
+Rhinolophus thomasi; mixed sex,
+Roussetus leschenaulti; mixed sex,
+marmot,
+Rattus norvegicus (Norway rat),Mammalia
+Odobenus rosmarus,Mammalia
+Myotis daubentonii,Mammalia
+Zalophus californianus,Mammalia
+Helianthus niveus,Magnoliopsida
+Vespertilio murinus,Mammalia
+Nyctaus noctula,
+Plecotus auritus,Mammalia
+Pipistrellus sp. pipistrellus/pygmaeus AO-2021,Mammalia
+Melanotaenia fluviatilis,Actinopteri
+Gambusia holbrooki,Actinopteri
+Leiopotherapon unicolor,Actinopteri
+water buffalo,Mammalia
+Neovison vison,Mammalia
+Jinding ducks,Aves
+Desmodus rotundus,Mammalia
+Meleagris gallopavo,Aves
+Homo sapiens; 2 years 2 months old; female,
+Homo sapiens; 2 years old; female,
+Homo sapiens; 1 year 9 months old; female,
+Homo sapiens; 2 years 6 months old; female,
+Homo sapiens; 36 years old; female,
+Homo sapiens; 2 years 5 months old; male,
+Homo sapiens; 1 year 10 months old; male,
+Homo sapiens; 2 years 3 months old; female,
+Homo sapiens; 1 year 11 months old; female,
+Homo sapiens; 1 year 5 months old; female,
+Homo sapiens; 1 year 3 months old; male,
+Homo sapiens; 1 year 3 months old; female,
+Homo sapiens; 5 months old; female,
+Homo sapiens; 1 year old; male,
+Homo sapiens; 1 year old; female,
+Homo sapiens; 7 months old; female,
+Homo sapiens; 11 months old; male,
+Homo sapiens; infant (<5 years),
+Homo sapiens; infant,
+Chelidonichthys cuculus,Actinopteri
+Zeus faber,Actinopteri
+Platycephalus richardsoni,Actinopteri
+Helicolenus barathri,Actinopteri
+Rattus annandalei,Mammalia
+Mus musculus castaneus,Mammalia
+Callosciurus notatus,Mammalia
+Tupaia glis,Mammalia
+Gallus gallus broiler chicken,Aves
+Landaise goose,Aves
+Vulpes vulpes,Mammalia
+Pipistrellus kuhlii,Mammalia
+Artibeus planirostris,Mammalia
+Anas castanea,Aves
+Anas superciliosa,Aves
+Sus Scrofa,Mammalia
+buffalo,
+Mandrillus sphinx,Mammalia
+Bubalus bubalis,Mammalia
+us musculus,Bivalvia
+guinea pig,Mammalia
+mouse,Mammalia
+Mus musculus; Rag2-/-Il2rg-/- genotype,
+Tadarida brasiliensis bat,
+Pan troglodytes (chimpanzee),Mammalia
+Solanum melongena L.,
+grey squirrel,
+Sus scrofa domestica (domestic swine),
+Bos taurus breed Marchigiana,
+Eidolon helvum,Mammalia
+white-tailed deer,Mammalia
+Macroglossus sobrinus,Mammalia
+Rhinosciurus laticaudatus,Mammalia
+Sundamys infraluteus,Mammalia
+Rousettus amplexicaudatus,Mammalia
+Balionycteris maculata,Mammalia
+Macaca nemestrina,Mammalia
+Macaca fascicularis,Mammalia
+Arenaria interpres,Aves
+Accipiter nisus (Eurasian sparrowhawk),Aves
+Pteropus alecto,Mammalia
+Acerodon celebensis,Mammalia
+Eothenomys cachinus,Mammalia
+Rhizomys sinensis,Mammalia
+Hystrix brachyura,Mammalia
+Crocidura sp.,Mammalia
+Sorex sp.,Mammalia
+Ochotona thibetana,Mammalia
+Niviventer eha,Mammalia
+Akodon cursor,Mammalia
+Sturnira lilium,Mammalia
+Artibeus lituratus,Mammalia
+Carollia perspicillata,Mammalia
+Anoura caudifer,Mammalia
+Hipposideros commersoni,Mammalia
+Myonycteris angolensis,Mammalia
+Nycteris hispida,Mammalia
+Mus musculoides,Mammalia
+Praomys tullbergi,Mammalia
+Crocidura goliath,Mammalia
+Hylomyscus sp.,
+Heimyscus fumosus,Mammalia
+Malacomys longipes,Mammalia
+Hylomyscus stella,Mammalia
+Miniopterus magnater,Mammalia
+Rhinolophus coelophyllus,Mammalia
+Rattus exulans,Mammalia
+Hipposideros lekaguli,Mammalia
+Rhinolophus shameli,Mammalia
+Myotis horsfieldii,Mammalia
+Bandicota bengalensis,Mammalia
+Chaerephon pumilus,Mammalia
+Praomys sp.,
+Mastomys sp.,Mammalia
+Triaenops persicus,Mammalia
+Chiroptera,Mammalia
+Tadarida sp.,
+Apodemus sylvaticus,Mammalia
+Mastomys natalensis,Mammalia
+Hipposideros ruber,Mammalia
+Parahypsugo crassulus,Mammalia
+Triaenops afer,Mammalia
+Pteropus giganteus,Mammalia
+Gallus gallus (broiler),
+roe deer,Mammalia
+Homo sapiens 4-year-old boy,
+Homo sapiens; sex: M; age: 9 months,
+Homo sapiens; sex: F; age: 3 months,
+Homo sapiens; sex: M; age: 6 months,
+Homo sapiens; sex: M; age: 3 months,
+Microtus agrestis,Mammalia
+Cricetomys gambianus,Mammalia
+broiler chicken,Aves
+Amur tiger,Mammalia
+domestic cat with diarrhea,
+health cat,Mammalia
+stool,
+Culex sp. (mosquito),
+Mus_musculus,Mammalia
+Malacorhynchus membranaceus,Aves
+Calidris ruficollis,Aves
+Homo sapiens; sex: F; age: 9 months,
+Homo sapiens; sex: F; age: 23 Y,
+Homo sapiens; sex: M; age: 20 Y,
+Homo sapiens; sex: F; age: 26 Y,
+Homo sapiens; sex: F; age: 28 Y,
+Homo sapiens; sex: F; age: 47 Y,
+Homo sapiens; sex: F; age: 35 Y,
+Homo sapiens; sex: F; age: 15 Y,
+Homo sapiens; sex: F; age: 21 Y,
+Homo sapiens; sex: M; age: 28 Y,
+Homo sapiens; sex: M; age: 21 Y,
+Homo sapiens; sex: M; age: 30 Y,
+Homo sapiens; sex: F; age: 24 Y,
+Steer,
+Taphozous perforatus,Mammalia
+Homo sapiens; sex: M; age: 19 Y,
+gosling,
+Passeriformes,Aves
+Miniopterus schreibersi,Mammalia
+Scotomannes kuhlii,
+Hipposideros turpis,Mammalia
+Coracias garrulus (European roller),Aves
+Homo sapiens; female,
+Mus musculus; CD1 Nude,
+Canine lupus familaris,
+Sarcophilus harrisii,Mammalia
+Homo sapiens; sex:F; age:63,
+Homo sapiens; sex:F; age:1,
+Homo sapiens; sex:F; age:27,
+Homo sapiens; sex: M; age:63,
+yak,Mammalia
+Homo sapiens; sex: M; age: 11 months,
+Homo sapiens; sex: M; age: 5 months,
+Homo sapiens; sex: M; age: 2 months,
+Homo sapiens; sex: F; age: 13 months,
+Homo sapiens; sex: F; age: 8 months,
+Homo sapiens; sex: M; age: 1 months,
+Homo sapiens; sex: M; age: 13 months,
+Homo sapiens; sex: M; age: 10 months,
+Homo sapiens; sex: F; age: 6 months,
+Homo sapiens; sex: F; age: 31 months,
+Homo sapiens; sex: F; age: 14 months,
+Homo sapiens; sex: F; age: 1 Y,
+Homo sapiens; sex: M; age: 7 months,
+Homo sapiens; sex: F; age: 2 months,
+Homo sapiens; sex: M; age: 17 months,
+Homo sapiens; sex: F; age: 5 months,
+Homo sapiens; sex: F; age: 1 months,
+Homo sapiens; age: 3 Y,
+Homo sapiens; age: 4 M,
+Homo sapiens; age: 8 M,
+Homo sapiens; age: 2 Y,
+Homo sapiens; age: 9 M,
+Homo sapiens; sex: F; age: 4 M,
+Homo sapiens; sex: F; age: 11 Y,
+Homo sapiens; sex: M; age: 8 Y,
+Homo sapiens; sex: M; age: 3 Y,
+Homo sapiens; age: 79 Y,
+Homo sapiens; sex: F; age: 14 M,
+Homo sapiens; sex: M; age: 8 M,
+Homo sapiens; sex: F; age: 3 Y,
+Hybomys univittatus,Mammalia
+Pheasant,
+Hyporhamphus australis,Actinopteri
+Scorpaena jacksoniensis,Actinopteri
+Pseudorhombus arsius,Actinopteri
+Lingxian White Goose,Aves
+Homo sapiens; sex: F; age: 17 Y,
+Tscherskia triton,Mammalia
+Sorex araneus,Mammalia
+Bandicota indica,Mammalia
+Microtus fortis,Mammalia
+Neodon clarkei,Mammalia
+Apodemus peninsulae,Mammalia
+Myodes rufocanus,Mammalia
+Cricetulus barabensis,Mammalia
+Rattus tanezumi sladeni,Mammalia
+Eothenomys custos,Mammalia
+Lasiopodomys gregalis,Mammalia
+Meriones meridianus,Mammalia
+Homo sapiens; sex: F; age: 64 Y,
+Homo sapiens; sex: F; age: 20 Y,
+calf (bovine),
+Homo sapiens; sex: M; age: 22 months,
+Red-necked Avocet,
+Sylvirana guentheri,Amphibia
+Myrrophis chinensis,Lepidosauria
+Pleuronichthys japonicus,Actinopteri
+Coelorinchus multispinulosus,Actinopteri
+Scoliodon macrorhynchos,Chondrichthyes
+Lethenteron camtschaticum,Hyperoartia
+Chimaera sp.,Chondrichthyes
+Polypedates megacephalus,Amphibia
+Echelus uropterus,Actinopteri
+Sardinella lemuru,Actinopteri
+Gonorynchus abbreviatus,Actinopteri
+Tropidophorus sinicus,Lepidosauria
+Hemidactylus bowringii,Lepidosauria
+Gekko similignum,Lepidosauria
+Cynops orientalis,Amphibia
+Microhyla pulchra,Amphibia
+Teratoscincus roborowskii,Lepidosauria
+Leptobrachium hainanense,Amphibia
+Hime japonica,Actinopteri
+Macroramphosus scolopax,Actinopteri
+Hyporhamphus sajori,Actinopteri
+Hemitriakis japanica,Chondrichthyes
+Calotes versicolor,Lepidosauria
+Minous monodactylus,Actinopteri
+Parapercis lutevittata,Actinopteri
+Arnoglossus sp.,Actinopteri
+Crossorhombus sp.,
+Plagiopsetta sp.,Actinopteri
+Pachytriton brevipes,Amphibia
+Hyla simplex,Amphibia
+Duttaphrynus melanostictus,Amphibia
+Pterygotrigla hemisticta,Actinopteri
+Lepidotrigla sp.,Actinopteri
+Cynoglossus sp.,Actinopteri
+Dasyatis akajei,Chondrichthyes
+Cephalopholis spiloparaea,Actinopteri
+Banjos banjos,Actinopteri
+domestic cat,Mammalia
+Myotis petax,Mammalia
+Homo sapiens; sex: M; age: 8 months,
+mink,Mammalia
+Budorcas taxicolor tibetana,Mammalia
+Bat,
+Hortobagy goose,Aves
+Marmota himalayana,Mammalia
+Sus scrofa (swine),Mammalia
+turkey,Aves
+Cerdocyon thous,Mammalia
+Nycteris thebaica,Mammalia
+Miniopterus mossambicus,Mammalia
+Eptesicus serotinus,Mammalia
+Myotis capaccinii,Mammalia
+Barbastella barbastellus,Mammalia
+Myotis myotis/blythii,Mammalia
+Myotis emarginatus,Mammalia
+commercial broiler chicken,Aves
+poultry,
+Lande geese,Aves
+Gallus gallus domesticus,Aves
+Rhinolophus rouxii,Mammalia
+Rhinolophus lepidus,Mammalia
+Beijing duck,Aves
+Anous tenuirostris,Aves
+Tadarida brasiliensis,Mammalia
+Rattus andamanensis,Mammalia
+Homo sapiens; sex: M; age: 18 Y,
+Homo sapiens; sex: M; age: 25 Y,
+Homo sapiens; sex: M; age: 4 Y,
+Homo sapiens; sex: M; age: 23 Y,
+Homo sapiens; sex: F; age: 30 Y,
+Homo sapiens; sex: F; age: 18 Y,
+Gorilla gorilla gorilla,Mammalia
+ovine,
+Miniopterus griveaudi; FMNH 228875,
+Triaenops menamena; UADBA SMG18885,
+Triaenops menamena; UADBA SMG18884,
+Triaenops menamena; UADBA SMG18883,
+Triaenops menamena; FMNH 228864,
+Triaenops menamena; FMNH 228863,
+Triaenops menamena; FMNH 228860,
+Rousettus madagascariensis; UADBA SMG18921,
+Rousettus madagascariensis; FMNH 228826,
+Paratriaenops furculus; UADBA SMG18902,
+Paratriaenops furculus; UADBA SMG18894,
+Paratriaenops furculus; UADBA SMG18892,
+Paratriaenops furculus; UADBA SMG18890,
+Paratriaenops furculus; UADBA SMG18888,
+Paratriaenops furculus; UADBA SMG18886,
+Paratriaenops furculus; FMNH 228851,
+Paratriaenops furculus; FMNH 228848,
+Paratriaenops furculus; FMNH 228844,
+Myotis goudoti; UADBA SMG18920,
+Myotis goudoti; FMNH 228866,
+Myotis goudoti; FMNH 229045,
+Miniopterus griveaudi; UADBA SMG18905,
+Miniopterus griveaudi; UADBA SMG18874,
+Miniopterus griveaudi; UADBA SMG18853,
+Miniopterus griveaudi; FMNH 228882,
+Miniopterus griveaudi; FMNH 228881,
+Miniopterus griveaudi; FMNH 228878,
+Miniopterus griveaudi; FMNH 228876,
+Miniopterus griveaudi; FMNH 228874,
+Miniopterus griveaudi; FMNH 228872,
+Miniopterus griveaudi; FMNH 228870,
+Canis lupus familaris,
+lamb,
+Scotophilus sp.,Mammalia
+Macaca leonina,Mammalia
+Rousettus sp.,Mammalia
+Megaderma lyra,Mammalia
+Rattus sp.,Mammalia
+Rattus argentiventer,Mammalia
+Hylopetes sp.,
+Leopoldamys sabanus,Mammalia
+Anas platyrhynchos,Aves
+Hipposideros gigas,Mammalia
+Myotis pequinius,Mammalia
+Eptesicus serotinus serotinus,Mammalia
+Eptesicus serotinus andersoni,Mammalia
+Mytilus galloprovincialis,Bivalvia
+Himalayan marmot,Mammalia
+Pekin duck,Aves
+turkey; young poult presenting PEMS,
+Acinonyx jubatus,Mammalia
+Guinea fowl,Aves
+Sus scrofa (domestic pig),
+Myotis myotis,Mammalia
+Balaenoptera acutorostrata,Mammalia
+Orcinus orca,Mammalia
+Tursiops truncatus,Mammalia
+Anas platyrhynchos f. domestica,Aves
+Capreolus capreolus,Mammalia
+commercial broiler,
+Myotis longipes,Mammalia
+Swine,Mammalia
+Semnopithecus entellus,Mammalia
+Hylobatidae,Mammalia
+Papio anubis,Mammalia
+Chlorocebus pygerythrus,Mammalia
+Papio hamadryas,Mammalia
+Trachypithecus pileatus,Mammalia
+Hoolock hoolock,Mammalia
+Hypothymis azurea,Aves
+Megaerops kusnotoi,Mammalia
+Myotis nattereri,Mammalia
+Myotis bechsteinii,Mammalia
+Pipistrellus nathusii;Pipistrellus pygmaeus,
+Rhinolophus hipposideros,Mammalia
+Myotis mystacinus,Mammalia
+Landes goose,Aves
+Ma duck,Aves
+Pekin duckling,
+shorebird,
+Homo sapiens 5 month old female,
+Homo sapiens 1 year old male,
+Homo sapiens 62 year old female,
+Homo sapiens 1 year 6 month old female,
+Homo sapiens 2 year old male,
+Homo sapiens 6 year old male,
+Homo sapiens 1 year 6 month old male,
+Homo sapiens 9 month old male,
+Homo sapiens 10 month female,
+Homo sapiens 10 year old female,
+Homo sapiens 1 year 6 month old male child,
+Pygoscelis adeliae,Aves
+Hystrix brachyurus,Mammalia
+Episoriculus leucops,Mammalia
+Volemys millicens,Mammalia
+Tylonycteris robustula,Mammalia
+Homo sapiens 62 year old lady,
+Homo sapiens 6 year old boy,
+Homo sapiens 5 month old girl,
+Homo sapiens 9 month old boy,
+Homo sapiens 10 year old girl,
+Homo sapiens one and half year old boy,
+Homo sapiens 1 year old boy,
+Pipistrellus pygmaeus,Mammalia
+Hipposideros cineraceus,Mammalia
+Homo sapiens 34 month-old girl,
+Homo sapiens 36 month-old girl,
+Homo sapiens 23 month-old boy,
+Homo sapiens 24 month-old girl,
+Homo sapiens 10 month-old girl,
+Homo sapiens 8 month-old girl,
+Homo sapiens 11 month-old girl,
+Homo sapiens 12 month-old girl,
+Homo sapiens under 5 years old,
+Homo sapiens 5 month-old boy,
+Meleagris gallopavo; female,
+Canis familiaris,Mammalia
+"Homo sapiens, 24 months old femail",
+Homo sapiens 1 months old male,
+Homo sapiens 16 months old male,
+Numida meleagris,Aves
+Apodemus flavicollis (yellow necked mouse),
+laboratory mouse,
+Homo sapiens 5 months old female,
+Homo sapiens 62 years old female,
+Homo sapiens 1 year 6 months old baby girl,
+Homo sapiens 2 years old baby boy,
+Homo sapiens 6 years old boy,
+Homo sapiens 1 year 6 months old baby boy,
+Homo sapiens 5 months old baby girl,
+Homo sapiens 9 months old baby boy,
+Homo sapiens 10 months old baby girl,
+Homo sapiens 10 years old girl,
+Homo sapiens 45 years old female,
+puppy,
+Anas penelope,Aves
+Anas clypeata,
+Tringa nebularia,Aves
+Platalea minor,Aves
+Ardeola sp.,
+Dendrocygna javanica,Aves
+Spilopelia chinensis,Aves
+guinea fowl,Aves
+domestic sheep,Mammalia
+Homo sapiens age 57 years,
+Homo sapiens age 69 years,
+Homo sapiens age 52 years,
+Homo sapiens age 80 years,
+Homo sapiens age 85 years,
+Homo sapiens age 8 months,
+Homo sapiens age 3 months,
+Homo sapiens age 1 month,
+Homo sapiens age 12 months,
+Homo sapiens age 4 months,
+Homo sapiens age 9 months,
+Homo sapiens age 5 months,
+Homo sapiens age 6 months,
+Homo sapiens age 10 months,
+Homo sapiens age 2 months,
+Homo sapiens age 16 months,
+Homo sapiens age 11 months,
+Homo sapiens age 14 months,
+Homo sapiens age 7 months,
+Homo sapiens age 25 months,
+Wood pigeon,
+Feral pigeon,
