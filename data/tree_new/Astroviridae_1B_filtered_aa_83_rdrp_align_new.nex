@@ -1,0 +1,455 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=353;
+	taxlabels
+	'-Edinburgh/cat/Mammalia/NA'[&!color=#cc0000]
+	'-Hubei-Province/QJ3DS2284/cat/Malacostraca/2021'
+	'-Hubei-Province/QJ3DS5660/cat/Malacostraca/2021'
+	'-Hubei-Province/QJ3MG1028/cat/Malacostraca/2021'
+	'-Hubei-Province/QJ3MS35/cat/Malacostraca/2021'
+	'-Hubei-Province/QJ3TG2618/cat/Malacostraca/2021'
+	'-Hubei-Province/QJ3TG3868/cat/Malacostraca/2021'
+	'-Hubei-Province/QJ3TS1993/cat/Malacostraca/2021'
+	'-Hubei-Province/QJ3TS2970/cat/Malacostraca/2021'
+	'-Hubei-Province/QJ3TS3058/cat/Malacostraca/2021'
+	'-Hubei-Province/QJ5DG1896/cat/Malacostraca/2021'
+	'-Hubei-Province/QJ5DG2895/cat/Malacostraca/2021'
+	'-Hubei-Province/QJ5MG2088/cat/Malacostraca/2021'
+	'-Jixi/NA/cat/Aves/2019'[&!color=#009900]
+	'-Lingshui/LSHLS353/cat/Magnoliopsida/2019'
+	-Moredun-Research-Institute[&!color=#cc0000]
+	'-Tibet/ASTV-1/cat/Aves/2020'[&!color=#009900]
+	'AB823732/Bhutan/BtnMLB1-86/human/NA/2010'[&!color=#cc0000]
+	'AF206663/NA/NA/NA/NA/NA'[&!color=#009900]
+	'BR001717/NA/macaque_feces-2019-624/cat/Mammalia/NA'[&!color=#cc0000]
+	'C125ves/NA'[&!color=#009900]
+	'EU847147/China_Hong-Kong/WCF98/cat/Mammalia/2004'[&!color=#cc0000]
+	'EU847148/China_Hong-Kong/WCF90/cat/Mammalia/2004'[&!color=#cc0000]
+	'EU847149/China_Hong-Kong/WCF4/cat/Mammalia/2004'[&!color=#cc0000]
+	'EU847150/China_Hong-Kong/AFCD82/cat/Mammalia/2005'[&!color=#cc0000]
+	'EU847151/China_Hong-Kong/AFCD77/cat/Mammalia/2005'[&!color=#cc0000]
+	'EU847153/China_Hong-Kong/AFCD68/cat/Mammalia/2005'[&!color=#cc0000]
+	'EU847154/China_Hong-Kong/WCF214/cat/Mammalia/2005'[&!color=#cc0000]
+	'EU847155/China_Hong-Kong/AFCD337/cat/Mammalia/2006'[&!color=#cc0000]
+	'FJ890355/NA/NA/cat/Mammalia/2007'[&!color=#cc0000]
+	'GQ267696/NA/SZ908/human/Mammalia/2008'[&!color=#cc0000]
+	'Guangxi/LD38/cat/Mammalia/2007'[&!color=#cc0000]
+	'Guangxi/LD71/cat/Mammalia/2007'[&!color=#cc0000]
+	'Guangxi/LD77/cat/Mammalia/2007'[&!color=#cc0000]
+	'Guangxi/LS11/cat/Mammalia/2007'[&!color=#cc0000]
+	'HQ916316/Hong-Kong/NA/cat/Mammalia/NA'[&!color=#cc0000]
+	'Hainan/K8f_52_Astrovirus_shrew_240620/cat/Mammalia/2024'
+	'JF729316/NA/TN-rabbit-10-2208/cat/Mammalia/2010'[&!color=#cc0000]
+	'JF832365/NA/4175/cat/Aves/2006'[&!color=#009900]
+	'JN420351/NA/1136/sea-lion/Mammalia/2010'[&!color=#cc0000]
+	'JN420356/NA/1234/sea-lion/Mammalia/2010'[&!color=#cc0000]
+	'JN420359/NA/9822/sea-lion/Mammalia/2010'[&!color=#cc0000]
+	'JX544744/NA/NA/NA/NA/2011'[&!color=#cc0000]
+	'JX857868/NA/VA3-human-Vellore-28054-2005/human/Mammalia/2005'[&!color=#cc0000]
+	'JX857869/Nepal/VA4-human-Nepal-S5363-2008/human/Mammalia/2008'[&!color=#cc0000]
+	'KC692365/NA/fox-5/cat/Mammalia/2012'[&!color=#cc0000]
+	'KF753807/China/NA/NA/NA/2012'[&!color=#009900]
+	'KP663426/NA/NA/roller/Aves/2011'[&!color=#cc0000]
+	'KT946718/Hong-Kong/D11-139-HK/cat/Aves/NA'[&!color=#009900]
+	'KT946731/Hong-Kong/HK-CWRN1RV/cat/Mammalia/NA'[&!color=#cc0000]
+	'KX599351/NA/NA/dog/Mammalia/2012'[&!color=#cc0000]
+	'KY855439/China/NA/cat/Mammalia/2013'[&!color=#cc0000]
+	'KY933399/NA/U460/swine/Mammalia/2012'[&!color=#cc0000]
+	'LC047789/NA/NA/bull/Mammalia/2009'[&!color=#cc0000]
+	'LC849253/NA/AstV-Raccoon_dog-Kodo2023-51-2023-JPN/dog/Mammalia/2023'[&!color=#cc0000]
+	'LT706531/NA/UK-2013-ewe-lib01454/NA/NA/NA'[&!color=#cc0000]
+	'MF033385/China/S510/cat/Mammalia/2017'[&!color=#cc0000]
+	'MG599880/China/NA/cat/Actinopteri/NA'
+	'MG599882/China/NA/banjofish/Actinopteri/NA'
+	'MG599883/China/NA/grouper/Actinopteri/NA'
+	'MG599884/China/NA/NA/NA/NA'
+	'MG599886/China/NA/cat/Hyperoartia/NA'
+	'MG599888/China/NA/cat/Chondrichthyes/NA'
+	'MG599889/China/NA/cat/Chondrichthyes/NA'
+	'MG599891/China/NA/cat/Hyperoartia/NA'
+	'MG599892/China/NA/cat/Hyperoartia/NA'
+	'MG599893/China/NA/rattail/Actinopteri/NA'
+	'MG599894/China/NA/cat/Actinopteri/NA'
+	'MG599895/China/NA/rattail/Actinopteri/NA'
+	'MG599897/China/NA/rattail/Actinopteri/NA'
+	'MG599898/China/NA/flounder/Actinopteri/NA'
+	'MG599899/China/NA/cat/Actinopteri/NA'
+	'MG599900/China/NA/cat/Actinopteri/NA'
+	'MG599901/China/NA/cat/Actinopteri/NA'
+	'MG599902/China/NA/cat/Actinopteri/NA'
+	'MG599903/China/NA/toad/Amphibia/NA'
+	'MG599904/China/NA/cat/Lepidosauria/NA'
+	'MG599905/China/NA/NA/NA/NA'
+	'MG599907/China/NA/cat/Lepidosauria/NA'
+	'MG599909/China/NA/cat/Amphibia/NA'
+	'MG599910/China/NA/toad/Amphibia/NA'[&!color=#009900]
+	'MG599911/China/NA/cat/Amphibia/NA'
+	'MG599912/China/NA/cat/Amphibia/NA'
+	'MG599913/China/NA/cat/Amphibia/NA'
+	'MG599915/China/NA/newt/Amphibia/NA'
+	'MG599916/China/NA/newt/Amphibia/NA'[&!color=#009900]
+	'MG599917/China/NA/cat/Lepidosauria/NA'[&!color=#009900]
+	'MG599918/China/NA/cat/Lepidosauria/NA'[&!color=#009900]
+	'MG599920/China/NA/lizard/Lepidosauria/NA'
+	'MG599921/China/NA/cat/Actinopteri/NA'
+	'MG599922/China/NA/cat/Actinopteri/NA'
+	'MG599923/China/NA/cat/Actinopteri/NA'
+	'MG599924/China/NA/flounder/Actinopterygii/NA'
+	'MG599925/China/NA/flounder/Actinopterygii/NA'
+	'MG599926/China/NA/Arnoglossus/Actinopteri/NA'
+	'MG599928/China/NA/cat/Actinopteri/NA'
+	'MG599930/China/NA/cat/Actinopteri/NA'
+	'MG599931/China/NA/cat/Amphibia/NA'[&!color=#009900]
+	'MG599932/China/NA/cat/Amphibia/NA'
+	'MG599933/China/NA/lizard/Lepidosauria/NA'
+	'MG599936/China/NA/cat/Chondrichthyes/NA'
+	'MH453800/NA/AstV-Red-necked-Avocet-MW08-Interior/cat/Aves/2013'[&!color=#009900]
+	'MH453801/NA/AstV-Red-necked-Avocet-MW09-Interior/cat/Aves/2013'[&!color=#009900]
+	'MH712856/China/NA/duck/Aves/2012'[&!color=#009900]
+	'MK089435/Switzerland/668/human/Mammalia/2015'[&!color=#cc0000]
+	'MK096773/French-Guiana/PasAstV-1/cat/Aves/NA'[&!color=#009900]
+	'MK096774/French-Guiana/PasAstV-2/cat/Aves/2016'[&!color=#009900]
+	'MK096775/French-Guiana/PasAstV-3/cat/Aves/2016'[&!color=#009900]
+	'MK404646/Switzerland/NA/goat/Mammalia/2017'[&!color=#cc0000]
+	'MK521912/NA/Stony-Head-Tasmania-Sarcophilus_harrisii-2016-DN108473/cat/Mammalia/2016'[&!color=#cc0000]
+	'MK987100/Switzerland/BoAstV-VC34-346/bull/Mammalia/2016'[&!color=#cc0000]
+	'MN033591/NA/H4_Rhizo_44_scaffold_12707/NA/NA/NA'
+	'MN034082/NA/H2_Bulk_35_scaffold_28/NA/NA/NA'
+	'MN034752/NA/H1_Rhizo_Litter_1_scaffold_1158/NA/NA/NA'
+	'MN035758/NA/H1_Rhizo_26_FD_scaffold_114/NA/NA/NA'
+	'MN035893/NA/H3_Bulk_Litter_17_scaffold_17037/NA/NA/NA'
+	'MN087316/NA/NA/cat/Mammalia/2018'[&!color=#cc0000]
+	'MN626434/NA/AV-UKMa1_TT/cat/Mammalia/2014'[&!color=#cc0000]
+	'MN832787/NA/BtAstV-13585-58-M.dau-DK-2014/cat/Mammalia/2014'[&!color=#cc0000]
+	'MN920663/China/spa143ast1/NA/NA/2018'[&!color=#009900]
+	'MN920668/China/war204ast1/NA/NA/2018'[&!color=#009900]
+	'MN920669/China/ybb150ast01/NA/NA/2018'[&!color=#009900]
+	'MN920670/China/ybw202ast01/NA/NA/2018'[&!color=#009900]
+	'MT137991/NA/bbr144ast1/NA/NA/2018'[&!color=#009900]
+	'MT137994/NA/bsk136ast01/NA/NA/2018'[&!color=#009900]
+	'MT137995/NA/bun145astnc1/NA/NA/2018'[&!color=#009900]
+	'MT137996/NA/cfe153ast01/NA/NA/2018'[&!color=#009900]
+	'MT137999/NA/coa196ast1/NA/NA/2018'[&!color=#009900]
+	'MT138002/NA/cra070ast1/NA/NA/2018'[&!color=#009900]
+	'MT138005/NA/hwf041ast1/NA/NA/2018'[&!color=#009900]
+	'MT138007/NA/ltr178ast1/NA/NA/2018'[&!color=#009900]
+	'MT138009/NA/prf037ast1nc/NA/NA/2018'[&!color=#009900]
+	'MT138010/NA/prf037ast2/NA/NA/2018'[&!color=#009900]
+	'MT734809/NA/BAstV-RB/bat/Mammalia/2020'[&!color=#cc0000]
+	'MT832894/NA/TO-162/human/Mammalia/2011'[&!color=#cc0000]
+	'MT993583/NA/MW06_2o/turnstone/Aves/2014'[&!color=#009900]
+	'MT993595/NA/MW09_1o/turnstone/Aves/2015'[&!color=#009900]
+	'MT993596/NA/MW10_1o/turnstone/Aves/2015'[&!color=#009900]
+	'MW037839/NA/NA/cat/Mammalia/2018'[&!color=#cc0000]
+	'MW249010/NA/DesRot-Peru-AYA14_F_DrAstV/cat/Mammalia/2016'[&!color=#cc0000]
+	'MW385412/China/NA/cat/Aves/2017'[&!color=#009900]
+	'MW450837/China/BF2-astro-YN-CHN-2020/cat/Mammalia/2020'[&!color=#cc0000]
+	'MW504552/NA/15214_AST_len_6117_cov_31.526724/wild-boar/Mammalia/2018'[&!color=#cc0000]
+	'MW505490/China_Heilongjiang-Province'[&!color=#009900]
+	'MW588062/NA/NA/NA/NA/NA'[&!color=#009900]
+	'MW588064/NA/NA/NA/NA/NA'[&!color=#009900]
+	'MW645024/NA/NA/cat/Actinopteri/2020'
+	'MW826371/China/XZN01/cat/NA/2018'[&!color=#009900]
+	'MW826482/China/YSN02/cat/NA/2019'[&!color=#009900]
+	'MW826483/China/YSN01/cat/NA/2019'[&!color=#009900]
+	'MZ150559/China/ANV-Chicken-CHN-2020-AH202017/cat/Aves/2020'[&!color=#009900]
+	'MZ218053/NA/BtAstV-21164-6-A-M.dau-DK-2015/cat/Mammalia/2015'[&!color=#cc0000]
+	'MZ291970/Cameroon/G20_108/cat/NA/2019'
+	'MZ375133/China/1PE-RDRP-3/cat/Lepidosauria/2020'
+	'MZ375134/China/1PE-RDRP-4/cat/Lepidosauria/2020'
+	'MZ375139/China/3PE-RDRP-2/cat/Lepidosauria/2020'[&!color=#009900]
+	'MZ375140/China/4PT-RDRP-1/cat/Lepidosauria/2020'
+	'MZ375141/China/5PT-RDRP-1/cat/Lepidosauria/2020'
+	'MZ375143/China/5PT-RDRP-3/cat/Lepidosauria/2020'
+	'MZ375148/China/6PT-RDRP-2/cat/Lepidosauria/2020'
+	'MZ603076/NA/HAstV-VA2_RVAB/NA/NA/2010'[&!color=#cc0000]
+	'MZ779126/NA/NA/cat/Mammalia/2021'[&!color=#cc0000]
+	'MZ819170/Chile/PoAstV5-Swine-CHI-FB036-2017/wild-boar/Mammalia/2017'[&!color=#cc0000]
+	'NC_036583/China/GX-006/cat/Mammalia/NA'[&!color=#cc0000]
+	'OK107514/China/NA/cat/Mammalia/2021'[&!color=#cc0000]
+	'OL345583/China/DB03F-SX-2018/cat/Mammalia/2018'[&!color=#cc0000]
+	'OL871128/New-Zealand/CB_FW_05_Hayes_RdRp/cat/Actinopteri/NA'
+	'OM140654/China_Xinjiang/NA/cat/Mammalia/2016'[&!color=#cc0000]
+	'OM480534/China/NA/cat/Mammalia/2020'[&!color=#cc0000]
+	'OM480543/China/NA/cat/Mammalia/2020'[&!color=#cc0000]
+	'OM514376/China_Hainan'
+	'OM953841/New-Zealand_Manawatu-River/CMU2_DN78443_c0_g1_i1/NA/NA/2019'
+	'OM953842/New-Zealand_Manawatu-River/CMU2_DN75963_c0_g1_i1/NA/NA/2019'
+	'OM953846/New-Zealand_Manawatu-River/CMF2_DN30973_c0_g1_i4/NA/NA/2019'
+	'OM953847/New-Zealand_Manawatu-River/CMF1_DN41866_c1_g1_i1/NA/NA/2019'
+	'OM953848/New-Zealand_Manawatu-River/CMF1_DN41184_c0_g1_i1/NA/NA/2019'
+	'OM953849/New-Zealand_Manawatu-River/CMF2_DN31075_c0_g1_i1/NA/NA/2019'
+	'OM953850/New-Zealand_Manawatu-River/CMU1_DN176158_c0_g1_i1/NA/NA/2019'
+	'OM953851/New-Zealand_Manawatu-River/CMF2_DN25939_c0_g1_i1/NA/NA/2019'
+	'OM954081/New-Zealand_Manawatu-River/CMU2_DN76774_c0_g2_i1/NA/NA/2019'
+	'OM954082/New-Zealand_Manawatu-River/CMU2_DN72442_c0_g1_i1/NA/NA/2019'
+	'OM954094/New-Zealand_Manawatu-River/CMP2_DN37632_c0_g1_i1/NA/NA/2019'
+	'ON595937/NA/F2/cat/Actinopteri/2021'
+	'ON595949/NA/F14/cat/Actinopteri/2021'
+	'ON624251/China/NA/cat/Mammalia/2021'[&!color=#cc0000]
+	'ON624282/China/NA/cat/Mammalia/2021'[&!color=#cc0000]
+	'ON893139/NA/SYMN012/cat/Mammalia/NA'[&!color=#cc0000]
+	'ON982163/China/SD-19/cat/Actinopteri/2019'
+	'OP076748/NA/DcAstV-Jd57-KSA-2014/camel/Mammalia/2014'[&!color=#cc0000]
+	'OP556335/NA/16-219p/cat/Actinopteri/2016'
+	'OP589977/NA/EBW-Sk-1/cat/Mammalia/2013'[&!color=#cc0000]
+	'OP589978/NA/EBW-Sk-2/cat/Mammalia/2013'[&!color=#cc0000]
+	'OP589980/NA/EBW-Sk-4/cat/Mammalia/2013'[&!color=#cc0000]
+	'OP589985/NA/EBW-Sk-9/cat/Mammalia/2013'[&!color=#cc0000]
+	'OP963603/China_Yunnan/NA/cat/Mammalia/2018'[&!color=#cc0000]
+	'OQ198041/China/AstroviridaeDogfe351C1full/cat/Mammalia/2020'[&!color=#cc0000]
+	'OQ198044/China/AstroviridaeDogfe337C1full/cat/Mammalia/2020'[&!color=#cc0000]
+	'OQ198047/China/AstroviridaeDogfe326C1full/cat/Mammalia/2020'[&!color=#cc0000]
+	'OQ236112/China/AstV-GD-C5-49.18-2022/cat/Mammalia/2021'[&!color=#cc0000]
+	'OQ236114/China/AstV-GD-L93.21-2022/cat/Mammalia/2022'[&!color=#cc0000]
+	'OQ236121/China/AstV-CQ-L76.18a-2021/cat/Mammalia/2021'[&!color=#cc0000]
+	'OQ236123/China/AstV-CQ-L76.18c-2021/cat/Mammalia/2021'[&!color=#cc0000]
+	'OQ236124/China/AstV-CQ-L76.18d-2021/cat/Mammalia/2021'[&!color=#cc0000]
+	'OQ236125/China/AstV-CQ-L76.18e-2021/cat/Mammalia/2021'[&!color=#cc0000]
+	'OQ236128/China/AstV-SC-L74.18c-2021/cat/Mammalia/2021'[&!color=#cc0000]
+	'OQ236134/China/AstV-GZ-L162.18b-2022/cat/Mammalia/2022'[&!color=#cc0000]
+	'OQ236139/China/AstV-GD-L95.21-2022/cat/Mammalia/2022'[&!color=#cc0000]
+	'OQ236157/China/AstV-GX-B30M0312-2019/cat/Mammalia/2019'[&!color=#cc0000]
+	'OQ606244/Madagascar/RR034B/cat/Mammalia/2018'[&!color=#cc0000]
+	'OQ693700/NA/DAstV-1/cat/Mammalia/NA'[&!color=#cc0000]
+	'OQ802704/China_Jingmen/JM_My.chinensis_astro_1/cat/Mammalia/2016'[&!color=#cc0000]
+	'OQ802710/China_Jingmen/JM_My.chinensis_astro_6/cat/Mammalia/2016'[&!color=#cc0000]
+	'OQ802712/China_Jingmen/JM_Rh.sinicus_astro_2/cat/Mammalia/2016'[&!color=#cc0000]
+	'OQ802722/China_Wenzhou/WZ_Ra.tanezumi_astro_1/cat/Mammalia/2016'[&!color=#cc0000]
+	'OQ802733/China_Jingmen/JM_Cr.shantungensis_astro_1/cat/Mammalia/2016'[&!color=#cc0000]
+	'OQ802736/China_Longquan/LQ_Rh.pearsonii_astro_2/cat/Mammalia/2016'[&!color=#cc0000]
+	'OQ802738/China_Longquan/LQ_Ap.agrarius_astro_1/cat/Mammalia/2016'[&!color=#cc0000]
+	'OQ802743/China_Wenzhou/WZ_Hy.pulveratus_astro_1/cat/Mammalia/2016'
+	'OQ802749/China_Wenzhou/WZ_Pi.abramus_astro_3/cat/Mammalia/2016'[&!color=#cc0000]
+	'OQ802750/China_Wenzhou/WZ_My.laniger_astro_2/cat/Mammalia/2016'[&!color=#cc0000]
+	'OQ802759/China_Wufeng/WF_Ni.niviventer_astro_1/cat/Mammalia/2016'[&!color=#cc0000]
+	'OQ986606/NA/GEIG/NA/NA/2021'[&!color=#009900]
+	'OQ986607/NA/GEIG/NA/NA/2021'[&!color=#009900]
+	'OQ986608/NA/RHFU/NA/NA/2021'[&!color=#009900]
+	'OQ986609/NA/RHFU/NA/NA/2021'[&!color=#009900]
+	'OQ986648/NA/GEIG/NA/NA/2021'[&!color=#009900]
+	'OQ986677/NA/GEIG/NA/NA/2021'[&!color=#009900]
+	'OQ986679/NA/GEIG/NA/NA/2021'[&!color=#009900]
+	'OQ986722/NA/ARAN/cat/Arachnida/2021'
+	'OR270057/New-Zealand/KAI-S/cat/Actinopteri/2021'
+	'OR270059/New-Zealand/MAR-S/cat/Actinopteri/2021'
+	'OR350280/Zambia/F25/cat/Actinopteri/2014'
+	'OR350281/Tanzania/F26/cat/Actinopteri/2017'
+	'OR350285/Zambia/F29/cat/Actinopteri/2016'
+	'OR350289/Zambia/F31/cat/Actinopteri/2016'
+	'OR350291/Zambia/F32/cat/Actinopteri/2017'
+	'OR367603/China/YakFeces06-1944/cat/Mammalia/2021'[&!color=#cc0000]
+	'OR367606/China/YakFeces06-11940/cat/Mammalia/2021'[&!color=#cc0000]
+	'OR367608/China/YakFeces06-13688/cat/Mammalia/2021'[&!color=#cc0000]
+	'OR552421/NA/seven/cat/Mammalia/2023'[&!color=#cc0000]
+	'OR613294/China_Guangxi/MSCZC1516-7/cat/Mammalia/2015'[&!color=#cc0000]
+	'OR613299/China_Guangxi/HLNN15-1/cat/Mammalia/2015'[&!color=#cc0000]
+	'OR613301/China_Guangxi/MSCZC1516-7/cat/Mammalia/2015'[&!color=#cc0000]
+	'OR613303/China_Jiangxi/MSJDC22-12649/cat/Mammalia/2022'[&!color=#cc0000]
+	'OR711901/China/YNKm72022/cat/Mammalia/2022'[&!color=#cc0000]
+	'OR871060/China_Guizhou/HAFQP22-11/cat/Mammalia/2022'
+	'OR907127/China/NA/cat/Aves/2023'[&!color=#009900]
+	'OR924090/China/NA/cat/Aves/2021'[&!color=#009900]
+	'OR951010/China/GX2018/cat/Mammalia/2018'[&!color=#cc0000]
+	'OR951011/China/GX2018/cat/Mammalia/2018'[&!color=#cc0000]
+	'OR951013/China/YN2020_057_1262/cat/Mammalia/2020'[&!color=#cc0000]
+	'OR951014/China/YN2020_057_2262/cat/Mammalia/2020'[&!color=#cc0000]
+	'OR951015/China/YN2020_057_2377/cat/Mammalia/2020'[&!color=#cc0000]
+	'OR951020/China/GD2020/cat/Mammalia/2020'[&!color=#cc0000]
+	'OR951021/China/GX2019_145_83144/cat/Mammalia/2019'[&!color=#cc0000]
+	'OR951026/China/GX2017_185_6114/cat/Mammalia/2017'[&!color=#cc0000]
+	'OR951034/China/GD2017_191_26815/cat/Mammalia/2017'[&!color=#cc0000]
+	'OR951045/China/GD2017_207_27658/cat/Mammalia/2017'[&!color=#cc0000]
+	'OR951052/China/GX2017/cat/?/2020'
+	'OR951053/China/JX2020/cat/?/2020'
+	'OR951059/China/GD2016_230_3862/cat/Mammalia/2016'[&!color=#cc0000]
+	'OR951060/China/GX2016/cat/Mammalia/2016'[&!color=#cc0000]
+	'OR951063/China/GX2017_243_49312/cat/Mammalia/2017'[&!color=#cc0000]
+	'OR951069/China/YN2017/cat/Mammalia/2017'[&!color=#cc0000]
+	'OR951072/China/GD2016_278_110098/cat/Mammalia/2016'[&!color=#cc0000]
+	'OR951079/China/HB2020_303_11589/cat/Mammalia/2020'[&!color=#cc0000]
+	'OR951080/China/HB2020_306_19370/cat/Mammalia/2020'[&!color=#cc0000]
+	'OR951081/China/Pool-312/cat/Mammalia/2020'[&!color=#cc0000]
+	'OR951086/China/YN2020_321_25819/cat/Mammalia/2020'[&!color=#cc0000]
+	'OR951087/China/YN2020_321_29515/cat/Mammalia/2020'[&!color=#cc0000]
+	'OR951095/China/JX2021/cat/Mammalia/2021'[&!color=#cc0000]
+	'OR951096/China/JX2021/cat/Mammalia/2021'[&!color=#cc0000]
+	'OR951097/China/JX2021_367_194485/cat/Mammalia/2021'[&!color=#cc0000]
+	'OR951098/China/JX2021_368_226027/cat/Mammalia/2021'[&!color=#cc0000]
+	'PP171789/NA/CC1A_k141_26573/NA/NA/2021'
+	'PP171953/NA/CC1B_k141_72897/NA/NA/2021'
+	'PP172252/NA/CN1B_k141_41417/NA/NA/2021'
+	'PP172253/NA/CN1B_k141_41676/NA/NA/2021'
+	'PP172690/NA/KCAP1_k141_334640/NA/NA/2022'
+	'PP173125/NA/KCAP3_k141_153500/NA/NA/2022'
+	'PP173376/NA/KCAP3_k141_88145/NA/NA/2022'
+	'PP173619/NA/MP3_k141_278491/NA/NA/2022'
+	'PP173905/NA/SP1A_k141_108659/NA/NA/2021'
+	'PP173952/NA/SP1A_k141_93956/NA/NA/2021'
+	'PP174037/NA/SP1C_k141_138402/NA/NA/2021'
+	'PP174052/NA/SP1C_k141_170176/NA/NA/2021'
+	'PP174176/NA/SP2B_k141_169106/NA/NA/2021'
+	'PP174197/NA/SP2C_k141_157132/NA/NA/2021'
+	'PP174201/NA/SP2C_k141_173245/NA/NA/2021'
+	'PP211222/China/Ra.norvegicus_bastro_5/cat/Mammalia/2018'
+	'PP272790/New-Zealand/DN66980/cat/Lepidosauria/2021'
+	'PP352010/NA/Hunan-CHN-2022/cat/Amphibia/2022'[&!color=#009900]
+	'PP352011/China_Jiangxi/Jiangxi-CHN-2022/cat/Amphibia/2022'
+	'PP478076/NA/PL_pigeon_24-2023/swine/Aves/2023'[&!color=#009900]
+	'PP590730/Antarctica/MRL_L/cat/Actinopteri/2021'
+	'PP623814/China_Hong-Kong/MP22-196/cat/Aves/2022'[&!color=#009900]
+	'PP646881/China/GX-WZ-2023/cat/Mammalia/2023'[&!color=#cc0000]
+	'PP700499/NA/F31/cat/Actinopteri/2022'
+	'PP700500/NA/F32/cat/Actinopteri/2022'
+	'PP711188/NA/Hplan-A_304122/cat/Lepidosauria/2017'[&!color=#009900]
+	'PP711856/NA/13A-Kenya-BAT1552-2015/cat/Mammalia/2015'[&!color=#cc0000]
+	'PP711863/NA/18A-Kenya-BAT0736-2015/cat/Mammalia/2015'[&!color=#cc0000]
+	'PP711873/NA/3A-Kenya-BAT0736-2015/cat/Mammalia/2015'[&!color=#cc0000]
+	'PP711874/NA/4A-Kenya-BAT3003-2015/cat/Mammalia/2015'[&!color=#cc0000]
+	'PP711877/NA/5A-Kenya-BAT0738-2015/cat/Mammalia/2015'[&!color=#cc0000]
+	'PP711880/NA/8A-Uganda-UGR87-2019/cat/Mammalia/2019'[&!color=#cc0000]
+	'PP763758/China_Sichuan-province/AAstV-Goose-CHN-2023-C102/cat/Aves/2023'[&!color=#009900]
+	'PP871761/NA/astro_vt_43/cat/Aves/2016'[&!color=#cc0000]
+	'PP871787/NA/astro_vt_69/swine/Mammalia/2015'[&!color=#cc0000]
+	'PP871808/NA/astro_vt_90/cat/Aves/2015'[&!color=#009900]
+	'PP871881/NA/astro_vt_163/swine/Mammalia/2014'[&!color=#cc0000]
+	'PQ055526/China_Qianjiang'
+	'PQ055527/China_Qianjiang'
+	'PQ055528/China_Qianjiang'
+	'PQ055529/China_Qianjiang'
+	'PQ055532/China_Qianjiang'
+	'PQ055533/China_Qianjiang'
+	'PQ055535/China_Qianjiang'
+	'PQ055536/China_Qianjiang'
+	'PQ055537/China_Qianjiang'
+	'PQ055538/China_Qianjiang'
+	'PQ055540/China_Qianjiang'
+	'PQ055541/China_Qianjiang'
+	'PQ110289/Iran/Or_elegans1_agamemnon2/cat/Insecta/2024'
+	'PQ220257/China_Shigatse-City'[&!color=#009900]
+	'PQ421841/China_Yunnan-Province/QJ1-CWDS/cat/Mammalia/2017'
+	'PQ421846/China_Yunnan-Province/LQ4-XSQ/cat/Mammalia/2019'
+	'PQ421849/China_Yunnan-Province/YL-SCDW/cat/Mammalia/2015'[&!color=#cc0000]
+	'PQ421850/China_Yunnan-Province/QJ1-CWDS/cat/Mammalia/2017'[&!color=#cc0000]
+	'PQ435248/NA/FeAstV-THA-CU34912-2023/cat/Mammalia/2023'[&!color=#cc0000]
+	'PQ541178/Sierra-Leone/Mu.-setulosus_astro/cat/Mammalia/2023'[&!color=#cc0000]
+	'PQ678015/China_Yunnan/DHMS-YNSC01/cat/Mammalia/2021'[&!color=#cc0000]
+	'PQ678098/China_Yunnan/ZTYS-YNSC187/cat/Mammalia/2022'[&!color=#cc0000]
+	'PQ792140/China/Sarthropod009_astro1/cat/Clitellata/2023'
+	'PQ792554/China/Svole195_astro1/cat/Mammalia/2023'[&!color=#cc0000]
+	'PV088328/NA/NA/human/Mammalia/2014'[&!color=#cc0000]
+	'PV093021/China/NA/cat/Mammalia/2023'[&!color=#009900]
+	'PV093029/China/NA/cat/Mammalia/2023'[&!color=#009900]
+	'PV247174/NA/LUVAS-2023-PAstV_21/swine/Mammalia/2023'[&!color=#cc0000]
+	'PV351772/China/HN_K7f_51/cat/Mammalia/2024'[&!color=#cc0000]
+	'PV418557/NA/CaAstV-Dog-AUS-perth_6-2022/cat/Mammalia/2022'[&!color=#cc0000]
+	'PV470470/NA/MP12.k141_82519/cat/Ascidiacea/2021'
+	'PV708886/China/Chenqi-074/cat/Mammalia/2023'[&!color=#cc0000]
+	'PV793827/China/AstroviridaeCranefe81/cat/Aves/2024'[&!color=#009900]
+	'PV793828/China/AstroviridaeGoosefe87/cat/Aves/2024'[&!color=#009900]
+	'PV793829/China/AstroviridaeGoosefe94/cat/Aves/2024'[&!color=#009900]
+	'PV793831/China/AstroviridaeGoosefe93/cat/Aves/2024'
+	'PV793832/China/AstroviridaeGoosefe95V1/cat/Aves/2024'[&!color=#009900]
+	'PV793833/China/AstroviridaeGoosefe95V2/cat/Aves/2024'[&!color=#009900]
+	'PX095750/China/SQ-N.fuscus-Mav/cat/Mammalia/2023'[&!color=#cc0000]
+	'PX095800/China/DL-P.nayaur-Mav-1/cat/Mammalia/2023'[&!color=#cc0000]
+	'PX236817/New-Zealand/M22/cat/Mammalia/2021'[&!color=#cc0000]
+	'Y15937/NA/provided-by-Dr.-D.R.-Snodgrass'[&!color=#cc0000]
+;
+end;
+
+begin trees;
+	tree tree1 = [&R] ('PQ055527/China_Qianjiang':0.0,'-Hubei-Province/QJ3TS1993/cat/Malacostraca/2021':3.13404,((((((((((('PP172690/NA/KCAP1_k141_334640/NA/NA/2022':2.49908,('PQ055535/China_Qianjiang':0.0,'-Hubei-Province/QJ3DS5660/cat/Malacostraca/2021':1.91014,'PP173619/NA/MP3_k141_278491/NA/NA/2022':1.71391)[&label=100.0]:0.38882)[&label=100.0]:1.06526,(('PP172252/NA/CN1B_k141_41417/NA/NA/2021':1.55914,('PP174201/NA/SP2C_k141_173245/NA/NA/2021':0.25863,'PP174176/NA/SP2B_k141_169106/NA/NA/2021':0.33461)[&label=100.0]:0.94387)[&label=100.0]:1.85331,(('MZ291970/Cameroon/G20_108/cat/NA/2019':2.14244,('PP173952/NA/SP1A_k141_93956/NA/NA/2021':1.25165,('OM953849/New-Zealand_Manawatu-River/CMF2_DN31075_c0_g1_i1/NA/NA/2019':1.03415,'OM954082/New-Zealand_Manawatu-River/CMU2_DN72442_c0_g1_i1/NA/NA/2019':1.60574)[&label=93.0]:0.21611)[&label=100.0]:0.73211)[&label=97.0]:0.3815,'OM953842/New-Zealand_Manawatu-River/CMU2_DN75963_c0_g1_i1/NA/NA/2019':1.51763)[&label=96.0]:0.44495)[&label=100.0]:1.33135)[&label=100.0]:0.63871,((('PP173376/NA/KCAP3_k141_88145/NA/NA/2022':1.54843,'PQ055540/China_Qianjiang':0.0,'-Hubei-Province/QJ3MG1028/cat/Malacostraca/2021':1.53548)[&label=100.0]:0.79005,'PQ792140/China/Sarthropod009_astro1/cat/Clitellata/2023':1.78979)[&label=100.0]:1.55295,('OM953848/New-Zealand_Manawatu-River/CMF1_DN41184_c0_g1_i1/NA/NA/2019':1.5736,'OM953841/New-Zealand_Manawatu-River/CMU2_DN78443_c0_g1_i1/NA/NA/2019':1.18297)[&label=100.0]:2.16495)[&label=98.0]:1.00731)[&label=81.0]:0.49244,((((((('MN034082/NA/H2_Bulk_35_scaffold_28/NA/NA/NA':1.35782,'PP173125/NA/KCAP3_k141_153500/NA/NA/2022':4.25105)[&label=69.0]:0.4497,'PQ055533/China_Qianjiang':0.0,'-Hubei-Province/QJ5MG2088/cat/Malacostraca/2021':1.79832)[&label=69.0]:0.16404,(((('PP173905/NA/SP1A_k141_108659/NA/NA/2021':0.907,'PV793831/China/AstroviridaeGoosefe93/cat/Aves/2024':0.4364)[&label=97.0]:0.10707,'PP172253/NA/CN1B_k141_41676/NA/NA/2021':0.76478)[&label=52.0]:0.14757,'OM954094/New-Zealand_Manawatu-River/CMP2_DN37632_c0_g1_i1/NA/NA/2019':0.46948)[&label=97.0]:0.22777,'PQ055536/China_Qianjiang':0.0,'-Hubei-Province/QJ5DG1896/cat/Malacostraca/2021':2.70483)[&label=99.0]:0.25433)[&label=57.0]:0.22815,('PQ055528/China_Qianjiang':0.0,'-Hubei-Province/QJ3TS2970/cat/Malacostraca/2021':1.87431,('OM953847/New-Zealand_Manawatu-River/CMF1_DN41866_c1_g1_i1/NA/NA/2019':0.93217,'OM953850/New-Zealand_Manawatu-River/CMU1_DN176158_c0_g1_i1/NA/NA/2019':1.20394)[&label=100.0]:0.35709)[&label=66.0]:0.12371)[&label=87.0]:0.44376,(('PP171789/NA/CC1A_k141_26573/NA/NA/2021':3.02111,'PP174197/NA/SP2C_k141_157132/NA/NA/2021':3.8418)[&label=91.0]:0.79177,('PP174052/NA/SP1C_k141_170176/NA/NA/2021':2.70791,'PP174037/NA/SP1C_k141_138402/NA/NA/2021':3.04716)[&label=87.0]:0.212)[&label=87.0]:0.26509)[&label=82.0]:0.53847,(((('OM953846/New-Zealand_Manawatu-River/CMF2_DN30973_c0_g1_i4/NA/NA/2019':0.83753,'MN035893/NA/H3_Bulk_Litter_17_scaffold_17037/NA/NA/NA':1.12872)[&label=77.0]:0.23193,(('OM953851/New-Zealand_Manawatu-River/CMF2_DN25939_c0_g1_i1/NA/NA/2019':0.3234,'OM514376/China_Hainan':0.0,'-Lingshui/LSHLS353/cat/Magnoliopsida/2019':0.25588)[&label=53.0]:0.08521,'PQ421841/China_Yunnan-Province/QJ1-CWDS/cat/Mammalia/2017':0.34749)[&label=100.0]:0.36571)[&label=77.0]:0.59054,'PP171953/NA/CC1B_k141_72897/NA/NA/2021':2.40031)[&label=100.0]:2.22254,'PQ055538/China_Qianjiang':0.0,'-Hubei-Province/QJ3TG3868/cat/Malacostraca/2021':2.91565)[&label=87.0]:0.28648)[&label=85.0]:0.52146,('OM954081/New-Zealand_Manawatu-River/CMU2_DN76774_c0_g2_i1/NA/NA/2019':3.0251,('PQ055529/China_Qianjiang':0.0,'-Hubei-Province/QJ3MS35/cat/Malacostraca/2021':1.36516,'MN034752/NA/H1_Rhizo_Litter_1_scaffold_1158/NA/NA/NA':1.18699)[&label=100.0]:4.19694)[&label=89.0]:0.57879)[&label=90.0]:0.38582)[&label=39.0]:0.20775,('MN035758/NA/H1_Rhizo_26_FD_scaffold_114/NA/NA/NA':2.9117,('PQ110289/Iran/Or_elegans1_agamemnon2/cat/Insecta/2024':4.0853,'MN033591/NA/H4_Rhizo_44_scaffold_12707/NA/NA/NA':2.7099)[&label=99.0]:1.11499)[&label=77.0]:0.69182)[&label=90.0]:0.23965,'PV470470/NA/MP12.k141_82519/cat/Ascidiacea/2021':9.84132)[&label=72.0]:0.28551,(((((('OR350291/Zambia/F32/cat/Actinopteri/2017':0.09821,('OR350289/Zambia/F31/cat/Actinopteri/2016':0.25486,'OR350285/Zambia/F29/cat/Actinopteri/2016':0.29025)[&label=98.0]:0.11237)[&label=100.0]:0.4709,'OR270057/New-Zealand/KAI-S/cat/Actinopteri/2021':0.64117)[&label=100.0]:0.39813,'OL871128/New-Zealand/CB_FW_05_Hayes_RdRp/cat/Actinopteri/NA':1.27772)[&label=99.0]:0.18391,'OR871060/China_Guizhou/HAFQP22-11/cat/Mammalia/2022':0.8374)[&label=100.0]:1.05854,('MW645024/NA/NA/cat/Actinopteri/2020':0.99456,('OR350281/Tanzania/F26/cat/Actinopteri/2017':0.11401,'OR350280/Zambia/F25/cat/Actinopteri/2014':0.16035)[&label=100.0]:0.80492)[&label=100.0]:1.07096)[&label=100.0]:1.59862,'OQ986722/NA/ARAN/cat/Arachnida/2021':5.09584)[&label=70.0]:0.40852)[&label=98.0]:0.70599,(((('MG599883/China/NA/grouper/Actinopteri/NA':1.33236,'MG599882/China/NA/banjofish/Actinopteri/NA':0.70588)[&label=100.0]:1.23779,((('MG599936/China/NA/cat/Chondrichthyes/NA':0.57077,'MG599888/China/NA/cat/Chondrichthyes/NA':0.95464)[&label=100.0]:0.77659,'MG599889/China/NA/cat/Chondrichthyes/NA':1.57409)[&label=100.0]:0.84617,'MG599880/China/NA/cat/Actinopteri/NA':1.52078)[&label=78.0]:0.21438)[&label=99.0]:0.45874,((((((((((('MZ375141/China/5PT-RDRP-1/cat/Lepidosauria/2020':0.11946,'MZ375148/China/6PT-RDRP-2/cat/Lepidosauria/2020':0.13148)[&label=100.0]:0.0728,('MZ375140/China/4PT-RDRP-1/cat/Lepidosauria/2020':0.15657,'MZ375133/China/1PE-RDRP-3/cat/Lepidosauria/2020':0.11779)[&label=100.0]:0.03252)[&label=100.0]:0.24596,'MZ375134/China/1PE-RDRP-4/cat/Lepidosauria/2020':0.17664)[&label=100.0]:0.11651,'MZ375143/China/5PT-RDRP-3/cat/Lepidosauria/2020':0.30229)[&label=100.0]:0.27985,'MG599933/China/NA/lizard/Lepidosauria/NA':0.63591)[&label=100.0]:0.25621,('MG599905/China/NA/NA/NA/NA':0.64886,'MG599904/China/NA/cat/Lepidosauria/NA':0.88688)[&label=100.0]:0.28467)[&label=100.0]:0.22483,'MG599907/China/NA/cat/Lepidosauria/NA':0.83771)[&label=97.0]:0.14236,('MG599915/China/NA/newt/Amphibia/NA':0.82162,'MG599920/China/NA/lizard/Lepidosauria/NA':1.02516)[&label=97.0]:0.20288)[&label=99.0]:0.15574,('PP272790/New-Zealand/DN66980/cat/Lepidosauria/2021':0.88684,(('Hainan/K8f_52_Astrovirus_shrew_240620/cat/Mammalia/2024':0.1014,'PQ421846/China_Yunnan-Province/LQ4-XSQ/cat/Mammalia/2019':0.13513)[&label=100.0]:0.32165,'OQ802743/China_Wenzhou/WZ_Hy.pulveratus_astro_1/cat/Mammalia/2016':0.2898)[&label=100.0]:1.03985)[&label=99.0]:0.27017)[&label=94.0]:0.14457,'MG599913/China/NA/cat/Amphibia/NA':0.92578)[&label=85.0]:0.1042,(((('MG599932/China/NA/cat/Amphibia/NA':0.53223,'PP352011/China_Jiangxi/Jiangxi-CHN-2022/cat/Amphibia/2022':0.58244)[&label=100.0]:0.29317,'MG599909/China/NA/cat/Amphibia/NA':0.65763)[&label=83.0]:0.17505,('MG599911/China/NA/cat/Amphibia/NA':0.69013,'MG599903/China/NA/toad/Amphibia/NA':0.56427)[&label=100.0]:0.2873)[&label=81.0]:0.11393,'MG599912/China/NA/cat/Amphibia/NA':0.77018)[&label=88.0]:0.10406)[&label=100.0]:1.14747)[&label=100.0]:0.40732,'MG599902/China/NA/cat/Actinopteri/NA':2.31875)[&label=99.0]:0.3843)[&label=69.0]:0.11845,(((('MG599898/China/NA/flounder/Actinopteri/NA':0.97398,((('MG599928/China/NA/cat/Actinopteri/NA':0.10347,'MG599884/China/NA/NA/NA/NA':0.09279)[&label=100.0]:0.24602,'MG599901/China/NA/cat/Actinopteri/NA':0.34741)[&label=99.0]:0.15412,((('MG599900/China/NA/cat/Actinopteri/NA':0.52892,('ON595949/NA/F14/cat/Actinopteri/2021':0.07156,'ON595937/NA/F2/cat/Actinopteri/2021':0.11418)[&label=100.0]:0.49848)[&label=78.0]:0.05474,('MG599899/China/NA/cat/Actinopteri/NA':0.44717,'MG599926/China/NA/Arnoglossus/Actinopteri/NA':0.43239)[&label=95.0]:0.12989)[&label=81.0]:0.06551,('MG599924/China/NA/flounder/Actinopterygii/NA':0.33671,'MG599925/China/NA/flounder/Actinopterygii/NA':0.3822)[&label=100.0]:0.17457)[&label=80.0]:0.10257)[&label=100.0]:1.26187)[&label=100.0]:0.40717,((((('MG599886/China/NA/cat/Hyperoartia/NA':1.71918,'MG599921/China/NA/cat/Actinopteri/NA':1.25973)[&label=100.0]:0.21578,((('MG599923/China/NA/cat/Actinopteri/NA':0.66219,'PP590730/Antarctica/MRL_L/cat/Actinopteri/2021':0.70301)[&label=75.0]:0.05728,('MG599894/China/NA/cat/Actinopteri/NA':0.47626,'MG599930/China/NA/cat/Actinopteri/NA':0.46639)[&label=100.0]:0.18583)[&label=91.0]:0.11637,'PP700500/NA/F32/cat/Actinopteri/2022':0.51214)[&label=100.0]:0.74957)[&label=100.0]:0.27327,(('MG599893/China/NA/rattail/Actinopteri/NA':0.39657,'MG599897/China/NA/rattail/Actinopteri/NA':0.45483)[&label=100.0]:0.18218,'MG599895/China/NA/rattail/Actinopteri/NA':0.27108)[&label=100.0]:0.80213)[&label=100.0]:0.24521,'PP700499/NA/F31/cat/Actinopteri/2022':0.96046)[&label=100.0]:0.30827,('OR951052/China/GX2017/cat/?/2020':0.91163,('MG599922/China/NA/cat/Actinopteri/NA':2.17193,('MG599891/China/NA/cat/Hyperoartia/NA':0.29147,('OR951053/China/JX2020/cat/?/2020':0.20424,'MG599892/China/NA/cat/Hyperoartia/NA':0.29359)[&label=100.0]:0.1342)[&label=100.0]:0.37232)[&label=94.0]:0.28418)[&label=100.0]:0.45528)[&label=100.0]:0.49969)[&label=100.0]:0.21865,(('OR270059/New-Zealand/MAR-S/cat/Actinopteri/2021':1.32851,'ON982163/China/SD-19/cat/Actinopteri/2019':0.92162)[&label=100.0]:0.36961,'OP556335/NA/16-219p/cat/Actinopteri/2016':0.85785)[&label=100.0]:0.4788)[&label=100.0]:0.47056,((((((((((((((('MN920669/China/ybb150ast01/NA/NA/2018':0.16402,'MW826371/China/XZN01/cat/NA/2018':0.2179)[&label=65.0]:0.03668,(('MN920668/China/war204ast1/NA/NA/2018':0.19251,'MN920663/China/spa143ast1/NA/NA/2018':0.15053)[&label=100.0]:0.0882,'MT137995/NA/bun145astnc1/NA/NA/2018':0.11426)[&label=86.0]:0.02347)[&label=87.0]:0.07548,'MW826482/China/YSN02/cat/NA/2019':0.18472)[&label=100.0]:0.38405,((('C125ves/NA':0.21788,'MN920670/China/ybw202ast01/NA/NA/2018':0.26113)[&label=100.0]:0.17612,'OQ986648/NA/GEIG/NA/NA/2021':0.40299)[&label=68.0]:0.03186,'MT137991/NA/bbr144ast1/NA/NA/2018':0.42503)[&label=68.0]:0.05249)[&label=99.0]:0.07199,(('OQ986606/NA/GEIG/NA/NA/2021':0.46957,'MK096774/French-Guiana/PasAstV-2/cat/Aves/2016':0.40712)[&label=99.0]:0.11009,'MK096775/French-Guiana/PasAstV-3/cat/Aves/2016':0.53486)[&label=100.0]:0.09729)[&label=96.0]:0.09143,(('KT946718/Hong-Kong/D11-139-HK/cat/Aves/NA':0.36006,'MW385412/China/NA/cat/Aves/2017':0.33478)[&label=100.0]:0.16246,'OQ986608/NA/RHFU/NA/NA/2021':0.52639)[&label=79.0]:0.04349)[&label=69.0]:0.04513,('OQ986679/NA/GEIG/NA/NA/2021':0.47746,'MT137994/NA/bsk136ast01/NA/NA/2018':0.65373)[&label=80.0]:0.07296)[&label=27.0]:0.04686,('MK096773/French-Guiana/PasAstV-1/cat/Aves/NA':0.68835,('OQ986607/NA/GEIG/NA/NA/2021':0.43379,'OQ986609/NA/RHFU/NA/NA/2021':0.59199)[&label=87.0]:0.12004)[&label=81.0]:0.10102)[&label=99.0]:0.10443,'OQ986677/NA/GEIG/NA/NA/2021':0.75865)[&label=100.0]:0.06073,('MT138009/NA/prf037ast1nc/NA/NA/2018':0.34761,'MW826483/China/YSN01/cat/NA/2019':0.51791)[&label=100.0]:0.41222)[&label=90.0]:0.02598,((((((((('AF206663/NA/NA/NA/NA/NA':0.16487,'KF753807/China/NA/NA/NA/2012':0.10995)[&label=100.0]:0.12656,'MW505490/China_Heilongjiang-Province':0.0,'-Jixi/NA/cat/Aves/2019':0.5157)[&label=96.0]:0.15145,((('PV093029/China/NA/cat/Mammalia/2023':0.0748,'JF832365/NA/4175/cat/Aves/2006':0.36911)[&label=100.0]:0.18938,'OR907127/China/NA/cat/Aves/2023':0.22783)[&label=100.0]:0.11167,('MH712856/China/NA/duck/Aves/2012':0.2249,'MW588062/NA/NA/NA/NA/NA':0.29329)[&label=100.0]:0.08719)[&label=94.0]:0.08466)[&label=85.0]:0.06183,'PP763758/China_Sichuan-province/AAstV-Goose-CHN-2023-C102/cat/Aves/2023':0.60296)[&label=86.0]:0.05728,('PV793828/China/AstroviridaeGoosefe87/cat/Aves/2024':0.12386,'OR924090/China/NA/cat/Aves/2021':0.16212)[&label=100.0]:0.53736)[&label=89.0]:0.07513,((('PV793827/China/AstroviridaeCranefe81/cat/Aves/2024':0.1987,'MW588064/NA/NA/NA/NA/NA':0.17468)[&label=100.0]:0.21478,'PV793832/China/AstroviridaeGoosefe95V1/cat/Aves/2024':0.36617)[&label=77.0]:0.06781,'PQ220257/China_Shigatse-City':0.0,'-Tibet/ASTV-1/cat/Aves/2020':0.36996)[&label=100.0]:0.15687)[&label=97.0]:0.10503,'PV093021/China/NA/cat/Mammalia/2023':0.79829)[&label=98.0]:0.08349,'PV793829/China/AstroviridaeGoosefe94/cat/Aves/2024':0.8234)[&label=100.0]:0.17063,(((('MZ150559/China/ANV-Chicken-CHN-2020-AH202017/cat/Aves/2020':0.12078,'PP871808/NA/astro_vt_90/cat/Aves/2015':0.11618)[&label=100.0]:0.0783,'PP478076/NA/PL_pigeon_24-2023/swine/Aves/2023':0.10656)[&label=100.0]:0.15707,('MT993583/NA/MW06_2o/turnstone/Aves/2014':0.09556,'MH453801/NA/AstV-Red-necked-Avocet-MW09-Interior/cat/Aves/2013':0.07436)[&label=100.0]:0.14105)[&label=100.0]:0.31437,((('MT993596/NA/MW10_1o/turnstone/Aves/2015':0.84676,('MT138002/NA/cra070ast1/NA/NA/2018':0.23931,('MT137999/NA/coa196ast1/NA/NA/2018':0.20857,'MT137996/NA/cfe153ast01/NA/NA/2018':0.30826)[&label=99.0]:0.09158)[&label=95.0]:0.04434)[&label=60.0]:0.08709,'MH453800/NA/AstV-Red-necked-Avocet-MW08-Interior/cat/Aves/2013':0.38858)[&label=60.0]:0.10142,(('MT138010/NA/prf037ast2/NA/NA/2018':0.17182,'MT138007/NA/ltr178ast1/NA/NA/2018':0.10042)[&label=99.0]:0.02334,'MT138005/NA/hwf041ast1/NA/NA/2018':0.13332)[&label=100.0]:0.17381)[&label=100.0]:0.33029)[&label=100.0]:0.35337)[&label=100.0]:0.16776)[&label=95.0]:0.08874,'MT993595/NA/MW09_1o/turnstone/Aves/2015':0.763)[&label=97.0]:0.13266,((((('MG599918/China/NA/cat/Lepidosauria/NA':0.31785,('MG599917/China/NA/cat/Lepidosauria/NA':0.27759,'MZ375139/China/3PE-RDRP-2/cat/Lepidosauria/2020':0.33728)[&label=100.0]:0.08815)[&label=94.0]:0.07505,'PP711188/NA/Hplan-A_304122/cat/Lepidosauria/2017':0.43309)[&label=100.0]:0.16567,'MG599916/China/NA/newt/Amphibia/NA':0.42434)[&label=100.0]:0.33504,'MG599910/China/NA/toad/Amphibia/NA':0.74118)[&label=97.0]:0.13048,('MG599931/China/NA/cat/Amphibia/NA':0.70859,'PP352010/NA/Hunan-CHN-2022/cat/Amphibia/2022':0.83841)[&label=99.0]:0.19526)[&label=100.0]:0.34898)[&label=99.0]:0.1558,('PP623814/China_Hong-Kong/MP22-196/cat/Aves/2022':0.9526,'PV793833/China/AstroviridaeGoosefe95V2/cat/Aves/2024':0.86271)[&label=100.0]:0.75566)[&label=98.0]:0.15253,((((('OQ802749/China_Wenzhou/WZ_Pi.abramus_astro_3/cat/Mammalia/2016':0.45508,(('OQ802704/China_Jingmen/JM_My.chinensis_astro_1/cat/Mammalia/2016':0.11578,'OQ236134/China/AstV-GZ-L162.18b-2022/cat/Mammalia/2022':0.09622)[&label=100.0]:0.17005,('MW249010/NA/DesRot-Peru-AYA14_F_DrAstV/cat/Mammalia/2016':0.20078,'MT734809/NA/BAstV-RB/bat/Mammalia/2020':0.14009)[&label=100.0]:0.10651)[&label=100.0]:0.09286)[&label=100.0]:0.10428,('PP711856/NA/13A-Kenya-BAT1552-2015/cat/Mammalia/2015':0.36306,('OR951026/China/GX2017_185_6114/cat/Mammalia/2017':0.1544,'Guangxi/LD77/cat/Mammalia/2007':0.28025)[&label=100.0]:0.3195)[&label=99.0]:0.10858)[&label=100.0]:0.13022,((((('OR613294/China_Guangxi/MSCZC1516-7/cat/Mammalia/2015':0.11991,'OR613303/China_Jiangxi/MSJDC22-12649/cat/Mammalia/2022':0.17048)[&label=100.0]:0.11737,('PP711874/NA/4A-Kenya-BAT3003-2015/cat/Mammalia/2015':0.18115,'PP711877/NA/5A-Kenya-BAT0738-2015/cat/Mammalia/2015':0.09706)[&label=100.0]:0.19333)[&label=100.0]:0.08394,'OR613301/China_Guangxi/MSCZC1516-7/cat/Mammalia/2015':0.37773)[&label=100.0]:0.0937,(('OR951021/China/GX2019_145_83144/cat/Mammalia/2019':0.34008,'OQ802750/China_Wenzhou/WZ_My.laniger_astro_2/cat/Mammalia/2016':0.14228)[&label=99.0]:0.0658,('MN832787/NA/BtAstV-13585-58-M.dau-DK-2014/cat/Mammalia/2014':0.10822,'OR951045/China/GD2017_207_27658/cat/Mammalia/2017':0.13646)[&label=100.0]:0.08723)[&label=100.0]:0.17135)[&label=95.0]:0.06611,'OR951011/China/GX2018/cat/Mammalia/2018':0.48957)[&label=100.0]:0.20421)[&label=100.0]:0.08245,(('OQ802712/China_Jingmen/JM_Rh.sinicus_astro_2/cat/Mammalia/2016':0.177,'OR951015/China/YN2020_057_2377/cat/Mammalia/2020':0.1331)[&label=100.0]:0.3286,'OR613299/China_Guangxi/HLNN15-1/cat/Mammalia/2015':0.54413)[&label=100.0]:0.22877)[&label=100.0]:0.26974,((((((((('JX857868/NA/VA3-human-Vellore-28054-2005/human/Mammalia/2005':0.18946,'GQ267696/NA/SZ908/human/Mammalia/2008':0.19931)[&label=100.0]:0.14696,('MZ603076/NA/HAstV-VA2_RVAB/NA/NA/2010':0.21249,'JX857869/Nepal/VA4-human-Nepal-S5363-2008/human/Mammalia/2008':0.22346)[&label=100.0]:0.08999)[&label=100.0]:0.13988,'KY933399/NA/U460/swine/Mammalia/2012':0.53386)[&label=75.0]:0.08946,(('PV418557/NA/CaAstV-Dog-AUS-perth_6-2022/cat/Mammalia/2022':0.16299,'KC692365/NA/fox-5/cat/Mammalia/2012':0.37617)[&label=100.0]:0.25352,'MW037839/NA/NA/cat/Mammalia/2018':0.48)[&label=99.0]:0.11163)[&label=71.0]:0.0434,('MK987100/Switzerland/BoAstV-VC34-346/bull/Mammalia/2016':0.33047,('Y15937/NA/provided-by-Dr.-D.R.-Snodgrass':0.0,-Moredun-Research-Institute:0.0,'-Edinburgh/cat/Mammalia/NA':0.13161,('PX095800/China/DL-P.nayaur-Mav-1/cat/Mammalia/2023':0.11189,('OK107514/China/NA/cat/Mammalia/2021':0.04487,'LT706531/NA/UK-2013-ewe-lib01454/NA/NA/NA':0.05127)[&label=100.0]:0.08354)[&label=100.0]:0.07178)[&label=100.0]:0.278)[&label=100.0]:0.2457)[&label=96.0]:0.1135,('Guangxi/LD71/cat/Mammalia/2007':0.54339,'OQ693700/NA/DAstV-1/cat/Mammalia/NA':0.618)[&label=100.0]:0.14955)[&label=100.0]:0.2289,((((((((((((('Guangxi/LS11/cat/Mammalia/2007':0.11331,'OQ236123/China/AstV-CQ-L76.18c-2021/cat/Mammalia/2021':0.05084)[&label=33.0]:0.02444,('OR951034/China/GD2017_191_26815/cat/Mammalia/2017':0.09992,'OQ236124/China/AstV-CQ-L76.18d-2021/cat/Mammalia/2021':0.06761)[&label=92.0]:0.02503)[&label=23.0]:0.01606,('OQ236121/China/AstV-CQ-L76.18a-2021/cat/Mammalia/2021':0.05809,'OQ236128/China/AstV-SC-L74.18c-2021/cat/Mammalia/2021':0.10917)[&label=38.0]:0.01786)[&label=99.0]:0.09109,'OQ236125/China/AstV-CQ-L76.18e-2021/cat/Mammalia/2021':0.28775)[&label=98.0]:0.05526,((('OR951095/China/JX2021/cat/Mammalia/2021':0.19076,'OR951098/China/JX2021_368_226027/cat/Mammalia/2021':0.13341)[&label=99.0]:0.05046,'OR951081/China/Pool-312/cat/Mammalia/2020':0.31352)[&label=42.0]:0.04253,((((('OQ802736/China_Longquan/LQ_Rh.pearsonii_astro_2/cat/Mammalia/2016':0.19012,'OQ236139/China/AstV-GD-L95.21-2022/cat/Mammalia/2022':0.13526)[&label=99.0]:0.06897,('OR951014/China/YN2020_057_2262/cat/Mammalia/2020':0.09325,'OR951013/China/YN2020_057_1262/cat/Mammalia/2020':0.06184)[&label=100.0]:0.06426)[&label=93.0]:0.05333,('OQ236114/China/AstV-GD-L93.21-2022/cat/Mammalia/2022':0.13562,'OP963603/China_Yunnan/NA/cat/Mammalia/2018':0.20101)[&label=98.0]:0.05322)[&label=77.0]:0.02443,'OR951097/China/JX2021_367_194485/cat/Mammalia/2021':0.13091)[&label=83.0]:0.04503,'OR951079/China/HB2020_303_11589/cat/Mammalia/2020':0.28923)[&label=98.0]:0.06374)[&label=95.0]:0.04788)[&label=95.0]:0.07438,'OR951020/China/GD2020/cat/Mammalia/2020':0.40755)[&label=99.0]:0.04116,('OR951096/China/JX2021/cat/Mammalia/2021':0.24257,'OR951080/China/HB2020_306_19370/cat/Mammalia/2020':0.24793)[&label=100.0]:0.17959)[&label=98.0]:0.05275,('OR951072/China/GD2016_278_110098/cat/Mammalia/2016':0.07317,'MZ218053/NA/BtAstV-21164-6-A-M.dau-DK-2015/cat/Mammalia/2015':0.12813)[&label=100.0]:0.15156)[&label=98.0]:0.07246,('OR951010/China/GX2018/cat/Mammalia/2018':0.25153,'OR552421/NA/seven/cat/Mammalia/2023':0.29043)[&label=100.0]:0.14042)[&label=100.0]:0.12023,(('OR951060/China/GX2016/cat/Mammalia/2016':0.27645,'Guangxi/LD38/cat/Mammalia/2007':0.22394)[&label=100.0]:0.09714,'OR951063/China/GX2017_243_49312/cat/Mammalia/2017':0.31537)[&label=79.0]:0.05657)[&label=100.0]:0.07819,(('PP711863/NA/18A-Kenya-BAT0736-2015/cat/Mammalia/2015':0.30444,('OP589985/NA/EBW-Sk-9/cat/Mammalia/2013':0.13306,'OP589980/NA/EBW-Sk-4/cat/Mammalia/2013':0.19903)[&label=100.0]:0.26949)[&label=96.0]:0.085,(((('OR951087/China/YN2020_321_29515/cat/Mammalia/2020':0.18977,'EU847155/China_Hong-Kong/AFCD337/cat/Mammalia/2006':0.24208)[&label=94.0]:0.06929,('OR951059/China/GD2016_230_3862/cat/Mammalia/2016':0.19064,('EU847150/China_Hong-Kong/AFCD82/cat/Mammalia/2005':0.20188,'EU847147/China_Hong-Kong/WCF98/cat/Mammalia/2004':0.19029)[&label=87.0]:0.04733)[&label=81.0]:0.02968)[&label=81.0]:0.02825,'OR951086/China/YN2020_321_25819/cat/Mammalia/2020':0.23103)[&label=86.0]:0.05067,(('EU847149/China_Hong-Kong/WCF4/cat/Mammalia/2004':0.14802,(((('OP589978/NA/EBW-Sk-2/cat/Mammalia/2013':0.13969,'ON893139/NA/SYMN012/cat/Mammalia/NA':0.13022)[&label=91.0]:0.0444,'EU847154/China_Hong-Kong/WCF214/cat/Mammalia/2005':0.10434)[&label=76.0]:0.01841,(('OP589977/NA/EBW-Sk-1/cat/Mammalia/2013':0.09712,'MW450837/China/BF2-astro-YN-CHN-2020/cat/Mammalia/2020':0.12231)[&label=100.0]:0.03572,'EU847148/China_Hong-Kong/WCF90/cat/Mammalia/2004':0.07514)[&label=74.0]:0.03326)[&label=66.0]:0.01891,('EU847153/China_Hong-Kong/AFCD68/cat/Mammalia/2005':0.08871,'EU847151/China_Hong-Kong/AFCD77/cat/Mammalia/2005':0.10856)[&label=100.0]:0.09161)[&label=70.0]:0.03161)[&label=95.0]:0.03221,'PP711873/NA/3A-Kenya-BAT0736-2015/cat/Mammalia/2015':0.14753)[&label=100.0]:0.09678)[&label=100.0]:0.09484)[&label=98.0]:0.09712)[&label=100.0]:0.38804,(('OQ802733/China_Jingmen/JM_Cr.shantungensis_astro_1/cat/Mammalia/2016':0.19332,'PQ421850/China_Yunnan-Province/QJ1-CWDS/cat/Mammalia/2017':0.15086)[&label=100.0]:0.43455,'PQ421849/China_Yunnan-Province/YL-SCDW/cat/Mammalia/2015':0.59522)[&label=100.0]:0.27026)[&label=100.0]:0.15637,'OQ802710/China_Jingmen/JM_My.chinensis_astro_6/cat/Mammalia/2016':0.94517)[&label=30.0]:0.0792)[&label=36.0]:0.08187,('OQ606244/Madagascar/RR034B/cat/Mammalia/2018':0.13652,'PP711880/NA/8A-Uganda-UGR87-2019/cat/Mammalia/2019':0.10957)[&label=100.0]:0.85003)[&label=40.0]:0.09505,(((((((('OM140654/China_Xinjiang/NA/cat/Mammalia/2016':0.69451,('OQ198047/China/AstroviridaeDogfe326C1full/cat/Mammalia/2020':0.1454,'JF729316/NA/TN-rabbit-10-2208/cat/Mammalia/2010':0.12496)[&label=100.0]:0.38514)[&label=100.0]:0.21017,(((('PV088328/NA/NA/human/Mammalia/2014':0.06593,'MK089435/Switzerland/668/human/Mammalia/2015':0.10979)[&label=100.0]:0.11015,'AB823732/Bhutan/BtnMLB1-86/human/NA/2010':0.17515)[&label=100.0]:0.33394,'BR001717/NA/macaque_feces-2019-624/cat/Mammalia/NA':0.35363)[&label=100.0]:0.42509,'PV708886/China/Chenqi-074/cat/Mammalia/2023':0.94577)[&label=90.0]:0.09234)[&label=91.0]:0.07077,((((('JN420356/NA/1234/sea-lion/Mammalia/2010':0.13566,'JN420351/NA/1136/sea-lion/Mammalia/2010':0.09588)[&label=100.0]:0.19379,(('LC849253/NA/AstV-Raccoon_dog-Kodo2023-51-2023-JPN/dog/Mammalia/2023':0.09924,'OQ198041/China/AstroviridaeDogfe351C1full/cat/Mammalia/2020':0.09912)[&label=98.0]:0.04665,'KX599351/NA/NA/dog/Mammalia/2012':0.4941)[&label=100.0]:0.25237)[&label=99.0]:0.12654,(('MT832894/NA/TO-162/human/Mammalia/2011':0.127,'JN420359/NA/9822/sea-lion/Mammalia/2010':0.05484)[&label=100.0]:0.11222,('PQ435248/NA/FeAstV-THA-CU34912-2023/cat/Mammalia/2023':0.04905,('PP871881/NA/astro_vt_163/swine/Mammalia/2014':0.04388,'PV247174/NA/LUVAS-2023-PAstV_21/swine/Mammalia/2023':0.31649)[&label=93.0]:0.04458)[&label=100.0]:0.17512)[&label=100.0]:0.17523)[&label=100.0]:0.11491,'FJ890355/NA/NA/cat/Mammalia/2007':0.53763)[&label=100.0]:0.16369,'OQ236157/China/AstV-GX-B30M0312-2019/cat/Mammalia/2019':1.19312)[&label=63.0]:0.0828)[&label=59.0]:0.04301,((((('MZ779126/NA/NA/cat/Mammalia/2021':0.0641,('PX095750/China/SQ-N.fuscus-Mav/cat/Mammalia/2023':0.10091,'PQ678015/China_Yunnan/DHMS-YNSC01/cat/Mammalia/2021':0.10465)[&label=94.0]:0.04174)[&label=100.0]:0.42469,'PQ792554/China/Svole195_astro1/cat/Mammalia/2023':0.32162)[&label=97.0]:0.11896,('KP663426/NA/NA/roller/Aves/2011':0.44979,'MN626434/NA/AV-UKMa1_TT/cat/Mammalia/2014':0.44344)[&label=100.0]:0.09686)[&label=97.0]:0.08848,'OM480543/China/NA/cat/Mammalia/2020':0.4264)[&label=96.0]:0.08694,'MF033385/China/S510/cat/Mammalia/2017':0.72913)[&label=52.0]:0.12706)[&label=35.0]:0.07969,('OR711901/China/YNKm72022/cat/Mammalia/2022':0.70864,((('KY855439/China/NA/cat/Mammalia/2013':0.50892,(('OQ802738/China_Longquan/LQ_Ap.agrarius_astro_1/cat/Mammalia/2016':0.1433,'PQ678098/China_Yunnan/ZTYS-YNSC187/cat/Mammalia/2022':0.09217)[&label=100.0]:0.2371,(('PP871787/NA/astro_vt_69/swine/Mammalia/2015':0.14937,'PP871761/NA/astro_vt_43/cat/Aves/2016':0.17845)[&label=100.0]:0.15536,'OL345583/China/DB03F-SX-2018/cat/Mammalia/2018':0.4383)[&label=99.0]:0.10222)[&label=86.0]:0.08673)[&label=80.0]:0.05923,(((('KT946731/Hong-Kong/HK-CWRN1RV/cat/Mammalia/NA':0.10475,'OQ802722/China_Wenzhou/WZ_Ra.tanezumi_astro_1/cat/Mammalia/2016':0.15253)[&label=100.0]:0.06849,'PV351772/China/HN_K7f_51/cat/Mammalia/2024':0.16255)[&label=100.0]:0.13517,'OQ802759/China_Wufeng/WF_Ni.niviventer_astro_1/cat/Mammalia/2016':0.2306)[&label=100.0]:0.11437,(('PQ541178/Sierra-Leone/Mu.-setulosus_astro/cat/Mammalia/2023':0.19195,'JX544744/NA/NA/NA/NA/2011':0.13548)[&label=100.0]:0.23483,('NC_036583/China/GX-006/cat/Mammalia/NA':0.08972,'OQ236112/China/AstV-GD-C5-49.18-2022/cat/Mammalia/2021':0.14185)[&label=100.0]:0.28692)[&label=52.0]:0.07999)[&label=57.0]:0.053)[&label=100.0]:0.24368,'OQ198044/China/AstroviridaeDogfe337C1full/cat/Mammalia/2020':0.93219)[&label=63.0]:0.07364)[&label=34.0]:0.05957)[&label=94.0]:0.0948,((((((((('ON624282/China/NA/cat/Mammalia/2021':0.07292,'OR367606/China/YakFeces06-11940/cat/Mammalia/2021':0.09404)[&label=99.0]:0.04512,'HQ916316/Hong-Kong/NA/cat/Mammalia/NA':0.13647)[&label=61.0]:0.02789,'MN087316/NA/NA/cat/Mammalia/2018':0.12668)[&label=94.0]:0.01924,('LC047789/NA/NA/bull/Mammalia/2009':0.03733,('ON624251/China/NA/cat/Mammalia/2021':0.37552,'OR367603/China/YakFeces06-1944/cat/Mammalia/2021':0.01299)[&label=100.0]:0.29184)[&label=88.0]:0.06343)[&label=83.0]:0.04279,('OP076748/NA/DcAstV-Jd57-KSA-2014/camel/Mammalia/2014':0.13312,'MW504552/NA/15214_AST_len_6117_cov_31.526724/wild-boar/Mammalia/2018':0.14484)[&label=100.0]:0.10012)[&label=89.0]:0.06532,'PP646881/China/GX-WZ-2023/cat/Mammalia/2023':0.14652)[&label=92.0]:0.08474,'MK404646/Switzerland/NA/goat/Mammalia/2017':0.21119)[&label=93.0]:0.11142,'OR367608/China/YakFeces06-13688/cat/Mammalia/2021':0.47915)[&label=94.0]:0.07262,'OR951069/China/YN2017/cat/Mammalia/2017':0.30047)[&label=100.0]:0.34659)[&label=99.0]:0.21812,('MZ819170/Chile/PoAstV5-Swine-CHI-FB036-2017/wild-boar/Mammalia/2017':0.61842,'OM480534/China/NA/cat/Mammalia/2020':1.03797)[&label=100.0]:0.68011)[&label=89.0]:0.06122,('PX236817/New-Zealand/M22/cat/Mammalia/2021':0.86956,'MK521912/NA/Stony-Head-Tasmania-Sarcophilus_harrisii-2016-DN108473/cat/Mammalia/2016':0.75914)[&label=97.0]:0.42074)[&label=39.0]:0.10911)[&label=34.0]:0.10313)[&label=99.0]:0.56203)[&label=54.0]:0.33768)[&label=54.0]:0.29089)[&label=100.0]:7.01634,('PQ055537/China_Qianjiang':0.0,'-Hubei-Province/QJ3TG2618/cat/Malacostraca/2021':0.48731,'PQ055532/China_Qianjiang':0.0,'-Hubei-Province/QJ3DS2284/cat/Malacostraca/2021':0.50186)[&label=100.0]:3.02925)[&label=98.0]:1.0944,('PQ055541/China_Qianjiang':0.0,'-Hubei-Province/QJ3TS3058/cat/Malacostraca/2021':1.22504,'PP211222/China/Ra.norvegicus_bastro_5/cat/Mammalia/2018':5.15373)[&label=100.0]:1.17277)[&label=100.0]:1.285,'PQ055526/China_Qianjiang':0.0,'-Hubei-Province/QJ5DG2895/cat/Malacostraca/2021':2.53118);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=287;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=true;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=true;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
