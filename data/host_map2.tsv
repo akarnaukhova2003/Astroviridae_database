@@ -1,13 +1,13 @@
 [Hh]omo sapiens[,;]*	human
-Sus scrofa \(wild boar\)	wild boar
+(Sus scrofa \(wild boar\)|wild boar)	wild-boar
 Sus scrofa domesticus	swine
 [.]*pig[.]*	swine
 swine	swine
 [.]*bat[.]*|Eidolon helvum	bat
 Pan troglodytes troglodytes	chimpanzee
 Zalophus californianus \(California sea lion\)	sea-lion
-Cani(ne|s) lupus familaris|dog	dog
-Mus musculus[.]*	mice
+(canis(?:\s+lupus)?\s+familiaris|canine|dog)	dog
+Mus musculus[.]*|mouse	mouse
 Sus scrofa	wild boar
 Amur tiger	tiger
 Arenaria interpres	turnstone
@@ -19,8 +19,9 @@ Budorcas taxicolor tibetana	takin
 Bufo gargarizans|Leptobrachium hainanense|Duttaphrynus melanostictus	toad
 Calidris ruficollis	stint
 Calotes versicolor|Tropidophorus sinicus	lizard
-Camelus dromedarius	camel
-Capra hircus	goat
+Camelus dromedarius	dromedary
+Bactrian camel	camel
+(Capra hircus|goat)	goat
 Cephalopholis spiloparaea	grouper
 Cerdocyon thous	fox
 Coelorinchus multispinulosus	rattail
@@ -29,7 +30,7 @@ Crossorhombus sp\.|Cynoglossus sp\.	flounder
 Cynops orientalis	newt
 Dasyatis akajei	stingray
 Echelus uropterus	eel
-Felis catus|[.]*	cat
+Felis catus[.]*	cat
 Gallus gallus[.]*	chiken
 Gekko similignum	geńko
 Gonorynchus abbreviatus	ray-finned fish
@@ -69,3 +70,20 @@ pigeon	pigeon
 porcine	porcine
 turkey	turkey
 yak	yak
+chicken	chicken
+canine	dog
+Taphozous melanopogon	T.melanopogon
+Scotophilus kuhlii	S.kuhlii
+Myotis ricketti	M.ricketti
+Miniopterus schreibersii	M.schreibersii
+rat	rat
+Apodemus flavicollis	yellow-necked-mouse
+Guinea fowl	guinea-fowl
+Miniopterus gleni	M.gleni
+Macronycteris commersoni	M.commersoni
+Mops leucostigma	M.leucostigma
+Chaerephon leucogaster	C.leucogaster
+Triaenops menamena	T.menamena
+Miniopterus sororculus	M.sororculus
+Miniopterus mahafaliensis	M.mahafaliensis
+Miniopterus manavi	M.manavi

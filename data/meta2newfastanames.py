@@ -28,7 +28,7 @@ def create_mapping_dict(mapping_file_path):
     # Create two versions:
     # 1. Simple dict for reference
     pattern_to_code = dict(zip(mapping_df['regex_pattern'], mapping_df['short_code']))
-    
+    #print(mapping_df)
     # 2. List of compiled regex patterns with their codes
     compiled_patterns = []
     for _, row in mapping_df.iterrows():
@@ -38,7 +38,7 @@ def create_mapping_dict(mapping_file_path):
             compiled_patterns.append((pattern, row['short_code']))
         except re.error as e:
             print(f"Warning: Invalid regex pattern '{row['regex_pattern']}': {e}")
-    
+
     return pattern_to_code, compiled_patterns
 
 
@@ -68,8 +68,11 @@ def map_value_to_short_code(value, compiled_patterns, default="NA"):
     found = 0
     for pattern, short_code in compiled_patterns:
         if pattern.search(value):
+            #print(pattern, value,short_code )
+            #print(pattern.search(value))
             found = 1
             return short_code
+            
     if found == 0:
         print("{} was not found in mapping file".format(value))
     
@@ -189,13 +192,15 @@ def meta2fastaname(fasta_path, meta_path, hostmap_path, countrymap_path, meta_co
         #ac = seq.name.split('/')[0]
         seq.name = new_seq_names[ac]
         seq.id = new_seq_names[ac]
-        print(seq.name)
+        #print(seq.name)
         seq.description = ''
         new_seqs.append(seq)
         k+=1
     print('Total number of processed records: {}'.format(k))
     
-    SeqIO.write(new_seqs, os.path.splitext(fasta_path)[0] + '_ren.fasta', 'fasta')
+    #SeqIO.write(new_seqs, os.path.splitext(fasta_path)[0] + '_ren.fasta', 'fasta')
+    with open(os.path.splitext(fasta_path)[0] + '_ren.fasta', 'w', encoding='utf-8') as output_handle:
+        SeqIO.write(new_seqs, output_handle, 'fasta')
 
 
 if __name__ == "__main__":
