@@ -93,7 +93,7 @@ begin taxa;
 	'MK096774/GUF/PasAstV-2/sparrow/Aves/2016'[&!color=#33ff00]
 	'MK096775/GUF/PasAstV-3/sparrow/Aves/2016'[&!color=#33ff00]
 	'MK404646/LAO/NA/goat/Mammalia/2017'[&!color=#000000]
-	'MK521912/AUS/Stony-Head-Tasmania-Sarcophilus_harrisii-2016-DN108473/tasmanian-devil/Mammalia/2016'
+	'MK521912/AUS/Stony-Head-Tasmania-Sarcophilus_harrisii-2016-DN108473/tasmanian-devil/Mammalia/2016'[&!color=#ff0000]
 	'MK987100/LAO/BoAstV-VC34-346/bull/Mammalia/2016'[&!color=#ff0000]
 	'MN033591/LAO/H4_Rhizo_44_scaffold_12707/NA/NA/NA'[&!color=#0033cc]
 	'MN034082/LAO/H2_Bulk_35_scaffold_28/NA/NA/NA'[&!color=#0033cc]
@@ -357,7 +357,7 @@ begin figtree;
 	set branchLabels.fontStyle=0;
 	set branchLabels.isShown=false;
 	set branchLabels.significantDigits=4;
-	set layout.expansion=30;
+	set layout.expansion=366;
 	set layout.layoutType="RECTILINEAR";
 	set layout.zoom=0;
 	set legend.attribute="label";
