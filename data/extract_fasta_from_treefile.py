@@ -2,6 +2,7 @@
 
 import argparse
 from Bio import SeqIO
+import pandas as pd
 
 
 def extract_taxa_id(file_tree, file_clusters, target_color, out_file):
@@ -30,7 +31,6 @@ def extract_taxa_id(file_tree, file_clusters, target_color, out_file):
         if el[1] == target_color:
             classes.append(el[0])
 
-    import pandas as pd
     df = pd.read_csv(file_clusters, sep="\t")
     res = []
     for i in range(len(df)):
