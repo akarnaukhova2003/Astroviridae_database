@@ -3,6 +3,7 @@
 import argparse
 import pandas as pd
 from Bio import SeqIO
+import numpy as np
 
 
 DOMTBL_COLUMNS = [
@@ -47,16 +48,18 @@ def parse_domtblout(domtblout_file: str):
     return df
 
 
-def get_ids_without_rdrp(df: pd.DataFrame):
-    filtered_df = df.loc[~df['gene_id'].str.contains("RdRP", na=False)]
+def get_ids_with_rdrp(df: pd.DataFrame):
+    filtered_df = df.loc[df['gene_id'].str.contains("RdRP", na=False)]
+    all_ids = df['sequence_id'].dropna().unique()
+    bad_ids = list(set(df['sequence_id']) - set(filtered_df['sequence_id']))
+    filtered_df_1a = df[df['sequence_id'].isin(bad_ids)]
+    return set(filtered_df['sequence_id'].dropna().unique()), bad_ids, filtered_df, filtered_df_1a
 
-    return set(filtered_df['sequence_id'].dropna().unique()), filtered_df
 
-
-def filter_fasta(remove_ids: set, input_fasta: str, output_fasta: str):
+def filter_fasta(good_ids: set, input_fasta: str, output_fasta: str):
     with open(output_fasta, "w") as out_f:
         for record in SeqIO.parse(input_fasta, "fasta"):
-            if record.id not in remove_ids:
+            if record.id in good_ids:
                 SeqIO.write(record, out_f, "fasta")
 
 
@@ -92,18 +95,18 @@ def main():
     args = parser.parse_args()
 
     df = parse_domtblout(args.domtblout)
-    remove_ids, filtered_df = get_ids_without_rdrp(df)
+    good_ids, bad_ids, filtered_df, filtered_df_1a = get_ids_with_rdrp(df)
 
     if args.csv:
-        filtered_df.to_csv(args.csv, index=False)
+        filtered_df_1a.to_csv(args.csv, index=False)
 
     if args.ids:
         with open(args.ids, "w") as f:
-            for seq_id in sorted(remove_ids):
+            for seq_id in sorted(bad_ids):
                 f.write(seq_id + "\n")
 
     filter_fasta(
-        remove_ids=remove_ids,
+        good_ids=good_ids,
         input_fasta=args.input_fasta,
         output_fasta=args.output_fasta
     )

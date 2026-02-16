@@ -2,6 +2,7 @@
 
 import argparse
 from Bio import SeqIO
+import pandas as pd
 
 
 def extract_taxa_id(file_tree, file_clusters, target_color, out_file):
@@ -30,19 +31,13 @@ def extract_taxa_id(file_tree, file_clusters, target_color, out_file):
         if el[1] == target_color:
             classes.append(el[0])
 
-    import pandas as pd
     df = pd.read_csv(file_clusters, sep="\t")
     res = []
     for i in range(len(df)):
-        if df.iloc[i, 0][0:3] != 'NC_':
-            name_cluster = df.iloc[i, 0].split('_')[0]
-        else:
-            name_cluster = df.iloc[i, 0].split('_')[0] + '_' + df.iloc[i, 0].split('_')[1]
-        if name_cluster in classes:
-            if df.iloc[i, 1][0:3] != 'NC_':
-                same_id = df.iloc[i, 1].split('_')[0]
-            else:
-                same_id = df.iloc[i, 1].split('_')[0] + '_' + df.iloc[i, 1].split('_')[1]
+       
+        name_cluster = df.iloc[i, 0].split('_')[0]
+        if name_cluster in classes:      
+            same_id = df.iloc[i, 1].split('_')[0]
             res.append(same_id)
 
     with open(out_file, "w") as f:
@@ -57,10 +52,8 @@ def extract_to_fasta_from_fasta(fasta_file, id_list_file, output_fasta):
     with open(output_fasta, "w") as out:
         for record in SeqIO.parse(fasta_file, "fasta"):
             name = record.id.split()[0]
-            if name[0:3] != 'NC_':
-                acc = name.split('_')[0]
-            else:
-                acc = name.split('_')[0] + '_' + name.split('_')[1]
+            
+            acc = name.split('_')[0]
             if acc in id_list:
                 header = f">{record.id}"
                 out.write(header + "\n")

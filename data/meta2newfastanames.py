@@ -185,10 +185,7 @@ def meta2fastaname(fasta_path, meta_path, hostmap_path, countrymap_path, meta_co
     new_seqs = []
     k=0
     for seq in seqs:
-        if seq.name.startswith('NC'):
-                ac = '_'.join(seq.name.split('_')[:2])
-        else:
-            ac = seq.name.split('_')[0]
+       	ac = seq.name.split('_')[0]
         #ac = seq.name.split('/')[0]
         seq.name = new_seq_names[ac]
         seq.id = new_seq_names[ac]
