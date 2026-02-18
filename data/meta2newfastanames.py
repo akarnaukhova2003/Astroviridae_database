@@ -145,7 +145,7 @@ def clean_value(value):
     """Clean a single value: handle NaN and replace slashes"""
     if pd.isna(value):
         return "NA"
-    return str(value).replace('/', '-').replace(' ', '-').strip()
+    return str(value).replace('/', '-').replace(' ', '-').replace(')','-').replace('(','-').strip()
 
 
 def create_string(row, columns):
