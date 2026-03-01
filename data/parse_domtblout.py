@@ -34,18 +34,35 @@ DOMTBL_COLUMNS = [
     'description_2',
     'description_3'
 ]
-
-
-def parse_domtblout(domtblout_file: str):
-    df = pd.read_csv(
-        domtblout_file,
-        comment="#",
-        sep=r"\s+",
-        names=DOMTBL_COLUMNS,
-        engine="python",
-        on_bad_lines="skip"
-    )
+def parse_domtblout_raw(domtblout_file: str):
+    rows = []
+    n_cols = len(DOMTBL_COLUMNS)
+    with open(domtblout_file) as f:
+        for line in f:
+            line = line.strip()
+            if line.startswith("#") or not line:
+                continue
+            cols = line.split()
+            # Если колонок меньше, добавляем None
+            if len(cols) < n_cols:
+                cols += [None] * (n_cols - len(cols))
+            # Если колонок больше, обрезаем
+            elif len(cols) > n_cols:
+                cols = cols[:n_cols]
+            rows.append(cols)
+    df = pd.DataFrame(rows, columns=DOMTBL_COLUMNS)
     return df
+
+#def parse_domtblout(domtblout_file: str):
+#    df = pd.read_csv(
+#       domtblout_file,
+#       comment="#",
+#       sep=r"\s+",
+#       names=DOMTBL_COLUMNS,
+#       engine="python"
+        #,on_bad_lines="skip"
+#    )
+#    return df
 
 
 def get_ids_with_rdrp(df: pd.DataFrame):
@@ -61,6 +78,8 @@ def filter_fasta(good_ids: set, input_fasta: str, output_fasta: str):
         for record in SeqIO.parse(input_fasta, "fasta"):
             if record.id in good_ids:
                 SeqIO.write(record, out_f, "fasta")
+            elif record.id not in good_ids:
+                print(record.id)
 
 
 def main():
@@ -94,9 +113,9 @@ def main():
 
     args = parser.parse_args()
 
-    df = parse_domtblout(args.domtblout)
+    df = parse_domtblout_raw(args.domtblout)
+    df.to_csv('df.csv')
     good_ids, bad_ids, filtered_df, filtered_df_1a = get_ids_with_rdrp(df)
-
     if args.csv:
         filtered_df_1a.to_csv(args.csv, index=False)
 
