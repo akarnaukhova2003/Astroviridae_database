@@ -720,7 +720,7 @@ N-V-------P--------Q-QVPLEQ---R------K---R---G-CQW--CNNPK---
 -PHNFQACK--RRS----------E-KCFCVFCGIMHSENE-GHSRKI---ECIKCKQTF
 K--------------------------GV-EGLE-------------EHAI----N----
 -----G--C-S--------------------------------------------KNX-
->NC-012437/CHN/NA/duck/Aves/2008
+>NC_012437/CHN/NA/duck/Aves/2008
 ------MA-Q--SG---------------------ENKAFQ--SLKRRE-ERRDGK---R
 SPQIPAGLEKVFNFQGMAELYDRMRGLYGDTPAWKALMSCS-AIYLKDVKTAFGVRD--G
 RIGLFMASSPST--A--SWSQDAG-AS--ILTINESACLRA-QEAKWERLQVSLRANSSL
@@ -3532,7 +3532,7 @@ Q-Q-------E--------K-PVILEQ---R------KP--R---A-CKW--CGSTQ---
 -KHDYRDCR--MQR----------E-KRFCVFCATMHSMFD-GHVRPV---ECNNCKKTF
 Q--------------------------GI-EKLE-------------DHVI-R--G----
 -----E--C-Q--------------------------------------------KNX-
->NC-005790/NA/NA/NA/NA/NA
+>NC_005790/NA/NA/NA/NA/NA
 ------MA-Q--AGRS--------------------GDAFA--SLDQRR-ERQE------
 -EQAQSGLDKVFYFQGVVELFNRMKIAYGRTPAWTALMKCN-AIYLKDFKTAVGVEG--T
 RYGLFFAEEVTK--P--TWSPDIG-AN--LITLGEKACLDA-QNAKYERLQASLKTTSGL
@@ -4406,7 +4406,7 @@ IYS-AG-DATILIENKEIDHTE-IKPVTT-GAKIVQEY--------------PKDARTTV
 -PHNHKMCR--DRH----------T-RRFCFWCGLVHSDVE-GHSREL---KCPKCSAGF
 L--------------------------NL-REME-------------QHAI----T----
 -----T--C-S--------------------------------------------KNX-
->NC-002470/NA/provided-by-Dr.-Y.M.-Saif--Ohio-State-University/turkey/Aves/NA
+>NC_002470/NA/provided-by-Dr.-Y.M.-Saif--Ohio-State-University/turkey/Aves/NA
 ------MA-A--AAAS----------------------ALGA-SAPKAL-APAD------
 -GPIVAGLDKLVNLEGVHDLFEAMRGAYGEDPAWKGLMSCD-VVYLKDITTAIGVKD--T
 SVGIFRKFS-DG--C--SWCPTGA-EC--FLSMKDLAYMKA-QSAKAQRLTASLATTSNL
@@ -5508,7 +5508,7 @@ ILS-NG-EDVRVIENKEIDFKK-IKMIPLDDEKTSELI--------------KRDGCTKI
 -PHNYAACK--RRN----------Q-KCFCVFCGIMHSENE-GHTRPV---ECPSCKKGF
 K--------------------------GV-EGLE-------------AHAI----E----
 -----G--C-P--------------------------------------------KNX-
->NC-034567/CHN/FLX/goose/Aves/2014
+>NC_034567/CHN/FLX/goose/Aves/2014
 ------MA-S--CG----------------------DGAFG--SLDKRE-ARL-------
 --QTPAGLDKIFSLQGVVECFDRMRVMYGDTPAWRKLMATD-AIYIKDLKTAIGIHG--T
 AFGLFMDAGDGN--A--TWSDDAG-AA--IVTRNEAAALRA-QQAKVFRLRSAQALNSSL
@@ -5592,7 +5592,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----A-IAVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -5630,7 +5630,7 @@ VQQVLEKSKQAKEQMQK---AEELQRKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -5668,7 +5668,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -5706,7 +5706,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -5744,7 +5744,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -5782,7 +5782,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -5820,7 +5820,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -5858,7 +5858,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -5896,7 +5896,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -5934,7 +5934,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -5972,7 +5972,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -6010,7 +6010,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -6048,7 +6048,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -6086,7 +6086,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVV
@@ -6124,7 +6124,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-V-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -6162,7 +6162,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -6200,7 +6200,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -6238,7 +6238,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQGRNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -6276,7 +6276,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -6314,7 +6314,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -6352,7 +6352,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -6390,7 +6390,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -6428,7 +6428,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQERV----RARI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -6466,7 +6466,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLEMECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -6504,7 +6504,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -6542,7 +6542,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -6580,7 +6580,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -6618,7 +6618,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTTGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTTGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -6656,7 +6656,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTTGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTTGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -6694,7 +6694,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VEAV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -6732,7 +6732,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRV---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -6770,7 +6770,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELLKDRDLWMSRAAHCEEENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASVIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDSCVTGT------------AIIPKNAFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--S--FDA
 LYQY-D-------DETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -6808,7 +6808,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -6846,7 +6846,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -6884,7 +6884,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -6922,7 +6922,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 ITFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-S--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-S--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDTDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -6960,7 +6960,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTTGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTTGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -6998,7 +6998,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7036,7 +7036,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7074,7 +7074,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7112,7 +7112,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7150,7 +7150,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7188,7 +7188,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7226,7 +7226,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7264,7 +7264,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -7302,7 +7302,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -7340,7 +7340,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -7378,7 +7378,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -7416,7 +7416,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTTGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTTGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7454,7 +7454,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7492,7 +7492,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7530,7 +7530,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTIGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTIGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7568,7 +7568,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7606,7 +7606,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -7644,7 +7644,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTTGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTTGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKTTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7682,7 +7682,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -7720,7 +7720,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -ARIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTTGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTTGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7758,7 +7758,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -7796,7 +7796,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7834,7 +7834,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7872,7 +7872,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGFELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7910,7 +7910,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYLY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7948,7 +7948,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -7986,7 +7986,7 @@ VQRVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-VVA
@@ -8024,7 +8024,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -8062,7 +8062,7 @@ VQQVPEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTSMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -8100,7 +8100,7 @@ VQQVLEKSKQAKEQMQK---VEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -8138,7 +8138,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAE--Q-YRI---------DNW-IVA
@@ -8176,7 +8176,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -8214,7 +8214,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -8252,7 +8252,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -8290,7 +8290,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -8328,7 +8328,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -8366,7 +8366,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -8404,7 +8404,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -8442,7 +8442,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -8480,7 +8480,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -8518,7 +8518,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIALSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -8556,7 +8556,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -8594,7 +8594,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -8632,7 +8632,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -8670,7 +8670,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -8708,7 +8708,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -8746,7 +8746,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -8784,7 +8784,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -8822,7 +8822,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKSTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -8860,7 +8860,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTTGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTTGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -8898,7 +8898,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -8936,7 +8936,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -8974,7 +8974,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -9012,7 +9012,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -9050,7 +9050,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -9088,7 +9088,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -9126,7 +9126,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -9164,7 +9164,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTTGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTTGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -9202,7 +9202,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -9240,7 +9240,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -9278,7 +9278,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCNGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVNF----FKIAV--Q-YRI---------DNW-IVA
@@ -9316,7 +9316,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCNGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVNF----FKIAV--Q-YRI---------DNW-IVA
@@ -9354,7 +9354,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINKSNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -9392,7 +9392,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINKSNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -9430,7 +9430,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRV---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -9468,7 +9468,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -9506,7 +9506,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESDKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -9582,7 +9582,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -9620,7 +9620,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -9658,7 +9658,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -9696,7 +9696,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -9734,7 +9734,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DDW-IVA
@@ -9772,7 +9772,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -9810,7 +9810,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIE---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -9848,7 +9848,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDMWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -9886,7 +9886,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -9924,7 +9924,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -9962,7 +9962,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -10000,7 +10000,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -10038,7 +10038,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -10076,7 +10076,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -10114,7 +10114,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -10152,7 +10152,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -10190,7 +10190,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -10228,7 +10228,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -10266,7 +10266,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTFGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTFGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -10304,7 +10304,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDRCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKAAV--Q-YRI---------DNW-IVA
@@ -10342,7 +10342,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -10380,7 +10380,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -10418,7 +10418,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -10456,7 +10456,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -10494,7 +10494,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -10532,7 +10532,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRTHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -10570,7 +10570,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -10608,7 +10608,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIE---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -10646,7 +10646,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -10684,7 +10684,7 @@ VQQVLEKSKQAKEQTQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AADF----FKVAV--Q-YRI---------DNW-IVA
@@ -10722,7 +10722,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIE---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -10760,7 +10760,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -10798,7 +10798,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MRV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -10836,7 +10836,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-H--LTDASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKY-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -10874,7 +10874,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -10912,7 +10912,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTTGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTTGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -10950,7 +10950,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -10988,7 +10988,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -11026,7 +11026,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -11064,7 +11064,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -11102,7 +11102,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRGLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -11140,7 +11140,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -11178,7 +11178,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---GNC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---GNC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -11216,7 +11216,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -11254,7 +11254,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNSEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -11292,7 +11292,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -11330,7 +11330,7 @@ VQQVLEKSKQAKEQMQK---AEELQRKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -11368,7 +11368,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYTQKVI------
 -TRIHELQKDRDLSMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECTKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -11406,7 +11406,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -11444,7 +11444,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -11482,7 +11482,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -11520,7 +11520,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEVK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -11558,7 +11558,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTSGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTSGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKVAV--Q-YRI---------DNW-IVA
@@ -11596,7 +11596,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKIQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTTGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTTGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -11634,7 +11634,7 @@ VQQVLEKSKQAKEQMQK---AEELQKKIDQINESNKVLHRKMQERNVEYSQKVI------
 -TRIHELQKDRDLWMSRAAHYEQENV----RLRI---QLGTY-D-P-N-------RS-KL
 MTFLAW---MCV-AIIAFSLI-Q--LADASEIK---------------------------
 ------------------------------------------------------------
-----------------------DNRT---ENC-F-PTTGCVLSDV-P--W-T--------
+----------------------DNRT---ENC_F-PTTGCVLSDV-P--W-T--------
 ------KS-YTFMELMDKCVTGT------------AIIPKNTFNGEGLELECIKN-----
 --F-G-----------------KK-------WCKGRV-EKLIP-H-YCDRDN--T--FDA
 LYQY-Y-------VETV----AI-AVDF----FKIAV--Q-YRI---------DNW-IVA
@@ -14900,7 +14900,7 @@ L--------------------------DL-TK-P-------------KNGQKG--R----
 KYYIFDAVR-NLSKG--GWDCKFE-EV--QIMSDIKIVLDL-HTASRQRMKNYALLASAR
 ADEVLR----KQQDIIE---LKNVVKSKDQHIDQLN------------------------
 -LEIKLLRESYR----------TVSL----CREK---PA-N--I-T-P--Y--------K
-YTNC-V---LAV-VVLLLALLLQ--P----------------------------------
+YTNC_V---LAV-VVLLLALLLQ--P----------------------------------
 ------------------------------------------------------------
 -----------------------AAA---VDCSD-YISGCYVEQG-----PG--------
 ------EA-MTYTEFTHICFGKTR-----------TILTTGQVSEQKLVDECVGV-----
