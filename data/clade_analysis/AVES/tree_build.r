@@ -5,7 +5,6 @@ library(ggnewscale)
 library(randomcoloR)
 library(phytools)
 
-
 plot_annotated_tree_clusters = function(tree_file, meta_file, taxlabel=TRUE){
   tree = read.tree(tree_file)
   tree$edge.length[is.na(tree$edge.length)] <- 0
@@ -46,31 +45,31 @@ plot_annotated_tree_clusters = function(tree_file, meta_file, taxlabel=TRUE){
     p = ggtree(tree_rooted, size=0.7) + geom_treescale()
   }
   
-  p1 = gheatmap(p, cluster1, width=0.05, offset=0.1, colnames=FALSE) +
-    scale_fill_manual(values=colors_f1, guide = "none")
+  p1 = gheatmap(p, cluster1, width=0.05, offset=0.1, colnames=FALSE, show.legend=FALSE) +
+    scale_fill_manual(values=colors_f1)
   p1 = p1 + new_scale_fill()
   
-  p1 = gheatmap(p1, cluster2, width=0.05, offset=0.2, colnames=FALSE) +
-    scale_fill_manual(values=colors_f2, guide = "none")
+  p1 = gheatmap(p1, cluster2, width=0.05, offset=0.2, colnames=FALSE, show.legend=FALSE) +
+    scale_fill_manual(values=colors_f2)
   p1 = p1 + new_scale_fill()
   
-  p1 = gheatmap(p1, cluster3, width=0.05, offset=0.3, colnames=FALSE) +
-    scale_fill_manual(values=colors_f3, guide = "none")
+  p1 = gheatmap(p1, cluster3, width=0.05, offset=0.3, colnames=FALSE, show.legend=FALSE) +
+    scale_fill_manual(values=colors_f3)
   p1 = p1 + new_scale_fill()
   
-  p1 = gheatmap(p1, cluster4, width=0.05, offset=0.4, colnames=FALSE) +
-    scale_fill_manual(values=colors_f4, guide = "none")
+  p1 = gheatmap(p1, cluster4, width=0.05, offset=0.4, colnames=FALSE, show.legend=FALSE) +
+    scale_fill_manual(values=colors_f4)
   p1 = p1 + new_scale_fill()
   
   p1 = gheatmap(p1, host, width=0.05, offset=0.5, colnames=FALSE) +
     scale_fill_manual(values=colors_host, name="Host")
+  
   return(p1)
 }
 
 tree_file <- "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/AVES/Aves_full_seq_1A_aa_align_new.nwk"
-meta_file <- "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/AVES/Astroviridae_Aves_05042026_clusters.csv"
+meta_file <- "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/AVES/Astroviridae_Aves_28032026_clusters.csv"
 
 p <- plot_annotated_tree_clusters(tree_file, meta_file)
 print(p)
 ggsave("/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/AVES/tree_annotated.png", p, width=12, height=8, dpi=300)
-
