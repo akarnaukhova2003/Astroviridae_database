@@ -34,9 +34,10 @@ p <- ggplot(df_lengths, aes(x = length)) +
     color = "#AD1457",
     alpha = 0.8
   ) +
-  facet_wrap(~ORF, scales = "free_x", fill = "#F8BBD0") +
+  facet_wrap(~ORF, scales = "free_x") +
   theme_bw() +
   labs(
+    title = "Распределение длин ОРС клады птиц",
     x = "Длина (п.н.)",
     y = "Количество"
   ) +
@@ -44,15 +45,14 @@ p <- ggplot(df_lengths, aes(x = length)) +
     axis.title.x = element_text(size=12, face="bold", margin=margin(t=8)),
     axis.title.y = element_text(size=12, face="bold", margin=margin(r=2)),
     strip.text = element_text(face="bold", size=12),
+    strip.background = element_rect(fill = "#F8BBD0", color = "black"),
     panel.background = element_rect(fill="white"),
-    plot.background = element_rect(fill="white")
+    plot.background = element_rect(fill="white"),
+    plot.title = element_text(hjust = 0.5, face = "bold")
   )
 
 print(p)
 
-# -------------------------
-# 4. Сохранение
-# -------------------------
 ggsave(
   filename = "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/AVES/dist_lengths_ORFs.png",
   plot = p,

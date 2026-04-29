@@ -8,10 +8,10 @@ PV780437/NA/JX05/Anser-anser/2025;PV780437;China;28-Apr-2025;;Anser anser;Aves;3
 PV780436/NA/JX04/Anser-anser/2023;PV780436;China;27-Jan-2023;;Anser anser;Aves;38.0;53.0;47.0;2.0;Anser anser;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
 PV780435/NA/JX03/Anser-anser/2023;PV780435;China;27-Jan-2023;;Anser anser;Aves;38.0;53.0;47.0;2.0;Anser anser;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
 PV780434/NA/JX02/Anser-anser/2023;PV780434;China;27-Jan-2023;;Anser anser;Aves;38.0;53.0;47.0;2.0;Anser anser;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
-PP871812/NA/astro-vt-94/Canis-lupus-familiaris/2014;PP871812;Viet Nam;21-Dec-2014/02-Apr-2016;;Canis lupus familiaris;Mammalia;1.0;30.0;50.0;5.0;Canis lupus familiaris;Canis;Canidae;Canidae (псовые);Mammalia
+PP871812/NA/astro-vt-94/Canis-lupus-familiaris/2014;PP871812;Viet Nam;21-Dec-2014/02-Apr-2016;;Canis lupus familiaris;Mammalia;1.0;30.0;50.0;5.0;Canis lupus familiaris;Canis;Canidae;Canidae (псовые);Mammalia (Млекопитающие)
 PP871808/NA/astro-vt-90/Gallus-gallus/2015;PP871808;Viet Nam;16-Jun-2015/02-Apr-2016;;Gallus gallus;Aves;32.0;7.0;33.0;47.0;Gallus gallus;Gallus;Phasianidae;Phasianidae (фазановые);Phasianidae (фазановые)
-PP871804/NA/astro-vt-86/Canis-lupus-familiaris/2014;PP871804;Viet Nam;29-May-2014/16-Mar-2015;;Canis lupus familiaris;Mammalia;1.0;30.0;50.0;5.0;Canis lupus familiaris;Canis;Canidae;Canidae (псовые);Mammalia
-PP871798/NA/astro-vt-80/Sus-scrofa-(wild-boar)/2015;PP871798;Viet Nam;09-Apr-2015/14-Apr-2015;;Sus scrofa (wild boar);Mammalia;32.0;48.0;52.0;47.0;Sus scrofa (wild boar);Sus;Suidae;Suidae (свиные);Mammalia
+PP871804/NA/astro-vt-86/Canis-lupus-familiaris/2014;PP871804;Viet Nam;29-May-2014/16-Mar-2015;;Canis lupus familiaris;Mammalia;1.0;30.0;50.0;5.0;Canis lupus familiaris;Canis;Canidae;Canidae (псовые);Mammalia (Млекопитающие)
+PP871798/NA/astro-vt-80/Sus-scrofa-(wild-boar)/2015;PP871798;Viet Nam;09-Apr-2015/14-Apr-2015;;Sus scrofa (wild boar);Mammalia;32.0;48.0;52.0;47.0;Sus scrofa (wild boar);Sus;Suidae;Suidae (свиные);Mammalia (Млекопитающие)
 PP871786/NA/astro-vt-68/Gallus-gallus/2014;PP871786;Viet Nam;08-Jul-2014/11-Oct-2016;;Gallus gallus;Aves;32.0;48.0;52.0;47.0;Gallus gallus;Gallus;Phasianidae;Phasianidae (фазановые);Phasianidae (фазановые)
 PV600843/NA/HNJZ-2023/goose/2023;PV600843;China: Henan;2023;;Goose;Aves;38.0;53.0;47.0;2.0;Goose;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
 PV524668/NA/JXNC1/goose/2025;PV524668;China: Jiangxi;15-Mar-2025;;Goose;Aves;38.0;53.0;47.0;2.0;Goose;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
@@ -27,17 +27,17 @@ OR134521/NA/NA/Muscovy-duck/2022;OR134521;China;22-Oct-2022;;Muscovy duck;Aves;3
 OR134520/NA/NA/Muscovy-duck/2022;OR134520;China;15-Oct-2022;;Muscovy duck;Aves;3.0;31.0;48.0;3.0;Muscovy duck;Cairina;Anatidae;Anatidae (утиные);Anatidae (утиные)
 OR134519/NA/NA/Muscovy-duck/2022;OR134519;China;12-Oct-2022;;Muscovy duck;Aves;3.0;31.0;48.0;3.0;Muscovy duck;Cairina;Anatidae;Anatidae (утиные);Anatidae (утиные)
 OR134518/NA/NA/Muscovy-duck/2022;OR134518;China;15-Aug-2022;;Muscovy duck;Aves;3.0;31.0;48.0;3.0;Muscovy duck;Cairina;Anatidae;Anatidae (утиные);Anatidae (утиные)
-PV093029/NA/NA/Neogale-vison/2023;PV093029;China;01-Jan-2023;;Neogale vison;Mammalia;1.0;28.0;46.0;1.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia
-PV093028/NA/NA/Neogale-vison/2023;PV093028;China;01-Jan-2023;;Neogale vison;Mammalia;1.0;28.0;46.0;1.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia
-PV093027/NA/NA/Neogale-vison/2023;PV093027;China;01-Jan-2023;;Neogale vison;Mammalia;1.0;28.0;46.0;1.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia
-PV093026/NA/NA/Neogale-vison/2023;PV093026;China;01-Jan-2023;;Neogale vison;Mammalia;1.0;28.0;46.0;1.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia
-PV093025/NA/NA/Neogale-vison/2023;PV093025;China;01-Jan-2023;;Neogale vison;Mammalia;1.0;28.0;46.0;1.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia
-PV093023/NA/NA/Neogale-vison/2023;PV093023;China;01-Jan-2023;;Neogale vison;Mammalia;32.0;48.0;52.0;47.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia
-PV093022/NA/NA/Neogale-vison/2023;PV093022;China;01-Jan-2023;;Neogale vison;Mammalia;32.0;48.0;52.0;47.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia
-PV093021/NA/NA/Neogale-vison/2023;PV093021;China;01-Jan-2023;;Neogale vison;Mammalia;7.0;36.0;54.0;8.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia
-PV093020/NA/NA/Neogale-vison/2023;PV093020;China;01-Jan-2023;;Neogale vison;Mammalia;7.0;36.0;54.0;8.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia
-PV093019/NA/NA/Neogale-vison/2023;PV093019;China;01-Jan-2023;;Neogale vison;Mammalia;7.0;36.0;54.0;8.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia
-PV093018/NA/NA/Neogale-vison/2023;PV093018;China;01-Jan-2023;;Neogale vison;Mammalia;7.0;36.0;54.0;8.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia
+PV093029/NA/NA/Neogale-vison/2023;PV093029;China;01-Jan-2023;;Neogale vison;Mammalia;1.0;28.0;46.0;1.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia (Млекопитающие)
+PV093028/NA/NA/Neogale-vison/2023;PV093028;China;01-Jan-2023;;Neogale vison;Mammalia;1.0;28.0;46.0;1.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia (Млекопитающие)
+PV093027/NA/NA/Neogale-vison/2023;PV093027;China;01-Jan-2023;;Neogale vison;Mammalia;1.0;28.0;46.0;1.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia (Млекопитающие)
+PV093026/NA/NA/Neogale-vison/2023;PV093026;China;01-Jan-2023;;Neogale vison;Mammalia;1.0;28.0;46.0;1.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia (Млекопитающие)
+PV093025/NA/NA/Neogale-vison/2023;PV093025;China;01-Jan-2023;;Neogale vison;Mammalia;1.0;28.0;46.0;1.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia (Млекопитающие)
+PV093023/NA/NA/Neogale-vison/2023;PV093023;China;01-Jan-2023;;Neogale vison;Mammalia;32.0;48.0;52.0;47.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia (Млекопитающие)
+PV093022/NA/NA/Neogale-vison/2023;PV093022;China;01-Jan-2023;;Neogale vison;Mammalia;32.0;48.0;52.0;47.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia (Млекопитающие)
+PV093021/NA/NA/Neogale-vison/2023;PV093021;China;01-Jan-2023;;Neogale vison;Mammalia;7.0;36.0;54.0;8.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia (Млекопитающие)
+PV093020/NA/NA/Neogale-vison/2023;PV093020;China;01-Jan-2023;;Neogale vison;Mammalia;7.0;36.0;54.0;8.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia (Млекопитающие)
+PV093019/NA/NA/Neogale-vison/2023;PV093019;China;01-Jan-2023;;Neogale vison;Mammalia;7.0;36.0;54.0;8.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia (Млекопитающие)
+PV093018/NA/NA/Neogale-vison/2023;PV093018;China;01-Jan-2023;;Neogale vison;Mammalia;7.0;36.0;54.0;8.0;Neogale vison;Neogale;Mustelidae;Mustelidae (куньи);Mammalia (Млекопитающие)
 PQ740944/NA/CH-HBXT-2022/goose/2022;PQ740944;China;2022;;Goose;Aves;38.0;53.0;47.0;2.0;Goose;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
 PP786658/NA/JY202323/goose/2023;PP786658;China;03-Feb-2023;;Goose;Aves;33.0;60.0;15.0;58.0;Goose;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
 PQ893528/NA/NSW-2021/Eolophus-roseicapilla/2021;PQ893528;Australia;Jan-2021;;Eolophus roseicapilla;Aves;18.0;5.0;30.0;31.0;Eolophus roseicapilla;Eolophus;Cacatuidae;Cacatuidae (какаду);Cacatuidae (какаду)
@@ -55,11 +55,11 @@ MW588064/NA/NA/NA/NA;MW588064;United Kingdom;;;Cygnus olor;;11.0;40.0;58.0;12.0;
 MW588063/NA/NA/NA/NA;MW588063;United Kingdom;;;Cygnus olor;;14.0;44.0;62.0;16.0;Cygnus olor;Cygnus;Anatidae;Anatidae (утиные);Anatidae (утиные)
 MW588062/NA/NA/NA/NA;MW588062;United Kingdom;;;Cygnus olor;;14.0;44.0;62.0;16.0;Cygnus olor;Cygnus;Anatidae;Anatidae (утиные);Anatidae (утиные)
 PP966939/NA/GZ2301/goose/2023;PP966939;China;2023;;Goose;Aves;38.0;53.0;47.0;2.0;Goose;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
-PP711188/NA/Hplan-A-304122/Heteronotia-planiceps/2017;PP711188;Australia: Kimberley region Western Australia;2017;;Heteronotia planiceps;Lepidosauria;41.0;56.0;11.0;54.0;Heteronotia planiceps;Heteronotia;Gekkonidae;Gekkonidae (гекконовые);Reptilia
+PP711188/NA/Hplan-A-304122/Heteronotia-planiceps/2017;PP711188;Australia: Kimberley region Western Australia;2017;;Heteronotia planiceps;Lepidosauria;41.0;56.0;11.0;54.0;Heteronotia planiceps;Heteronotia;Gekkonidae;Gekkonidae (гекконовые);Reptilia (Пресмыкающиеся)
 PP763758/NA/AAstV-Goose-CHN-2023-C102/goose/2023;PP763758;China: Sichuan province;Jun-2023;;Goose;Aves;33.0;60.0;15.0;58.0;Goose;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
 PP444710/NA/GAstV-GDCS-Goose-2023/goose/2023;PP444710;China;2023;;Goose;Aves;38.0;53.0;47.0;2.0;Goose;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
 PP444709/NA/GAstV-GXNN-Goose-2023/goose/2023;PP444709;China;2023;;Goose;Aves;38.0;53.0;47.0;2.0;Goose;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
-PP352010/NA/Hunan-CHN-2022/Pelophylax-nigromaculatus/2022;PP352010;China: Hunan;2022;;Pelophylax nigromaculatus;Amphibia;46.0;20.0;18.0;19.0;Pelophylax nigromaculatus;Pelophylax;Ranidae;Ranidae (лягушковые);Amphibia
+PP352010/NA/Hunan-CHN-2022/Pelophylax-nigromaculatus/2022;PP352010;China: Hunan;2022;;Pelophylax nigromaculatus;Amphibia;46.0;20.0;18.0;19.0;Pelophylax nigromaculatus;Pelophylax;Ranidae;Ranidae (лягушковые);Amphibia (Амфибии)
 PP108251/NA/NA/goose/2023;PP108251;China: Sichuan province;15-Aug-2023;;Goose;Aves;33.0;60.0;15.0;58.0;Goose;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
 OR965521/NA/AAstV-Goose-CHN-2023-MG-23/goose/2023;OR965521;China;Jul-2023;;Goose;Aves;38.0;53.0;47.0;2.0;Goose;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
 OR958817/NA/AAstV-Goose-CHN-2023-HR2306-1/goose/2023;OR958817;China;Jun-2023;;Goose;Aves;38.0;53.0;47.0;2.0;Goose;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
@@ -227,7 +227,7 @@ KT946720/NA/D11-515-HK/house-crow/NA;KT946720;Hong Kong;;;House crow;Aves;30.0;4
 KT946719/NA/D11-467-HK/house-crow/NA;KT946719;Hong Kong;;;House crow;Aves;30.0;45.0;42.0;42.0;House crow;Corvus;Corvidae;Corvidae (врановые);Corvidae (врановые)
 KT946718/NA/D11-139-HK/house-crow/NA;KT946718;Hong Kong;;;House crow;Aves;30.0;45.0;42.0;42.0;House crow;Corvus;Corvidae;Corvidae (врановые);Corvidae (врановые)
 MZ576222/NA/JX01-China-2021/goose/2021;MZ576222;China;2021-05-20;;Goose;Aves;38.0;53.0;47.0;2.0;Goose;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
-MZ375139/NA/3PE-RDRP-2/Phrynocephalus-erythrurus/2020;MZ375139;China;2020;;Phrynocephalus erythrurus;Lepidosauria;45.0;19.0;17.0;18.0;Phrynocephalus erythrurus;Phrynocephalus;Agamidae;Agamidae (агамовые);Reptilia
+MZ375139/NA/3PE-RDRP-2/Phrynocephalus-erythrurus/2020;MZ375139;China;2020;;Phrynocephalus erythrurus;Lepidosauria;45.0;19.0;17.0;18.0;Phrynocephalus erythrurus;Phrynocephalus;Agamidae;Agamidae (агамовые);Reptilia (Пресмыкающиеся)
 MZ367612/NA/HNNY0620/Muscovy-duck/2020;MZ367612;China;20-Jun-2020;;Muscovy duck;Aves;38.0;53.0;47.0;2.0;Muscovy duck;Cairina;Anatidae;Anatidae (утиные);Anatidae (утиные)
 MW826371/NA/XZN01/bird/2018;MW826371;China;Apr-2018;;bird;Aves;49.0;23.0;21.0;22.0;bird;bird;;;
 MK746105/NA/AAstV-Chicken-CHN-2017-NJ1701/chicken/2017;MK746105;China;2017;;Gallus gallus;Aves;1.0;28.0;46.0;1.0;Gallus gallus;Gallus;Phasianidae;Phasianidae (фазановые);Phasianidae (фазановые)
@@ -343,15 +343,15 @@ MK125058/NA/JSHA/gosling/2016;MK125058;China;2016;;Gosling;Aves;38.0;53.0;47.0;2
 MK096775/NA/PasAstV-3/Passeriformes/2016;MK096775;French Guiana;Oct-2016;;Passeriformes;Aves;15.0;2.0;27.0;28.0;Passeriformes;Passer;Passeridae;Passeridae (воробьиные);Passeridae (воробьиные)
 MK096774/NA/PasAstV-2/Passeriformes/2016;MK096774;French Guiana;Oct-2016;;Passeriformes;Aves;17.0;4.0;29.0;30.0;Passeriformes;Passer;Passeridae;Passeridae (воробьиные);Passeridae (воробьиные)
 MK096773/NA/PasAstV-1/Passeriformes/NA;MK096773;French Guiana;;;Passeriformes;Aves;35.0;50.0;5.0;49.0;Passeriformes;Passer;Passeridae;Passeridae (воробьиные);Passeridae (воробьиные)
-MG661261/NA/NA/NA/2015;MG661261;China;2015;;Rhesus monkey;;43.0;59.0;31.0;57.0;;Macaca;Cercopithecidae;Cercopithecidae (мартышковые);Mammalia
+MG661261/NA/NA/NA/2015;MG661261;China;2015;;Rhesus monkey;;43.0;59.0;31.0;57.0;;Macaca;Cercopithecidae;Cercopithecidae (мартышковые);Mammalia (Млекопитающие)
 MH712856/NA/NA/duck/2012;MH712856;China;06-Feb-2012;;Duck;Aves;3.0;31.0;48.0;3.0;Duck;Anas;Anatidae;Anatidae (утиные);Anatidae (утиные)
 MH807626/NA/NA/goose/2018;MH807626;China;08-Jan-2018;;Goose;Aves;38.0;53.0;47.0;2.0;Goose;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
 KY807085/NA/HN1G/Lingxian-White-Goose/2014;KY807085;China;20-May-2014;;Lingxian White Goose;Aves;38.0;53.0;47.0;2.0;Lingxian White Goose;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
 MH453801/NA/AstV-Red-necked-Avocet-MW09-Interior/Red-necked-Avocet/2013;MH453801;Australia: Innaminka Regional Reserve;2013;;Red-necked Avocet;Aves;27.0;15.0;41.0;39.0;Red-necked Avocet;Recurvirostra;Recurvirostridae;Recurvirostridae (шилоклювковые);Recurvirostridae (шилоклювковые)
 MH453800/NA/AstV-Red-necked-Avocet-MW08-Interior/Red-necked-Avocet/2013;MH453800;Australia: Western Port Bay;2013;;Red-necked Avocet;Aves;29.0;17.0;45.0;41.0;Red-necked Avocet;Recurvirostra;Recurvirostridae;Recurvirostridae (шилоклювковые);Recurvirostridae (шилоклювковые)
-MG599918/NA/NA/Hemidactylus-bowringii/NA;MG599918;China;;;Hemidactylus bowringii;Lepidosauria;37.0;52.0;8.0;51.0;Hemidactylus bowringii;Hemidactylus;Gekkonidae;Gekkonidae (гекконовые);Reptilia
-MG599917/NA/NA/Gekko-similignum/NA;MG599917;China;;;Gekko similignum;Lepidosauria;40.0;55.0;10.0;53.0;Gekko similignum;Gekko;Gekkonidae;Gekkonidae (гекконовые);Reptilia
-MG599910/NA/NA/Duttaphrynus-melanostictus/NA;MG599910;China;;;Duttaphrynus melanostictus;Amphibia;43.0;59.0;14.0;57.0;Duttaphrynus melanostictus;Duttaphrynus;Bufonidae;Bufonidae (жабовые);Amphibia
+MG599918/NA/NA/Hemidactylus-bowringii/NA;MG599918;China;;;Hemidactylus bowringii;Lepidosauria;37.0;52.0;8.0;51.0;Hemidactylus bowringii;Hemidactylus;Gekkonidae;Gekkonidae (гекконовые);Reptilia (Пресмыкающиеся)
+MG599917/NA/NA/Gekko-similignum/NA;MG599917;China;;;Gekko similignum;Lepidosauria;40.0;55.0;10.0;53.0;Gekko similignum;Gekko;Gekkonidae;Gekkonidae (гекконовые);Reptilia (Пресмыкающиеся)
+MG599910/NA/NA/Duttaphrynus-melanostictus/NA;MG599910;China;;;Duttaphrynus melanostictus;Amphibia;43.0;59.0;14.0;57.0;Duttaphrynus melanostictus;Duttaphrynus;Bufonidae;Bufonidae (жабовые);Amphibia (Амфибии)
 MH410610/NA/NA/goslings/2017;MH410610;China: Anhui province;Aug-2017;;Gosling;Aves;33.0;60.0;15.0;58.0;Gosling;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
 NC_034567/NA/FLX/Hortobagy-goose/2014;NC_034567;China;04-Jun-2014;;Hortobagy goose;Aves;;;;;Hortobagy goose;Anser;Anatidae;Anatidae (утиные);Anatidae (утиные)
 NC_012437/NA/NA/duck/2008;NC_012437;China;09-Jul-2008;;duck;Aves;;;;;Duck;Anas;Anatidae;Anatidae (утиные);Anatidae (утиные)
