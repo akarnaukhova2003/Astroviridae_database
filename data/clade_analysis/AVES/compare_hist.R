@@ -46,12 +46,12 @@ plot_hist <- function(df, column, title,
 }
 
 aln1 <- read.dna(
-  "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/Aves/Aves_full_seq_removed_1B_align.fasta",
+  "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/Aves/Aves_full_seq_removed_1B_align_clear.fasta",
   format = "fasta"
 )
 
 aln2 <- read.dna(
-  "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/Aves/Aves_1B_nucl_align.fasta",
+  "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/Aves/Aves_full_seq_removed_1B_align.fasta",
   format = "fasta"
 )
 

@@ -64,7 +64,7 @@ p <- ggplot(df, aes(x = lengths)) +
   ) +
   theme_minimal(base_size = 14) +
   theme(
-    plot.title = element_text(size = 10, face = "bold", hjust = 0.5),
+    plot.title = element_text(size = 13, face = "bold", hjust = 0.5),
     axis.title = element_text(size = 13),
     panel.grid.minor = element_line(color = "grey90"),
     axis.line.x = element_line(color = "grey90", linewidth = 0.2),

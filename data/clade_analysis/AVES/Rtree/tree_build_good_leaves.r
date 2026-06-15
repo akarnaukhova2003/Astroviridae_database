@@ -5,7 +5,7 @@ library(ggnewscale)
 library(phytools)
 library(randomcoloR)
 
-meta_path <- "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/AVES/Astroviridae_Aves_18042026_clusters.csv"
+meta_path <- "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/AVES/Astroviridae_Aves_26042026_clusters_shorter.csv"
 
 all_meta <- read.csv(meta_path, sep = ";", stringsAsFactors = FALSE, check.names = FALSE)
 all_meta
@@ -18,13 +18,13 @@ all_meta$aa83_1B <- fix_na(all_meta$aa83_1B)
 all_meta$aa90_1B <- fix_na(all_meta$aa90_1B)
 all_meta$nt86_1B <- fix_na(all_meta$nt86_1B)
 all_meta$nt80_1B <- fix_na(all_meta$nt80_1B)
-all_meta$Host <- fix_na(all_meta$Host_fam_ru)
+all_meta$Host_shorter <- fix_na(all_meta$Host_shorter)
 
 levels_f1 <- sort(unique(all_meta$aa83_1B))
 levels_f2 <- sort(unique(all_meta$aa90_1B))
 levels_f3 <- sort(unique(all_meta$nt86_1B))
 levels_f4 <- sort(unique(all_meta$nt80_1B))
-levels_host <- sort(unique(all_meta$Host_fam_ru))
+levels_host <- sort(unique(all_meta$Host_shorter))
 
 set.seed(123)
 
@@ -61,7 +61,7 @@ plot_annotated_tree_clusters <- function(tree_file, meta_file, taxlabel = TRUE) 
   info$aa90_1B <- fix_na(info$aa90_1B)
   info$nt86_1B <- fix_na(info$nt86_1B)
   info$nt80_1B <- fix_na(info$nt80_1B)
-  info$Host <- fix_na(info$Host_fam_ru)
+  info$Host <- fix_na(info$Host_shorter)
   info$sequence_nm[is.na(info$sequence_nm)] <- "unknown"
   
   cluster1 <- data.frame(AA83 = factor(info$aa83_1B, levels = levels_f1), row.names = info$id)
@@ -77,8 +77,10 @@ plot_annotated_tree_clusters <- function(tree_file, meta_file, taxlabel = TRUE) 
   p$data <- df
   
   if (taxlabel) {
-    tip_labels_map <- setNames(info$sequence_nm, info$id)
-    
+    tip_labels_map <- setNames(
+      paste(info$sequence_nm, info$class, sep = "/"),
+      info$id
+    )
     p <- p + 
       geom_tiplab(
         aes(label = tip_labels_map[.data$label]),
@@ -89,7 +91,7 @@ plot_annotated_tree_clusters <- function(tree_file, meta_file, taxlabel = TRUE) 
         aes(subset = !isTip & !is.na(bootstrap) & bootstrap >= 0.95),
         shape = 21,
         size = 2,
-        fill = "hotpink",
+        fill = "pink",
         color = "black"
       ) +
       new_scale_fill()
@@ -127,13 +129,13 @@ plot_annotated_tree_clusters <- function(tree_file, meta_file, taxlabel = TRUE) 
   return(p1)
 }
 
-tree_file <- "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/AVES/Aves_1B_97_nt_tree.nwk"
+tree_file <- "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/AVES/Aves_full_seq_removed_1A_align.nwk"
 
 p <- plot_annotated_tree_clusters(tree_file, meta_path)
 print(p)
 
 ggsave(
-  "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/AVES/nt_1B_97_tree.png",
+  "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/AVES/nt_1A_tree_2704.png",
   p,
   width = 14,
   height = 10,

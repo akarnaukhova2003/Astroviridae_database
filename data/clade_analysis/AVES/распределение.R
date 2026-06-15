@@ -2,6 +2,7 @@ library(ape)
 library(ggplot2)
 library(dplyr)
 
+
 get_lengths <- function(fasta_path) {
   aln <- read.dna(fasta_path, format = "fasta")
   seqs_list <- as.list(aln)
@@ -30,18 +31,20 @@ p <- ggplot(df_lengths, aes(x = length)) +
   ) +
   theme_bw() +
   labs(
-    title = "Распределение длин ORF клады птиц",
+    title = "Распределение длин ORF1b",
     x = "Длина (п.н.)",
     y = "Количество"
   ) +
   theme(
-    axis.title.x = element_text(size = 12, face = "bold", margin = margin(t = 8)),
-    axis.title.y = element_text(size = 12, face = "bold", margin = margin(r = 2)),
+    axis.title.x = element_text(size = 16, face = "bold", margin = margin(t = 8)),
+    axis.title.y = element_text(size = 16, face = "bold", margin = margin(r = 2)),
+    axis.text.x  = element_text(size = 16),
+    axis.text.y  = element_text(size = 16),
     strip.text = element_text(face = "bold", size = 12),
     strip.background = element_rect(fill = "#F8BBD0", color = "black"),
     panel.background = element_rect(fill = "white"),
     plot.background = element_rect(fill = "white"),
-    plot.title = element_text(hjust = 0.5, face = "bold")
+    plot.title = element_text(size = 16, hjust = 0.5, face = "bold")
   )
 
 print(p)
@@ -54,3 +57,5 @@ ggsave(
   dpi = 300,
   bg = "white"
 )
+
+
