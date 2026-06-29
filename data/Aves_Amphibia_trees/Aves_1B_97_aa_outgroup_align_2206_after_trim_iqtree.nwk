@@ -1,0 +1,236 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=134;
+	taxlabels
+	'AB033998/NA/NA/chiken/NA/NA'
+	'EU143843/NA/NA/turkey/NA/NA'
+	'EU143844/NA/NA/turkey/NA/NA'
+	'EU143846/NA/NA/turkey/NA/NA'
+	'EU143847/NA/NA/turkey/NA/NA'
+	'EU143848/NA/NA/turkey/NA/NA'
+	'EU143849/NA/NA/turkey/NA/NA'
+	'EU143850/NA/NA/turkey/NA/NA'
+	'EU143851/NA/NA/turkey/NA/NA'
+	'FJ434664/CHN/NA/duck/Aves/2008'
+	'FJ919227/CHN/NA/duck/Aves/NA'
+	'FJ919228/CHN/NA/duck/Aves/NA'
+	'HM029238/CHN/NA/chiken/Aves/2009'
+	'HQ889774/CHN/NA/swine/Aves/2010'
+	'JF414802/USA/GA2011/chiken/Aves/2007'
+	'JF832365/USA/4175/chiken/Aves/2006'[&!color=#009900]
+	'JX624774/CHN/NA/duck/Aves/NA'
+	'KF753806/CHN/NA/duck/NA/2012'
+	'KJ020899/CHN/NA/duck/Aves/2013'
+	'KT886453/LAO/CAstV-Poland-G059-2014/chiken/Aves/2014'
+	'KT946718/HKG/D11-139-HK/House-crow/Aves/NA'[&!color=#009900]
+	'KT946719/HKG/D11-467-HK/House-crow/Aves/NA'
+	'KT946722/HKG/D11-116-HK/Spotted-dove/Aves/NA'
+	'KT946723/HKG/D11-336.2-HK/Spotted-dove/Aves/NA'
+	'KT946724/HKG/D11-440-HK/swine/Aves/NA'
+	'KT946725/HKG/D10-5628-HK/Spotted-dove/Aves/NA'
+	'KX397575/USA/CC_CkAstV/chiken/Aves/NA'
+	'KY038163/IND/CAstV-INDIA-ANAND-2016/chiken/Aves/2016'
+	'MF768270/CHN/NA/swine/Aves/2014'
+	'MG599910/CHN/NA/toad/Amphibia/NA'[&!color=#009999]
+	'MG599917/CHN/NA/ge__ko/Lepidosauria/NA'
+	'MG599918/CHN/NA/gecko/Lepidosauria/NA'[&!color=#009999]
+	'MG661261/CHN/NA/Rhesus-monkey/NA/2015'
+	'MH453800/AUS/AstV-Red-necked-Avocet-MW08-Interior/cobbler/Aves/2013'[&!color=#009900]
+	'MH453801/AUS/AstV-Red-necked-Avocet-MW09-Interior/cobbler/Aves/2013'[&!color=#009900]
+	'MK096773/GUF/PasAstV-1/sparrow/Aves/NA'[&!color=#009900]
+	'MK096774/GUF/PasAstV-2/sparrow/Aves/2016'[&!color=#009900]
+	'MK096775/GUF/PasAstV-3/sparrow/Aves/2016'[&!color=#009900]
+	'MN725025/CHN/NA/chiken/Aves/2018'
+	'MN732558/CHN/NA/chiken/Aves/2018'
+	'MN732559/CHN/NA/chiken/Aves/2017'
+	'MN920663/CHN/spa143ast1/NA/NA/2018'[&!color=#009900]
+	'MN920667/CHN/tom152ast2/Petroica-macrocephala/NA/2018'[&!color=#009900]
+	'MN920668/CHN/war204ast1/NA/NA/2018'[&!color=#009900]
+	'MN920669/CHN/ybb150ast01/NA/NA/2018'[&!color=#009900]
+	'MN920670/CHN/ybw202ast01/NA/NA/2018'[&!color=#009900]
+	'MN920671/CHN/ytb089ast01/NA/NA/2018'
+	'MN920672/CHN/ytb090ast01/NA/NA/2018'
+	'MT137991/NA/bbr144ast1/Prunella-montanella/NA/2018'[&!color=#009900]
+	'MT137992/NA/bfb201ast01/NA/NA/2018'
+	'MT137994/NA/bsk136ast01/NA/NA/2018'[&!color=#009900]
+	'MT137996/NA/cfe153ast01/NA/NA/2018'[&!color=#009900]
+	'MT138002/NA/cra070ast1/NA/NA/2018'[&!color=#009900]
+	'MT138005/NA/hwf041ast1/NA/NA/2018'[&!color=#009900]
+	'MT138007/NA/ltr178ast1/NA/NA/2018'[&!color=#009900]
+	'MT138009/NA/prf037ast1nc/NA/NA/2018'[&!color=#009900]
+	'MT138010/NA/prf037ast2/NA/NA/2018'[&!color=#009900]
+	'MT138011/NA/prf038ast1/NA/NA/2018'
+	'MT491732/LAO/IBS543-2017/chiken/Aves/2017'
+	'MT585643/GBR/VF14-92-A2/chiken/Aves/NA'
+	'MT585644/IRL/VF16-03-164b/chiken/Aves/2016'
+	'MT789780/NA/CAstV-CA-AB-Chicken-15-1262c-15/chiken/Aves/2015'
+	'MT789782/NA/CAstV-CA-AB-Chicken-17-0773a-17/chiken/Aves/2017'
+	'MT789787/NA/CAstV-CA-SK-Chicken-19-0981-19/chiken/Aves/2019'
+	'MT993583/AUS/MW06_2o/turnstone/Aves/2014'[&!color=#009900]
+	'MT993595/AUS/MW09_1o/turnstone/Aves/2015'[&!color=#009900]
+	'MT993596/AUS/MW10_1o/turnstone/Aves/2015'[&!color=#009900]
+	'MW353015/CHN/TZ03/goose/Aves/2019'
+	'MW385412/CHN/NA/Crow/Aves/2017'[&!color=#009900]
+	'MW588062/GBR/NA/Cygnus-olor/NA/NA'[&!color=#009900]
+	'MW588063/GBR/NA/Cygnus-olor/NA/NA'
+	'MW588064/GBR/NA/Cygnus-olor/NA/NA'[&!color=#009900]
+	'MW684817/LAO/Environment-NLD-2019-VE_7_astro_14/chiken/Aves/2019'
+	'MW684818/LAO/Chicken-NLD-2019-V_M_015_astro_2/chiken/Aves/2019'
+	'MW684819/LAO/Chicken-NLD-2019-V_M_030_astro_12/chiken/Aves/2019'
+	'MW684822/LAO/Chicken-NLD-2019-V_M_036_astro_4/chiken/Aves/2019'
+	'MW684825/LAO/Chicken-NLD-2019-V_M_038_astro_6/chiken/Aves/2019'
+	'MW684826/LAO/Chicken-NLD-2019-V_M_039_astro_2/chiken/Aves/2019'
+	'MW684829/LAO/Chicken-NLD-2019-V_M_041_astro_13/chiken/Aves/2019'
+	'MW684830/LAO/Chicken-NLD-2019-V_M_046_astro_12/chiken/Aves/2019'
+	'MW684833/LAO/Chicken-NLD-2019-V_M_053_astro_2/chiken/Aves/2019'
+	'MW826371/CHN/XZN01/bird/Aves/2018'[&!color=#009900]
+	'MW826482/CHN/YSN02/Montifringilla-taczanowskii/Aves/2019'[&!color=#009900]
+	'MW826483/CHN/YSN01/Montifringilla-taczanowskii/Aves/2019'[&!color=#009900]
+	'MW846319/CHN/CAstV-Chicken-CHN-2020-GD202013/chiken/Aves/2020'
+	'MZ150559/CHN/ANV-Chicken-CHN-2020-AH202017/chiken/Aves/2020'
+	'MZ375139/CHN/3PE-RDRP-2/Phrynocephalus-erythrurus/Lepidosauria/2020'[&!color=#009999]
+	'MZ819185/CHN/ZJC14/goose/Aves/2020'
+	'NC_002470/NA/provided-by-Dr.-Y.M.-Saif--Ohio-State-University/turkey/Aves/NA'
+	'NC_005790/NA/NA/NA/NA/NA'
+	'NC_034567/CHN/FLX/goose/Aves/2014'
+	'OM469230/LAO/ANV-PB31-SI19-Switzerland-2019/chiken/Aves/2019'
+	'OM469232/LAO/ANV-PB7-HI6-Switzerland-2019/chiken/Aves/2019'
+	'OM480533/CHN/NA/Porcupine/Mammalia/2019'[&!color=#cc0000]
+	'ON964512/CHN/NA/chiken/Aves/2020'
+	'OP272633/CHN/AH33-3/goose/Aves/2021'
+	'OP484924/CHN/NA/goose/Aves/2018'
+	'OQ685945/TZA/ANV-ck-TZ-Iringa-2151-IM162-2019/chiken/Aves/2019'
+	'OQ685946/TZA/CAstV-ck-TZ-Iringa-2151-IM162-2019/chiken/Aves/2019'
+	'OQ986606/LAO/GEIG/Gerygone-igata/NA/2021'[&!color=#009900]
+	'OQ986607/LAO/GEIG/Gerygone-igata/NA/2021'[&!color=#009900]
+	'OQ986608/LAO/RHFU/Rhipidura-fuliginosa/NA/2021'[&!color=#009900]
+	'OQ986609/LAO/RHFU/Rhipidura-fuliginosa/NA/2021'[&!color=#009900]
+	'OQ986679/LAO/GEIG/Gerygone-igata/NA/2021'[&!color=#009900]
+	'OR134528/CHN/NA/duck/Aves/2022'
+	'OR286522/CHN/SDAU2022-1/chiken/Aves/2022'
+	'OR351273/CHN/JS202103/chiken/Aves/2021'
+	'OR902759/CHN/NA/goose/Aves/2023'
+	'OR907125/CHN/NA/duck/Aves/2023'
+	'OR907134/CHN/NA/goose/Aves/2022'
+	'OR924090/CHN/NA/goose/Aves/2021'[&!color=#009900]
+	'OR924091/CHN/NA/goose/Aves/2021'
+	'OR924092/CHN/NA/duck/Aves/2021'
+	'PP352010/CHN/Hunan-CHN-2022/Pelophylax-nigromaculatus/Amphibia/2022'[&!color=#009999]
+	'PP478075/LAO/PL_pigeon_4a-2023/swine/Aves/2023'
+	'PP478076/LAO/PL_pigeon_24-2023/swine/Aves/2023'[&!color=#009900]
+	'PP623814/CHN/MP22-196/Mareca-falcata/Aves/2022'[&!color=#9966ff]
+	'PP711188/AUS/Hplan-A_304122/Heteronotia-planiceps/Lepidosauria/2017'[&!color=#009999]
+	'PP763758/CHN/AAstV-Goose-CHN-2023-C102/goose/Aves/2023'[&!color=#009900]
+	'PP871786/VNM/astro_vt_68/chiken/Aves/2014'
+	'PP871798/VNM/astro_vt_80/wild-boar/Mammalia/2015'
+	'PP871804/VNM/astro_vt_86/dog/Mammalia/2014'
+	'PP871808/VNM/astro_vt_90/chiken/Aves/2015'[&!color=#009900]
+	'PP871812/VNM/astro_vt_94/dog/Mammalia/2014'
+	'PQ893527/AUS/QLD-2021/Alisterus-scapularis/Aves/2021'[&!color=#009900]
+	'PQ893528/AUS/NSW-2021/Eolophus-roseicapilla/Aves/2021'[&!color=#009900]
+	'PV093018/CHN/NA/Neogale-vison/Mammalia/2023'
+	'PV093022/CHN/NA/Neogale-vison/Mammalia/2023'
+	'PV093029/CHN/NA/Neogale-vison/Mammalia/2023'[&!color=#009900]
+	'PV793826/CHN/AstroviridaeCranefe67/Leucogeranus-leucogeranus/Aves/2024'
+	'PV793827/CHN/AstroviridaeCranefe81/Leucogeranus-leucogeranus/Aves/2024'[&!color=#009900]
+	'PV793828/CHN/AstroviridaeGoosefe87/Anser-sp./Aves/2024'[&!color=#009900]
+	'PV793829/CHN/AstroviridaeGoosefe94/Anser-sp./Aves/2024'[&!color=#009900]
+	'PX237222/CHN/pigeon-FSU1/swine/Aves/2025'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('MN920672/CHN/ytb090ast01/NA/NA/2018':3.0E-6,(((('MW826482/CHN/YSN02/Montifringilla-taczanowskii/Aves/2019':0.11744,(((('OQ986606/LAO/GEIG/Gerygone-igata/NA/2021':0.337956,'MK096774/GUF/PasAstV-2/sparrow/Aves/2016':0.326615)[&label=98]:0.075723,'MK096775/GUF/PasAstV-3/sparrow/Aves/2016':0.427335)[&label=96]:0.052372,(((('OQ986679/LAO/GEIG/Gerygone-igata/NA/2021':0.341936,'OQ986607/LAO/GEIG/Gerygone-igata/NA/2021':0.372826)[&label=69]:0.066901,((('KT946719/HKG/D11-467-HK/House-crow/Aves/NA':0.028317,'KT946718/HKG/D11-139-HK/House-crow/Aves/NA':0.045583)[&label=100]:0.218388,'MW385412/CHN/NA/Crow/Aves/2017':0.252329)[&label=100]:0.125344,'OQ986608/LAO/RHFU/Rhipidura-fuliginosa/NA/2021':0.373208)[&label=87]:0.04545)[&label=69]:0.041854,((('MK096773/GUF/PasAstV-1/sparrow/Aves/NA':0.476687,'OQ986609/LAO/RHFU/Rhipidura-fuliginosa/NA/2021':0.543923)[&label=91]:0.077733,((((((((('OP272633/CHN/AH33-3/goose/Aves/2021':2.0E-6,(('PP763758/CHN/AAstV-Goose-CHN-2023-C102/goose/Aves/2023':0.002103,(('MZ819185/CHN/ZJC14/goose/Aves/2020':2.0E-6,'MW353015/CHN/TZ03/goose/Aves/2019':0.004208)[&label=36]:2.0E-6,'NC_034567/CHN/FLX/goose/Aves/2014':0.010639)[&label=57]:0.002093)[&label=28]:2.0E-6,'OR907134/CHN/NA/goose/Aves/2022':0.004186)[&label=51]:0.002096)[&label=100]:0.433852,((((((((((((('MT491732/LAO/IBS543-2017/chiken/Aves/2017':0.003961,'MW684817/LAO/Environment-NLD-2019-VE_7_astro_14/chiken/Aves/2019':0.001963)[&label=99]:0.001951,'MW684830/LAO/Chicken-NLD-2019-V_M_046_astro_12/chiken/Aves/2019':0.001957)[&label=99]:0.00395,'OQ685946/TZA/CAstV-ck-TZ-Iringa-2151-IM162-2019/chiken/Aves/2019':0.012084)[&label=100]:0.005998,'MT789782/NA/CAstV-CA-AB-Chicken-17-0773a-17/chiken/Aves/2017':0.005922)[&label=99]:0.005994,('MT789787/NA/CAstV-CA-SK-Chicken-19-0981-19/chiken/Aves/2019':0.014095,('KX397575/USA/CC_CkAstV/chiken/Aves/NA':0.005696,'JF832365/USA/4175/chiken/Aves/2006':0.137153)[&label=96]:0.004223)[&label=46]:0.001935)[&label=44]:0.001935,('MT789780/NA/CAstV-CA-AB-Chicken-15-1262c-15/chiken/Aves/2015':0.011958,'JF414802/USA/GA2011/chiken/Aves/2007':0.003943)[&label=26]:3.0E-6)[&label=35]:0.001808,'KY038163/IND/CAstV-INDIA-ANAND-2016/chiken/Aves/2016':0.017954)[&label=67]:0.002097,'OR351273/CHN/JS202103/chiken/Aves/2021':3.0E-6)[&label=94]:0.010735,(((('PP871812/VNM/astro_vt_94/dog/Mammalia/2014':0.019488,'KT886453/LAO/CAstV-Poland-G059-2014/chiken/Aves/2014':0.021259)[&label=86]:0.005772,'MW846319/CHN/CAstV-Chicken-CHN-2020-GD202013/chiken/Aves/2020':0.011596)[&label=86]:0.007027,'PP871804/VNM/astro_vt_86/dog/Mammalia/2014':0.016155)[&label=69]:0.001899,'OR286522/CHN/SDAU2022-1/chiken/Aves/2022':0.016598)[&label=79]:0.007033)[&label=100]:0.082081,('PV093029/CHN/NA/Neogale-vison/Mammalia/2023':0.001227,'MN725025/CHN/NA/chiken/Aves/2018':0.006771)[&label=100]:0.080874)[&label=100]:0.126087,('OR907125/CHN/NA/duck/Aves/2023':0.002166,'KJ020899/CHN/NA/duck/Aves/2013':0.007901)[&label=100]:0.175244)[&label=99]:0.079892,((((((('EU143846/NA/NA/turkey/NA/NA':0.007839,'EU143851/NA/NA/turkey/NA/NA':0.002183)[&label=99]:0.006028,'EU143849/NA/NA/turkey/NA/NA':0.002199)[&label=100]:0.013076,'EU143850/NA/NA/turkey/NA/NA':0.006967)[&label=99]:0.009965,(('EU143848/NA/NA/turkey/NA/NA':0.00277,'EU143843/NA/NA/turkey/NA/NA':0.007283)[&label=100]:0.008095,'EU143847/NA/NA/turkey/NA/NA':0.008866)[&label=98]:0.006448)[&label=97]:0.003783,('NC_005790/NA/NA/NA/NA/NA':0.022668,'EU143844/NA/NA/turkey/NA/NA':0.003992)[&label=95]:0.00554)[&label=100]:0.088187,'KF753806/CHN/NA/duck/NA/2012':0.099623)[&label=100]:0.08473,'OP484924/CHN/NA/goose/Aves/2018':0.386343)[&label=96]:0.136342)[&label=72]:0.036104,(((('OR134528/CHN/NA/duck/Aves/2022':0.009239,'FJ919227/CHN/NA/duck/Aves/NA':0.00705)[&label=97]:0.00384,'FJ919228/CHN/NA/duck/Aves/NA':0.015409)[&label=99]:0.004711,'FJ434664/CHN/NA/duck/Aves/2008':0.010803)[&label=100]:0.16615,('MW588063/GBR/NA/Cygnus-olor/NA/NA':0.004481,'MW588062/GBR/NA/Cygnus-olor/NA/NA':0.013947)[&label=100]:0.20312)[&label=99]:0.062945)[&label=80]:0.048114)[&label=77]:0.04889,('PV793828/CHN/AstroviridaeGoosefe87/Anser-sp./Aves/2024':0.103772,('OR924092/CHN/NA/duck/Aves/2021':0.006344,((('OR924091/CHN/NA/goose/Aves/2021':0.003977,'OR924090/CHN/NA/goose/Aves/2021':0.01218)[&label=93]:0.002064,'JX624774/CHN/NA/duck/Aves/NA':0.004033)[&label=86]:2.0E-6,'OR902759/CHN/NA/goose/Aves/2023':0.01225)[&label=92]:0.003776)[&label=100]:0.097742)[&label=100]:0.416725)[&label=81]:0.051949,('PV793826/CHN/AstroviridaeCranefe67/Leucogeranus-leucogeranus/Aves/2024':0.303856,('PV793827/CHN/AstroviridaeCranefe81/Leucogeranus-leucogeranus/Aves/2024':0.147324,'MW588064/GBR/NA/Cygnus-olor/NA/NA':0.142121)[&label=100]:0.175609)[&label=100]:0.119692)[&label=92]:0.101505,('PV093018/CHN/NA/Neogale-vison/Mammalia/2023':0.018063,'NC_002470/NA/provided-by-Dr.-Y.M.-Saif--Ohio-State-University/turkey/Aves/NA':0.01865)[&label=100]:0.625561)[&label=94]:0.069679,('PV793829/CHN/AstroviridaeGoosefe94/Anser-sp./Aves/2024':0.568641,'PQ893528/AUS/NSW-2021/Eolophus-roseicapilla/Aves/2021':0.552318)[&label=72]:0.127721)[&label=72]:0.087247,((((((((((('MT585643/GBR/VF14-92-A2/chiken/Aves/NA':0.021618,(('OM469232/LAO/ANV-PB7-HI6-Switzerland-2019/chiken/Aves/2019':0.011819,(('MW684833/LAO/Chicken-NLD-2019-V_M_053_astro_2/chiken/Aves/2019':0.002097,'MW684825/LAO/Chicken-NLD-2019-V_M_038_astro_6/chiken/Aves/2019':0.002105)[&label=100]:0.002101,'MW684818/LAO/Chicken-NLD-2019-V_M_015_astro_2/chiken/Aves/2019':0.00421)[&label=100]:0.005159)[&label=99]:0.002089,'MW684829/LAO/Chicken-NLD-2019-V_M_041_astro_13/chiken/Aves/2019':0.004241)[&label=100]:0.007365)[&label=98]:0.005918,(('PV093022/CHN/NA/Neogale-vison/Mammalia/2023':0.00401,((('ON964512/CHN/NA/chiken/Aves/2020':0.012869,'MW684819/LAO/Chicken-NLD-2019-V_M_030_astro_12/chiken/Aves/2019':0.012925)[&label=93]:0.006244,'MN732559/CHN/NA/chiken/Aves/2017':0.006424)[&label=79]:0.002653,'MW684826/LAO/Chicken-NLD-2019-V_M_039_astro_2/chiken/Aves/2019':0.007861)[&label=75]:0.002102)[&label=80]:0.004828,('OM469230/LAO/ANV-PB31-SI19-Switzerland-2019/chiken/Aves/2019':0.010572,('MW684822/LAO/Chicken-NLD-2019-V_M_036_astro_4/chiken/Aves/2019':0.010633,'MT585644/IRL/VF16-03-164b/chiken/Aves/2016':0.012722)[&label=100]:0.004218)[&label=90]:0.004174)[&label=72]:0.002845)[&label=78]:0.004418,('PP871786/VNM/astro_vt_68/chiken/Aves/2014':0.011353,('MN732558/CHN/NA/chiken/Aves/2018':0.017683,('HQ889774/CHN/NA/swine/Aves/2010':0.013796,'HM029238/CHN/NA/chiken/Aves/2009':0.012762)[&label=100]:0.005042)[&label=93]:0.006082)[&label=84]:0.002686)[&label=86]:0.004938,('PP871798/VNM/astro_vt_80/wild-boar/Mammalia/2015':0.015038,'MZ150559/CHN/ANV-Chicken-CHN-2020-AH202017/chiken/Aves/2020':0.014887)[&label=89]:0.006548)[&label=97]:0.005439,('OQ685945/TZA/ANV-ck-TZ-Iringa-2151-IM162-2019/chiken/Aves/2019':0.028573,'AB033998/NA/NA/chiken/NA/NA':0.033717)[&label=98]:0.008992)[&label=100]:0.055575,'PP871808/VNM/astro_vt_90/chiken/Aves/2015':0.082068)[&label=99]:0.043307,(((('PX237222/CHN/pigeon-FSU1/swine/Aves/2025':0.013308,'KT946724/HKG/D11-440-HK/swine/Aves/NA':0.041784)[&label=92]:0.012361,'PP478076/LAO/PL_pigeon_24-2023/swine/Aves/2023':0.021317)[&label=88]:0.003841,'PP478075/LAO/PL_pigeon_4a-2023/swine/Aves/2023':0.004335)[&label=99]:0.032325,(('MF768270/CHN/NA/swine/Aves/2014':2.0E-6,('KT946723/HKG/D11-336.2-HK/Spotted-dove/Aves/NA':0.006315,'KT946722/HKG/D11-116-HK/Spotted-dove/Aves/NA':0.00854)[&label=100]:0.004225)[&label=95]:0.004036,'KT946725/HKG/D10-5628-HK/Spotted-dove/Aves/NA':0.006555)[&label=100]:0.035333)[&label=100]:0.053959)[&label=100]:0.073725,'PQ893527/AUS/QLD-2021/Alisterus-scapularis/Aves/2021':0.193288)[&label=100]:0.07497,('MT993583/AUS/MW06_2o/turnstone/Aves/2014':0.064764,'MH453801/AUS/AstV-Red-necked-Avocet-MW09-Interior/cobbler/Aves/2013':0.056616)[&label=100]:0.08118)[&label=100]:0.257766,((('MT993596/AUS/MW10_1o/turnstone/Aves/2015':0.675611,('MT138002/NA/cra070ast1/NA/NA/2018':0.185064,('MT137996/NA/cfe153ast01/NA/NA/2018':0.23051,'MN920667/CHN/tom152ast2/Petroica-macrocephala/NA/2018':0.158519)[&label=90]:0.067118)[&label=87]:0.029078)[&label=73]:0.065821,'MH453800/AUS/AstV-Red-necked-Avocet-MW08-Interior/cobbler/Aves/2013':0.302943)[&label=70]:0.06928,((('MT138011/NA/prf038ast1/NA/NA/2018':1.0E-6,'MT138010/NA/prf037ast2/NA/NA/2018':1.0E-6)[&label=100]:0.122668,'MT138007/NA/ltr178ast1/NA/NA/2018':0.075129)[&label=88]:0.014879,'MT138005/NA/hwf041ast1/NA/NA/2018':0.099894)[&label=100]:0.137983)[&label=100]:0.263087)[&label=100]:0.190675,'OM480533/CHN/NA/Porcupine/Mammalia/2019':2.065047)[&label=58]:0.064362)[&label=82]:0.126952,('MT993595/AUS/MW09_1o/turnstone/Aves/2015':0.564323,((('MG661261/CHN/NA/Rhesus-monkey/NA/2015':0.028961,'MG599910/CHN/NA/toad/Amphibia/NA':0.033676)[&label=100]:0.522706,((('MG599918/CHN/NA/gecko/Lepidosauria/NA':0.212993,'PP711188/AUS/Hplan-A_304122/Heteronotia-planiceps/Lepidosauria/2017':0.352582)[&label=90]:0.040336,('MG599917/CHN/NA/ge__ko/Lepidosauria/NA':0.203342,'MZ375139/CHN/3PE-RDRP-2/Phrynocephalus-erythrurus/Lepidosauria/2020':0.217394)[&label=100]:0.057997)[&label=100]:0.346407,'PP352010/CHN/Hunan-CHN-2022/Pelophylax-nigromaculatus/Amphibia/2022':0.797357)[&label=92]:0.099881)[&label=100]:0.233087,'PP623814/CHN/MP22-196/Mareca-falcata/Aves/2022':1.413245)[&label=79]:0.132315)[&label=67]:0.076523)[&label=72]:0.022603,('MT138009/NA/prf037ast1nc/NA/NA/2018':0.268235,'MW826483/CHN/YSN01/Montifringilla-taczanowskii/Aves/2019':0.385417)[&label=100]:0.329905)[&label=97]:0.093546)[&label=95]:0.05261,'MT137994/NA/bsk136ast01/NA/NA/2018':0.521821)[&label=68]:0.015607)[&label=99]:0.064551,'MT137991/NA/bbr144ast1/Prunella-montanella/NA/2018':0.274085)[&label=76]:0.031618)[&label=79]:0.07387,'MN920670/CHN/ybw202ast01/NA/NA/2018':0.275714)[&label=100]:0.279204)[&label=78]:0.039779,('MN920668/CHN/war204ast1/NA/NA/2018':0.133871,'MN920663/CHN/spa143ast1/NA/NA/2018':0.069921)[&label=99]:0.050601)[&label=57]:0.021758,'MW826371/CHN/XZN01/bird/Aves/2018':0.104528)[&label=100]:0.059404,'MN920669/CHN/ybb150ast01/NA/NA/2018':0.030428)[&label=100]:0.047851,('MT137992/NA/bfb201ast01/NA/NA/2018':0.005309,'MN920671/CHN/ytb089ast01/NA/NA/2018':0.010896)[&label=100]:0.005301);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
