@@ -118,7 +118,7 @@ begin taxa;
 	'PP352010/CHN/Hunan-CHN-2022/Pelophylax-nigromaculatus/Amphibia/2022'[&!color=#009999]
 	'PP478075/LAO/PL_pigeon_4a-2023/swine/Aves/2023'
 	'PP478076/LAO/PL_pigeon_24-2023/swine/Aves/2023'[&!color=#009900]
-	'PP623814/CHN/MP22-196/Mareca-falcata/Aves/2022'[&!color=#009999]
+	'PP623814/CHN/MP22-196/Mareca-falcata/Aves/2022'[&!color=#9966ff]
 	'PP711188/AUS/Hplan-A_304122/Heteronotia-planiceps/Lepidosauria/2017'[&!color=#009999]
 	'PP763758/CHN/AAstV-Goose-CHN-2023-C102/goose/Aves/2023'[&!color=#009900]
 	'PP871786/VNM/astro_vt_68/chiken/Aves/2014'
@@ -155,16 +155,16 @@ begin figtree;
 	set appearance.hilightingGradient=false;
 	set appearance.selectionColour=#2d3680;
 	set branchLabels.colorAttribute="User selection";
-	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.displayAttribute="label";
 	set branchLabels.fontName="sansserif";
 	set branchLabels.fontSize=8;
 	set branchLabels.fontStyle=0;
-	set branchLabels.isShown=false;
+	set branchLabels.isShown=true;
 	set branchLabels.significantDigits=4;
 	set layout.expansion=0;
 	set layout.layoutType="RECTILINEAR";
 	set layout.zoom=0;
-	set legend.attribute=null;
+	set legend.attribute="label";
 	set legend.fontSize=10.0;
 	set legend.isShown=false;
 	set legend.significantDigits=4;
@@ -178,20 +178,20 @@ begin figtree;
 	set nodeLabels.fontStyle=0;
 	set nodeLabels.isShown=false;
 	set nodeLabels.significantDigits=4;
-	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.colourAttribute="User selection";
 	set nodeShapeExternal.isShown=false;
 	set nodeShapeExternal.minSize=10.0;
 	set nodeShapeExternal.scaleType=Width;
 	set nodeShapeExternal.shapeType=Circle;
 	set nodeShapeExternal.size=4.0;
-	set nodeShapeExternal.sizeAttribute=null;
-	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
 	set nodeShapeInternal.isShown=false;
 	set nodeShapeInternal.minSize=10.0;
 	set nodeShapeInternal.scaleType=Width;
 	set nodeShapeInternal.shapeType=Circle;
 	set nodeShapeInternal.size=4.0;
-	set nodeShapeInternal.sizeAttribute=null;
+	set nodeShapeInternal.sizeAttribute="Fixed";
 	set polarLayout.alignTipLabels=false;
 	set polarLayout.angularRange=0;
 	set polarLayout.rootAngle=0;
@@ -218,7 +218,7 @@ begin figtree;
 	set scaleBar.fontSize=10.0;
 	set scaleBar.isShown=true;
 	set scaleBar.lineWidth=1.0;
-	set scaleBar.scaleRange=0.0;
+	set scaleBar.scaleRange=0.8;
 	set tipLabels.colorAttribute="User selection";
 	set tipLabels.displayAttribute="Names";
 	set tipLabels.fontName="sansserif";

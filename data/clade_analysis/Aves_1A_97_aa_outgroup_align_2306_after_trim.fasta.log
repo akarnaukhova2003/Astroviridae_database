@@ -1,0 +1,12 @@
+IQ-TREE version 3.0.1 for MacOS ARM 64-bit built Jul  9 2025
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    MacBook-Air-Bagavetdinova.local (SSE4.2, 16 GB RAM)
+Command: iqtree -s Aves_1A_97_aa_outgroup_align_2306_after_trim.fasta -st AA -m Q.PFAM+F+R7 -bb 1000 -nt AUTO
+Seed:    556637 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sun Jun 28 23:38:24 2026
+Kernel:  SSE2 - auto-detect threads (10 CPU cores detected)
+
+Reading alignment file Aves_1A_97_aa_outgroup_align_2306_after_trim.fasta ... ERROR: File not found Aves_1A_97_aa_outgroup_align_2306_after_trim.fasta
