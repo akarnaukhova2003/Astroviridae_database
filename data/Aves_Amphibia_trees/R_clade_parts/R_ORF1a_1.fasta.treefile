@@ -1,0 +1,125 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=23;
+	taxlabels
+	'KT946718/NA/D11-139-HK/house-crow/NA'[&!color=#cc0066]
+	'KT946719/NA/D11-467-HK/house-crow/NA'[&!color=#cc0066]
+	'KT946720/NA/D11-515-HK/house-crow/NA'[&!color=#cc0066]
+	'MK096773/NA/PasAstV-1/Passeriformes/NA'[&!color=#000000]
+	'MK096774/NA/PasAstV-2/Passeriformes/2016'[&!color=#0033cc]
+	'MK096775/NA/PasAstV-3/Passeriformes/2016'[&!color=#000000]
+	'MN920663/NA/spa143ast1/NA/2018'[&!color=#009999]
+	'MN920668/NA/war204ast1/NA/2018'[&!color=#000000]
+	'MN920669/NA/ybb150ast01/NA/2018'[&!color=#000000]
+	'MN920670/NA/ybw202ast01/NA/2018'[&!color=#000000]
+	'MN920671/NA/ytb089ast01/NA/2018'[&!color=#009999]
+	'MN920672/NA/ytb090ast01/NA/2018'[&!color=#009999]
+	'MT137991/NA/bbr144ast1/NA/2018'[&!color=#000000]
+	'MT137992/NA/bfb201ast01/NA/2018'[&!color=#009999]
+	'MT137994/NA/bsk136ast01/NA/2018'[&!color=#000000]
+	'MW385412/NA/NA/Crow/2017'[&!color=#cc0066]
+	'MW826371/NA/XZN01/bird/2018'[&!color=#000000]
+	'MW826482/NA/YSN02/bird/2019'[&!color=#000000]
+	'OQ986606/NA/GEIG/NA/2021'[&!color=#0033cc]
+	'OQ986607/NA/GEIG/NA/2021'[&!color=#000000]
+	'OQ986608/NA/RHFU/NA/2021'[&!color=#000000]
+	'OQ986609/NA/RHFU/NA/2021/reverse'[&!color=#0033cc]
+	'OQ986679/NA/GEIG/NA/2021'[&!color=#000000]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('OQ986679/NA/GEIG/NA/2021':1.472599,(((((('OQ986609/NA/RHFU/NA/2021/reverse'[&!color=#0033cc]:0.611631,'OQ986606/NA/GEIG/NA/2021'[&!color=#0033cc]:0.847331)[&label=86,!color=#0033cc]:0.112295,'MK096774/NA/PasAstV-2/Passeriformes/2016'[&!color=#0033cc]:0.628323)[&label=98,!color=#0033cc]:0.293615,'MK096775/NA/PasAstV-3/Passeriformes/2016':1.202292)[&label=100]:0.427692,(((('MW826482/NA/YSN02/bird/2019':0.660591,'MN920668/NA/war204ast1/NA/2018':0.807162)[&label=100]:0.307683,('MW826371/NA/XZN01/bird/2018':0.415215,(((('MT137992/NA/bfb201ast01/NA/2018':0.07549,'MN920669/NA/ybb150ast01/NA/2018':0.066536)[&label=66]:0.019987,'MN920672/NA/ytb090ast01/NA/2018':0.043485)[&label=93]:0.044642,'MN920671/NA/ytb089ast01/NA/2018':0.041291)[&label=100]:0.447286,'MN920663/NA/spa143ast1/NA/2018':0.352236)[&label=79]:0.104974)[&label=100]:0.326661)[&label=100]:0.40592,(('MT137991/NA/bbr144ast1/NA/2018':0.928728,'MK096773/NA/PasAstV-1/Passeriformes/NA':1.236694)[&label=85]:0.189935,'MN920670/NA/ybw202ast01/NA/2018':1.196022)[&label=86]:0.162041)[&label=61]:0.099129,('MW385412/NA/NA/Crow/2017':0.680252,(('KT946720/NA/D11-515-HK/house-crow/NA'[&!color=#990066]:7.91E-4,'KT946718/NA/D11-139-HK/house-crow/NA'[&!color=#990066]:6.21E-4)[&label=100,!color=#990066]:0.099547,'KT946719/NA/D11-467-HK/house-crow/NA'[&!color=#990066]:0.152544)[&label=100,!color=#990066]:0.797346)[&label=100]:1.049)[&label=70]:0.077008)[&label=90]:0.219578,'MT137994/NA/bsk136ast01/NA/2018':1.790267)[&label=87]:0.147221,'OQ986607/NA/GEIG/NA/2021':1.435272)[&label=83]:0.274615,'OQ986608/NA/RHFU/NA/2021':1.034552);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName=".AppleSystemUIFont";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName=".AppleSystemUIFont";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName=".AppleSystemUIFont";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="Midpoint";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

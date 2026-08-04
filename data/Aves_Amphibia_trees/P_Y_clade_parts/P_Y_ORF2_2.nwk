@@ -1,0 +1,145 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=43;
+	taxlabels
+	'AB033998/NA/NA/NA/NA'[&!color=#000000]
+	'HM029238/NA/NA/chicken/2009'[&!color=#00ffff]
+	'HQ889774/NA/NA/pigeon/2010'[&!color=#00ffff]
+	'KT946722/NA/D11-116-HK/spotted-dove/NA'[&!color=#000000]
+	'KT946723/NA/D11-336-2-HK/spotted-dove/NA'[&!color=#000000]
+	'KT946724/NA/D11-440-HK/feral-pigeon/NA'[&!color=#000000]
+	'KT946725/NA/D10-5628-HK/spotted-dove/NA'[&!color=#000000]
+	'MF768270/NA/NA/pigeon/2014'
+	'MH453800/NA/AstV-Red-necked-Avocet-MW08-Interior/Red-necked-Avocet/2013'[&!color=#000000]
+	'MH453801/NA/AstV-Red-necked-Avocet-MW09-Interior/Red-necked-Avocet/2013'[&!color=#000000]
+	'MN732558/NA/NA/Gallus-gallus-_broiler_/2018'[&!color=#000000]
+	'MN732559/NA/NA/Gallus-gallus-_broiler_/2017'[&!color=#000000]
+	'MN920667/NA/tom152ast2/NA/2018'[&!color=#000000]
+	'MT137996/NA/cfe153ast01/NA/2018'[&!color=#000000]
+	'MT138002/NA/cra070ast1/NA/2018'[&!color=#000000]
+	'MT138005/NA/hwf041ast1/NA/2018'[&!color=#990099]
+	'MT138007/NA/ltr178ast1/NA/2018'[&!color=#990099]
+	'MT138010/NA/prf037ast2/NA/2018'[&!color=#990099]
+	'MT138011/NA/prf038ast1/NA/2018'[&!color=#990099]
+	'MT585643/NA/VF14-92-A2/Gallus-gallus-broiler-chicken/NA'[&!color=#000000]
+	'MT585644/NA/VF16-03-164b/Gallus-gallus-broiler-chicken/2016'[&!color=#000000]
+	'MT993583/NA/MW06-2o/Arenaria-interpres-_ruddy-turnstone_/2014'[&!color=#000000]
+	'MT993596/NA/MW10-1o/Arenaria-interpres-_ruddy-turnstone_/2015'
+	'MW684818/NA/Chicken-NLD-2019-V-M-015-astro-2/Gallus-gallus-domesticus-_broiler_/2019'[&!color=#000000]
+	'MW684819/NA/Chicken-NLD-2019-V-M-030-astro-12/Gallus-gallus-domesticus-_broiler_/2019'[&!color=#000000]
+	'MW684822/NA/Chicken-NLD-2019-V-M-036-astro-4/Gallus-gallus-domesticus-_broiler_/2019'[&!color=#000000]
+	'MW684825/NA/Chicken-NLD-2019-V-M-038-astro-6/Gallus-gallus-domesticus-_broiler_/2019'[&!color=#000000]
+	'MW684826/NA/Chicken-NLD-2019-V-M-039-astro-2/Gallus-gallus-domesticus-_broiler_/2019'[&!color=#000000]
+	'MW684829/NA/Chicken-NLD-2019-V-M-041-astro-13/Gallus-gallus-domesticus-_broiler_/2019'[&!color=#000000]
+	'MW684833/NA/Chicken-NLD-2019-V-M-053-astro-2/Gallus-gallus-domesticus-_broiler_/2019'[&!color=#000000]
+	'MZ150559/NA/ANV-Chicken-CHN-2020-AH202017/chicken/2020'[&!color=#000000]
+	'OM469230/NA/ANV-PB31-SI19-Switzerland-2019/Gallus-gallus-domesticus-_broiler_/2019'[&!color=#000000]
+	'OM469232/NA/ANV-PB7-HI6-Switzerland-2019/Gallus-gallus-domesticus-_broiler_/2019'[&!color=#000000]
+	'ON964512/NA/NA/Gallus-gallus/2020'[&!color=#000000]
+	'OQ685945/NA/ANV-ck-TZ-Iringa-2151-IM162-2019/Gallus-gallus/2019'[&!color=#000000]
+	'PP478075/NA/PL-pigeon-4a-2023/carrier-pigeon/2023'[&!color=#000000]
+	'PP478076/NA/PL-pigeon-24-2023/carrier-pigeon/2023'[&!color=#000000]
+	'PP871786/NA/astro-vt-68/Gallus-gallus/2014'[&!color=#000000]
+	'PP871798/NA/astro-vt-80/Sus-scrofa-_wild-boar_/2015'[&!color=#000000]
+	'PP871808/NA/astro-vt-90/Gallus-gallus/2015'[&!color=#000000]
+	'PQ893527/NA/QLD-2021/Alisterus-scapularis/2021'
+	'PV093022/NA/NA/Neogale-vison/2023'[&!color=#000000]
+	'PX237222/NA/pigeon-FSU1/pigeon/2025'[&!color=#000000]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('PX237222/NA/pigeon-FSU1/pigeon/2025':0.076362,((((((((((('PP871808/NA/astro-vt-90/Gallus-gallus/2015':0.287402,'MN732558/NA/NA/Gallus-gallus-_broiler_/2018':0.365663)[&label=25]:0.039564,(((('OM469232/NA/ANV-PB7-HI6-Switzerland-2019/Gallus-gallus-domesticus-_broiler_/2019':0.010636,'MT585643/NA/VF14-92-A2/Gallus-gallus-broiler-chicken/NA':0.022616)[&label=100]:0.105855,(('OM469230/NA/ANV-PB31-SI19-Switzerland-2019/Gallus-gallus-domesticus-_broiler_/2019':0.008395,'MT585644/NA/VF16-03-164b/Gallus-gallus-broiler-chicken/2016':0.021985)[&label=97]:0.006183,'MW684829/NA/Chicken-NLD-2019-V-M-041-astro-13/Gallus-gallus-domesticus-_broiler_/2019':0.002551)[&label=100]:0.036232)[&label=98]:0.056516,'MW684819/NA/Chicken-NLD-2019-V-M-030-astro-12/Gallus-gallus-domesticus-_broiler_/2019':0.062395)[&label=99]:0.073364,'MZ150559/NA/ANV-Chicken-CHN-2020-AH202017/chicken/2020':0.160746)[&label=100]:0.11415)[&label=41]:0.085012,('PP871798/NA/astro-vt-80/Sus-scrofa-_wild-boar_/2015':0.182006,'AB033998/NA/NA/NA/NA':0.115603)[&label=100]:0.156524)[&label=56]:0.116031,('HQ889774/NA/NA/pigeon/2010':0.04744,'HM029238/NA/NA/chicken/2009':0.045757)[&label=100]:0.562882)[&label=86]:0.170211,((('PP871786/NA/astro-vt-68/Gallus-gallus/2014':0.123762,'ON964512/NA/NA/Gallus-gallus/2020':0.103809)[&label=99]:0.243797,(('PV093022/NA/NA/Neogale-vison/2023':0.092633,(('MW684833/NA/Chicken-NLD-2019-V-M-053-astro-2/Gallus-gallus-domesticus-_broiler_/2019':0.001681,'MW684818/NA/Chicken-NLD-2019-V-M-015-astro-2/Gallus-gallus-domesticus-_broiler_/2019':0.003993)[&label=100]:0.11704,'MW684826/NA/Chicken-NLD-2019-V-M-039-astro-2/Gallus-gallus-domesticus-_broiler_/2019':0.061046)[&label=99]:0.065097)[&label=100]:0.131872,'OQ685945/NA/ANV-ck-TZ-Iringa-2151-IM162-2019/Gallus-gallus/2019':0.269873)[&label=91]:0.097072)[&label=89]:0.149198,(('MW684825/NA/Chicken-NLD-2019-V-M-038-astro-6/Gallus-gallus-domesticus-_broiler_/2019':0.019417,'MW684822/NA/Chicken-NLD-2019-V-M-036-astro-4/Gallus-gallus-domesticus-_broiler_/2019':0.021601)[&label=87]:0.03566,'MN732559/NA/NA/Gallus-gallus-_broiler_/2017':0.110942)[&label=89]:0.376171)[&label=69]:0.186852)[&label=47]:0.168269,'MT993583/NA/MW06-2o/Arenaria-interpres-_ruddy-turnstone_/2014':0.530322)[&label=45]:0.209013,(((('PQ893527/NA/QLD-2021/Alisterus-scapularis/2021':1.125707,('PP478075/NA/PL-pigeon-4a-2023/carrier-pigeon/2023':0.440878,'MF768270/NA/NA/pigeon/2014':0.555686)[&label=91]:0.134322)[&label=100]:0.860097,'MH453800/NA/AstV-Red-necked-Avocet-MW08-Interior/Red-necked-Avocet/2013':1.620447)[&label=77]:0.071867,((('MT138011/NA/prf038ast1/NA/2018':1.0E-6,'MT138010/NA/prf037ast2/NA/2018':1.0E-6)[&label=100]:0.893796,('MT138007/NA/ltr178ast1/NA/2018':0.372589,'MT138005/NA/hwf041ast1/NA/2018':0.303417)[&label=100]:0.56045)[&label=99]:0.629491,(('MT138002/NA/cra070ast1/NA/2018':0.789054,'MN920667/NA/tom152ast2/NA/2018':1.097842)[&label=99]:0.559333,'MT137996/NA/cfe153ast01/NA/2018':1.641072)[&label=88]:0.318399)[&label=89]:0.443419)[&label=90]:0.52929,'MT993596/NA/MW10-1o/Arenaria-interpres-_ruddy-turnstone_/2015':4.431144)[&label=70]:0.523535)[&label=34]:0.080918,'MH453801/NA/AstV-Red-necked-Avocet-MW09-Interior/Red-necked-Avocet/2013':6.143842)[&label=81]:3.0E-6,('KT946723/NA/D11-336-2-HK/spotted-dove/NA':0.089374,'KT946722/NA/D11-116-HK/spotted-dove/NA':0.071569)[&label=100]:0.223025)[&label=91]:0.109863,'PP478076/NA/PL-pigeon-24-2023/carrier-pigeon/2023':0.143054)[&label=97]:0.177699,'KT946724/NA/D11-440-HK/feral-pigeon/NA':0.399385)[&label=97]:0.112875,'KT946725/NA/D10-5628-HK/spotted-dove/NA':0.056412);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName=".AppleSystemUIFont";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName=".AppleSystemUIFont";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName=".AppleSystemUIFont";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="Midpoint";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
