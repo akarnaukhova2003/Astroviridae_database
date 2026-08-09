@@ -1,0 +1,157 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=55;
+	taxlabels
+	'EU143843/NA/NA/NA/NA'[&!color=#009999]
+	'EU143844/NA/NA/NA/NA'[&!color=#009999]
+	'EU143846/NA/NA/NA/NA'[&!color=#009999]
+	'EU143847/NA/NA/NA/NA'[&!color=#009999]
+	'EU143848/NA/NA/NA/NA'[&!color=#009999]
+	'EU143849/NA/NA/NA/NA'[&!color=#009999]
+	'EU143850/NA/NA/NA/NA'[&!color=#009999]
+	'EU143851/NA/NA/NA/NA'[&!color=#009999]
+	'FJ434664/NA/NA/duck/2008'[&!color=#cc0099]
+	'FJ919227/NA/NA/duck/NA'[&!color=#cc0099]
+	'FJ919228/NA/NA/duck/NA'[&!color=#cc0099]
+	'JF414802/NA/GA2011/chicken/2007'[&!color=#000000]
+	'JF832365/NA/4175/Gallus-gallus/2006'[&!color=#000000]
+	'JX624774/NA/NA/Pekin-duck/NA'[&!color=#3399ff]
+	'KF753806/NA/NA/NA/2012'
+	'KJ020899/NA/NA/duck/2013'[&!color=#9999ff]
+	'KT886453/NA/CAstV-Poland-G059-2014/Gallus-gallus/2014'[&!color=#000000]
+	'KX397575/NA/CC-CkAstV/chicken/NA'[&!color=#000000]
+	'KY038163/NA/CAstV-INDIA-ANAND-2016/chicken/2016'[&!color=#000000]
+	'MN725025/NA/NA/chicken/2018'[&!color=#ffcccc]
+	'MT491732/NA/IBS543-2017/Gallus-gallus/2017'[&!color=#000000]
+	'MT789780/NA/CAstV-CA-AB-Chicken-15-1262c-15/chicken/2015'[&!color=#000000]
+	'MT789782/NA/CAstV-CA-AB-Chicken-17-0773a-17/chicken/2017'[&!color=#000000]
+	'MT789787/NA/CAstV-CA-SK-Chicken-19-0981-19/chicken/2019'[&!color=#000000]
+	'MW353015/NA/TZ03/goose/2019'[&!color=#0000ff]
+	'MW588062/NA/NA/NA/NA'
+	'MW588063/NA/NA/NA/NA'
+	'MW588064/NA/NA/NA/NA'[&!color=#ccff00]
+	'MW684817/NA/Environment-NLD-2019-VE-7-astro-14/Gallus-gallus-domesticus-_broiler_/2019'[&!color=#00ffff]
+	'MW684830/NA/Chicken-NLD-2019-V-M-046-astro-12/Gallus-gallus-domesticus-_broiler_/2019'[&!color=#00ffff]
+	'MW846319/NA/CAstV-Chicken-CHN-2020-GD202013/chicken/2020'[&!color=#000000]
+	'MZ819185/NA/ZJC14/goose/2020'[&!color=#0000ff]
+	'NC_002470/NA/NA/turkey/NA'[&!color=#66ff66]
+	'NC_005790/NA/NA/NA/NA'[&!color=#009999]
+	'NC_034567/NA/FLX/Hortobagy-goose/2014'[&!color=#0000ff]
+	'OP484924/NA/NA/goose/2018'
+	'OQ685946/NA/CAstV-ck-TZ-Iringa-2151-IM162-2019/Gallus-gallus/2019'[&!color=#000000]
+	'OR134528/NA/NA/Muscovy-duck/2022'[&!color=#cc0099]
+	'OR286522/NA/SDAU2022-1/chicken/2022'[&!color=#000000]
+	'OR351273/NA/JS202103/Gallus-gallus/2021'[&!color=#000000]
+	'OR902759/NA/NA/goose/2023'[&!color=#3399ff]
+	'OR907125/NA/NA/Duck/2023'[&!color=#9999ff]
+	'OR907134/NA/NA/Goose/2022'[&!color=#0000ff]
+	'OR924090/NA/NA/Goose/2021'[&!color=#3399ff]
+	'OR924091/NA/NA/Goose/2021'[&!color=#3399ff]
+	'OR924092/NA/NA/Duck/2021'[&!color=#3399ff]
+	'PP763758/NA/AAstV-Goose-CHN-2023-C102/goose/2023'[&!color=#0000ff]
+	'PP871804/NA/astro-vt-86/Canis-lupus-familiaris/2014'[&!color=#000000]
+	'PP871812/NA/astro-vt-94/Canis-lupus-familiaris/2014'[&!color=#000000]
+	'PV093018/NA/NA/Neogale-vison/2023'[&!color=#66ff66]
+	'PV093029/NA/NA/Neogale-vison/2023'[&!color=#ffcccc]
+	'PV793826/NA/AstroviridaeCranefe67/Leucogeranus-leucogeranus/2024'[&!color=#ccff00]
+	'PV793827/NA/AstroviridaeCranefe81/Leucogeranus-leucogeranus/2024'[&!color=#ccff00]
+	'PV793828/NA/AstroviridaeGoosefe87/Anser-sp-/2024'[&!color=#3399ff]
+	'PV793829/NA/AstroviridaeGoosefe94/Anser-sp-/2024'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('PV793827/NA/AstroviridaeCranefe81/Leucogeranus-leucogeranus/2024':0.237154,(((((('PV793829/NA/AstroviridaeGoosefe94/Anser-sp-/2024':1.416655,((((((('PV093029/NA/NA/Neogale-vison/2023':0.032422,'MN725025/NA/NA/chicken/2018':0.02257)[&label=100]:0.091288,'KY038163/NA/CAstV-INDIA-ANAND-2016/chicken/2016':0.058582)[&label=100]:0.045732,'OR351273/NA/JS202103/Gallus-gallus/2021':2.0E-6)[&label=100]:0.064495,(('OR286522/NA/SDAU2022-1/chicken/2022':0.025574,('MW684830/NA/Chicken-NLD-2019-V-M-046-astro-12/Gallus-gallus-domesticus-_broiler_/2019':0.024321,'MW684817/NA/Environment-NLD-2019-VE-7-astro-14/Gallus-gallus-domesticus-_broiler_/2019':0.021208)[&label=99]:0.021669)[&label=100]:0.156273,((('MT789787/NA/CAstV-CA-SK-Chicken-19-0981-19/chicken/2019':0.009806,'MT789782/NA/CAstV-CA-AB-Chicken-17-0773a-17/chicken/2017':0.012685)[&label=100]:0.019878,'KX397575/NA/CC-CkAstV/chicken/NA':0.005647)[&label=99]:0.020675,'MT789780/NA/CAstV-CA-AB-Chicken-15-1262c-15/chicken/2015':0.035882)[&label=100]:0.067925)[&label=59]:0.044887)[&label=100]:0.106881,'MT491732/NA/IBS543-2017/Gallus-gallus/2017':0.113695)[&label=94]:0.091745,('MW846319/NA/CAstV-Chicken-CHN-2020-GD202013/chicken/2020':0.084637,('JF414802/NA/GA2011/chicken/2007':0.0152,'JF832365/NA/4175/Gallus-gallus/2006':0.0564)[&label=100]:0.075624)[&label=100]:0.134843)[&label=100]:0.337391,('OR907125/NA/NA/Duck/2023':0.029583,'KJ020899/NA/NA/duck/2013':0.028333)[&label=100]:0.562331)[&label=100]:0.388236)[&label=92]:0.131946,('PV793828/NA/AstroviridaeGoosefe87/Anser-sp-/2024':0.241471,((('OR924092/NA/NA/Duck/2021':0.015788,('OR924091/NA/NA/Goose/2021':0.022235,'OR902759/NA/NA/goose/2023':0.017413)[&label=90]:0.008968)[&label=95]:0.008036,'JX624774/NA/NA/Pekin-duck/NA':0.028599)[&label=98]:0.039237,'OR924090/NA/NA/Goose/2021':0.041852)[&label=100]:0.175568)[&label=100]:1.100807)[&label=100]:0.415644,((((('OR134528/NA/NA/Muscovy-duck/2022':0.015622,'FJ919227/NA/NA/duck/NA':0.009984)[&label=99]:0.058232,'FJ919228/NA/NA/duck/NA':0.040374)[&label=73]:0.020978,'FJ434664/NA/NA/duck/2008':0.023839)[&label=100]:0.352248,(((((('NC_005790/NA/NA/NA/NA':0.015264,('EU143849/NA/NA/NA/NA':0.013613,'EU143846/NA/NA/NA/NA':0.014236)[&label=88]:0.011127)[&label=79]:0.002961,'EU143844/NA/NA/NA/NA':0.009674)[&label=81]:0.009541,('EU143848/NA/NA/NA/NA':0.014398,'EU143843/NA/NA/NA/NA':0.05545)[&label=100]:0.033703)[&label=87]:0.037291,'EU143850/NA/NA/NA/NA':0.081165)[&label=70]:0.054884,'EU143851/NA/NA/NA/NA':0.055735)[&label=94]:0.0873,'EU143847/NA/NA/NA/NA':0.131894)[&label=100]:0.328634)[&label=100]:0.310322,'OP484924/NA/NA/goose/2018':0.631812)[&label=100]:0.859032)[&label=99]:0.208134,(((((('PP871812/NA/astro-vt-94/Canis-lupus-familiaris/2014':0.113867,'KT886453/NA/CAstV-Poland-G059-2014/Gallus-gallus/2014':0.139509)[&label=100]:0.186183,'PP871804/NA/astro-vt-86/Canis-lupus-familiaris/2014':0.310651)[&label=83]:0.078741,'OQ685946/NA/CAstV-ck-TZ-Iringa-2151-IM162-2019/Gallus-gallus/2019':0.267393)[&label=98]:0.13221,'MW588063/NA/NA/NA/NA':0.189938)[&label=100]:0.793435,((((('PP763758/NA/AAstV-Goose-CHN-2023-C102/goose/2023':0.020762,'NC_034567/NA/FLX/Hortobagy-goose/2014':0.005634)[&label=99]:0.023262,'MW353015/NA/TZ03/goose/2019':0.017581)[&label=100]:0.179485,'OR907134/NA/NA/Goose/2022':0.294438)[&label=87]:0.062426,'MZ819185/NA/ZJC14/goose/2020':0.267964)[&label=100]:0.50858,'KF753806/NA/NA/NA/2012':1.015122)[&label=99]:0.253739)[&label=88]:0.165708,('PV093018/NA/NA/Neogale-vison/2023':0.289476,'NC_002470/NA/NA/turkey/NA':0.183981)[&label=100]:1.006138)[&label=62]:0.066497)[&label=95]:0.421398,'MW588062/NA/NA/NA/NA':0.621288)[&label=82]:0.19393,'MW588064/NA/NA/NA/NA':0.885247)[&label=90]:0.526936,'PV793826/NA/AstroviridaeCranefe67/Leucogeranus-leucogeranus/2024':0.874815);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName=".AppleSystemUIFont";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName=".AppleSystemUIFont";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName=".AppleSystemUIFont";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="Midpoint";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
