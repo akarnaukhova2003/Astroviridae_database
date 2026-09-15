@@ -1,0 +1,126 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=24;
+	taxlabels
+	'KT946718/NA/D11-139-HK/house-crow/NA'[&!color=#ff3333]
+	'KT946719/NA/D11-467-HK/house-crow/NA'[&!color=#ff3333]
+	'KT946720/NA/D11-515-HK/house-crow/NA'[&!color=#ff3333]
+	'MG599918/NA/NA/Hemidactylus-bowringii/NA'
+	'MK096773/NA/PasAstV-1/Passeriformes/NA'[&!color=#0000ff]
+	'MK096774/NA/PasAstV-2/Passeriformes/2016'[&!color=#00ffff]
+	'MK096775/NA/PasAstV-3/Passeriformes/2016'[&!color=#00ffff]
+	'MN920663/NA/spa143ast1/NA/2018'[&!color=#0000ff]
+	'MN920668/NA/war204ast1/NA/2018'[&!color=#0000ff]
+	'MN920669/NA/ybb150ast01/NA/2018'[&!color=#0000ff]
+	'MN920670/NA/ybw202ast01/NA/2018'[&!color=#0000ff]
+	'MN920671/NA/ytb089ast01/NA/2018'[&!color=#0000ff]
+	'MN920672/NA/ytb090ast01/NA/2018'[&!color=#0000ff]
+	'MT137991/NA/bbr144ast1/NA/2018'[&!color=#0000ff]
+	'MT137992/NA/bfb201ast01/NA/2018'[&!color=#0000ff]
+	'MT137994/NA/bsk136ast01/NA/2018'
+	'MW385412/NA/NA/Crow/2017'[&!color=#ff3333]
+	'MW826371/NA/XZN01/bird/2018'[&!color=#0000ff]
+	'MW826482/NA/YSN02/bird/2019'[&!color=#0000ff]
+	'OQ986606/NA/GEIG/NA/2021'[&!color=#00ffff]
+	'OQ986607/NA/GEIG/NA/2021'[&!color=#00cc66]
+	'OQ986608/NA/RHFU/NA/2021'[&!color=#00cc66]
+	'OQ986609/NA/RHFU/NA/2021/reverse'[&!color=#00ffff]
+	'OQ986679/NA/GEIG/NA/2021'[&!color=#00cc66]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('OQ986679/NA/GEIG/NA/2021':1.529988,(((((('OQ986609/NA/RHFU/NA/2021/reverse':0.638727,'OQ986606/NA/GEIG/NA/2021':0.838629)[&label=85]:0.079303,'MK096774/NA/PasAstV-2/Passeriformes/2016':0.654377)[&label=90]:0.227307,'MK096775/NA/PasAstV-3/Passeriformes/2016':1.320472)[&label=100]:0.523837,((('MW826482/NA/YSN02/bird/2019':0.674796,'MN920668/NA/war204ast1/NA/2018':0.82979)[&label=100]:0.326523,('MW826371/NA/XZN01/bird/2018':0.433764,(((('MT137992/NA/bfb201ast01/NA/2018':0.07436,'MN920669/NA/ybb150ast01/NA/2018':0.064955)[&label=77]:0.020503,'MN920672/NA/ytb090ast01/NA/2018':0.044192)[&label=96]:0.053226,'MN920671/NA/ytb089ast01/NA/2018':0.031975)[&label=100]:0.438276,'MN920663/NA/spa143ast1/NA/2018':0.37376)[&label=79]:0.120745)[&label=100]:0.33128)[&label=100]:0.45207,(('MT137991/NA/bbr144ast1/NA/2018':0.941189,'MK096773/NA/PasAstV-1/Passeriformes/NA':1.271141)[&label=92]:0.210873,'MN920670/NA/ybw202ast01/NA/2018':1.212807)[&label=85]:0.153011)[&label=40]:0.11397)[&label=34]:0.095588,(('MW385412/NA/NA/Crow/2017':0.70617,(('KT946720/NA/D11-515-HK/house-crow/NA':8.36E-4,'KT946718/NA/D11-139-HK/house-crow/NA':6.14E-4)[&label=100]:0.113807,'KT946719/NA/D11-467-HK/house-crow/NA':0.145753)[&label=100]:0.798394)[&label=100]:0.995796,('MT137994/NA/bsk136ast01/NA/2018':1.37596,'MG599918/NA/NA/Hemidactylus-bowringii/NA':2.836621)[&label=67]:0.481043)[&label=42]:0.121115)[&label=95]:0.394236,'OQ986608/NA/RHFU/NA/2021':1.174054)[&label=89]:0.234297,'OQ986607/NA/GEIG/NA/2021':1.294968);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName=".AppleSystemUIFont";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName=".AppleSystemUIFont";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName=".AppleSystemUIFont";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

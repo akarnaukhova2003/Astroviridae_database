@@ -1,0 +1,247 @@
+Assuming unrestricted shared filesystem usage.
+
+SNAKEMAKE
+=========
+  Date: 2026-08-16 22:33:13
+  Workflow ID: 3ec21048-a1e4-4870-b0aa-ca18ce90b2b9
+  Platform: macOS-15.7.3-arm64-arm-64bit-Mach-O
+  Host: MacBook-Air-Bagavetdinova.local
+  User: abagavetdinova
+  Snakemake version: 9.25.1
+  Python version: 3.14.6 | packaged by conda-forge | (main, Aug 11 2026, 10:24:52) [Clang 20.1.8 ]
+  Command: /Users/abagavetdinova/miniforge3/envs/snakemake/bin/snakemake --cores 4
+  Snakefile: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile
+  Base directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Run directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Working directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Config file(s): ['config.yaml']
+  Config MD5: 9f08a03b07980bb8df4514c75a22678a
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job stats:
+job                count
+---------------  -------
+iqtree                12
+split_alignment        3
+all                    1
+total                 16
+
+Select jobs to execute...
+Execute 4 jobs...
+[Sun Aug 16 22:33:13 2026]
+localrule iqtree:
+    input: results/alignments/P_Y/P_Y_ORF1b.fasta
+    output: results/trees/P_Y/P_Y_ORF1b.treefile
+    log: logs/iqtree_P_Y_P_Y_ORF1b.log
+    jobid: 3
+    reason: Missing output files: results/trees/P_Y/P_Y_ORF1b.treefile
+    wildcards: clade=P_Y, region=P_Y_ORF1b
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:33:13 2026]
+localrule iqtree:
+    input: results/alignments/R/R_ORF1b2.fasta
+    output: results/trees/R/R_ORF1b2.treefile
+    log: logs/iqtree_R_R_ORF1b2.log
+    jobid: 23
+    reason: Missing output files: results/trees/R/R_ORF1b2.treefile
+    wildcards: clade=R, region=R_ORF1b2
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:33:13 2026]
+localrule iqtree:
+    input: results/alignments/R/R_ORF1a_1.fasta
+    output: results/trees/R/R_ORF1a_1.treefile
+    log: logs/iqtree_R_R_ORF1a_1.log
+    jobid: 19
+    reason: Missing output files: results/trees/R/R_ORF1a_1.treefile
+    wildcards: clade=R, region=R_ORF1a_1
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:33:13 2026]
+localrule iqtree:
+    input: results/alignments/G/G_ORF1ab.fasta
+    output: results/trees/G/G_ORF1ab.treefile
+    log: logs/iqtree_G_G_ORF1ab.log
+    jobid: 9
+    reason: Missing output files: results/trees/G/G_ORF1ab.treefile
+    wildcards: clade=G, region=G_ORF1ab
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+Select jobs to execute...
+[Sun Aug 16 22:33:27 2026]
+Finished jobid: 9 (Rule: iqtree)
+1 of 16 steps (6%) done
+Execute 1 jobs...
+[Sun Aug 16 22:33:27 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/G_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/G/G_ORF2.fasta
+    log: logs/split_G_G_ORF2.log
+    jobid: 12
+    reason: Missing output files: results/alignments/G/G_ORF2.fasta
+    wildcards: clade=G, region=G_ORF2
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+Select jobs to execute...
+[Sun Aug 16 22:33:27 2026]
+Finished jobid: 12 (Rule: split_alignment)
+2 of 16 steps (12%) done
+Execute 1 jobs...
+[Sun Aug 16 22:33:27 2026]
+localrule iqtree:
+    input: results/alignments/P_Y/P_Y_ORF2_2.fasta
+    output: results/trees/P_Y/P_Y_ORF2_2.treefile
+    log: logs/iqtree_P_Y_P_Y_ORF2_2.log
+    jobid: 7
+    reason: Missing output files: results/trees/P_Y/P_Y_ORF2_2.treefile
+    wildcards: clade=P_Y, region=P_Y_ORF2_2
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+Select jobs to execute...
+[Sun Aug 16 22:33:35 2026]
+Finished jobid: 19 (Rule: iqtree)
+3 of 16 steps (19%) done
+Execute 1 jobs...
+[Sun Aug 16 22:33:35 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/B_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/B/B_ORF1a.fasta
+    log: logs/split_B_B_ORF1a.log
+    jobid: 14
+    reason: Missing output files: results/alignments/B/B_ORF1a.fasta
+    wildcards: clade=B, region=B_ORF1a
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+Select jobs to execute...
+[Sun Aug 16 22:33:35 2026]
+Finished jobid: 14 (Rule: split_alignment)
+4 of 16 steps (25%) done
+Execute 1 jobs...
+[Sun Aug 16 22:33:35 2026]
+localrule iqtree:
+    input: results/alignments/P_Y/P_Y_ORF2_1.fasta
+    output: results/trees/P_Y/P_Y_ORF2_1.treefile
+    log: logs/iqtree_P_Y_P_Y_ORF2_1.log
+    jobid: 5
+    reason: Missing output files: results/trees/P_Y/P_Y_ORF2_1.treefile
+    wildcards: clade=P_Y, region=P_Y_ORF2_1
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+Select jobs to execute...
+[Sun Aug 16 22:33:48 2026]
+Finished jobid: 23 (Rule: iqtree)
+5 of 16 steps (31%) done
+Execute 1 jobs...
+[Sun Aug 16 22:33:48 2026]
+localrule iqtree:
+    input: results/alignments/B/B_ORF2_trim.fasta
+    output: results/trees/B/B_ORF2_trim.treefile
+    log: logs/iqtree_B_B_ORF2_trim.log
+    jobid: 17
+    reason: Missing output files: results/trees/B/B_ORF2_trim.treefile
+    wildcards: clade=B, region=B_ORF2_trim
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+Select jobs to execute...
+[Sun Aug 16 22:33:49 2026]
+Finished jobid: 3 (Rule: iqtree)
+6 of 16 steps (38%) done
+Execute 1 jobs...
+[Sun Aug 16 22:33:49 2026]
+localrule iqtree:
+    input: results/alignments/B/B_ORF1b.fasta
+    output: results/trees/B/B_ORF1b.treefile
+    log: logs/iqtree_B_B_ORF1b.log
+    jobid: 15
+    reason: Missing output files: results/trees/B/B_ORF1b.treefile
+    wildcards: clade=B, region=B_ORF1b
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+Select jobs to execute...
+[Sun Aug 16 22:33:50 2026]
+Finished jobid: 5 (Rule: iqtree)
+7 of 16 steps (44%) done
+Execute 1 jobs...
+[Sun Aug 16 22:33:50 2026]
+localrule iqtree:
+    input: results/alignments/P_Y/P_Y_ORF1a.fasta
+    output: results/trees/P_Y/P_Y_ORF1a.treefile
+    log: logs/iqtree_P_Y_P_Y_ORF1a.log
+    jobid: 1
+    reason: Missing output files: results/trees/P_Y/P_Y_ORF1a.treefile
+    wildcards: clade=P_Y, region=P_Y_ORF1a
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+Select jobs to execute...
+[Sun Aug 16 22:33:58 2026]
+Finished jobid: 7 (Rule: iqtree)
+8 of 16 steps (50%) done
+Execute 1 jobs...
+[Sun Aug 16 22:33:58 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/R_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/R/R_ORF1ab.fasta
+    log: logs/split_R_R_ORF1ab.log
+    jobid: 22
+    reason: Missing output files: results/alignments/R/R_ORF1ab.fasta
+    wildcards: clade=R, region=R_ORF1ab
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:33:58 2026]
+Finished jobid: 22 (Rule: split_alignment)
+9 of 16 steps (56%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Sun Aug 16 22:33:58 2026]
+localrule iqtree:
+    input: results/alignments/R/R_ORF1ab.fasta
+    output: results/trees/R/R_ORF1ab.treefile
+    log: logs/iqtree_R_R_ORF1ab.log
+    jobid: 21
+    reason: Missing output files: results/trees/R/R_ORF1ab.treefile; Input files updated by another job: results/alignments/R/R_ORF1ab.fasta
+    wildcards: clade=R, region=R_ORF1ab
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+Select jobs to execute...
+[Sun Aug 16 22:34:20 2026]
+Finished jobid: 21 (Rule: iqtree)
+10 of 16 steps (62%) done
+Execute 1 jobs...
+[Sun Aug 16 22:34:20 2026]
+localrule iqtree:
+    input: results/alignments/B/B_ORF1a.fasta
+    output: results/trees/B/B_ORF1a.treefile
+    log: logs/iqtree_B_B_ORF1a.log
+    jobid: 13
+    reason: Missing output files: results/trees/B/B_ORF1a.treefile; Input files updated by another job: results/alignments/B/B_ORF1a.fasta
+    wildcards: clade=B, region=B_ORF1a
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+Select jobs to execute...
+[Sun Aug 16 22:34:39 2026]
+Finished jobid: 15 (Rule: iqtree)
+11 of 16 steps (69%) done
+Execute 1 jobs...
+[Sun Aug 16 22:34:39 2026]
+localrule iqtree:
+    input: results/alignments/G/G_ORF2.fasta
+    output: results/trees/G/G_ORF2.treefile
+    log: logs/iqtree_G_G_ORF2.log
+    jobid: 11
+    reason: Missing output files: results/trees/G/G_ORF2.treefile; Input files updated by another job: results/alignments/G/G_ORF2.fasta
+    wildcards: clade=G, region=G_ORF2
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:34:43 2026]
+Finished jobid: 17 (Rule: iqtree)
+12 of 16 steps (75%) done
+[Sun Aug 16 22:34:47 2026]
+Finished jobid: 11 (Rule: iqtree)
+13 of 16 steps (81%) done
+[Sun Aug 16 22:35:07 2026]
+Finished jobid: 1 (Rule: iqtree)
+14 of 16 steps (88%) done
+[Sun Aug 16 22:36:30 2026]
+Finished jobid: 13 (Rule: iqtree)
+15 of 16 steps (94%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Sun Aug 16 22:36:30 2026]
+localrule all:
+    input: results/trees/P_Y/P_Y_ORF1a.treefile, results/trees/P_Y/P_Y_ORF1b.treefile, results/trees/P_Y/P_Y_ORF2_1.treefile, results/trees/P_Y/P_Y_ORF2_2.treefile, results/trees/G/G_ORF1ab.treefile, results/trees/G/G_ORF2.treefile, results/trees/B/B_ORF1a.treefile, results/trees/B/B_ORF1b.treefile, results/trees/B/B_ORF2_trim.treefile, results/trees/R/R_ORF1a_1.treefile, results/trees/R/R_ORF1ab.treefile, results/trees/R/R_ORF1b2.treefile
+    jobid: 0
+    reason: Input files updated by another job: results/trees/P_Y/P_Y_ORF2_1.treefile, results/trees/B/B_ORF1a.treefile, results/trees/R/R_ORF1ab.treefile, results/trees/B/B_ORF1b.treefile, results/trees/P_Y/P_Y_ORF2_2.treefile, results/trees/B/B_ORF2_trim.treefile, results/trees/G/G_ORF2.treefile, results/trees/R/R_ORF1b2.treefile, results/trees/R/R_ORF1a_1.treefile, results/trees/G/G_ORF1ab.treefile, results/trees/P_Y/P_Y_ORF1a.treefile, results/trees/P_Y/P_Y_ORF1b.treefile
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:36:30 2026]
+Finished jobid: 0 (Rule: all)
+16 of 16 steps (100%) done
+Complete log(s): /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/.snakemake/log/2026-08-16T223313.212263.snakemake.log

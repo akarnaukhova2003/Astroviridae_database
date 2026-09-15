@@ -1,0 +1,64 @@
+alignments:
+
+  P_Y:
+    input: "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta"
+    regions:
+      P_Y_ORF1a:
+        start: 1
+        end: 3060
+
+      P_Y_ORF1b:
+        start: 3060
+        end: 4590
+
+      P_Y_ORF2_1:
+        start: 4900
+        end: 5700
+
+      P_Y_ORF2_2:
+        start: 5900
+        end: 6669
+
+
+  G:
+    input: "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/G_clade_realgn_trim_outgroup.fasta"
+    regions:
+      G_ORF1ab:
+        start: 1
+        end: 4923
+
+      G_ORF2:
+        start: 4923
+        end: 7689
+
+
+  B:
+    input: "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/B_clade_realgn_trim_outgroup.fasta"
+    regions:
+      B_ORF1a:
+        start: 1
+        end: 3495
+
+      B_ORF1b:
+        start: 3495
+        end: 5055
+
+      B_ORF2_trim:
+        start: 5560
+        end: 7200
+
+
+  R:
+    input: "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/R_clade_realgn_trim_outgroup.fasta"
+    regions:
+      R_ORF1a_1:
+        start: 1
+        end: 1500
+
+      R_ORF1ab:
+        start: 1650
+        end: 4000
+
+      R_ORF1b2:
+        start: 4300
+        end: 7146

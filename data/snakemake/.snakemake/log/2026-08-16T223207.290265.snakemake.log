@@ -1,0 +1,285 @@
+Assuming unrestricted shared filesystem usage.
+
+SNAKEMAKE
+=========
+  Date: 2026-08-16 22:32:07
+  Workflow ID: bd2d2930-fc84-4c2d-acc9-14e412697e3b
+  Platform: macOS-15.7.3-arm64-arm-64bit-Mach-O
+  Host: MacBook-Air-Bagavetdinova.local
+  User: abagavetdinova
+  Snakemake version: 9.25.1
+  Python version: 3.14.6 | packaged by conda-forge | (main, Aug 11 2026, 10:24:52) [Clang 20.1.8 ]
+  Command: /Users/abagavetdinova/miniforge3/envs/snakemake/bin/snakemake --cores 4
+  Snakefile: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile
+  Base directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Run directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Working directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Config file(s): ['config.yaml']
+  Config MD5: 9f08a03b07980bb8df4514c75a22678a
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job stats:
+job                count
+---------------  -------
+split_alignment       12
+iqtree                12
+all                    1
+total                 25
+
+Select jobs to execute...
+Execute 4 jobs...
+[Sun Aug 16 22:32:07 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/P_Y/P_Y_ORF1a.fasta
+    log: logs/split_P_Y_P_Y_ORF1a.log
+    jobid: 2
+    reason: Missing output files: results/alignments/P_Y/P_Y_ORF1a.fasta
+    wildcards: clade=P_Y, region=P_Y_ORF1a
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:32:07 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/P_Y/P_Y_ORF1b.fasta
+    log: logs/split_P_Y_P_Y_ORF1b.log
+    jobid: 4
+    reason: Missing output files: results/alignments/P_Y/P_Y_ORF1b.fasta
+    wildcards: clade=P_Y, region=P_Y_ORF1b
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:32:07 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/R_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/R/R_ORF1a_1.fasta
+    log: logs/split_R_R_ORF1a_1.log
+    jobid: 20
+    reason: Missing output files: results/alignments/R/R_ORF1a_1.fasta; Code has changed since last execution
+    wildcards: clade=R, region=R_ORF1a_1
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:32:07 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/B_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/B/B_ORF2_trim.fasta
+    log: logs/split_B_B_ORF2_trim.log
+    jobid: 18
+    reason: Missing output files: results/alignments/B/B_ORF2_trim.fasta
+    wildcards: clade=B, region=B_ORF2_trim
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:32:07 2026]
+Finished jobid: 4 (Rule: split_alignment)
+1 of 25 steps (4%) done
+[Sun Aug 16 22:32:07 2026]
+Finished jobid: 2 (Rule: split_alignment)
+2 of 25 steps (8%) done
+Select jobs to execute...
+Execute 2 jobs...
+[Sun Aug 16 22:32:07 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/P_Y/P_Y_ORF2_1.fasta
+    log: logs/split_P_Y_P_Y_ORF2_1.log
+    jobid: 6
+    reason: Missing output files: results/alignments/P_Y/P_Y_ORF2_1.fasta
+    wildcards: clade=P_Y, region=P_Y_ORF2_1
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:32:07 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/R_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/R/R_ORF1b2.fasta
+    log: logs/split_R_R_ORF1b2.log
+    jobid: 24
+    reason: Missing output files: results/alignments/R/R_ORF1b2.fasta
+    wildcards: clade=R, region=R_ORF1b2
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:32:07 2026]
+Finished jobid: 20 (Rule: split_alignment)
+3 of 25 steps (12%) done
+[Sun Aug 16 22:32:07 2026]
+Finished jobid: 18 (Rule: split_alignment)
+4 of 25 steps (16%) done
+Select jobs to execute...
+Execute 2 jobs...
+[Sun Aug 16 22:32:07 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/P_Y/P_Y_ORF2_2.fasta
+    log: logs/split_P_Y_P_Y_ORF2_2.log
+    jobid: 8
+    reason: Missing output files: results/alignments/P_Y/P_Y_ORF2_2.fasta
+    wildcards: clade=P_Y, region=P_Y_ORF2_2
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:32:07 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/G_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/G/G_ORF1ab.fasta
+    log: logs/split_G_G_ORF1ab.log
+    jobid: 10
+    reason: Missing output files: results/alignments/G/G_ORF1ab.fasta
+    wildcards: clade=G, region=G_ORF1ab
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+Select jobs to execute...
+[Sun Aug 16 22:32:07 2026]
+Finished jobid: 6 (Rule: split_alignment)
+5 of 25 steps (20%) done
+Execute 1 jobs...
+[Sun Aug 16 22:32:07 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/B_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/B/B_ORF1b.fasta
+    log: logs/split_B_B_ORF1b.log
+    jobid: 16
+    reason: Missing output files: results/alignments/B/B_ORF1b.fasta; Code has changed since last execution
+    wildcards: clade=B, region=B_ORF1b
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:32:07 2026]
+Finished jobid: 24 (Rule: split_alignment)
+6 of 25 steps (24%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Sun Aug 16 22:32:07 2026]
+localrule iqtree:
+    input: results/alignments/R/R_ORF1a_1.fasta
+    output: results/trees/R/R_ORF1a_1.treefile
+    log: logs/iqtree_R_R_ORF1a_1.log
+    jobid: 19
+    reason: Missing output files: results/trees/R/R_ORF1a_1.treefile; Input files updated by another job: results/alignments/R/R_ORF1a_1.fasta
+    wildcards: clade=R, region=R_ORF1a_1
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:32:07 2026]
+Finished jobid: 8 (Rule: split_alignment)
+7 of 25 steps (28%) done
+[Sun Aug 16 22:32:07 2026]
+Finished jobid: 10 (Rule: split_alignment)
+8 of 25 steps (32%) done
+Select jobs to execute...
+RuleException:
+CalledProcessError in file "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile", line 61:
+Command 'set -euo pipefail;  
+        mkdir -p results/trees/R
+
+        iqtree             -s "results/alignments/R/R_ORF1a_1.fasta"             -st DNA             -m MFP             -bb 1000             -nt 1             -pre "results/trees/R/R_ORF1a_1"             > "logs/iqtree_R_R_ORF1a_1.log" 2>&1' returned non-zero exit status 127.
+[Sun Aug 16 22:32:07 2026]
+Error in rule iqtree:
+    message: None
+    jobid: 19
+    input: results/alignments/R/R_ORF1a_1.fasta
+    output: results/trees/R/R_ORF1a_1.treefile
+    log: logs/iqtree_R_R_ORF1a_1.log (check log file(s) for error details)
+    shell:
+        
+        mkdir -p results/trees/R
+
+        iqtree             -s "results/alignments/R/R_ORF1a_1.fasta"             -st DNA             -m MFP             -bb 1000             -nt 1             -pre "results/trees/R/R_ORF1a_1"             > "logs/iqtree_R_R_ORF1a_1.log" 2>&1
+        
+        (command exited with non-zero exit code)
+Execute 2 jobs...
+[Sun Aug 16 22:32:07 2026]
+localrule iqtree:
+    input: results/alignments/P_Y/P_Y_ORF2_2.fasta
+    output: results/trees/P_Y/P_Y_ORF2_2.treefile
+    log: logs/iqtree_P_Y_P_Y_ORF2_2.log
+    jobid: 7
+    reason: Missing output files: results/trees/P_Y/P_Y_ORF2_2.treefile; Input files updated by another job: results/alignments/P_Y/P_Y_ORF2_2.fasta
+    wildcards: clade=P_Y, region=P_Y_ORF2_2
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:32:07 2026]
+localrule iqtree:
+    input: results/alignments/G/G_ORF1ab.fasta
+    output: results/trees/G/G_ORF1ab.treefile
+    log: logs/iqtree_G_G_ORF1ab.log
+    jobid: 9
+    reason: Missing output files: results/trees/G/G_ORF1ab.treefile; Input files updated by another job: results/alignments/G/G_ORF1ab.fasta
+    wildcards: clade=G, region=G_ORF1ab
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+RuleException:
+CalledProcessError in file "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile", line 61:
+Command 'set -euo pipefail;  
+        mkdir -p results/trees/P_Y
+
+        iqtree             -s "results/alignments/P_Y/P_Y_ORF2_2.fasta"             -st DNA             -m MFP             -bb 1000             -nt 1             -pre "results/trees/P_Y/P_Y_ORF2_2"             > "logs/iqtree_P_Y_P_Y_ORF2_2.log" 2>&1' returned non-zero exit status 127.
+[Sun Aug 16 22:32:07 2026]
+Error in rule iqtree:
+    message: None
+    jobid: 7
+    input: results/alignments/P_Y/P_Y_ORF2_2.fasta
+    output: results/trees/P_Y/P_Y_ORF2_2.treefile
+    log: logs/iqtree_P_Y_P_Y_ORF2_2.log (check log file(s) for error details)
+    shell:
+        
+        mkdir -p results/trees/P_Y
+
+        iqtree             -s "results/alignments/P_Y/P_Y_ORF2_2.fasta"             -st DNA             -m MFP             -bb 1000             -nt 1             -pre "results/trees/P_Y/P_Y_ORF2_2"             > "logs/iqtree_P_Y_P_Y_ORF2_2.log" 2>&1
+        
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile", line 61:
+Command 'set -euo pipefail;  
+        mkdir -p results/trees/G
+
+        iqtree             -s "results/alignments/G/G_ORF1ab.fasta"             -st DNA             -m MFP             -bb 1000             -nt 1             -pre "results/trees/G/G_ORF1ab"             > "logs/iqtree_G_G_ORF1ab.log" 2>&1' returned non-zero exit status 127.
+[Sun Aug 16 22:32:07 2026]
+Error in rule iqtree:
+    message: None
+    jobid: 9
+    input: results/alignments/G/G_ORF1ab.fasta
+    output: results/trees/G/G_ORF1ab.treefile
+    log: logs/iqtree_G_G_ORF1ab.log (check log file(s) for error details)
+    shell:
+        
+        mkdir -p results/trees/G
+
+        iqtree             -s "results/alignments/G/G_ORF1ab.fasta"             -st DNA             -m MFP             -bb 1000             -nt 1             -pre "results/trees/G/G_ORF1ab"             > "logs/iqtree_G_G_ORF1ab.log" 2>&1
+        
+        (command exited with non-zero exit code)
+[Sun Aug 16 22:32:08 2026]
+Finished jobid: 16 (Rule: split_alignment)
+9 of 25 steps (36%) done
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look below for error messages
+[Sun Aug 16 22:32:08 2026]
+Error in rule iqtree:
+    message: None
+    jobid: 19
+    input: results/alignments/R/R_ORF1a_1.fasta
+    output: results/trees/R/R_ORF1a_1.treefile
+    log: logs/iqtree_R_R_ORF1a_1.log (check log file(s) for error details)
+    shell:
+        
+        mkdir -p results/trees/R
+
+        iqtree             -s "results/alignments/R/R_ORF1a_1.fasta"             -st DNA             -m MFP             -bb 1000             -nt 1             -pre "results/trees/R/R_ORF1a_1"             > "logs/iqtree_R_R_ORF1a_1.log" 2>&1
+        
+        (command exited with non-zero exit code)
+[Sun Aug 16 22:32:08 2026]
+Error in rule iqtree:
+    message: None
+    jobid: 7
+    input: results/alignments/P_Y/P_Y_ORF2_2.fasta
+    output: results/trees/P_Y/P_Y_ORF2_2.treefile
+    log: logs/iqtree_P_Y_P_Y_ORF2_2.log (check log file(s) for error details)
+    shell:
+        
+        mkdir -p results/trees/P_Y
+
+        iqtree             -s "results/alignments/P_Y/P_Y_ORF2_2.fasta"             -st DNA             -m MFP             -bb 1000             -nt 1             -pre "results/trees/P_Y/P_Y_ORF2_2"             > "logs/iqtree_P_Y_P_Y_ORF2_2.log" 2>&1
+        
+        (command exited with non-zero exit code)
+[Sun Aug 16 22:32:08 2026]
+Error in rule iqtree:
+    message: None
+    jobid: 9
+    input: results/alignments/G/G_ORF1ab.fasta
+    output: results/trees/G/G_ORF1ab.treefile
+    log: logs/iqtree_G_G_ORF1ab.log (check log file(s) for error details)
+    shell:
+        
+        mkdir -p results/trees/G
+
+        iqtree             -s "results/alignments/G/G_ORF1ab.fasta"             -st DNA             -m MFP             -bb 1000             -nt 1             -pre "results/trees/G/G_ORF1ab"             > "logs/iqtree_G_G_ORF1ab.log" 2>&1
+        
+        (command exited with non-zero exit code)
+Complete log(s): /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/.snakemake/log/2026-08-16T223207.290265.snakemake.log
+WorkflowError:
+At least one job did not complete successfully.

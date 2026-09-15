@@ -1,0 +1,224 @@
+IQ-TREE version 3.1.3 for MacOS ARM 64-bit built Jul 26 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    MacBook-Air-Bagavetdinova.local (SSE4.2, 16 GB RAM)
+Command: iqtree -s results/alignments/B/B_ORF1a.fasta -st DNA -m MFP -bb 1000 -nt 1 -pre results/trees/B/B_ORF1a
+Seed:    750831 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sun Aug 16 22:34:20 2026
+Kernel:  SSE2 - 1 threads (10 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 10 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file results/alignments/B/B_ORF1a.fasta ... Fasta format detected
+Reading fasta file: done in 0.00215197 secs using 90.01% CPU
+Alignment most likely contains DNA/RNA sequences
+Constructing alignment: done in 0.00341892 secs using 72.65% CPU
+Alignment has 56 sequences with 3495 columns, 2968 distinct patterns
+2859 parsimony-informative, 173 singleton sites, 463 constant sites
+WARNING: Some sequence names are changed as follows:
+MW684830/NA/Chicken-NLD-2019-V-M-046-astro-12/Gallus-gallus-domesticus-(broiler)/2019 -> MW684830/NA/Chicken-NLD-2019-V-M-046-astro-12/Gallus-gallus-domesticus-_broiler_/2019
+MW684817/NA/Environment-NLD-2019-VE-7-astro-14/Gallus-gallus-domesticus-(broiler)/2019 -> MW684817/NA/Environment-NLD-2019-VE-7-astro-14/Gallus-gallus-domesticus-_broiler_/2019
+
+                                                                                        Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000253916 secs using 96.09% CPU
+   1  PV793827/NA/AstroviridaeCranefe81/Leucogeranus-leucogeranus/2024                          8.27%    passed     77.86%
+   2  PV793829/NA/AstroviridaeGoosefe94/Anser-sp-/2024                                         10.73%    failed      0.05%
+   3  PV793828/NA/AstroviridaeGoosefe87/Anser-sp-/2024                                          6.70%    failed      0.24%
+   4  PV793826/NA/AstroviridaeCranefe67/Leucogeranus-leucogeranus/2024                          8.50%    passed     36.03%
+   5  PP871812/NA/astro-vt-94/Canis-lupus-familiaris/2014                                       4.55%    passed     88.31%
+   6  PP871804/NA/astro-vt-86/Canis-lupus-familiaris/2014                                       3.43%    passed     96.62%
+   7  OR134528/NA/NA/Muscovy-duck/2022                                                          3.09%    passed     36.43%
+   8  PV093029/NA/NA/Neogale-vison/2023                                                         3.43%    passed     14.22%
+   9  PV093018/NA/NA/Neogale-vison/2023                                                        15.31%    failed      0.57%
+  10  PP763758/NA/AAstV-Goose-CHN-2023-C102/goose/2023                                          7.55%    passed     66.38%
+  11  OR924092/NA/NA/Duck/2021                                                                  6.78%    passed     35.75%
+  12  OR924091/NA/NA/Goose/2021                                                                 6.78%    passed     25.11%
+  13  OR924090/NA/NA/Goose/2021                                                                 6.78%    passed      7.94%
+  14  OR907134/NA/NA/Goose/2022                                                                 7.55%    passed     36.21%
+  15  OR907125/NA/NA/Duck/2023                                                                  4.81%    passed     37.98%
+  16  OR902759/NA/NA/goose/2023                                                                 6.78%    passed     34.36%
+  17  OR286522/NA/SDAU2022-1/chicken/2022                                                       3.43%    passed     91.02%
+  18  OR351273/NA/JS202103/Gallus-gallus/2021                                                   3.43%    passed     45.90%
+  19  OQ685946/NA/CAstV-ck-TZ-Iringa-2151-IM162-2019/Gallus-gallus/2019                         7.04%    passed     86.27%
+  20  OP484924/NA/NA/goose/2018                                                                 8.84%    passed     30.52%
+  21  MZ819185/NA/ZJC14/goose/2020                                                              7.55%    passed     52.12%
+  22  MW353015/NA/TZ03/goose/2019                                                               7.55%    passed     62.59%
+  23  MW846319/NA/CAstV-Chicken-CHN-2020-GD202013/chicken/2020                                  3.43%    passed     94.57%
+  24  MW684830/NA/Chicken-NLD-2019-V-M-046-astro-12/Gallus-gallus-domesticus-_broiler_/2019     9.61%    passed     60.13%
+  25  MW684817/NA/Environment-NLD-2019-VE-7-astro-14/Gallus-gallus-domesticus-_broiler_/2019    9.87%    passed     66.95%
+  26  MT491732/NA/IBS543-2017/Gallus-gallus/2017                                                4.81%    passed     45.40%
+  27  MT789787/NA/CAstV-CA-SK-Chicken-19-0981-19/chicken/2019                                   3.43%    passed     81.56%
+  28  MT789782/NA/CAstV-CA-AB-Chicken-17-0773a-17/chicken/2017                                  3.43%    passed     85.15%
+  29  MT789780/NA/CAstV-CA-AB-Chicken-15-1262c-15/chicken/2015                                  3.43%    passed     61.36%
+  30  MN725025/NA/NA/chicken/2018                                                               3.43%    passed     24.29%
+  31  KT886453/NA/CAstV-Poland-G059-2014/Gallus-gallus/2014                                     3.26%    passed     86.50%
+  32  NC_034567/NA/FLX/Hortobagy-goose/2014                                                     7.55%    passed     28.05%
+  33  KY038163/NA/CAstV-INDIA-ANAND-2016/chicken/2016                                           3.43%    passed     70.75%
+  34  JF414802/NA/GA2011/chicken/2007                                                           3.43%    passed     88.09%
+  35  KJ020899/NA/NA/duck/2013                                                                  4.81%    passed     31.26%
+  36  KF753806/NA/NA/NA/2012                                                                    6.09%    passed     57.45%
+  37  FJ434664/NA/NA/duck/2008                                                                  3.09%    passed     50.21%
+  38  JF832365/NA/4175/Gallus-gallus/2006                                                       3.43%    passed     93.45%
+  39  MW588064/NA/NA/NA/NA                                                                      8.24%    passed     48.77%
+  40  MW588063/NA/NA/NA/NA                                                                      6.61%    failed      4.68%
+  41  MW588062/NA/NA/NA/NA                                                                      6.61%    passed      7.78%
+  42  NC_005790/NA/NA/NA/NA                                                                     5.15%    passed     17.50%
+  43  NC_002470/NA/NA/turkey/NA                                                                11.67%    failed      0.43%
+  44  KX397575/NA/CC-CkAstV/chicken/NA                                                          3.43%    passed     77.41%
+  45  FJ919228/NA/NA/duck/NA                                                                    3.09%    passed     34.53%
+  46  FJ919227/NA/NA/duck/NA                                                                    3.09%    passed     48.51%
+  47  JX624774/NA/NA/Pekin-duck/NA                                                              6.78%    passed     27.45%
+  48  EU143851/NA/NA/NA/NA                                                                      5.49%    passed     25.87%
+  49  EU143850/NA/NA/NA/NA                                                                      5.06%    passed     31.83%
+  50  EU143849/NA/NA/NA/NA                                                                      5.06%    passed     38.75%
+  51  EU143848/NA/NA/NA/NA                                                                      5.06%    passed     27.59%
+  52  EU143847/NA/NA/NA/NA                                                                      5.06%    passed     18.85%
+  53  EU143846/NA/NA/NA/NA                                                                      5.15%    passed     24.60%
+  54  EU143844/NA/NA/NA/NA                                                                      5.15%    passed     25.18%
+  55  EU143843/NA/NA/NA/NA                                                                      5.15%    passed     33.35%
+  56  PQ893528/NA/NSW-2021/Eolophus-roseicapilla/2021                                          12.62%    failed      0.60%
+****  TOTAL                                                                                     5.96%  6 sequences failed composition chi2 test (p-value<5%; df=3)
+Checking for duplicate sequences: done in 0.000331163 secs using 93.61% CPU
+
+Creating fast initial parsimony tree by random order stepwise addition...
+0.004 seconds, parsimony score: 20136 (based on 3032 sites)
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -79432.823
+Optimal log-likelihood: -79432.063
+Rate parameters:  A-C: 2.82057  A-G: 5.57835  A-T: 1.14560  C-G: 1.81212  C-T: 13.21688  G-T: 1.00000
+Base frequencies:  A: 0.321  C: 0.176  G: 0.236  T: 0.267
+Proportion of invariable sites: 0.058
+Gamma shape alpha: 0.679
+Parameters optimization took 1 rounds (0.158 sec)
+Time for fast ML tree search: 1.749 seconds
+
+NOTE: ModelFinder requires 65 MB RAM!
+ModelFinder will test up to 968 DNA models (sample size: 3495 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+Akaike Information Criterion:           GTR+F+I+R4
+Corrected Akaike Information Criterion: GTR+F+I+R4
+Bayesian Information Criterion:         GTR+F+I+R4
+Best-fit model: GTR+F+I+R4 chosen according to BIC
+
+All model information printed to results/trees/B/B_ORF1a.model.gz
+CPU time for ModelFinder: 61.425 seconds (0h:1m:1s)
+Wall-clock time for ModelFinder: 61.745 seconds (0h:1m:1s)
+Generating 1000 samples for ultrafast bootstrap (seed: 750831)...
+
+NOTE: 32 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -79393.973
+Optimal log-likelihood: -79393.952
+Rate parameters:  A-C: 2.95961  A-G: 5.89426  A-T: 1.21120  C-G: 1.91364  C-T: 13.84758  G-T: 1.00000
+Base frequencies:  A: 0.321  C: 0.176  G: 0.236  T: 0.267
+Proportion of invariable sites: 0.074
+Site proportion and rates:  (0.198,0.080) (0.342,0.399) (0.267,1.520) (0.119,3.723)
+Parameters optimization took 1 rounds (0.152 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.010828 secs using 99.87% CPU
+Computing ML distances took 0.011145 sec (of wall-clock time) 0.011116 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 4.69685e-05 secs using 132% CPU
+Constructing RapidNJ tree: done in 0.000110865 secs using 177.7% CPU
+Computing RapidNJ tree took 0.000179 sec (of wall-clock time) 0.000282 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -79645.792
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.256 second
+Computing log-likelihood of 98 initial trees ... 1.651 seconds
+Current best score: -79393.952
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -79363.022
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -79349.382
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 6: -79343.854
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 7: -79341.195
+Iteration 10 / LogL: -79377.295 / Time: 0h:1m:9s
+Iteration 20 / LogL: -79361.760 / Time: 0h:1m:14s
+Finish initializing candidate tree set (20)
+Current best tree score: -79341.195 / CPU time: 11.831
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -79519.513 / Time: 0h:1m:18s (0h:0m:43s left)
+Iteration 40 / LogL: -79538.287 / Time: 0h:1m:21s (0h:0m:34s left)
+Iteration 50 / LogL: -79357.290 / Time: 0h:1m:25s (0h:0m:28s left)
+Log-likelihood cutoff on original alignment: -79437.304
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 60: -79337.607
+Iteration 60 / LogL: -79337.607 / Time: 0h:1m:30s (0h:0m:48s left)
+Iteration 70 / LogL: -79397.230 / Time: 0h:1m:34s (0h:0m:42s left)
+Iteration 80 / LogL: -79346.646 / Time: 0h:1m:37s (0h:0m:36s left)
+Iteration 90 / LogL: -79822.760 / Time: 0h:1m:41s (0h:0m:31s left)
+Iteration 100 / LogL: -79566.680 / Time: 0h:1m:45s (0h:0m:26s left)
+Log-likelihood cutoff on original alignment: -79437.304
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.995
+Iteration 110 / LogL: -79372.407 / Time: 0h:1m:49s (0h:0m:39s left)
+Iteration 120 / LogL: -79348.737 / Time: 0h:1m:53s (0h:0m:34s left)
+Iteration 130 / LogL: -79339.324 / Time: 0h:1m:56s (0h:0m:29s left)
+Iteration 140 / LogL: -79342.548 / Time: 0h:2m:0s (0h:0m:25s left)
+Iteration 150 / LogL: -79398.165 / Time: 0h:2m:4s (0h:0m:21s left)
+Log-likelihood cutoff on original alignment: -79437.304
+Iteration 160 / LogL: -79341.384 / Time: 0h:2m:8s (0h:0m:16s left)
+TREE SEARCH COMPLETED AFTER 161 ITERATIONS / Time: 0h:2m:8s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -79337.607
+2. Current log-likelihood: -79337.498
+3. Current log-likelihood: -79337.370
+4. Current log-likelihood: -79337.279
+5. Current log-likelihood: -79337.205
+6. Current log-likelihood: -79337.143
+7. Current log-likelihood: -79337.091
+8. Current log-likelihood: -79337.066
+Optimal log-likelihood: -79337.066
+Rate parameters:  A-C: 2.94286  A-G: 5.84459  A-T: 1.18457  C-G: 1.84275  C-T: 13.79403  G-T: 1.00000
+Base frequencies:  A: 0.321  C: 0.176  G: 0.236  T: 0.267
+Proportion of invariable sites: 0.071
+Site proportion and rates:  (0.195,0.074) (0.353,0.396) (0.278,1.592) (0.102,3.938)
+Parameters optimization took 8 rounds (0.841 sec)
+BEST SCORE FOUND : -79337.066
+Creating bootstrap support values...
+Split supports printed to NEXUS file results/trees/B/B_ORF1a.splits.nex
+Total tree length: 21.388
+
+Total number of iterations: 161
+CPU time used for tree search: 66.533 sec (0h:1m:6s)
+Wall-clock time used for tree search: 66.625 sec (0h:1m:6s)
+Total CPU time used: 129.311 sec (0h:2m:9s)
+Total wall-clock time used: 129.732 sec (0h:2m:9s)
+
+Computing bootstrap consensus tree...
+Reading input file results/trees/B/B_ORF1a.splits.nex...
+56 taxa and 253 splits.
+Consensus tree written to results/trees/B/B_ORF1a.contree
+Reading input trees file results/trees/B/B_ORF1a.contree
+Log-likelihood of consensus tree: -79342.490
+
+Analysis results written to: 
+  IQ-TREE report:                results/trees/B/B_ORF1a.iqtree
+  Maximum-likelihood tree:       results/trees/B/B_ORF1a.treefile
+  Likelihood distances:          results/trees/B/B_ORF1a.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          results/trees/B/B_ORF1a.splits.nex
+  Consensus tree:                results/trees/B/B_ORF1a.contree
+  Screen log file:               results/trees/B/B_ORF1a.log
+
+Date and Time: Sun Aug 16 22:36:30 2026

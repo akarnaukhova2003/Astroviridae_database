@@ -1,0 +1,166 @@
+IQ-TREE version 3.1.3 for MacOS ARM 64-bit built Jul 26 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    MacBook-Air-Bagavetdinova.local (SSE4.2, 16 GB RAM)
+Command: iqtree -s results/alignments/R/R_ORF1ab.fasta -st DNA -m MFP -bb 1000 -nt 1 -pre results/trees/R/R_ORF1ab
+Seed:    299584 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sun Aug 16 22:33:58 2026
+Kernel:  SSE2 - 1 threads (10 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 10 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file results/alignments/R/R_ORF1ab.fasta ... Fasta format detected
+Reading fasta file: done in 0.000580072 secs using 92.4% CPU
+Alignment most likely contains DNA/RNA sequences
+Constructing alignment: done in 0.00132108 secs using 71.08% CPU
+Alignment has 24 sequences with 2351 columns, 1649 distinct patterns
+1413 parsimony-informative, 245 singleton sites, 693 constant sites
+                                          Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 5.91278e-05 secs using 96.4% CPU
+   1  OQ986679/NA/GEIG/NA/2021                   31.18%    passed      9.85%
+   2  OQ986609/NA/RHFU/NA/2021/reverse           37.05%    passed      7.49%
+   3  OQ986608/NA/RHFU/NA/2021                   31.05%    passed     84.58%
+   4  OQ986607/NA/GEIG/NA/2021                   30.92%    passed     42.01%
+   5  OQ986606/NA/GEIG/NA/2021                   30.16%    failed      0.33%
+   6  MW826482/NA/YSN02/bird/2019                32.84%    passed     32.19%
+   7  MW385412/NA/NA/Crow/2017                   32.71%    passed     13.36%
+   8  MW826371/NA/XZN01/bird/2018                32.20%    passed     26.84%
+   9  MT137994/NA/bsk136ast01/NA/2018            32.58%    passed      9.62%
+  10  MT137992/NA/bfb201ast01/NA/2018            22.76%    failed      1.18%
+  11  MT137991/NA/bbr144ast1/NA/2018             32.20%    passed     13.19%
+  12  MN920672/NA/ytb090ast01/NA/2018            22.76%    passed      9.04%
+  13  MN920671/NA/ytb089ast01/NA/2018            32.84%    passed     18.47%
+  14  MN920670/NA/ybw202ast01/NA/2018            33.09%    passed     60.58%
+  15  MN920669/NA/ybb150ast01/NA/2018            22.76%    failed      2.42%
+  16  MN920668/NA/war204ast1/NA/2018             30.92%    passed     22.69%
+  17  MN920663/NA/spa143ast1/NA/2018             33.60%    passed     36.08%
+  18  MK096775/NA/PasAstV-3/Passeriformes/2016   28.24%    passed     11.31%
+  19  MK096774/NA/PasAstV-2/Passeriformes/2016   28.24%    passed     32.96%
+  20  KT946720/NA/D11-515-HK/house-crow/NA       26.84%    passed     85.52%
+  21  KT946719/NA/D11-467-HK/house-crow/NA       26.97%    passed     62.59%
+  22  KT946718/NA/D11-139-HK/house-crow/NA       26.84%    passed     83.86%
+  23  MK096773/NA/PasAstV-1/Passeriformes/NA     30.41%    failed      0.00%
+  24  MG599918/NA/NA/Hemidactylus-bowringii/NA    6.89%    failed      0.32%
+****  TOTAL                                      29.00%  5 sequences failed composition chi2 test (p-value<5%; df=3)
+Checking for duplicate sequences: done in 7.89165e-05 secs using 89.97% CPU
+
+Creating fast initial parsimony tree by random order stepwise addition...
+0.001 seconds, parsimony score: 9174 (based on 1658 sites)
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -33568.858
+Optimal log-likelihood: -33568.256
+Rate parameters:  A-C: 3.31278  A-G: 3.77473  A-T: 1.52451  C-G: 2.71766  C-T: 6.58562  G-T: 1.00000
+Base frequencies:  A: 0.356  C: 0.174  G: 0.240  T: 0.230
+Proportion of invariable sites: 0.103
+Gamma shape alpha: 1.086
+Parameters optimization took 1 rounds (0.039 sec)
+Time for fast ML tree search: 0.269 seconds
+
+NOTE: ModelFinder requires 19 MB RAM!
+ModelFinder will test up to 968 DNA models (sample size: 2351 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+Akaike Information Criterion:           GTR+F+R4
+Corrected Akaike Information Criterion: GTR+F+R4
+Bayesian Information Criterion:         GTR+F+R4
+Best-fit model: GTR+F+R4 chosen according to BIC
+
+All model information printed to results/trees/R/R_ORF1ab.model.gz
+CPU time for ModelFinder: 9.673 seconds (0h:0m:9s)
+Wall-clock time for ModelFinder: 9.713 seconds (0h:0m:9s)
+Generating 1000 samples for ultrafast bootstrap (seed: 299584)...
+
+NOTE: 11 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -33548.019
+Optimal log-likelihood: -33547.957
+Rate parameters:  A-C: 3.40324  A-G: 3.96149  A-T: 1.56335  C-G: 2.87014  C-T: 6.70631  G-T: 1.00000
+Base frequencies:  A: 0.356  C: 0.174  G: 0.240  T: 0.230
+Site proportion and rates:  (0.196,0.029) (0.285,0.336) (0.386,0.960) (0.133,3.979)
+Parameters optimization took 1 rounds (0.048 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0017879 secs using 99.78% CPU
+Computing ML distances took 0.001935 sec (of wall-clock time) 0.001924 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 3.50475e-05 secs using 134.1% CPU
+Constructing RapidNJ tree: done in 6.60419e-05 secs using 157.5% CPU
+Computing RapidNJ tree took 0.000153 sec (of wall-clock time) 0.000192 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -33620.936
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.074 second
+Computing log-likelihood of 98 initial trees ... 0.511 seconds
+Current best score: -33547.957
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -33547.581
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 4: -33543.078
+Iteration 10 / LogL: -33548.285 / Time: 0h:0m:12s
+Iteration 20 / LogL: -33547.681 / Time: 0h:0m:13s
+Finish initializing candidate tree set (8)
+Current best tree score: -33543.078 / CPU time: 3.822
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -33543.239 / Time: 0h:0m:14s (0h:0m:12s left)
+Iteration 40 / LogL: -33549.552 / Time: 0h:0m:15s (0h:0m:9s left)
+Iteration 50 / LogL: -33547.629 / Time: 0h:0m:16s (0h:0m:7s left)
+Log-likelihood cutoff on original alignment: -33587.090
+Iteration 60 / LogL: -33543.095 / Time: 0h:0m:17s (0h:0m:5s left)
+Iteration 70 / LogL: -33548.236 / Time: 0h:0m:18s (0h:0m:4s left)
+Iteration 80 / LogL: -33543.494 / Time: 0h:0m:19s (0h:0m:3s left)
+Iteration 90 / LogL: -33547.755 / Time: 0h:0m:20s (0h:0m:1s left)
+Iteration 100 / LogL: -33546.008 / Time: 0h:0m:21s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -33581.464
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 1.000
+TREE SEARCH COMPLETED AFTER 105 ITERATIONS / Time: 0h:0m:22s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -33543.078
+Optimal log-likelihood: -33543.069
+Rate parameters:  A-C: 3.40684  A-G: 3.97182  A-T: 1.55417  C-G: 2.86202  C-T: 6.70326  G-T: 1.00000
+Base frequencies:  A: 0.356  C: 0.174  G: 0.240  T: 0.230
+Site proportion and rates:  (0.199,0.030) (0.290,0.344) (0.382,0.969) (0.130,4.046)
+Parameters optimization took 1 rounds (0.049 sec)
+BEST SCORE FOUND : -33543.069
+Creating bootstrap support values...
+Split supports printed to NEXUS file results/trees/R/R_ORF1ab.splits.nex
+Total tree length: 16.822
+
+Total number of iterations: 105
+CPU time used for tree search: 12.429 sec (0h:0m:12s)
+Wall-clock time used for tree search: 12.460 sec (0h:0m:12s)
+Total CPU time used: 22.281 sec (0h:0m:22s)
+Total wall-clock time used: 22.357 sec (0h:0m:22s)
+
+Computing bootstrap consensus tree...
+Reading input file results/trees/R/R_ORF1ab.splits.nex...
+24 taxa and 163 splits.
+Consensus tree written to results/trees/R/R_ORF1ab.contree
+Reading input trees file results/trees/R/R_ORF1ab.contree
+Log-likelihood of consensus tree: -33543.068
+
+Analysis results written to: 
+  IQ-TREE report:                results/trees/R/R_ORF1ab.iqtree
+  Maximum-likelihood tree:       results/trees/R/R_ORF1ab.treefile
+  Likelihood distances:          results/trees/R/R_ORF1ab.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          results/trees/R/R_ORF1ab.splits.nex
+  Consensus tree:                results/trees/R/R_ORF1ab.contree
+  Screen log file:               results/trees/R/R_ORF1ab.log
+
+Date and Time: Sun Aug 16 22:34:20 2026

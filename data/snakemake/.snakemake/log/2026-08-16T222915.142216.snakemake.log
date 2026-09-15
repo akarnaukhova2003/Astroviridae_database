@@ -1,0 +1,186 @@
+Assuming unrestricted shared filesystem usage.
+
+SNAKEMAKE
+=========
+  Date: 2026-08-16 22:29:15
+  Workflow ID: 0930463c-7b8d-4134-b857-9a8c9515b0b1
+  Platform: macOS-15.7.3-arm64-arm-64bit-Mach-O
+  Host: MacBook-Air-Bagavetdinova.local
+  User: abagavetdinova
+  Snakemake version: 9.25.1
+  Python version: 3.14.6 | packaged by conda-forge | (main, Aug 11 2026, 10:24:52) [Clang 20.1.8 ]
+  Command: /Users/abagavetdinova/miniforge3/envs/snakemake/bin/snakemake --cores 4
+  Snakefile: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile
+  Base directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Run directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Working directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Config file(s): ['config.yaml']
+  Config MD5: 9f08a03b07980bb8df4514c75a22678a
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job stats:
+job                count
+---------------  -------
+split_alignment       12
+iqtree                12
+all                    1
+total                 25
+
+Select jobs to execute...
+Execute 4 jobs...
+[Sun Aug 16 22:29:15 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/P_Y/P_Y_ORF2_1.fasta
+    log: logs/split_P_Y_P_Y_ORF2_1.log
+    jobid: 6
+    reason: Missing output files: results/alignments/P_Y/P_Y_ORF2_1.fasta
+    wildcards: clade=P_Y, region=P_Y_ORF2_1
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:29:15 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/R_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/R/R_ORF1b2.fasta
+    log: logs/split_R_R_ORF1b2.log
+    jobid: 24
+    reason: Missing output files: results/alignments/R/R_ORF1b2.fasta
+    wildcards: clade=R, region=R_ORF1b2
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:29:15 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/P_Y/P_Y_ORF1a.fasta
+    log: logs/split_P_Y_P_Y_ORF1a.log
+    jobid: 2
+    reason: Missing output files: results/alignments/P_Y/P_Y_ORF1a.fasta; Code has changed since last execution
+    wildcards: clade=P_Y, region=P_Y_ORF1a
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Aug 16 22:29:15 2026]
+localrule split_alignment:
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/P_Y/P_Y_ORF1b.fasta
+    log: logs/split_P_Y_P_Y_ORF1b.log
+    jobid: 4
+    reason: Missing output files: results/alignments/P_Y/P_Y_ORF1b.fasta
+    wildcards: clade=P_Y, region=P_Y_ORF1b
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+RuleException:
+CalledProcessError in file "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile", line 38:
+Command 'set -euo pipefail;  
+        python scripts/split_alignment_clades.py             --input "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta"             --output "results/alignments/P_Y/P_Y_ORF1a.fasta"             --start 1             --end 3060             > "logs/split_P_Y_P_Y_ORF1a.log" 2>&1' returned non-zero exit status 1.
+[Sun Aug 16 22:29:16 2026]
+Error in rule split_alignment:
+    message: None
+    jobid: 2
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/P_Y/P_Y_ORF1a.fasta
+    log: logs/split_P_Y_P_Y_ORF1a.log (check log file(s) for error details)
+    shell:
+        
+        python scripts/split_alignment_clades.py             --input "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta"             --output "results/alignments/P_Y/P_Y_ORF1a.fasta"             --start 1             --end 3060             > "logs/split_P_Y_P_Y_ORF1a.log" 2>&1
+        
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile", line 38:
+Command 'set -euo pipefail;  
+        python scripts/split_alignment_clades.py             --input "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta"             --output "results/alignments/P_Y/P_Y_ORF1b.fasta"             --start 3060             --end 4590             > "logs/split_P_Y_P_Y_ORF1b.log" 2>&1' returned non-zero exit status 1.
+RuleException:
+CalledProcessError in file "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile", line 38:
+Command 'set -euo pipefail;  
+        python scripts/split_alignment_clades.py             --input "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta"             --output "results/alignments/P_Y/P_Y_ORF2_1.fasta"             --start 4900             --end 5700             > "logs/split_P_Y_P_Y_ORF2_1.log" 2>&1' returned non-zero exit status 1.
+RuleException:
+CalledProcessError in file "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile", line 38:
+Command 'set -euo pipefail;  
+        python scripts/split_alignment_clades.py             --input "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/R_clade_realgn_trim_outgroup.fasta"             --output "results/alignments/R/R_ORF1b2.fasta"             --start 4300             --end 7146             > "logs/split_R_R_ORF1b2.log" 2>&1' returned non-zero exit status 1.
+[Sun Aug 16 22:29:16 2026]
+Error in rule split_alignment:
+    message: None
+    jobid: 24
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/R_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/R/R_ORF1b2.fasta
+    log: logs/split_R_R_ORF1b2.log (check log file(s) for error details)
+    shell:
+        
+        python scripts/split_alignment_clades.py             --input "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/R_clade_realgn_trim_outgroup.fasta"             --output "results/alignments/R/R_ORF1b2.fasta"             --start 4300             --end 7146             > "logs/split_R_R_ORF1b2.log" 2>&1
+        
+        (command exited with non-zero exit code)
+[Sun Aug 16 22:29:16 2026]
+Error in rule split_alignment:
+    message: None
+    jobid: 4
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/P_Y/P_Y_ORF1b.fasta
+    log: logs/split_P_Y_P_Y_ORF1b.log (check log file(s) for error details)
+    shell:
+        
+        python scripts/split_alignment_clades.py             --input "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta"             --output "results/alignments/P_Y/P_Y_ORF1b.fasta"             --start 3060             --end 4590             > "logs/split_P_Y_P_Y_ORF1b.log" 2>&1
+        
+        (command exited with non-zero exit code)
+[Sun Aug 16 22:29:16 2026]
+Error in rule split_alignment:
+    message: None
+    jobid: 6
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/P_Y/P_Y_ORF2_1.fasta
+    log: logs/split_P_Y_P_Y_ORF2_1.log (check log file(s) for error details)
+    shell:
+        
+        python scripts/split_alignment_clades.py             --input "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta"             --output "results/alignments/P_Y/P_Y_ORF2_1.fasta"             --start 4900             --end 5700             > "logs/split_P_Y_P_Y_ORF2_1.log" 2>&1
+        
+        (command exited with non-zero exit code)
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look below for error messages
+[Sun Aug 16 22:29:16 2026]
+Error in rule split_alignment:
+    message: None
+    jobid: 6
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/P_Y/P_Y_ORF2_1.fasta
+    log: logs/split_P_Y_P_Y_ORF2_1.log (check log file(s) for error details)
+    shell:
+        
+        python scripts/split_alignment_clades.py             --input "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta"             --output "results/alignments/P_Y/P_Y_ORF2_1.fasta"             --start 4900             --end 5700             > "logs/split_P_Y_P_Y_ORF2_1.log" 2>&1
+        
+        (command exited with non-zero exit code)
+[Sun Aug 16 22:29:16 2026]
+Error in rule split_alignment:
+    message: None
+    jobid: 24
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/R_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/R/R_ORF1b2.fasta
+    log: logs/split_R_R_ORF1b2.log (check log file(s) for error details)
+    shell:
+        
+        python scripts/split_alignment_clades.py             --input "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/R_clade_realgn_trim_outgroup.fasta"             --output "results/alignments/R/R_ORF1b2.fasta"             --start 4300             --end 7146             > "logs/split_R_R_ORF1b2.log" 2>&1
+        
+        (command exited with non-zero exit code)
+[Sun Aug 16 22:29:16 2026]
+Error in rule split_alignment:
+    message: None
+    jobid: 2
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/P_Y/P_Y_ORF1a.fasta
+    log: logs/split_P_Y_P_Y_ORF1a.log (check log file(s) for error details)
+    shell:
+        
+        python scripts/split_alignment_clades.py             --input "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta"             --output "results/alignments/P_Y/P_Y_ORF1a.fasta"             --start 1             --end 3060             > "logs/split_P_Y_P_Y_ORF1a.log" 2>&1
+        
+        (command exited with non-zero exit code)
+[Sun Aug 16 22:29:16 2026]
+Error in rule split_alignment:
+    message: None
+    jobid: 4
+    input: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta
+    output: results/alignments/P_Y/P_Y_ORF1b.fasta
+    log: logs/split_P_Y_P_Y_ORF1b.log (check log file(s) for error details)
+    shell:
+        
+        python scripts/split_alignment_clades.py             --input "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/P_Y_clade_realgn_trim_outgroup.fasta"             --output "results/alignments/P_Y/P_Y_ORF1b.fasta"             --start 3060             --end 4590             > "logs/split_P_Y_P_Y_ORF1b.log" 2>&1
+        
+        (command exited with non-zero exit code)
+Complete log(s): /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/.snakemake/log/2026-08-16T222915.142216.snakemake.log
+WorkflowError:
+At least one job did not complete successfully.

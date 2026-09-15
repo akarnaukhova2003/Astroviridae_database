@@ -7,38 +7,104 @@ library(colorspace)
 library(dplyr)
 
 setwd(
-  "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/gradient_tree"
+  "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/results/trees/"
 )
 
-reference_tree_file = "B_clade/B_ORF1a.nwk"
-
+reference_tree_file = "P_Y/P_Y_ORF1b.nwk"
 metadata_file = "Astroviridae_Aves_Amphibia_14072026.csv"
+outgroup_id = "MG599917"
 
 tree_files = c(
-  "B_clade/B_ORF1a.nwk",
-  "B_clade/B_ORF1b.nwk",
-  "B_clade/B_ORF2_trim.nwk"
-)
+  "P_Y/P_Y_ORF1a.nwk",
+  "P_Y/P_Y_ORF1b.nwk", 
+  "P_Y/P_Y_ORF2_1.nwk", 
+  "P_Y/P_Y_ORF2_2.nwk"
+  )
 
 clades = c(
-  95,
-  97, 
-  98,
-  101,
-  58,
-  109,
-  69,
-  75,
-  63
-  
+  51, 76, 49, 63 
 )
+
+normalize_id = function(x) {
+  x = gsub("'", "", x)
+  x = sub("/.*$", "", x)
+  x = gsub("_", "-", x)
+  return(x)
+}
+
+extract_bootstrap = function(tree_file) {
+  
+  lines = readLines(
+    tree_file,
+    warn = FALSE
+  )
+  
+  tree_text = paste(
+    lines,
+    collapse = ""
+  )
+  
+  bootstrap_values = regmatches(
+    tree_text,
+    gregexpr(
+      "\\[&label=[^\\]]+\\]",
+      tree_text,
+      perl = TRUE
+    )
+  )[[1]]
+  
+  if (length(bootstrap_values) == 0) {
+    return(numeric(0))
+  }
+  
+  bootstrap_values = gsub(
+    "^\\[&label=",
+    "",
+    bootstrap_values
+  )
+  
+  bootstrap_values = gsub(
+    "\\]$",
+    "",
+    bootstrap_values
+  )
+  
+  bootstrap_values = as.numeric(
+    bootstrap_values
+  )
+  
+  bootstrap_values = bootstrap_values[
+    !is.na(bootstrap_values)
+  ]
+  
+  return(bootstrap_values)
+}
 
 reference_tree = read.nexus(
   reference_tree_file
 )
 
-reference_tree = midpoint.root(
-  reference_tree
+reference_tree$tip.label = normalize_id(
+  reference_tree$tip.label
+)
+
+outgroup_index = which(
+  reference_tree$tip.label == outgroup_id
+)
+
+if (length(outgroup_index) == 0) {
+  stop(
+    paste0(
+      "Аутгруппа не найдена: ",
+      outgroup_id
+    )
+  )
+}
+
+reference_tree = root(
+  reference_tree,
+  outgroup = outgroup_index,
+  resolve.root = TRUE
 )
 
 reference_plot = ggtree(
@@ -55,25 +121,8 @@ for (node in clades) {
     node
   )
   
-  taxa = gsub(
-    "'",
-    "",
-    taxa
-  )
-  
-  taxa = sub(
-    "/.*$",
-    "",
-    taxa
-  )
-  
-  taxa = gsub(
-    "_",
-    "-",
-    taxa
-  )
-  
-  order_list[[as.character(node)]] = taxa
+  order_list[[as.character(node)]] =
+    normalize_id(taxa)
 }
 
 base_colors = distinctColorPalette(
@@ -86,39 +135,24 @@ for (i in seq_along(order_list)) {
   
   taxa = order_list[[i]]
   
-  base = base_colors[i]
-  
-  color_light = lighten(
-    base,
-    0.4
-  )
-  
-  color_dark = darken(
-    base,
-    0.4
-  )
-  
-  color_function = colorRampPalette(
+  colors_clade = colorRampPalette(
     c(
-      color_light,
-      color_dark
+      lighten(base_colors[i], 0.4),
+      darken(base_colors[i], 0.4)
     )
+  )(
+    max(1, length(taxa))
   )
   
-  colors_clade = color_function(
-    length(taxa)
-  )
-  
-  color_tables[[i]] = data.frame(
-    ID = taxa,
-    color = colors_clade,
-    stringsAsFactors = FALSE
-  )
+  color_tables[[i]] =
+    data.frame(
+      ID = taxa,
+      color = colors_clade
+    )
 }
 
-color_table = bind_rows(
-  color_tables
-) %>%
+color_table =
+  bind_rows(color_tables) %>%
   distinct(
     ID,
     .keep_all = TRUE
@@ -126,28 +160,14 @@ color_table = bind_rows(
 
 info = read.csv(
   metadata_file,
-  stringsAsFactors = FALSE
+  stringsAsFactors = FALSE,
+  check.names = FALSE
 )
 
-info$ID = gsub(
-  "'",
-  "",
-  info$ID
-)
+info$ID = normalize_id(info$ID)
 
-info$ID = sub(
-  "/.*$",
-  "",
-  info$ID
-)
-
-info$ID = gsub(
-  "_",
-  "-",
-  info$ID
-)
-
-info_upd = info %>%
+info_upd =
+  info %>%
   left_join(
     color_table,
     by = "ID"
@@ -164,31 +184,34 @@ plot_gradient_tree = function(
     metadata
 ) {
   
-  tree = read.nexus(
-    tree_file
+  tree = read.nexus(tree_file)
+  
+  tree$tip.label =
+    normalize_id(tree$tip.label)
+  
+  outgroup_index = which(
+    tree$tip.label == outgroup_id
   )
   
-  tree = midpoint.root(
-    tree
+  if (length(outgroup_index) == 0) {
+    stop(
+      paste0(
+        "Аутгруппа ",
+        outgroup_id,
+        " не найдена в ",
+        tree_file
+      )
+    )
+  }
+  
+  tree = root(
+    tree,
+    outgroup = outgroup_index,
+    resolve.root = TRUE
   )
   
-  full_labels = gsub(
-    "'",
-    "",
-    tree$tip.label
-  )
-  
-  tree_ids = sub(
-    "/.*$",
-    "",
-    full_labels
-  )
-  
-  tree_ids = gsub(
-    "_",
-    "-",
-    tree_ids
-  )
+  bootstrap_values =
+    extract_bootstrap(tree_file)
   
   p = ggtree(
     tree,
@@ -196,43 +219,67 @@ plot_gradient_tree = function(
   )
   
   p$data$ID = NA_character_
+  p$data$bootstrap = NA_real_
   
-  p$data$ID[
+  tip_rows = which(
     p$data$isTip
-  ] = tree_ids
+  )
   
-  p$data$full_label = NA_character_
+  p$data$ID[tip_rows] =
+    tree$tip.label
   
-  p$data$full_label[
-    p$data$isTip
-  ] = full_labels
-  
-  color_info = metadata %>%
+  color_info =
+    metadata %>%
     select(
       ID,
       color
     ) %>%
     filter(
-      !is.na(color)
+      !is.na(color),
+      color != ""
     ) %>%
     distinct(
       ID,
       .keep_all = TRUE
     )
   
-  p$data = left_join(
-    p$data,
-    color_info,
-    by = "ID"
+  p$data =
+    p$data %>%
+    left_join(
+      color_info,
+      by = "ID"
+    )
+  
+  internal_rows = which(
+    !p$data$isTip
   )
   
-  tips_colored = p$data %>%
+  n_assign = min(
+    length(internal_rows),
+    length(bootstrap_values)
+  )
+  
+  if (n_assign > 0) {
+    
+    p$data$bootstrap[
+      internal_rows[
+        seq_len(n_assign)
+      ]
+    ] =
+      bootstrap_values[
+        seq_len(n_assign)
+      ]
+  }
+  
+  tips_colored =
+    p$data %>%
     filter(
       isTip,
       !is.na(color)
     )
   
-  tips_uncolored = p$data %>%
+  tips_uncolored =
+    p$data %>%
     filter(
       isTip,
       is.na(color)
@@ -240,38 +287,66 @@ plot_gradient_tree = function(
   
   p =
     p +
+    
     geom_tiplab(
       data = tips_uncolored,
       aes(
-        label = full_label
+        label = ID
       ),
       color = "black",
-      size = 6,
+      size = 4,
       hjust = 0
     ) +
+    
     geom_tiplab(
       data = tips_colored,
       aes(
-        label = full_label,
+        label = ID,
         color = color
       ),
-      size = 6,
+      size = 4,
       hjust = 0
     ) +
+    
     scale_color_identity() +
+    
     geom_treescale(
-      fontsize = 6
-    ) +
+      fontsize = 5
+    )
+  
+  high_bootstrap =
+    p$data %>%
+    filter(
+      !isTip,
+      !is.na(bootstrap),
+      bootstrap > 90
+    )
+  
+  if (nrow(high_bootstrap) > 0) {
+    
+    p =
+      p +
+      geom_nodepoint(
+        data = high_bootstrap,
+        aes(
+          x = x,
+          y = y
+        ),
+        colour = "black",
+        size = 3.5,
+        inherit.aes = FALSE
+      )
+  }
+  
+  p =
+    p +
     theme(
       legend.position = "none",
       plot.margin = margin(
         10,
-        300,
+        20,
         10,
         10
-      ),
-      plot.title = element_text(
-        size = 28
       )
     )
   
@@ -280,60 +355,53 @@ plot_gradient_tree = function(
 
 for (tree_file in tree_files) {
   
-  p = plot_gradient_tree(
-    tree_file,
-    info_upd
-  )
-  
-  tree_name = tools::file_path_sans_ext(
-    basename(tree_file)
-  )
-  
-  p = p +
-    ggtitle(
-      tree_name
+  p =
+    plot_gradient_tree(
+      tree_file,
+      info_upd
     )
   
+  tree_name =
+    tools::file_path_sans_ext(
+      basename(tree_file)
+    )
+  
+  p =
+    p +
+    ggtitle(tree_name)
+  
   ggsave(
-    filename = paste0(
+    paste0(
       tree_name,
       "_gradient.png"
     ),
-    plot = p,
-    width = 45,
-    height = 30,
+    p,
+    width = 20,
+    height = 15,
     dpi = 300
   )
   
   ggsave(
-    filename = paste0(
+    paste0(
       tree_name,
       "_gradient.pdf"
     ),
-    plot = p,
-    width = 45,
-    height = 30
+    p,
+    width = 20,
+    height = 15
   )
   
   ggsave(
-    filename = paste0(
+    paste0(
       tree_name,
       "_gradient.svg"
     ),
-    plot = p,
-    width = 45,
-    height = 30
-  )
-  
-  cat(
-    tree_name,
-    ":",
-    sum(p$data$isTip),
-    "листьев;",
-    sum(
-      p$data$isTip &
-        !is.na(p$data$color)
-    ),
-    "окрашенных\n"
+    p,
+    width = 20,
+    height = 15
   )
 }
+
+cat(
+  "\nВсе деревья обработаны.\n"
+)

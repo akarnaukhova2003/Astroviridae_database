@@ -1,0 +1,72 @@
+configfile: "config.yaml"
+
+
+CLADES = list(config["alignments"].keys())
+
+REGIONS = {
+    clade: list(config["alignments"][clade]["regions"].keys())
+    for clade in CLADES
+}
+
+ALL_TREES = [
+    f"results/trees/{clade}/{region}.treefile"
+    for clade in CLADES
+    for region in REGIONS[clade]
+]
+
+
+rule all:
+    input:
+        ALL_TREES
+
+
+rule split_alignment:
+    input:
+        alignment=lambda wildcards: config["alignments"][wildcards.clade]["input"]
+
+    output:
+        "results/alignments/{clade}/{region}.fasta"
+
+    params:
+        start=lambda wildcards: config["alignments"][wildcards.clade]["regions"][wildcards.region]["start"],
+        end=lambda wildcards: config["alignments"][wildcards.clade]["regions"][wildcards.region]["end"]
+
+    log:
+        "logs/split_{clade}_{region}.log"
+
+    shell:
+        """
+        python scripts/split_alignment_clades.py \
+            --input "{input.alignment}" \
+            --output "{output}" \
+            --start {params.start} \
+            --end {params.end} \
+            > "{log}" 2>&1
+        """
+
+
+rule iqtree:
+    input:
+        alignment="results/alignments/{clade}/{region}.fasta"
+
+    output:
+        tree="results/trees/{clade}/{region}.treefile"
+
+    log:
+        "logs/iqtree_{clade}_{region}.log"
+
+    threads: 1
+
+    shell:
+        """
+        mkdir -p results/trees/{wildcards.clade}
+
+        iqtree \
+            -s "{input.alignment}" \
+            -st DNA \
+            -m MFP \
+            -bb 1000 \
+            -nt 1 \
+            -pre "results/trees/{wildcards.clade}/{wildcards.region}" \
+            > "{log}" 2>&1
+        """
