@@ -1,0 +1,80 @@
+Assuming unrestricted shared filesystem usage.
+
+SNAKEMAKE
+=========
+  Date: 2026-09-27 22:54:37
+  Workflow ID: 7c78a67e-2ed3-4fff-80f3-92a525dc208f
+  Platform: macOS-15.7.3-arm64-arm-64bit-Mach-O
+  Host: MacBook-Air-Bagavetdinova.local
+  User: abagavetdinova
+  Snakemake version: 9.25.1
+  Python version: 3.14.6 | packaged by conda-forge | (main, Aug 11 2026, 10:24:52) [Clang 20.1.8 ]
+  Command: /Users/abagavetdinova/miniforge3/envs/snakemake/bin/snakemake visualization --cores 1
+  Snakefile: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile
+  Base directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Run directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Working directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Config file(s): ['constants/config.yaml']
+  Config MD5: 103d45a59dbf903b28041e26659c2892
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job                      count
+---------------------  -------
+plot_gradient_heatmap        4
+visualization                1
+total                        5
+
+Select jobs to execute...
+Execute 1 jobs...
+[Sun Sep 27 22:54:37 2026]
+localrule plot_gradient_heatmap:
+    input: results/trees/G/G_ORF1ab.treefile, results/trees/G/G_ORF2.treefile, constants/Astroviridae_Aves_Amphibia_14072026_host.csv, constants/Astroviridae_Aves_30042026_clusters_shorter.csv, constants/host_colors.R
+    output: results/trees/G/visualization_done.pdf
+    log: logs/visualization_G.log
+    jobid: 1
+    reason: Missing output files: results/trees/G/visualization_done.pdf
+    wildcards: clade=G
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+RuleException:
+CalledProcessError in file "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile", line 126:
+Command 'set -euo pipefail;  
+        mkdir -p "results/trees/G"
+
+        Rscript scripts/plot_gradient_heatmap.R             --reference-tree "results/trees/G/G_ORF1ab.treefile"             --outgroup "OQ986679"             --clades "16,13"             --tree-files "results/trees/G/G_ORF1ab.treefile,results/trees/G/G_ORF2.treefile"             --metadata "constants/Astroviridae_Aves_Amphibia_14072026_host.csv"             --clusters "constants/Astroviridae_Aves_30042026_clusters_shorter.csv"             --host-colors "constants/host_colors.R"             --output-dir "results/trees/G"             --done-file "results/trees/G/visualization_done.pdf"             > "logs/visualization_G.log" 2>&1' returned non-zero exit status 1.
+[Sun Sep 27 22:54:38 2026]
+Error in rule plot_gradient_heatmap:
+    message: None
+    jobid: 1
+    input: results/trees/G/G_ORF1ab.treefile, results/trees/G/G_ORF2.treefile, constants/Astroviridae_Aves_Amphibia_14072026_host.csv, constants/Astroviridae_Aves_30042026_clusters_shorter.csv, constants/host_colors.R
+    output: results/trees/G/visualization_done.pdf
+    log: logs/visualization_G.log (check log file(s) for error details)
+    shell:
+        
+        mkdir -p "results/trees/G"
+
+        Rscript scripts/plot_gradient_heatmap.R             --reference-tree "results/trees/G/G_ORF1ab.treefile"             --outgroup "OQ986679"             --clades "16,13"             --tree-files "results/trees/G/G_ORF1ab.treefile,results/trees/G/G_ORF2.treefile"             --metadata "constants/Astroviridae_Aves_Amphibia_14072026_host.csv"             --clusters "constants/Astroviridae_Aves_30042026_clusters_shorter.csv"             --host-colors "constants/host_colors.R"             --output-dir "results/trees/G"             --done-file "results/trees/G/visualization_done.pdf"             > "logs/visualization_G.log" 2>&1
+        
+        (command exited with non-zero exit code)
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look below for error messages
+[Sun Sep 27 22:54:38 2026]
+Error in rule plot_gradient_heatmap:
+    message: None
+    jobid: 1
+    input: results/trees/G/G_ORF1ab.treefile, results/trees/G/G_ORF2.treefile, constants/Astroviridae_Aves_Amphibia_14072026_host.csv, constants/Astroviridae_Aves_30042026_clusters_shorter.csv, constants/host_colors.R
+    output: results/trees/G/visualization_done.pdf
+    log: logs/visualization_G.log (check log file(s) for error details)
+    shell:
+        
+        mkdir -p "results/trees/G"
+
+        Rscript scripts/plot_gradient_heatmap.R             --reference-tree "results/trees/G/G_ORF1ab.treefile"             --outgroup "OQ986679"             --clades "16,13"             --tree-files "results/trees/G/G_ORF1ab.treefile,results/trees/G/G_ORF2.treefile"             --metadata "constants/Astroviridae_Aves_Amphibia_14072026_host.csv"             --clusters "constants/Astroviridae_Aves_30042026_clusters_shorter.csv"             --host-colors "constants/host_colors.R"             --output-dir "results/trees/G"             --done-file "results/trees/G/visualization_done.pdf"             > "logs/visualization_G.log" 2>&1
+        
+        (command exited with non-zero exit code)
+Complete log(s): /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/.snakemake/log/2026-09-27T225437.657630.snakemake.log
+WorkflowError:
+At least one job did not complete successfully.

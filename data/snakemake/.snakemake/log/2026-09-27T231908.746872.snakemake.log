@@ -1,0 +1,70 @@
+Assuming unrestricted shared filesystem usage.
+
+SNAKEMAKE
+=========
+  Date: 2026-09-27 23:19:08
+  Workflow ID: fbb7da92-1241-4a7e-9a55-4a6cf1dfc2a0
+  Platform: macOS-15.7.3-arm64-arm-64bit-Mach-O
+  Host: MacBook-Air-Bagavetdinova.local
+  User: abagavetdinova
+  Snakemake version: 9.25.1
+  Python version: 3.14.6 | packaged by conda-forge | (main, Aug 11 2026, 10:24:52) [Clang 20.1.8 ]
+  Command: /Users/abagavetdinova/miniforge3/envs/snakemake/bin/snakemake visualization --cores 1
+  Snakefile: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile
+  Base directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Run directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Working directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Config file(s): ['constants/config.yaml']
+  Config MD5: a3f65c12c7fb55e0cb4c9a16c77325c0
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job                      count
+---------------------  -------
+plot_gradient_heatmap        2
+visualization                1
+total                        3
+
+Select jobs to execute...
+Execute 1 jobs...
+[Sun Sep 27 23:19:09 2026]
+localrule plot_gradient_heatmap:
+    input: results/trees/R/R_ORF1a_1.treefile, results/trees/R/R_ORF1ab.treefile, results/trees/R/R_ORF1b2.treefile, constants/Astroviridae_Aves_Amphibia_14072026_host.csv, constants/Astroviridae_Aves_30042026_clusters_shorter.csv, constants/host_colors.R
+    output: results/trees/R/visualization_done.pdf
+    log: logs/visualization_R.log
+    jobid: 22
+    reason: Params have changed since last execution: Union of exclusive params before and now across all output: before: '34,30,44,27' now: '34,30,44,27,41' 
+    wildcards: clade=R
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+Select jobs to execute...
+[Sun Sep 27 23:19:11 2026]
+Finished jobid: 22 (Rule: plot_gradient_heatmap)
+1 of 3 steps (33%) done
+Execute 1 jobs...
+[Sun Sep 27 23:19:11 2026]
+localrule plot_gradient_heatmap:
+    input: results/trees/P_Y/P_Y_ORF1a.treefile, results/trees/P_Y/P_Y_ORF1b.treefile, results/trees/P_Y/P_Y_ORF2_1.treefile, results/trees/P_Y/P_Y_ORF2_2.treefile, constants/Astroviridae_Aves_Amphibia_14072026_host.csv, constants/Astroviridae_Aves_30042026_clusters_shorter.csv, constants/host_colors.R
+    output: results/trees/P_Y/visualization_done.pdf
+    log: logs/visualization_P_Y.log
+    jobid: 6
+    reason: Params have changed since last execution: Union of exclusive params before and now across all output: before: '51,76,49,63' now: '60,76,56,65,84,48' 
+    wildcards: clade=P_Y
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Sep 27 23:19:14 2026]
+Finished jobid: 6 (Rule: plot_gradient_heatmap)
+2 of 3 steps (67%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Sun Sep 27 23:19:14 2026]
+localrule visualization:
+    input: results/trees/G/visualization_done.pdf, results/trees/P_Y/visualization_done.pdf, results/trees/B/visualization_done.pdf, results/trees/R/visualization_done.pdf
+    jobid: 0
+    reason: Input files updated by another job: results/trees/P_Y/visualization_done.pdf, results/trees/R/visualization_done.pdf
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Sep 27 23:19:14 2026]
+Finished jobid: 0 (Rule: visualization)
+3 of 3 steps (100%) done
+Complete log(s): /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/.snakemake/log/2026-09-27T231908.746872.snakemake.log

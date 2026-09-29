@@ -1,0 +1,98 @@
+Assuming unrestricted shared filesystem usage.
+
+SNAKEMAKE
+=========
+  Date: 2026-09-27 23:05:26
+  Workflow ID: 8366cbe1-ded6-4d85-b0c9-24b06cf834c7
+  Platform: macOS-15.7.3-arm64-arm-64bit-Mach-O
+  Host: MacBook-Air-Bagavetdinova.local
+  User: abagavetdinova
+  Snakemake version: 9.25.1
+  Python version: 3.14.6 | packaged by conda-forge | (main, Aug 11 2026, 10:24:52) [Clang 20.1.8 ]
+  Command: /Users/abagavetdinova/miniforge3/envs/snakemake/bin/snakemake visualization --cores 1
+  Snakefile: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile
+  Base directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Run directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Working directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Config file(s): ['constants/config.yaml']
+  Config MD5: 103d45a59dbf903b28041e26659c2892
+
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job                      count
+---------------------  -------
+plot_gradient_heatmap        4
+visualization                1
+total                        5
+
+Select jobs to execute...
+Execute 1 jobs...
+[Sun Sep 27 23:05:26 2026]
+localrule plot_gradient_heatmap:
+    input: results/trees/R/R_ORF1a_1.treefile, results/trees/R/R_ORF1ab.treefile, results/trees/R/R_ORF1b2.treefile, constants/Astroviridae_Aves_Amphibia_14072026_host.csv, constants/Astroviridae_Aves_30042026_clusters_shorter.csv, constants/host_colors.R
+    output: results/trees/R/visualization_done.pdf
+    log: logs/visualization_R.log
+    jobid: 22
+    reason: Missing output files: results/trees/R/visualization_done.pdf
+    wildcards: clade=R
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+Select jobs to execute...
+[Sun Sep 27 23:05:29 2026]
+Finished jobid: 22 (Rule: plot_gradient_heatmap)
+1 of 5 steps (20%) done
+Execute 1 jobs...
+[Sun Sep 27 23:05:29 2026]
+localrule plot_gradient_heatmap:
+    input: results/trees/B/B_ORF1a.treefile, results/trees/B/B_ORF1b.treefile, results/trees/B/B_ORF2_trim.treefile, constants/Astroviridae_Aves_Amphibia_14072026_host.csv, constants/Astroviridae_Aves_30042026_clusters_shorter.csv, constants/host_colors.R
+    output: results/trees/B/visualization_done.pdf
+    log: logs/visualization_B.log
+    jobid: 15
+    reason: Missing output files: results/trees/B/visualization_done.pdf
+    wildcards: clade=B
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+Select jobs to execute...
+[Sun Sep 27 23:05:31 2026]
+Finished jobid: 15 (Rule: plot_gradient_heatmap)
+2 of 5 steps (40%) done
+Execute 1 jobs...
+[Sun Sep 27 23:05:31 2026]
+localrule plot_gradient_heatmap:
+    input: results/trees/P_Y/P_Y_ORF1a.treefile, results/trees/P_Y/P_Y_ORF1b.treefile, results/trees/P_Y/P_Y_ORF2_1.treefile, results/trees/P_Y/P_Y_ORF2_2.treefile, constants/Astroviridae_Aves_Amphibia_14072026_host.csv, constants/Astroviridae_Aves_30042026_clusters_shorter.csv, constants/host_colors.R
+    output: results/trees/P_Y/visualization_done.pdf
+    log: logs/visualization_P_Y.log
+    jobid: 6
+    reason: Missing output files: results/trees/P_Y/visualization_done.pdf
+    wildcards: clade=P_Y
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+Select jobs to execute...
+[Sun Sep 27 23:05:34 2026]
+Finished jobid: 6 (Rule: plot_gradient_heatmap)
+3 of 5 steps (60%) done
+Execute 1 jobs...
+[Sun Sep 27 23:05:34 2026]
+localrule plot_gradient_heatmap:
+    input: results/trees/G/G_ORF1ab.treefile, results/trees/G/G_ORF2.treefile, constants/Astroviridae_Aves_Amphibia_14072026_host.csv, constants/Astroviridae_Aves_30042026_clusters_shorter.csv, constants/host_colors.R
+    output: results/trees/G/visualization_done.pdf
+    log: logs/visualization_G.log
+    jobid: 1
+    reason: Missing output files: results/trees/G/visualization_done.pdf
+    wildcards: clade=G
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Sep 27 23:05:36 2026]
+Finished jobid: 1 (Rule: plot_gradient_heatmap)
+4 of 5 steps (80%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Sun Sep 27 23:05:36 2026]
+localrule visualization:
+    input: results/trees/G/visualization_done.pdf, results/trees/P_Y/visualization_done.pdf, results/trees/B/visualization_done.pdf, results/trees/R/visualization_done.pdf
+    jobid: 0
+    reason: Input files updated by another job: results/trees/G/visualization_done.pdf, results/trees/B/visualization_done.pdf, results/trees/P_Y/visualization_done.pdf, results/trees/R/visualization_done.pdf
+    resources: tmpdir=/var/folders/4s/r54mw0_91tq0zxl_zfbt45y80000gn/T
+[Sun Sep 27 23:05:36 2026]
+Finished jobid: 0 (Rule: visualization)
+5 of 5 steps (100%) done
+Complete log(s): /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/.snakemake/log/2026-09-27T230526.474937.snakemake.log

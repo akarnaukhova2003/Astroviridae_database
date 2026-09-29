@@ -1,0 +1,199 @@
+ggtree v4.0.5 Learn more at https://yulab-smu.top/contribution-tree-data/
+
+Please cite:
+
+Guangchuang Yu, David Smith, Huachen Zhu, Yi Guan, Tommy Tsan-Yuk Lam.
+ggtree: an R package for visualization and annotation of phylogenetic
+trees with their covariates and other associated data. Methods in
+Ecology and Evolution. 2017, 8(1):28-36. doi:10.1111/2041-210X.12628
+
+Присоединяю пакет: ‘ggtree’
+
+Следующий объект скрыт от ‘package:ape’:
+
+    rotate
+
+Загрузка требуемого пакета: maps
+
+Присоединяю пакет: ‘dplyr’
+
+Следующий объект скрыт от ‘package:ape’:
+
+    where
+
+Следующие объекты скрыты от ‘package:stats’:
+
+    filter, lag
+
+Следующие объекты скрыты от ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Клада 64 : 5 листьев
+Клада 70 : 6 листьев
+Клада 77 : 4 листьев
+Клада 82 : 19 листьев
+Клада 103 : 9 листьев
+Клада 59 : 3 листьев
+Предупреждение:
+Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
+ℹ Please use `linewidth` instead.
+ℹ The deprecated feature was likely used in the ggtree package.
+  Please report the issue at <https://github.com/YuLab-SMU/ggtree/issues>. 
+
+========================================
+Создана фиксированная карта цветов
+Количество окрашенных листьев: 46 
+========================================
+
+     ID_norm tip_color
+1   PP763758   #E9E6FF
+2   MW353015   #CBC7E7
+3   MZ819185   #AEA9CF
+4   OR907134   #908BB7
+5  NC_034567   #736D9F
+6   PV793828   #E7CDFF
+7   JX624774   #D1AAED
+8   OR924092   #BB88DC
+9   OR924091   #A665CB
+10  OR924090   #9043BA
+11  OR902759   #7B21A9
+12  FJ919228   #FFD0E9
+13  FJ434664   #DD9CC2
+14  OR134528   #BB699B
+15  FJ919227   #993675
+16  PV093029   #FFDFCD
+17  MN725025   #F9D7C3
+18  KT886453   #F3D0BA
+19  OQ685946   #EDC9B1
+20  MT789787   #E7C2A8
+
+========================================
+Обрабатывается: results/trees/B/B_ORF1a.treefile 
+========================================
+
+=== ПРОВЕРКА MAPPING ===
+Всего листьев: 55 
+Сопоставлено: 55 
+Не сопоставлено: 0 
+     tree_id cluster_id aa83 aa90 nt86 nt80                     host
+1   PV793827   PV793827    4   32   49    4     Gruidae (журавлиные)
+2   PV793829   PV793829    6   34   51    6        Anatidae (утиные)
+3   PP763758   PP763758   33   60   15   58        Anatidae (утиные)
+4   OR907134   OR907134   33   60   15   58        Anatidae (утиные)
+5  NC_034567  NC_034567   33   60   15   58        Anatidae (утиные)
+6   MZ819185   MZ819185   33   60   15   58        Anatidae (утиные)
+7   MW353015   MW353015   33   60   15   58        Anatidae (утиные)
+8   PV793828   PV793828    2   35   53    7        Anatidae (утиные)
+9   OR924092   OR924092    2   29   25   26        Anatidae (утиные)
+10  OR924091   OR924091    2   29   25   26        Anatidae (утиные)
+11  OR924090   OR924090    2   29   25   26        Anatidae (утиные)
+12  OR902759   OR902759    2   29   25   26        Anatidae (утиные)
+13  JX624774   JX624774    2   29   25   26        Anatidae (утиные)
+14  PV093018   PV093018    7   36   54    8 Mammalia (Млекопитающие)
+15 NC_002470  NC_002470    7   36   54    8  Phasianidae (фазановые)
+16  OR134528   OR134528    3   31   48    3        Anatidae (утиные)
+17  FJ919227   FJ919227    3   31   48    3        Anatidae (утиные)
+18  FJ434664   FJ434664    3   31   48    3        Anatidae (утиные)
+19  FJ919228   FJ919228    3   31   48    3        Anatidae (утиные)
+20  MW588063   MW588063   14   44   62   16        Anatidae (утиные)
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+
+Готово: results/trees/B/B_ORF1a.treefile 
+
+========================================
+Обрабатывается: results/trees/B/B_ORF1b.treefile 
+========================================
+
+=== ПРОВЕРКА MAPPING ===
+Всего листьев: 55 
+Сопоставлено: 55 
+Не сопоставлено: 0 
+     tree_id cluster_id aa83 aa90 nt86 nt80                     host
+1   PV793827   PV793827    4   32   49    4     Gruidae (журавлиные)
+2   PV793829   PV793829    6   34   51    6        Anatidae (утиные)
+3   PV093018   PV093018    7   36   54    8 Mammalia (Млекопитающие)
+4  NC_002470  NC_002470    7   36   54    8  Phasianidae (фазановые)
+5   PV793828   PV793828    2   35   53    7        Anatidae (утиные)
+6   OR924092   OR924092    2   29   25   26        Anatidae (утиные)
+7   OR924090   OR924090    2   29   25   26        Anatidae (утиные)
+8   OR902759   OR902759    2   29   25   26        Anatidae (утиные)
+9   JX624774   JX624774    2   29   25   26        Anatidae (утиные)
+10  OR924091   OR924091    2   29   25   26        Anatidae (утиные)
+11  PP871812   PP871812    1   30   50    5 Mammalia (Млекопитающие)
+12  MW846319   MW846319    1   30   50    5  Phasianidae (фазановые)
+13  KT886453   KT886453    1   30   50    5  Phasianidae (фазановые)
+14  PP871804   PP871804    1   30   50    5 Mammalia (Млекопитающие)
+15  OR286522   OR286522    1   30   50    5  Phasianidae (фазановые)
+16  OR351273   OR351273    1   30   50    5  Phasianidae (фазановые)
+17  OQ685946   OQ685946    1   30   50    5  Phasianidae (фазановые)
+18  MW684830   MW684830    1   30   50    5  Phasianidae (фазановые)
+19  MW684817   MW684817    1   30   50    5  Phasianidae (фазановые)
+20  MT491732   MT491732    1   30   50    5  Phasianidae (фазановые)
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+
+Готово: results/trees/B/B_ORF1b.treefile 
+
+========================================
+Обрабатывается: results/trees/B/B_ORF2_trim.treefile 
+========================================
+
+=== ПРОВЕРКА MAPPING ===
+Всего листьев: 55 
+Сопоставлено: 55 
+Не сопоставлено: 0 
+    tree_id cluster_id aa83 aa90 nt86 nt80                     host
+1  PV793827   PV793827    4   32   49    4     Gruidae (журавлиные)
+2  PV793829   PV793829    6   34   51    6        Anatidae (утиные)
+3  PV093029   PV093029    1   28   46    1 Mammalia (Млекопитающие)
+4  MN725025   MN725025    1   28   46    1  Phasianidae (фазановые)
+5  KY038163   KY038163    1   30   50    5  Phasianidae (фазановые)
+6  OR351273   OR351273    1   30   50    5  Phasianidae (фазановые)
+7  MT789787   MT789787    1   30   50    5  Phasianidae (фазановые)
+8  MT789782   MT789782    1   30   50    5  Phasianidae (фазановые)
+9  KX397575   KX397575    1   30   50    5  Phasianidae (фазановые)
+10 MT789780   MT789780    1   30   50    5  Phasianidae (фазановые)
+11 OR286522   OR286522    1   30   50    5  Phasianidae (фазановые)
+12 MW684830   MW684830    1   30   50    5  Phasianidae (фазановые)
+13 MW684817   MW684817    1   30   50    5  Phasianidae (фазановые)
+14 MT491732   MT491732    1   30   50    5  Phasianidae (фазановые)
+15 MW846319   MW846319    1   30   50    5  Phasianidae (фазановые)
+16 JF414802   JF414802    1   30   50    5  Phasianidae (фазановые)
+17 JF832365   JF832365    5   33   50    5  Phasianidae (фазановые)
+18 OR907125   OR907125    8   37   56   10        Anatidae (утиные)
+19 KJ020899   KJ020899    8   37   56   10        Anatidae (утиные)
+20 PV793828   PV793828    2   35   53    7        Anatidae (утиные)
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+
+Готово: results/trees/B/B_ORF2_trim.treefile 
+Было 50 или более предупреждений (введите warnings() чтобы просмотреть первые 50)
+[1] TRUE
+
+Все деревья обработаны.

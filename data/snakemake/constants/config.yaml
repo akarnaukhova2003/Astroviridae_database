@@ -62,3 +62,64 @@ alignments:
       R_ORF1b2:
         start: 4300
         end: 7146
+
+
+visualization:
+
+  P_Y:
+    reference_tree: "P_Y/P_Y_ORF1b.treefile"
+    outgroup: "MG599917"
+    clades:
+      - 60
+      - 76
+      - 56
+      - 65
+      - 84
+      - 48
+    tree_files:
+      - "P_Y/P_Y_ORF1a.treefile"
+      - "P_Y/P_Y_ORF1b.treefile"
+      - "P_Y/P_Y_ORF2_1.treefile"
+      - "P_Y/P_Y_ORF2_2.treefile"
+
+
+  G:
+    reference_tree: "G/G_ORF1ab.treefile"
+    outgroup: "OQ986679"
+    clades:
+      - 16
+      - 13
+    tree_files:
+      - "G/G_ORF1ab.treefile"
+      - "G/G_ORF2.treefile"
+
+
+  B:
+    reference_tree: "B/B_ORF1a.treefile"
+    outgroup: "PQ893528"
+    clades:
+      - 64
+      - 70
+      - 77
+      - 82
+      - 103
+      - 59
+    tree_files:
+      - "B/B_ORF1a.treefile"
+      - "B/B_ORF1b.treefile"
+      - "B/B_ORF2_trim.treefile"
+
+
+  R:
+    reference_tree: "R/R_ORF1a_1.treefile"
+    outgroup: "MG599918"
+    clades:
+      - 34
+      - 30
+      - 44
+      - 27
+      - 41
+    tree_files:
+      - "R/R_ORF1a_1.treefile"
+      - "R/R_ORF1ab.treefile"
+      - "R/R_ORF1b2.treefile"

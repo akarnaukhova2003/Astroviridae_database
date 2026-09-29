@@ -1,0 +1,11 @@
+host_original	host_clean	species	genus	family	order	class	phylum	kingdom
+Cygnus olor	Cygnus olor	Cygnus olor	Cygnus	Anatidae	Anseriformes	Aves	Chordata	Metazoa
+Gerygone igata	Gerygone igata	Gerygone igata	Gerygone	Acanthizidae	Passeriformes	Aves	Chordata	Metazoa
+Rhipidura fuliginosa	Rhipidura fuliginosa	Rhipidura fuliginosa	Rhipidura	Rhipiduridae	Passeriformes	Aves	Chordata	Metazoa
+Periparus ater	Periparus ater	Periparus ater	Periparus	Paridae	Passeriformes	Aves	Chordata	Metazoa
+Prunella montanella	Prunella	Prunella montanella	Prunella	Prunellidae	Passeriformes	Aves	Chordata	Metazoa
+Petroica macrocephala	Petroica macrocephala	Petroica macrocephala	Petroica	Petroicidae	Passeriformes	Aves	Chordata	Metazoa
+Rhesus monkey	Rhesus	Rhesus monkey	NA	NA	NA	NA	NA	NA
+Duck	Duck	Anas platyrhynchos	Anas	Anatidae	Anseriformes	Aves	Chordata	Metazoa
+turkey	turkey	Meleagris gallopavo	Meleagris	Phasianidae	Galliformes	Aves	Chordata	Metazoa
+Gallus gallus	Gallus gallus	Gallus gallus	Gallus	Phasianidae	Galliformes	Aves	Chordata	Metazoa

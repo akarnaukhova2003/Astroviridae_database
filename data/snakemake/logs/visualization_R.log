@@ -1,0 +1,198 @@
+ggtree v4.0.5 Learn more at https://yulab-smu.top/contribution-tree-data/
+
+Please cite:
+
+Guangchuang Yu, Tommy Tsan-Yuk Lam, Huachen Zhu, Yi Guan. Two methods
+for mapping and visualizing associated data on phylogeny using ggtree.
+Molecular Biology and Evolution. 2018, 35(12):3041-3043.
+doi:10.1093/molbev/msy194
+
+Присоединяю пакет: ‘ggtree’
+
+Следующий объект скрыт от ‘package:ape’:
+
+    rotate
+
+Загрузка требуемого пакета: maps
+
+Присоединяю пакет: ‘dplyr’
+
+Следующий объект скрыт от ‘package:ape’:
+
+    where
+
+Следующие объекты скрыты от ‘package:stats’:
+
+    filter, lag
+
+Следующие объекты скрыты от ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Клада 34 : 8 листьев
+Клада 30 : 4 листьев
+Клада 44 : 4 листьев
+Клада 27 : 3 листьев
+Клада 41 : 3 листьев
+Предупреждение:
+Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
+ℹ Please use `linewidth` instead.
+ℹ The deprecated feature was likely used in the ggtree package.
+  Please report the issue at <https://github.com/YuLab-SMU/ggtree/issues>. 
+
+========================================
+Создана фиксированная карта цветов
+Количество окрашенных листьев: 22 
+========================================
+
+    ID_norm tip_color
+1  MW826482   #D7FD92
+2  MN920668   #C7EC7D
+3  MW826371   #B7DC69
+4  MN920663   #A8CC55
+5  MN920671   #98BB40
+6  MN920672   #89AB2C
+7  MT137992   #799B18
+8  MN920669   #6A8B04
+9  MK096775   #E8E3FE
+10 MK096774   #C0B9E0
+11 OQ986609   #988FC2
+12 OQ986606   #7165A5
+13 MW385412   #F6CBFF
+14 KT946719   #D195DB
+15 KT946720   #AD5FB8
+16 KT946718   #892A95
+17 OQ986608   #FFDCD4
+18 OQ986679   #CB9A8A
+19 OQ986607   #985840
+20 MN920670   #C1FEE8
+
+========================================
+Обрабатывается: results/trees/R/R_ORF1a_1.treefile 
+========================================
+
+=== ПРОВЕРКА MAPPING ===
+Всего листьев: 23 
+Сопоставлено: 23 
+Не сопоставлено: 0 
+    tree_id cluster_id aa83 aa90 nt86 nt80                           host
+1  OQ986679   OQ986679   44   18   16   17   Acanthizidae (шипоклювковые)
+2  OQ986609   OQ986609   47   21   19   20 Rhipiduridae (веерохвостковые)
+3  OQ986606   OQ986606   51   26   24   25   Acanthizidae (шипоклювковые)
+4  MK096774   MK096774   17    4   29   30        Passeridae (воробьиные)
+5  MK096775   MK096775   15    2   27   28        Passeridae (воробьиные)
+6  MW826482   MW826482   12   41   59   13        Passeridae (воробьиные)
+7  MN920668   MN920668   36   51    7   50                             NA
+8  MW826371   MW826371   49   23   21   22                             NA
+9  MT137992   MT137992   26   14    2   44                             NA
+10 MN920669   MN920669   26   49    4   48                             NA
+11 MN920672   MN920672   26   14    2   44                             NA
+12 MN920671   MN920671   26   14    2   44                             NA
+13 MN920663   MN920663   36   58   13   56                             NA
+14 MT137991   MT137991   28   16   44   40     Prunellidae (завирушковые)
+15 MK096773   MK096773   35   50    5   49        Passeridae (воробьиные)
+16 MN920670   MN920670   34   47    3   45                             NA
+17 MW385412   MW385412   42   57   12   55            Corvidae (врановые)
+18 KT946720   KT946720   30   45   42   42            Corvidae (врановые)
+19 KT946718   KT946718   30   45   42   42            Corvidae (врановые)
+20 KT946719   KT946719   30   45   42   42            Corvidae (врановые)
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+
+Готово: results/trees/R/R_ORF1a_1.treefile 
+
+========================================
+Обрабатывается: results/trees/R/R_ORF1ab.treefile 
+========================================
+
+=== ПРОВЕРКА MAPPING ===
+Всего листьев: 23 
+Сопоставлено: 23 
+Не сопоставлено: 0 
+    tree_id cluster_id aa83 aa90 nt86 nt80                           host
+1  OQ986679   OQ986679   44   18   16   17   Acanthizidae (шипоклювковые)
+2  OQ986609   OQ986609   47   21   19   20 Rhipiduridae (веерохвостковые)
+3  OQ986606   OQ986606   51   26   24   25   Acanthizidae (шипоклювковые)
+4  MK096774   MK096774   17    4   29   30        Passeridae (воробьиные)
+5  MK096775   MK096775   15    2   27   28        Passeridae (воробьиные)
+6  OQ986608   OQ986608   48   22   20   21 Rhipiduridae (веерохвостковые)
+7  OQ986607   OQ986607   50   24   22   23   Acanthizidae (шипоклювковые)
+8  MW826482   MW826482   12   41   59   13        Passeridae (воробьиные)
+9  MN920668   MN920668   36   51    7   50                             NA
+10 MW826371   MW826371   49   23   21   22                             NA
+11 MN920663   MN920663   36   58   13   56                             NA
+12 MT137992   MT137992   26   14    2   44                             NA
+13 MN920672   MN920672   26   14    2   44                             NA
+14 MN920671   MN920671   26   14    2   44                             NA
+15 MN920669   MN920669   26   49    4   48                             NA
+16 MN920670   MN920670   34   47    3   45                             NA
+17 MT137991   MT137991   28   16   44   40     Prunellidae (завирушковые)
+18 MK096773   MK096773   35   50    5   49        Passeridae (воробьиные)
+19 MW385412   MW385412   42   57   12   55            Corvidae (врановые)
+20 KT946720   KT946720   30   45   42   42            Corvidae (врановые)
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+
+Готово: results/trees/R/R_ORF1ab.treefile 
+
+========================================
+Обрабатывается: results/trees/R/R_ORF1b2.treefile 
+========================================
+
+=== ПРОВЕРКА MAPPING ===
+Всего листьев: 23 
+Сопоставлено: 23 
+Не сопоставлено: 0 
+    tree_id cluster_id aa83 aa90 nt86 nt80                           host
+1  OQ986679   OQ986679   44   18   16   17   Acanthizidae (шипоклювковые)
+2  OQ986609   OQ986609   47   21   19   20 Rhipiduridae (веерохвостковые)
+3  OQ986606   OQ986606   51   26   24   25   Acanthizidae (шипоклювковые)
+4  MK096774   MK096774   17    4   29   30        Passeridae (воробьиные)
+5  MN920670   MN920670   34   47    3   45                             NA
+6  MK096775   MK096775   15    2   27   28        Passeridae (воробьиные)
+7  OQ986608   OQ986608   48   22   20   21 Rhipiduridae (веерохвостковые)
+8  MW826482   MW826482   12   41   59   13        Passeridae (воробьиные)
+9  MW826371   MW826371   49   23   21   22                             NA
+10 MN920669   MN920669   26   49    4   48                             NA
+11 MT137992   MT137992   26   14    2   44                             NA
+12 MN920672   MN920672   26   14    2   44                             NA
+13 MN920671   MN920671   26   14    2   44                             NA
+14 MN920663   MN920663   36   58   13   56                             NA
+15 MK096773   MK096773   35   50    5   49        Passeridae (воробьиные)
+16 MN920668   MN920668   36   51    7   50                             NA
+17 MT137991   MT137991   28   16   44   40     Prunellidae (завирушковые)
+18 KT946720   KT946720   30   45   42   42            Corvidae (врановые)
+19 KT946718   KT946718   30   45   42   42            Corvidae (врановые)
+20 KT946719   KT946719   30   45   42   42            Corvidae (врановые)
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+
+Готово: results/trees/R/R_ORF1b2.treefile 
+Было 50 или более предупреждений (введите warnings() чтобы просмотреть первые 50)
+[1] TRUE
+
+Все деревья обработаны.

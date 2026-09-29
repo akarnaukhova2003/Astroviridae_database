@@ -1,4 +1,4 @@
-configfile: "config.yaml"
+configfile: "constants/config.yaml"
 
 
 CLADES = list(config["alignments"].keys())
@@ -8,6 +8,7 @@ REGIONS = {
     for clade in CLADES
 }
 
+
 ALL_TREES = [
     f"results/trees/{clade}/{region}.treefile"
     for clade in CLADES
@@ -15,25 +16,46 @@ ALL_TREES = [
 ]
 
 
+VISUALIZATION_CLADES = list(config["visualization"].keys())
+
+
+VISUALIZATION_TARGETS = [
+    f"results/trees/{clade}/visualization_done.pdf"
+    for clade in VISUALIZATION_CLADES
+]
+
+
+def visualization_trees(wildcards):
+    return [
+        f"results/trees/{tree}"
+        for tree in config["visualization"][wildcards.clade]["tree_files"]
+    ]
+
+
 rule all:
+    input:
+        ALL_TREES,
+        VISUALIZATION_TARGETS
+
+
+rule existing:
     input:
         ALL_TREES
 
 
 rule split_alignment:
     input:
-        alignment=lambda wildcards: config["alignments"][wildcards.clade]["input"]
-
+        alignment=lambda wildcards:
+            config["alignments"][wildcards.clade]["input"]
     output:
         "results/alignments/{clade}/{region}.fasta"
-
     params:
-        start=lambda wildcards: config["alignments"][wildcards.clade]["regions"][wildcards.region]["start"],
-        end=lambda wildcards: config["alignments"][wildcards.clade]["regions"][wildcards.region]["end"]
-
+        start=lambda wildcards:
+            config["alignments"][wildcards.clade]["regions"][wildcards.region]["start"],
+        end=lambda wildcards:
+            config["alignments"][wildcards.clade]["regions"][wildcards.region]["end"]
     log:
         "logs/split_{clade}_{region}.log"
-
     shell:
         """
         python scripts/split_alignment_clades.py \
@@ -48,15 +70,11 @@ rule split_alignment:
 rule iqtree:
     input:
         alignment="results/alignments/{clade}/{region}.fasta"
-
     output:
         tree="results/trees/{clade}/{region}.treefile"
-
     log:
         "logs/iqtree_{clade}_{region}.log"
-
     threads: 1
-
     shell:
         """
         mkdir -p results/trees/{wildcards.clade}
@@ -70,3 +88,81 @@ rule iqtree:
             -pre "results/trees/{wildcards.clade}/{wildcards.region}" \
             > "{log}" 2>&1
         """
+
+
+rule plot_gradient_heatmap:
+    input:
+        trees=visualization_trees,
+        metadata="constants/Astroviridae_Aves_Amphibia_14072026_host.csv",
+        clusters="constants/Astroviridae_Aves_30042026_clusters_shorter.csv",
+        host_colors="constants/host_colors.R"
+    output:
+        done="results/trees/{clade}/visualization_done.pdf"
+    params:
+        reference_tree=lambda wildcards:
+            f"results/trees/{config['visualization'][wildcards.clade]['reference_tree']}",
+
+        outgroup=lambda wildcards:
+            config["visualization"][wildcards.clade]["outgroup"],
+
+        clades=lambda wildcards:
+            ",".join(
+                map(
+                    str,
+                    config["visualization"][wildcards.clade]["clades"]
+                )
+            ),
+
+        tree_files=lambda wildcards:
+            ",".join(
+                visualization_trees(wildcards)
+            ),
+
+        output_dir=lambda wildcards:
+            f"results/trees/{wildcards.clade}"
+    log:
+        "logs/visualization_{clade}.log"
+    shell:
+        """
+        mkdir -p "{params.output_dir}"
+
+        Rscript scripts/plot_gradient_heatmap.R \
+            --reference-tree "{params.reference_tree}" \
+            --outgroup "{params.outgroup}" \
+            --clades "{params.clades}" \
+            --tree-files "{params.tree_files}" \
+            --metadata "{input.metadata}" \
+            --clusters "{input.clusters}" \
+            --host-colors "{input.host_colors}" \
+            --output-dir "{params.output_dir}" \
+            --done-file "{output.done}" \
+            > "{log}" 2>&1
+        """
+
+
+rule visualization_G:
+    input:
+        "results/trees/G/visualization_done.pdf"
+
+
+rule visualization_P_Y:
+    input:
+        "results/trees/P_Y/visualization_done.pdf"
+
+
+rule visualization_B:
+    input:
+        "results/trees/B/visualization_done.pdf"
+
+
+rule visualization_R:
+    input:
+        "results/trees/R/visualization_done.pdf"
+
+
+rule visualization:
+    input:
+        "results/trees/G/visualization_done.pdf",
+        "results/trees/P_Y/visualization_done.pdf",
+        "results/trees/B/visualization_done.pdf",
+        "results/trees/R/visualization_done.pdf"

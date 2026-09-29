@@ -1,0 +1,241 @@
+ggtree v4.0.5 Learn more at https://yulab-smu.top/contribution-tree-data/
+
+Please cite:
+
+Guangchuang Yu, David Smith, Huachen Zhu, Yi Guan, Tommy Tsan-Yuk Lam.
+ggtree: an R package for visualization and annotation of phylogenetic
+trees with their covariates and other associated data. Methods in
+Ecology and Evolution. 2017, 8(1):28-36. doi:10.1111/2041-210X.12628
+
+Присоединяю пакет: ‘ggtree’
+
+Следующий объект скрыт от ‘package:ape’:
+
+    rotate
+
+Загрузка требуемого пакета: maps
+
+Присоединяю пакет: ‘dplyr’
+
+Следующий объект скрыт от ‘package:ape’:
+
+    where
+
+Следующие объекты скрыты от ‘package:stats’:
+
+    filter, lag
+
+Следующие объекты скрыты от ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Клада 60 : 6 листьев
+Клада 76 : 8 листьев
+Клада 56 : 5 листьев
+Клада 65 : 9 листьев
+Клада 84 : 4 листьев
+Клада 48 : 4 листьев
+Предупреждение:
+Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
+ℹ Please use `linewidth` instead.
+ℹ The deprecated feature was likely used in the ggtree package.
+  Please report the issue at <https://github.com/YuLab-SMU/ggtree/issues>. 
+
+========================================
+Создана фиксированная карта цветов
+Количество окрашенных листьев: 36 
+========================================
+
+    ID_norm tip_color
+1  ON964512   #FFECC0
+2  MW684819   #E9D59B
+3  MZ150559   #D3BE76
+4  MN732559   #BEA752
+5  PV093022   #A8902D
+6  MW684826   #937909
+7  MT138011   #CAFFB3
+8  MT138010   #B8EF9A
+9  MT138007   #A6DF81
+10 MT138005   #94D068
+11 MH453800   #82C04F
+12 MN920667   #70B136
+13 MT138002   #5EA11D
+14 MT137996   #4D9205
+15 PP871798   #BBFDE6
+16 PP871786   #99E1C9
+17 MN732558   #77C5AD
+18 HQ889774   #55A991
+19 HM029238   #338E75
+20 OM469230   #EFCDFF
+
+========================================
+Обрабатывается: results/trees/P_Y/P_Y_ORF1a.treefile 
+========================================
+
+=== ПРОВЕРКА MAPPING ===
+Всего листьев: 43 
+Сопоставлено: 43 
+Не сопоставлено: 0 
+    tree_id cluster_id aa83 aa90 nt86 nt80                     host
+1  PX237222   PX237222   32   27    6   46   Columbidae (голубиные)
+2  PP871808   PP871808   32    7   33   47  Phasianidae (фазановые)
+3  PP871786   PP871786   32   48   52   47  Phasianidae (фазановые)
+4  OQ685945   OQ685945   32   48   52   47  Phasianidae (фазановые)
+5  PV093022   PV093022   32   48   52   47 Mammalia (Млекопитающие)
+6  MW684826   MW684826   32   48   52   47  Phasianidae (фазановые)
+7  MW684833   MW684833   32   48   52   47  Phasianidae (фазановые)
+8  MW684825   MW684825   32   48   52   47  Phasianidae (фазановые)
+9  MW684819   MW684819   32   48   52   47  Phasianidae (фазановые)
+10 ON964512   ON964512   32   48   52   47  Phasianidae (фазановые)
+11 MZ150559   MZ150559   32   48   52   47  Phasianidae (фазановые)
+12 MN732559   MN732559   32   48   52   47  Phasianidae (фазановые)
+13 MW684818   MW684818   32   48   52   47  Phasianidae (фазановые)
+14 HQ889774   HQ889774   32   48   52   47   Columbidae (голубиные)
+15 HM029238   HM029238   32   48   52   47  Phasianidae (фазановые)
+16 OM469230   OM469230   32   48   52   47  Phasianidae (фазановые)
+17 MW684822   MW684822   32   48   52   47  Phasianidae (фазановые)
+18 OM469232   OM469232   32   48   52   47  Phasianidae (фазановые)
+19 MW684829   MW684829   32   48   52   47  Phasianidae (фазановые)
+20 MT585643   MT585643   32   48   52   47  Phasianidae (фазановые)
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+
+Готово: results/trees/P_Y/P_Y_ORF1a.treefile 
+
+========================================
+Обрабатывается: results/trees/P_Y/P_Y_ORF1b.treefile 
+========================================
+
+=== ПРОВЕРКА MAPPING ===
+Всего листьев: 43 
+Сопоставлено: 43 
+Не сопоставлено: 0 
+    tree_id cluster_id aa83 aa90 nt86 nt80                     host
+1  PX237222   PX237222   32   27    6   46   Columbidae (голубиные)
+2  PP871808   PP871808   32    7   33   47  Phasianidae (фазановые)
+3  PP871798   PP871798   32   48   52   47 Mammalia (Млекопитающие)
+4  PP871786   PP871786   32   48   52   47  Phasianidae (фазановые)
+5  MN732558   MN732558   32   48   52   47  Phasianidae (фазановые)
+6  HQ889774   HQ889774   32   48   52   47   Columbidae (голубиные)
+7  HM029238   HM029238   32   48   52   47  Phasianidae (фазановые)
+8  PV093022   PV093022   32   48   52   47 Mammalia (Млекопитающие)
+9  MW684826   MW684826   32   48   52   47  Phasianidae (фазановые)
+10 MN732559   MN732559   32   48   52   47  Phasianidae (фазановые)
+11 MZ150559   MZ150559   32   48   52   47  Phasianidae (фазановые)
+12 ON964512   ON964512   32   48   52   47  Phasianidae (фазановые)
+13 MW684819   MW684819   32   48   52   47  Phasianidae (фазановые)
+14 OM469232   OM469232   32   48   52   47  Phasianidae (фазановые)
+15 MW684833   MW684833   32   48   52   47  Phasianidae (фазановые)
+16 MW684818   MW684818   32   48   52   47  Phasianidae (фазановые)
+17 MW684825   MW684825   32   48   52   47  Phasianidae (фазановые)
+18 MW684829   MW684829   32   48   52   47  Phasianidae (фазановые)
+19 MT585643   MT585643   32   48   52   47  Phasianidae (фазановые)
+20 OM469230   OM469230   32   48   52   47  Phasianidae (фазановые)
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+
+Готово: results/trees/P_Y/P_Y_ORF1b.treefile 
+
+========================================
+Обрабатывается: results/trees/P_Y/P_Y_ORF2_1.treefile 
+========================================
+
+=== ПРОВЕРКА MAPPING ===
+Всего листьев: 43 
+Сопоставлено: 43 
+Не сопоставлено: 0 
+    tree_id cluster_id aa83 aa90 nt86 nt80                     host
+1  PX237222   PX237222   32   27    6   46   Columbidae (голубиные)
+2  PP871808   PP871808   32    7   33   47  Phasianidae (фазановые)
+3  MZ150559   MZ150559   32   48   52   47  Phasianidae (фазановые)
+4  PP871798   PP871798   32   48   52   47 Mammalia (Млекопитающие)
+5  AB033998   AB033998   32   48   52   47  Phasianidae (фазановые)
+6  MT993583   MT993583   27   15   43   39 Scolopacidae (бекасовые)
+7  PP871786   PP871786   32   48   52   47  Phasianidae (фазановые)
+8  OQ685945   OQ685945   32   48   52   47  Phasianidae (фазановые)
+9  MW684826   MW684826   32   48   52   47  Phasianidae (фазановые)
+10 MN732559   MN732559   32   48   52   47  Phasianidae (фазановые)
+11 ON964512   ON964512   32   48   52   47  Phasianidae (фазановые)
+12 MW684833   MW684833   32   48   52   47  Phasianidae (фазановые)
+13 MW684818   MW684818   32   48   52   47  Phasianidae (фазановые)
+14 MW684825   MW684825   32   48   52   47  Phasianidae (фазановые)
+15 MW684822   MW684822   32   48   52   47  Phasianidae (фазановые)
+16 PV093022   PV093022   32   48   52   47 Mammalia (Млекопитающие)
+17 OM469232   OM469232   32   48   52   47  Phasianidae (фазановые)
+18 MN732558   MN732558   32   48   52   47  Phasianidae (фазановые)
+19 MW684819   MW684819   32   48   52   47  Phasianidae (фазановые)
+20 OM469230   OM469230   32   48   52   47  Phasianidae (фазановые)
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+
+Готово: results/trees/P_Y/P_Y_ORF2_1.treefile 
+
+========================================
+Обрабатывается: results/trees/P_Y/P_Y_ORF2_2.treefile 
+========================================
+
+=== ПРОВЕРКА MAPPING ===
+Всего листьев: 43 
+Сопоставлено: 43 
+Не сопоставлено: 0 
+    tree_id cluster_id aa83 aa90 nt86 nt80                             host
+1  PX237222   PX237222   32   27    6   46           Columbidae (голубиные)
+2  PP871808   PP871808   32    7   33   47          Phasianidae (фазановые)
+3  MZ150559   MZ150559   32   48   52   47          Phasianidae (фазановые)
+4  PP871798   PP871798   32   48   52   47         Mammalia (Млекопитающие)
+5  AB033998   AB033998   32   48   52   47          Phasianidae (фазановые)
+6  HQ889774   HQ889774   32   48   52   47           Columbidae (голубиные)
+7  HM029238   HM029238   32   48   52   47          Phasianidae (фазановые)
+8  OM469232   OM469232   32   48   52   47          Phasianidae (фазановые)
+9  MT585643   MT585643   32   48   52   47          Phasianidae (фазановые)
+10 OM469230   OM469230   32   48   52   47          Phasianidae (фазановые)
+11 MW684829   MW684829   32   48   52   47          Phasianidae (фазановые)
+12 MT585644   MT585644   32   48   52   47          Phasianidae (фазановые)
+13 MW684819   MW684819   32   48   52   47          Phasianidae (фазановые)
+14 MN732558   MN732558   32   48   52   47          Phasianidae (фазановые)
+15 PP871786   PP871786   32   48   52   47          Phasianidae (фазановые)
+16 ON964512   ON964512   32   48   52   47          Phasianidae (фазановые)
+17 OQ685945   OQ685945   32   48   52   47          Phasianidae (фазановые)
+18 MW684833   MW684833   32   48   52   47          Phasianidae (фазановые)
+19 MW684818   MW684818   32   48   52   47          Phasianidae (фазановые)
+20 MH453801   MH453801   27   15   41   39 Recurvirostridae (шилоклювковые)
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+
+Готово: results/trees/P_Y/P_Y_ORF2_2.treefile 
+Было 50 или более предупреждений (введите warnings() чтобы просмотреть первые 50)
+[1] TRUE
+
+Все деревья обработаны.

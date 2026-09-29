@@ -35,16 +35,25 @@ tree_files = c(
   "G/G_ORF1ab.treefile",
   "G/G_ORF2.treefile"
 )
+
+# Номера клад на референсном дереве
 clades = c(16, 13)
+
 
 # ============================================================
 # ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ
 # ============================================================
 
 normalize_id = function(x) {
+  
   x = trimws(x)
   x = gsub("'", "", x)
-  sub("/.*$", "", x)
+  
+  sub(
+    "/.*$",
+    "",
+    x
+  )
 }
 
 
@@ -222,6 +231,143 @@ for (i in seq_along(clades)) {
 
 
 # ============================================================
+# СОЗДАНИЕ GGTREE РЕФЕРЕНСНОГО ДЕРЕВА
+# ============================================================
+
+reference_tree_plot = ggtree(
+  reference_tree,
+  size = 0.4
+)
+
+
+reference_tip_rows = which(
+  reference_tree_plot$data$isTip
+)
+
+
+reference_tree_plot$data$ID_norm =
+  NA_character_
+
+
+reference_tree_plot$data$ID_norm[
+  reference_tip_rows
+] = normalize_id(
+  reference_tree_plot$data$label[
+    reference_tip_rows
+  ]
+)
+
+
+# ============================================================
+# СОЗДАНИЕ ФИКСИРОВАННЫХ ГРАДИЕНТОВ
+# ============================================================
+
+reference_tip_colors = data.frame(
+  ID_norm = character(),
+  tip_color = character(),
+  stringsAsFactors = FALSE
+)
+
+
+for (i in seq_along(clades)) {
+  
+  clade_rows = reference_tip_rows[
+    reference_tree_plot$data$ID_norm[
+      reference_tip_rows
+    ] %in%
+      reference_clade_ids[[i]]
+  ]
+  
+  
+  if (!length(clade_rows)) {
+    next
+  }
+  
+  
+  # Порядок листьев определяется ТОЛЬКО
+  # по референсному дереву
+  clade_rows = clade_rows[
+    order(
+      reference_tree_plot$data$y[
+        clade_rows
+      ]
+    )
+  ]
+  
+  
+  # Градиент создаётся ОДИН РАЗ
+  gradient = colorRampPalette(
+    c(
+      lighten(
+        clade_colors[i],
+        amount = 0.8
+      ),
+      clade_colors[i]
+    )
+  )(
+    length(clade_rows)
+  )
+  
+  
+  # Сохраняем соответствие:
+  # конкретный ID -> конкретный цвет
+  reference_tip_colors = rbind(
+    reference_tip_colors,
+    data.frame(
+      ID_norm =
+        reference_tree_plot$data$ID_norm[
+          clade_rows
+        ],
+      tip_color = gradient,
+      stringsAsFactors = FALSE
+    )
+  )
+}
+
+
+# Убираем возможные дубли ID
+reference_tip_colors =
+  reference_tip_colors[
+    !duplicated(
+      reference_tip_colors$ID_norm
+    ),
+  ]
+
+
+# ============================================================
+# ПРОВЕРКА ЦВЕТОВ РЕФЕРЕНСНОГО ДЕРЕВА
+# ============================================================
+
+cat(
+  "\n========================================\n"
+)
+
+cat(
+  "Создана фиксированная карта цветов\n"
+)
+
+cat(
+  "Количество окрашенных листьев:",
+  nrow(
+    reference_tip_colors
+  ),
+  "\n"
+)
+
+cat(
+  "========================================\n\n"
+)
+
+
+print(
+  head(
+    reference_tip_colors,
+    20
+  )
+)
+
+
+# ============================================================
 # УРОВНИ HEATMAP
 # ============================================================
 
@@ -279,8 +425,6 @@ color_map_f4 = setNames(
 # HOST
 # ============================================================
 
-# ВАЖНО:
-# manual_host_colors и host_order приходят из host_colors.R
 color_map_host = manual_host_colors
 
 levels_host = host_order
@@ -330,11 +474,13 @@ for (file in tree_files) {
     file
   )
   
+  
   tree$edge.length[
     is.na(
       tree$edge.length
     )
   ] = 0
+  
   
   original_labels = tree$tip.label
   
@@ -467,6 +613,7 @@ for (file in tree_files) {
     "\n=== ПРОВЕРКА MAPPING ===\n"
   )
   
+  
   cat(
     "Всего листьев:",
     length(
@@ -474,6 +621,7 @@ for (file in tree_files) {
     ),
     "\n"
   )
+  
   
   cat(
     "Сопоставлено:",
@@ -484,6 +632,7 @@ for (file in tree_files) {
     ),
     "\n"
   )
+  
   
   cat(
     "Не сопоставлено:",
@@ -562,6 +711,7 @@ for (file in tree_files) {
     metadata_match
   ]
   
+  
   p$data$class[
     tip_rows
   ] = metadata$class[
@@ -573,6 +723,7 @@ for (file in tree_files) {
     fix_na(
       p$data$Host
     )
+  
   
   p$data$class =
     fix_na(
@@ -588,49 +739,35 @@ for (file in tree_files) {
     "black"
   
   
-  for (i in seq_along(clades)) {
-    
-    clade_rows = tip_rows[
-      p$data$ID_norm[
-        tip_rows
-      ] %in%
-        reference_clade_ids[[i]]
-    ]
-    
-    
-    if (!length(clade_rows)) {
-      next
-    }
-    
-    
-    clade_rows = clade_rows[
-      order(
-        p$data$y[
-          clade_rows
-        ]
+  # Ищем цвет каждого ID
+  # в фиксированной карте,
+  # созданной по референсному дереву
+  
+  color_match = match(
+    p$data$ID_norm[
+      tip_rows
+    ],
+    reference_tip_colors$ID_norm
+  )
+  
+  
+  p$data$tip_color[
+    tip_rows
+  ] = reference_tip_colors$tip_color[
+    color_match
+  ]
+  
+  
+  # Если ID отсутствует в референсной карте,
+  # оставляем чёрный цвет
+  
+  p$data$tip_color[
+    tip_rows[
+      is.na(
+        color_match
       )
     ]
-    
-    
-    gradient = colorRampPalette(
-      c(
-        lighten(
-          clade_colors[i],
-          amount = 0.8
-        ),
-        clade_colors[i]
-      )
-    )(
-      length(
-        clade_rows
-      )
-    )
-    
-    
-    p$data$tip_color[
-      clade_rows
-    ] = gradient
-  }
+  ] = "black"
   
   
   # ==========================================================
@@ -772,10 +909,8 @@ for (file in tree_files) {
   # HOST HEATMAP
   # ==========================================================
   
-  # Если Host отсутствует в постоянной карте,
-  # он будет показан как Other.
-  
   host_values = cluster_data$Host_shorter
+  
   
   host_values[
     !host_values %in%

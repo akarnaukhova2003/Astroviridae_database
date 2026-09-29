@@ -1,0 +1,113 @@
+ggtree v4.0.5 Learn more at https://yulab-smu.top/contribution-tree-data/
+
+Please cite:
+
+Guangchuang Yu. Using ggtree to visualize data on tree-like structures.
+Current Protocols in Bioinformatics. 2020, 69:e96. doi:10.1002/cpbi.96
+
+Присоединяю пакет: ‘ggtree’
+
+Следующий объект скрыт от ‘package:ape’:
+
+    rotate
+
+Загрузка требуемого пакета: maps
+
+Присоединяю пакет: ‘dplyr’
+
+Следующий объект скрыт от ‘package:ape’:
+
+    where
+
+Следующие объекты скрыты от ‘package:stats’:
+
+    filter, lag
+
+Следующие объекты скрыты от ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Клада 16 : 2 листьев
+Клада 13 : 4 листьев
+Предупреждение:
+Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
+ℹ Please use `linewidth` instead.
+ℹ The deprecated feature was likely used in the ggtree package.
+  Please report the issue at <https://github.com/YuLab-SMU/ggtree/issues>. 
+
+========================================
+Создана фиксированная карта цветов
+Количество окрашенных листьев: 6 
+========================================
+
+   ID_norm tip_color
+1 MG661261   #FAD2FF
+2 MG599910   #85498B
+3 PP711188   #DBF8C6
+4 MG599918   #B3D29C
+5 MZ375139   #8DAD72
+6 MG599917   #668848
+
+========================================
+Обрабатывается: results/trees/G/G_ORF1ab.treefile 
+========================================
+
+=== ПРОВЕРКА MAPPING ===
+Всего листьев: 8 
+Сопоставлено: 8 
+Не сопоставлено: 0 
+   tree_id cluster_id aa83 aa90 nt86 nt80                      host
+1 PP623814   PP623814   31   46    1   43         Anatidae (утиные)
+2 PP711188   PP711188   41   56   11   54 Reptilia (Пресмыкающиеся)
+3 MZ375139   MZ375139   45   19   17   18 Reptilia (Пресмыкающиеся)
+4 MG599917   MG599917   40   55   10   53 Reptilia (Пресмыкающиеся)
+5 MG599918   MG599918   37   52    8   51 Reptilia (Пресмыкающиеся)
+6 MG661261   MG661261   43   59   31   57  Mammalia (Млекопитающие)
+7 MG599910   MG599910   43   59   14   57        Amphibia (Амфибии)
+8 PP352010   PP352010   46   20   18   19        Amphibia (Амфибии)
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+
+Готово: results/trees/G/G_ORF1ab.treefile 
+
+========================================
+Обрабатывается: results/trees/G/G_ORF2.treefile 
+========================================
+
+=== ПРОВЕРКА MAPPING ===
+Всего листьев: 8 
+Сопоставлено: 8 
+Не сопоставлено: 0 
+   tree_id cluster_id aa83 aa90 nt86 nt80                      host
+1 PP623814   PP623814   31   46    1   43         Anatidae (утиные)
+2 PP711188   PP711188   41   56   11   54 Reptilia (Пресмыкающиеся)
+3 MZ375139   MZ375139   45   19   17   18 Reptilia (Пресмыкающиеся)
+4 MG599918   MG599918   37   52    8   51 Reptilia (Пресмыкающиеся)
+5 MG599917   MG599917   40   55   10   53 Reptilia (Пресмыкающиеся)
+6 MG661261   MG661261   43   59   31   57  Mammalia (Млекопитающие)
+7 MG599910   MG599910   43   59   14   57        Amphibia (Амфибии)
+8 PP352010   PP352010   46   20   18   19        Amphibia (Амфибии)
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+
+Готово: results/trees/G/G_ORF2.treefile 
+Было 50 или более предупреждений (введите warnings() чтобы просмотреть первые 50)
+[1] TRUE
+
+Все деревья обработаны.

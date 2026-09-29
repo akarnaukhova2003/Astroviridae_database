@@ -6,9 +6,9 @@ setwd(
   "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/results/trees/"
 )
 
-reference_tree_file = "G/G_ORF1ab.nwk"
+reference_tree_file = "R/R_ORF1a_1.nex"
 reference_tree_file
-outgroup_id = "'OQ986679/NA/GEIG/NA/2021'"
+outgroup_id = "'MG599918/NA/NA/Hemidactylus-bowringii/NA'"
 
 reference_tree = read.nexus(
   reference_tree_file
