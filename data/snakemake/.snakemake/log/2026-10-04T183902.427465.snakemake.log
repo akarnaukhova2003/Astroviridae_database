@@ -1,0 +1,28 @@
+Assuming unrestricted shared filesystem usage.
+
+SNAKEMAKE
+=========
+  Date: 2026-10-04 18:39:02
+  Workflow ID: bce52fe4-9f47-48f6-a7f3-a8bbe549d1d2
+  Platform: macOS-15.7.3-arm64-arm-64bit-Mach-O
+  Host: MacBook-Air-Bagavetdinova.local
+  User: abagavetdinova
+  Snakemake version: 9.25.1
+  Python version: 3.14.6 | packaged by conda-forge | (main, Aug 11 2026, 10:24:52) [Clang 20.1.8 ]
+  Command: /Users/abagavetdinova/miniforge3/envs/snakemake/bin/snakemake visualization_P_Y --cores 1
+  Snakefile: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile
+  Base directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Run directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Working directory: /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake
+  Config file(s): ['constants/config.yaml']
+  Config MD5: ebde701e481eb38a0c195438ae41cdc9
+
+Building DAG of jobs...
+InputFunctionException in rule split_alignment in file "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile", line 46:
+Error:
+  KeyError: 'P_Y_ORF2'
+Wildcards:
+  clade=P_Y
+  region=P_Y_ORF2
+Traceback:
+  File "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile", line 54, in <lambda> (rule split_alignment, line 62, /Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/Snakefile)

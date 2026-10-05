@@ -346,11 +346,11 @@ for (i in seq_along(clades)) {
     c(
       lighten(
         clade_colors[i],
-        amount = 0.7
+        amount = 0.35
       ),
       darken(
         clade_colors[i],
-        amount = 0.35
+        amount = 0.55
       )
     )
   )(

@@ -2,10 +2,10 @@ ggtree v4.0.5 Learn more at https://yulab-smu.top/contribution-tree-data/
 
 Please cite:
 
-Guangchuang Yu, Tommy Tsan-Yuk Lam, Huachen Zhu, Yi Guan. Two methods
-for mapping and visualizing associated data on phylogeny using ggtree.
-Molecular Biology and Evolution. 2018, 35(12):3041-3043.
-doi:10.1093/molbev/msy194
+Shuangbin Xu, Lin Li, Xiao Luo, Meijun Chen, Wenli Tang, Li Zhan, Zehan
+Dai, Tommy T. Lam, Yi Guan, Guangchuang Yu. Ggtree: A serialized data
+object for visualization of a phylogenetic tree and annotation data.
+iMeta 2022, 1(4):e56. doi:10.1002/imt2.56
 
 Присоединяю пакет: ‘ggtree’
 
@@ -46,26 +46,26 @@ Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
 ========================================
 
     ID_norm tip_color
-1  MW826482   #D7FD92
-2  MN920668   #C7EC7D
-3  MW826371   #B7DC69
-4  MN920663   #A8CC55
-5  MN920671   #98BB40
-6  MN920672   #89AB2C
-7  MT137992   #799B18
-8  MN920669   #6A8B04
-9  MK096775   #E8E3FE
-10 MK096774   #C0B9E0
-11 OQ986609   #988FC2
-12 OQ986606   #7165A5
-13 MW385412   #F6CBFF
-14 KT946719   #D195DB
-15 KT946720   #AD5FB8
-16 KT946718   #892A95
-17 OQ986608   #FFDCD4
-18 OQ986679   #CB9A8A
-19 OQ986607   #985840
-20 MN920670   #C1FEE8
+1  MW826482   #B5E9DA
+2  MN920668   #9DD5C6
+3  MW826371   #86C2B3
+4  MN920663   #6FAFA0
+5  MN920671   #579C8C
+6  MN920672   #408979
+7  MT137992   #297666
+8  MN920669   #126353
+9  MK096775   #BDF07F
+10 MK096774   #94C054
+11 OQ986609   #6B902A
+12 OQ986606   #426100
+13 MW385412   #D7BDEE
+14 KT946719   #AE92C4
+15 KT946720   #85679B
+16 KT946718   #5C3D72
+17 OQ986608   #E687FB
+18 OQ986679   #A743B8
+19 OQ986607   #680076
+20 MN920670   #FBB695
 
 ========================================
 Обрабатывается: results/trees/R/R_ORF1a_1.treefile 

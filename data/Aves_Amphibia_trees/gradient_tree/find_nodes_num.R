@@ -6,9 +6,9 @@ setwd(
   "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/results/trees/"
 )
 
-reference_tree_file = "R/R_ORF1a_1.nex"
+reference_tree_file = "B/B_ORF1a.nex"
 reference_tree_file
-outgroup_id = "'MG599918/NA/NA/Hemidactylus-bowringii/NA'"
+outgroup_id = "'PQ893528/NA/NSW-2021/Eolophus-roseicapilla/2021'"
 
 reference_tree = read.nexus(
   reference_tree_file
@@ -54,7 +54,7 @@ node_plot =
   )
 
 ggsave(
-  "G_ORF1ab_nodes.pdf",
+  "B_ORF1a_nodes.pdf",
   node_plot,
   width = 40,
   height = 30,

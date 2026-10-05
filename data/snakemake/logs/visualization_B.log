@@ -2,10 +2,10 @@ ggtree v4.0.5 Learn more at https://yulab-smu.top/contribution-tree-data/
 
 Please cite:
 
-Guangchuang Yu, David Smith, Huachen Zhu, Yi Guan, Tommy Tsan-Yuk Lam.
-ggtree: an R package for visualization and annotation of phylogenetic
-trees with their covariates and other associated data. Methods in
-Ecology and Evolution. 2017, 8(1):28-36. doi:10.1111/2041-210X.12628
+Shuangbin Xu, Lin Li, Xiao Luo, Meijun Chen, Wenli Tang, Li Zhan, Zehan
+Dai, Tommy T. Lam, Yi Guan, Guangchuang Yu. Ggtree: A serialized data
+object for visualization of a phylogenetic tree and annotation data.
+iMeta 2022, 1(4):e56. doi:10.1002/imt2.56
 
 Присоединяю пакет: ‘ggtree’
 
@@ -35,6 +35,7 @@ Ecology and Evolution. 2017, 8(1):28-36. doi:10.1111/2041-210X.12628
 Клада 82 : 19 листьев
 Клада 103 : 9 листьев
 Клада 59 : 3 листьев
+Клада 75 : 2 листьев
 Предупреждение:
 Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
 ℹ Please use `linewidth` instead.
@@ -43,30 +44,30 @@ Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
 
 ========================================
 Создана фиксированная карта цветов
-Количество окрашенных листьев: 46 
+Количество окрашенных листьев: 48 
 ========================================
 
      ID_norm tip_color
-1   PP763758   #E9E6FF
-2   MW353015   #CBC7E7
-3   MZ819185   #AEA9CF
-4   OR907134   #908BB7
-5  NC_034567   #736D9F
-6   PV793828   #E7CDFF
-7   JX624774   #D1AAED
-8   OR924092   #BB88DC
-9   OR924091   #A665CB
-10  OR924090   #9043BA
-11  OR902759   #7B21A9
-12  FJ919228   #FFD0E9
-13  FJ434664   #DD9CC2
-14  OR134528   #BB699B
-15  FJ919227   #993675
-16  PV093029   #FFDFCD
-17  MN725025   #F9D7C3
-18  KT886453   #F3D0BA
-19  OQ685946   #EDC9B1
-20  MT789787   #E7C2A8
+1   PP763758   #FFA3AB
+2   MW353015   #DE828B
+3   MZ819185   #BE616C
+4   OR907134   #9E414D
+5  NC_034567   #7E212E
+6   PV793828   #AEF477
+7   JX624774   #96D75F
+8   OR924092   #7FBA47
+9   OR924091   #679D2F
+10  OR924090   #508017
+11  OR902759   #396400
+12  FJ919228   #EDDA8D
+13  FJ434664   #BEAD5E
+14  OR134528   #8F812F
+15  FJ919227   #615501
+16  PV093029   #E887FF
+17  MN725025   #E07FF7
+18  KT886453   #D978F0
+19  OQ685946   #D270E8
+20  MT789787   #CB69E1
 
 ========================================
 Обрабатывается: results/trees/B/B_ORF1a.treefile 
