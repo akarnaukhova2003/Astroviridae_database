@@ -11,7 +11,7 @@ library(dplyr)
 # ============================================================
 
 tree_file =
-  "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/Aves_1B_97_aa_2206_after_trim_iqtree_clr.nex"
+  "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/Aves_Amphibia_trees/Aves_1A_97_aa_2306_after_trim_iqtree_clr.nex"
 
 metadata_file =
   "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/constants/Astroviridae_Aves_Amphibia_14072026_host.csv"
@@ -26,7 +26,7 @@ outgroup_id =
   "OM480533"
 
 output_dir =
-  "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/results/visualization/Aves_1B_97"
+  "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/snakemake/results/visualization/Aves_1A_97"
 
 
 # ============================================================
