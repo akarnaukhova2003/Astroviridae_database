@@ -1,0 +1,54 @@
+parameter	value
+pastml_version	1.9.34
+character	Host_species
+log_likelihood	-216.34300696557221
+log_likelihood_restricted_JOINT	-301.3423981535077
+log_likelihood_restricted_MAP	-317.98092680278137
+log_likelihood_restricted_MPPA	-220.95860367640907
+method	MPPA
+model	F81
+num_nodes	266
+num_scenarios	19746183904321736015259978080950133362023794848498434069065267478179819686563410743134575779169272049221085841948672000
+num_states_per_node_avg	9.293233082706767
+num_tips	134
+num_unresolved_nodes	90
+percentage_of_unresolved_nodes	33.83458646616541
+scaling_factor	11.200580595695952
+smoothing_factor	0
+state_changes_per_avg_branch	1.1072707159673951
+Alisterus scapularis	0.018544500976528586
+Anas platyrhynchos	0.08737620073351525
+Anser anser	0.06223743517782623
+Anser cygnoides	1.8545181444864536e-08
+Anser indicus	1.8545181444864536e-08
+Arenaria interpres	0.05563476475091399
+Cairina moschata	0.018544480019907637
+Canis lupus	0.03704641931360591
+Columba livia	0.03968786147204933
+Corvus splendens	0.01901799714686573
+Cygnus olor	0.03723909182882281
+Duttaphrynus melanostictus	0.01854458353240649
+Eolophus roseicapilla	0.018544544360573668
+Gallus gallus	0.0677655115458142
+Gekko similignum	0.018544561097252672
+Gerygone igata	0.05555249273670909
+Hemidactylus bowringii	0.018544609525001376
+Heteronotia planiceps	0.018544609570845985
+Hypselotriton orientalis	1.8545181444864536e-08
+Leucogeranus leucogeranus	0.03681915947583489
+Mareca falcata	0.018544568501520402
+Meleagris gallopavo	0.037909921477749624
+Montifringilla taczanowskii	0.018544564636511527
+Neogale vison	0.05563480605331266
+Pelophylax nigromaculatus	0.018544516270550922
+Periparus ater	1.8545181444864536e-08
+Petroica macrocephala	0.018544563866419745
+Phrynocephalus erythrurus	0.01854458353240649
+Polypedates megacephalus	1.8545181444864536e-08
+Porcupine	0.018544517054723788
+Prunella montanella	0.018544525900269976
+Recurvirostra novaehollandiae	0.03708722792805484
+Rhesus monkey	0.018544524947030294
+Rhipidura fuliginosa	0.03708829408987722
+Spilopelia chinensis	0.03718928830632699
+Sus scrofa	0.018545181444864535

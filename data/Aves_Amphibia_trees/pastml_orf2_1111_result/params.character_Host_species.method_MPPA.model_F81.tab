@@ -1,0 +1,54 @@
+parameter	value
+pastml_version	1.9.34
+character	Host_species
+log_likelihood	-228.0612459704144
+log_likelihood_restricted_JOINT	-289.8595646250419
+log_likelihood_restricted_MAP	-326.4425262355233
+log_likelihood_restricted_MPPA	-237.6237459896743
+method	MPPA
+model	F81
+num_nodes	266
+num_scenarios	569719858221877354413818103247812409628283891110939922396895096982578673756405760000000000
+num_states_per_node_avg	5.879699248120301
+num_tips	134
+num_unresolved_nodes	87
+percentage_of_unresolved_nodes	32.70676691729323
+scaling_factor	2.4343261612007074
+smoothing_factor	0
+state_changes_per_avg_branch	0.5972573030239554
+Alisterus scapularis	0.01835723109875081
+Anas platyrhynchos	0.0771392827596249
+Anser anser	0.0663145407954184
+Anser cygnoides	1.8355284933991774e-08
+Anser indicus	1.8355284933991774e-08
+Arenaria interpres	0.054545273727849834
+Cairina moschata	0.018356990207435128
+Canis lupus	0.02212666844055623
+Columba livia	0.0551683319665916
+Corvus splendens	0.019813486439341506
+Cygnus olor	0.0378221997571591
+Duttaphrynus melanostictus	0.018357020591747486
+Eolophus roseicapilla	0.018357158752124788
+Gallus gallus	0.09549130050763079
+Gekko similignum	0.0183570809408895
+Gerygone igata	0.04016242636774862
+Hemidactylus bowringii	0.018357239837856303
+Heteronotia planiceps	0.018357039930067185
+Hypselotriton orientalis	1.8355284933991774e-08
+Leucogeranus leucogeranus	0.03625529529155638
+Mareca falcata	0.018357053612525757
+Meleagris gallopavo	0.03679324731187777
+Montifringilla taczanowskii	0.018357094402866612
+Neogale vison	0.05506828503346946
+Pelophylax nigromaculatus	0.018356938723960586
+Periparus ater	1.8355284933991774e-08
+Petroica macrocephala	0.018357050795503198
+Phrynocephalus erythrurus	0.018357051280085166
+Polypedates megacephalus	1.8355284933991774e-08
+Porcupine	0.018357277353191658
+Prunella montanella	0.01835705155752796
+Recurvirostra novaehollandiae	0.03668722957935144
+Rhesus monkey	0.01835707347081663
+Rhipidura fuliginosa	0.03613074998310844
+Spilopelia chinensis	0.0367699527729503
+Sus scrofa	0.018355284933991772

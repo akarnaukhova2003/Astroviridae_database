@@ -1,8 +1,8 @@
 ID	Host_species
 PX237222	Columba livia
 PV793827	Leucogeranus leucogeranus
-PV793829	not the exact type
-PV793828	not the exact type
+PV793829		
+PV793828		
 PV793826	Leucogeranus leucogeranus
 PV780437	Anser anser
 PV780436	Anser anser
@@ -105,7 +105,7 @@ OR545548	Gallus gallus
 OR351273	Gallus gallus
 OR211592	Anser anser
 MW826483	Montifringilla taczanowskii
-MW826482	not the exact type
+MW826482	
 OQ787033	Anser anser
 ON400505	Anser anser
 OQ909424	Anser anser
@@ -186,7 +186,7 @@ OL963556	Anser anser
 OL963555	Anser anser
 OP020131	Anser anser
 OL536330	Anser anser
-MW385412	not the exact type
+MW385412	
 MW786757	Anser anser
 MW505493	Anser anser
 MW505492	Anser anser
@@ -232,7 +232,7 @@ KT946718	Corvus splendens
 MZ576222	Anser anser
 MZ375139	Phrynocephalus erythrurus
 MZ367612	Cairina moschata
-MW826371	not the exact type
+MW826371	
 MK746105	Gallus gallus
 MW846319	Gallus gallus
 MW684833	Gallus gallus
@@ -346,9 +346,9 @@ MN337323	Anser anser
 MN399857	Anas platyrhynchos
 KT886453	Gallus gallus
 MK125058	Anser anser
-MK096775	not the exact type
-MK096774	not the exact type
-MK096773	not the exact type
+MK096775		
+MK096774			
+MK096773		
 MG661261	Rhesus monkey
 MH712856	Anas platyrhynchos
 MH807626	Anser anser
@@ -402,8 +402,8 @@ EU143844	Meleagris gallopavo
 EU143843	Meleagris gallopavo
 AF206663	Meleagris gallopavo
 JF832365	Gallus gallus
-HV511037	
+HV511037		
 HQ889774	Columba livia
-HM029238	Gallus gallus
+HM029238	Gallus gallus	
 AB033998	Gallus gallus
 OM480533	Porcupine	

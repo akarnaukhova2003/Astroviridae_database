@@ -1,0 +1,48 @@
+﻿Host_species,Accession,Description,NCBI_organism,Length_aa,Gene_match,Product_match,RefSeq,Predicted,Partial
+Gallus gallus,P24271.1,RecName: Full=V(D)J recombination-activating protein 1; Short=RAG-1; Includes: RecName: Full=Endonuclease RAG1; Includes: RecName: Full=E3 ubiquitin-protein ligase RAG1; AltName: Full=RING-type E3 ubiquitin transferase RAG1,Gallus gallus,1041,True,True,False,False,False
+Gallus gallus,NP_001026359.2,V(D)J recombination-activating protein 1 [Gallus gallus],Gallus gallus,1041,True,True,True,False,False
+Gallus gallus,ABW17195.1,"recombination activating protein 1, partial [Gallus gallus]",Gallus gallus,374,False,True,False,False,True
+Gallus gallus,AAD34956.1,"recombination activating protein 1, partial [Gallus gallus]",Gallus gallus,961,False,True,False,False,True
+Gallus gallus,AAA49051.1,Rag-1 [Gallus gallus],Gallus gallus,1041,False,True,False,False,False
+Meleagris gallopavo,XP_010709561.2,V(D)J recombination-activating protein 1 [Meleagris gallopavo],Meleagris gallopavo,1042,True,True,True,True,False
+Anas platyrhynchos,XP_038036659.1,V(D)J recombination-activating protein 1 [Anas platyrhynchos],Anas platyrhynchos,1041,True,True,True,True,False
+Anas platyrhynchos,AEI28213.1,"recombination activating protein 1, partial [Anas platyrhynchos]",Anas platyrhynchos,504,False,True,False,False,True
+Columba livia,XP_005500299.3,V(D)J recombination-activating protein 1 [Columba livia],Columba livia,1061,True,True,True,True,False
+Columba livia,PKK31576.1,recombination activating protein 1 [Columba livia],Columba livia,1034,True,True,False,False,False
+Columba livia,AAP03653.1,"recombination activating protein 1, partial [Columba livia]",Columba livia,955,False,True,False,False,True
+Neogale vison,XP_044116876.1,V(D)J recombination-activating protein 1 [Neogale vison],Neogale vison,1043,True,True,True,True,False
+Neogale vison,BAC98794.1,"RAG1, partial [Neogale vison]",Neogale vison,364,True,True,False,False,True
+Neogale vison,ABG56357.1,"recombination-activating protein 1, partial [Neogale vison]",Neogale vison,357,True,True,False,False,True
+Cygnus olor,XP_040415722.1,V(D)J recombination-activating protein 1 [Cygnus olor],Cygnus olor,1042,True,True,True,True,False
+Gerygone igata,AFC97044.1,"recombination activating protein 1, partial [Gerygone igata]",Gerygone igata,450,False,True,False,False,True
+Arenaria interpres,AAP03677.1,"recombination activating protein 1, partial [Arenaria interpres]",Arenaria interpres,957,False,True,False,False,True
+Canis lupus,BAH97288.1,"recombination activating gene 1, partial [Canis lupus]",Canis lupus,364,True,True,False,False,True
+Canis lupus,ABB48285.1,"recombination activating protein 1, partial [Canis lupus]",Canis lupus,247,True,True,False,False,True
+Canis lupus,ACZ33747.1,"recombination activating protein 1, partial [Canis lupus]",Canis lupus,369,True,True,False,False,True
+Alisterus scapularis,AMC39457.1,"recombination activating protein 1, partial [Alisterus scapularis]",Alisterus scapularis,949,True,True,False,False,True
+Alisterus scapularis,ACX31481.1,"recombination activating protein 1, partial [Alisterus scapularis]",Alisterus scapularis,475,True,True,False,False,True
+Heteronotia planiceps,ABW76074.1,"recombination activating protein 1, partial [Heteronotia planiceps]",Heteronotia planiceps,346,True,True,False,False,True
+Pelophylax nigromaculatus,AEI28214.1,"recombination activating protein 1, partial [Pelophylax nigromaculatus]",Pelophylax nigromaculatus,504,False,True,False,False,True
+Phrynocephalus erythrurus,AID51621.1,"recombination activating protein, partial [Phrynocephalus erythrurus]",Phrynocephalus erythrurus,445,True,True,False,False,True
+Prunella montanella,ARN16787.1,"recombination activating protein 1, partial [Prunella montanella]",Prunella montanella,325,True,True,False,False,True
+Prunella montanella,ARN16786.1,"recombination activating protein 1, partial [Prunella montanella]",Prunella montanella,333,True,True,False,False,True
+Prunella montanella,ARN16785.1,"recombination activating protein 1, partial [Prunella montanella]",Prunella montanella,336,True,True,False,False,True
+Macaca mulatta,XP_014969954.3,V(D)J recombination-activating protein 1 isoform X1 [Macaca mulatta],Macaca mulatta,1043,True,True,True,True,False
+Macaca mulatta,NP_001253701.1,V(D)J recombination-activating protein 1 [Macaca mulatta],Macaca mulatta,1043,True,True,True,False,False
+Macaca mulatta,AAG38418.1,"recombination activating protein 1, partial [Macaca mulatta]",Macaca mulatta,255,True,True,False,False,True
+Macaca mulatta,AFE79499.1,V(D)J recombination-activating protein 1 [Macaca mulatta],Macaca mulatta,1043,True,True,False,False,False
+Hemidactylus bowringii,ABZ82410.1,"recombination activating protein 1, partial [Hemidactylus bowringii]",Hemidactylus bowringii,346,False,True,False,False,True
+Hemidactylus bowringii,ABZ82409.1,"recombination activating protein 1, partial [Hemidactylus bowringii]",Hemidactylus bowringii,346,False,True,False,False,True
+Hemidactylus bowringii,ADK73531.1,"recombination activating protein 1, partial [Hemidactylus bowringii]",Hemidactylus bowringii,346,False,True,False,False,True
+Hemidactylus bowringii,AEI28215.1,"recombination activating protein 1, partial [Hemidactylus bowringii]",Hemidactylus bowringii,504,False,True,False,False,True
+Duttaphrynus melanostictus,YHB15190.1,"recombination activating protein 1, partial [Duttaphrynus melanostictus]",Duttaphrynus melanostictus,81,True,True,False,False,True
+Duttaphrynus melanostictus,AUD50621.1,"recombination activating protein 1, partial [Duttaphrynus melanostictus]",Duttaphrynus melanostictus,474,True,True,False,False,True
+Duttaphrynus melanostictus,ALA09726.1,"recombination activating protein 1, partial [Duttaphrynus melanostictus]",Duttaphrynus melanostictus,280,False,True,False,False,True
+Duttaphrynus melanostictus,ALA09725.1,"recombination activating protein 1, partial [Duttaphrynus melanostictus]",Duttaphrynus melanostictus,278,False,True,False,False,True
+Duttaphrynus melanostictus,AHX83535.1,"recombination activating protein 1, partial [Duttaphrynus melanostictus]",Duttaphrynus melanostictus,960,True,True,False,False,True
+Duttaphrynus melanostictus,ABB42961.1,"recombination activating protein 1, partial [Duttaphrynus melanostictus]",Duttaphrynus melanostictus,209,False,True,False,False,True
+Duttaphrynus melanostictus,ACE81009.1,"recombination activating protein 1, partial [Duttaphrynus melanostictus]",Duttaphrynus melanostictus,320,True,True,False,False,True
+Duttaphrynus melanostictus,ACE81008.1,"recombination activating protein 1, partial [Duttaphrynus melanostictus]",Duttaphrynus melanostictus,320,True,True,False,False,True
+Duttaphrynus melanostictus,ACE81007.1,"recombination activating protein 1, partial [Duttaphrynus melanostictus]",Duttaphrynus melanostictus,320,True,True,False,False,True
+Duttaphrynus melanostictus,AAR02042.1,"RAG-1, partial [Duttaphrynus melanostictus]",Duttaphrynus melanostictus,186,False,True,False,False,True
+Duttaphrynus melanostictus,AIR94869.1,"recombination activating protein 1, partial [Duttaphrynus melanostictus]",Duttaphrynus melanostictus,311,True,True,False,False,True
