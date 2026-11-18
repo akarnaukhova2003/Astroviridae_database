@@ -1,0 +1,470 @@
+
+```{r}
+library(ape)
+library(cowplot)
+library(ggplot2)
+library(ggnewscale)
+library(EBImage)
+library(GiNA)
+library(viridis)
+library(paletteer)
+library(seqinr)
+library(stringr)
+library(spaa)
+library(ggExtra)
+library(patchwork)
+library(ggpubr)
+library(gplots)
+library(colorRamps)
+library(dplyr)
+library(grid)
+library(ggbreak)
+
+check_param = function(d, colnum){
+  
+  spl_df1 = str_split(d$row, '/', simplify = TRUE)
+  spl_df2 = str_split(d$col, '/', simplify = TRUE)
+  
+  spl_df1_param = spl_df1[,colnum]
+  spl_df2_param = spl_df2[,colnum]
+  
+  any_NA = spl_df1_param == "NA" | spl_df2_param == "NA"
+  same_param = spl_df1_param == spl_df2_param
+  
+  vector_param = vector("character", length(spl_df1_param))
+  vector_param[same_param == TRUE] = "yes"
+  vector_param[same_param == FALSE] = "no"
+  vector_param[any_NA == TRUE] = "unknown"
+  
+  d = cbind(d, vector_param)
+  return(d)
+}
+
+plot_aa_nt_hists_sp = function(aln_object, pos_start, pos_end, 
+                               col_sp=0, pairwise=TRUE,
+                               xlim_range=NULL, ylim_range=NULL){
+  
+  dna_slice = aln_object[1:length(aln_object[,1]), seq(from = pos_start, to = pos_end)]
+  dna_slice_char = as.character.DNAbin(dna_slice)
+  dna_slice_char[dna_slice_char=='-'] <- NA
+  
+  aa_slice = trans(dna_slice)
+  aa_slice_char = as.character.AAbin(aa_slice)
+  aa_slice_char[aa_slice_char=='X'] <- NA
+  
+  dist_nn = dist.gene(dna_slice_char, method = "percentage", pairwise.deletion = pairwise)
+  dist_aa = dist.gene(aa_slice_char, method = "percentage", pairwise.deletion = pairwise)
+  
+  dist_nn = dist2list(dist_nn)
+  dist_aa = dist2list(dist_aa)
+  
+  d = merge(dist_nn, dist_aa, by=c("row", "col"))
+  
+  p <- ggplot(d, aes(value.x, value.y)) + 
+    geom_point(alpha=0.4) + 
+    theme_bw() +
+    xlab("nucleotide distance") +
+    ylab("amino acid distance")
+  
+  if (!is.null(xlim_range) || !is.null(ylim_range)) {
+    p <- p + coord_cartesian(xlim = xlim_range, ylim = ylim_range)
+  }
+  
+  return(list(d, p))
+}
+
+plot_hists = function(df_dist1,
+                      xlim_nt=NULL, xlim_aa=NULL,
+                      ybreak_nt= NULL,
+                      ybreak_aa=NULL,
+                      vlines_nt=NULL,
+                      vlines_aa=NULL
+                      ,fill_true="F"){
+  
+  hist1_nt = ggplot(df_dist1, aes(x=value.x)) +
+  geom_histogram(bins=50, fill="#F8BBD0", color="#AD1457", alpha=0.8) +
+  {if (!is.null(vlines_nt)) 
+      geom_vline(xintercept = vlines_nt, 
+                 linetype = "dashed",  color = c("grey40", "grey40"), size = 0.5)} +
+  theme_bw() +
+  theme(
+    axis.title.x = element_text(size=14, face="bold", margin=margin(t=8), hjust = 0.7),
+    axis.title.y = element_text(size=14, face="bold", margin=margin(r=-1)),
+    axis.text.x  = element_text(size = 16),
+    axis.text.y  = element_text(size = 16),
+    panel.background = element_rect(fill="white"),
+    plot.background = element_rect(fill="white")
+  ) +
+  xlab("p-дистанция по нуклеотидным последовательностям") +
+  ylab("")+
+  scale_y_break(ybreak_nt, scales = 0.6)
+  
+  hist1_aa = ggplot(df_dist1, aes(x=value.y)) +
+    {if (!is.null(vlines_aa) && length(vlines_aa) == 2 && fill_true == "T")
+  annotate("rect",
+           xmin = min(vlines_aa),
+           xmax = max(vlines_aa),
+           ymin = -Inf,
+           ymax = Inf,
+           fill = "grey70",
+           alpha = 0.2)} +
+    geom_histogram(bins=50, fill="#F8BBD0", color="#AD1457", alpha=0.8) +
+    {if (!is.null(vlines_aa)) 
+      geom_vline(xintercept = vlines_aa, 
+                 linetype = "dashed", color = c("grey40", "grey40"), size = 0.5)} +
+    theme_bw() +
+    theme(
+      axis.title.x = element_text(size=14, face="bold", margin=margin(t=8),  hjust = 0.7),
+      axis.title.y = element_text(size=14, face="bold", margin=margin(r=-1)),
+      axis.text.x  = element_text(size = 16),
+      axis.text.y  = element_text(size = 16),
+      panel.background = element_rect(fill="white"),
+      plot.background = element_rect(fill="white")
+    ) +
+    xlab("p-дистанция по аминокислотным последовательностям")+
+    ylab("") +
+    scale_y_break(ybreak_aa, scales = 0.6)
+  
+  if (!is.null(xlim_nt)) {
+    hist1_nt <- hist1_nt + coord_cartesian(xlim = xlim_nt)
+  }
+  
+  if (!is.null(xlim_aa)) {
+    hist1_aa <- hist1_aa + coord_cartesian(xlim = xlim_aa)
+  }
+  
+  g1 = hist1_nt + hist1_aa
+  
+  return(g1)
+}
+
+
+```
+
+
+```{r}
+aln = read.dna("/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/Aves/Aves_full_seq_removed_1A_align.fasta", format="fasta")
+ph_sp = plot_aa_nt_hists_sp(
+  aln, 
+  1, length(aln[1,]), 
+  xlim_range = c(0, 0.2),
+  ylim_range = c(0, 0.2)
+)
+df_dist = ph_sp[[1]]
+plots <- plot_hists(
+  df_dist,
+  xlim_nt = c(0, 0.6),
+  xlim_aa = c(0, 0.7),
+  ybreak_nt = c(1250, 2000),
+  ybreak_aa = c(1250, 2000)
+)
+title_plot <- ggdraw() +
+  draw_label(
+    "ORF1A",
+    fontface = "bold",
+    size = 16
+  ) +
+  theme(plot.background = element_rect(fill = "white", color = NA))
+final_plot <- plot_grid(
+  title_plot,
+  plots,
+  ncol = 1,
+  rel_heights = c(0.08, 1)
+)
+final_plot
+ggsave(
+  filename = "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/Aves/ORF1A_pairwise_dist_break.png",
+  plot = final_plot,
+  width = 14,
+  height = 6,
+  dpi = 300,
+  bg = "white"
+)
+```
+
+
+
+```{r}
+aln = read.dna("/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/Aves/Aves_full_seq_removed_1B_align.fasta", format="fasta")
+ph_sp = plot_aa_nt_hists_sp(
+  aln, 
+  1, length(aln[1,]), 
+  xlim_range = c(0, 0.2),
+  ylim_range = c(0, 0.2)
+)
+df_dist = ph_sp[[1]]
+plots <- plot_hists(
+  df_dist,
+  xlim_nt = c(0, 0.55),
+  xlim_aa = c(0, 0.65),
+  ybreak_nt = c(1250, 10000),
+  ybreak_aa = c(1250, 10000),
+  vlines_nt = c(0.14, 0.2),
+  vlines_aa = c(0.1, 0.17),
+  fill_true = "F"
+)
+title_plot <- ggdraw() +
+  draw_label(
+    "ORF1B",
+    fontface = "bold",
+    size = 16
+  ) +
+  theme(plot.background = element_rect(fill = "white", color = NA))
+final_plot <- plot_grid(
+  title_plot,
+  plots,
+  ncol = 1,
+  rel_heights = c(0.08, 1)
+)
+final_plot
+ggsave(
+  filename = "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/Aves/ORF1B_pairwise_dist_break.png",
+  plot = final_plot,
+  width = 14,
+  height = 6,
+  dpi = 300,
+  bg = "white"
+)
+```
+
+
+```{r}
+aln = read.dna("/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/Aves/Aves_full_seq_removed_2_align.fasta", format="fasta")
+ph_sp = plot_aa_nt_hists_sp(
+  aln, 
+  1, length(aln[1,]), 
+  xlim_range = c(0, 0.2),
+  ylim_range = c(0, 0.2)
+)
+df_dist = ph_sp[[1]]
+plots <- plot_hists(
+  df_dist,
+  xlim_nt = c(0, 0.7),
+  xlim_aa = c(0, 0.8),
+  ybreak_nt = c(1250, 10000),
+  ybreak_aa = c(1250, 10000),
+  vlines_aa = c(0.2, 0.35),
+  fill_true = "T"
+)
+title_plot <- ggdraw() +
+  draw_label(
+    "ORF2",
+    fontface = "bold",
+    size = 16
+  ) +
+  theme(plot.background = element_rect(fill = "white", color = NA))
+final_plot <- plot_grid(
+  title_plot,
+  plots,
+  ncol = 1,
+  rel_heights = c(0.08, 1)
+)
+final_plot
+ggsave(
+  filename = "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/Aves/ORF2_pairwise_dist_break.png",
+  plot = final_plot,
+  width = 14,
+  height = 6,
+  dpi = 300,
+  bg = "white"
+)
+```
+
+```{r}
+library(ape)
+library(cowplot)
+library(ggplot2)
+library(ggnewscale)
+library(EBImage)
+library(GiNA)
+library(viridis)
+library(paletteer)
+library(seqinr)
+library(stringr)
+library(spaa)
+library(ggExtra)
+library(patchwork)
+library(ggpubr)
+library(gplots)
+library(colorRamps)
+library(dplyr)
+library(grid)
+library(ggbreak)
+
+check_param = function(d, colnum){
+  
+  spl_df1 = str_split(d$row, '/', simplify = TRUE)
+  spl_df2 = str_split(d$col, '/', simplify = TRUE)
+  spl_df1_param = spl_df1[,colnum]
+  spl_df2_param = spl_df2[,colnum]
+  
+  any_NA = spl_df1_param == "NA" | spl_df2_param == "NA"
+  same_param = spl_df1_param == spl_df2_param
+  
+  vector_param = vector("character", length(spl_df1_param))
+  vector_param[same_param == TRUE] = "yes"
+  vector_param[same_param == FALSE] = "no"
+  vector_param[any_NA == TRUE] = "unknown"
+  d$same_species = vector_param
+  return(d)
+}
+
+plot_aa_nt_hists_sp = function(aln_object, pos_start, pos_end, 
+                               col_sp=0, pairwise=TRUE,
+                               xlim_range=NULL, ylim_range=NULL){
+  
+  dna_slice = aln_object[, pos_start:pos_end]
+  dna_slice_char = as.character.DNAbin(dna_slice)
+  dna_slice_char[dna_slice_char == '-'] <- NA
+  
+  aa_slice = trans(dna_slice)
+  aa_slice_char = as.character.AAbin(aa_slice)
+  aa_slice_char[aa_slice_char == 'X'] <- NA
+  
+  dist_nn = dist.gene(dna_slice_char, method = "percentage", pairwise.deletion = pairwise)
+  dist_aa = dist.gene(aa_slice_char, method = "percentage", pairwise.deletion = pairwise)
+  
+  dist_nn = dist2list(dist_nn)
+  dist_aa = dist2list(dist_aa)
+  
+  d = merge(dist_nn, dist_aa, by=c("row", "col"))
+  
+  if (col_sp != 0){
+    d = check_param(d, col_sp)
+    
+    p <- ggplot(d, aes(value.x, value.y, color = same_species)) +
+      geom_point(alpha=0.1) +
+      theme_bw() +
+      xlab("nucleotide distance") +
+      ylab("amino acid distance")
+    
+  } else {
+    
+    p <- ggplot(d, aes(value.x, value.y)) +
+      geom_point(alpha=0.4) +
+      theme_bw() +
+      xlab("nucleotide distance") +
+      ylab("amino acid distance")
+  }
+  
+  if (!is.null(xlim_range) || !is.null(ylim_range)) {
+    p <- p + coord_cartesian(xlim = xlim_range, ylim = ylim_range)
+  }
+  
+  return(list(d, p))
+}
+
+
+plot_hists = function(df_dist1,
+                      xlim_nt=NULL, xlim_aa=NULL,
+                      ybreak_nt=NULL,
+                      ybreak_aa=NULL){
+  
+  use_fill = "same_species" %in% colnames(df_dist1)
+  
+  hist1_nt = ggplot(df_dist1, 
+                    if (use_fill) aes(x=value.x, fill=same_species) else aes(x=value.x)) +
+    geom_histogram(bins=50, alpha=0.8) +
+    scale_y_break(ybreak_nt, scales = 0.6)  +
+    labs(
+      x = "p-дистанция по нуклеотидным последовательностям",
+      y = "",
+      fill = ""
+    ) +
+    
+    theme_bw() +
+    theme(
+      axis.title.x = element_text(size=14, face="bold", margin=margin(t=8),  hjust = 0.5),
+      axis.title.y = element_text(size=14, face="bold", margin=margin(r=-1)),
+      axis.text.x  = element_text(size = 16),
+      axis.text.y  = element_text(size = 16),
+      panel.background = element_rect(fill="white"),
+      plot.background = element_rect(fill="white")
+    )
+
+
+  hist1_aa = ggplot(df_dist1, 
+                    if (use_fill) aes(x=value.y, fill=same_species) else aes(x=value.y)) +
+    geom_histogram(bins=50, alpha=0.8) +
+    scale_y_break(ybreak_nt, scales = 0.6) +
+     labs(
+      x = "p-дистанция по аминокислотным последовательностям",
+      y = "",
+      fill = "Сравнение"
+    ) +
+    
+    theme_bw() +
+    theme(
+      axis.title.x = element_text(size=14, face="bold", margin=margin(t=8),  hjust = 0.5),
+      axis.title.y = element_text(size=14, face="bold", margin=margin(r=-1)),
+      axis.text.x  = element_text(size = 16),
+      axis.text.y  = element_text(size = 16),
+      panel.background = element_rect(fill="white"),
+      plot.background = element_rect(fill="white")
+    )
+
+  if (use_fill) {
+    hist1_nt <- hist1_nt +
+      scale_fill_manual(values = c(
+        "yes" = "#E9AFA3",
+        "no" = "#99B2DD",
+        "unknown" = "grey70"
+      ))
+    
+    hist1_aa <- hist1_aa +
+      scale_fill_manual(values = c(
+        "yes" = "#E9AFA3",
+        "no" = "#99B2DD",
+        "unknown" = "grey70"
+      ))
+  }
+  
+  if (!is.null(xlim_nt)) hist1_nt <- hist1_nt + coord_cartesian(xlim = xlim_nt)
+  if (!is.null(xlim_aa)) hist1_aa <- hist1_aa + coord_cartesian(xlim = xlim_aa)
+  
+  return(hist1_nt + hist1_aa)
+}
+
+```
+
+```{r}
+aln = read.dna("/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/Aves/mmseq86_1B_nt/res/Aves_full_seq_removed_1A_align_86nt.fasta", format="fasta")
+ph_sp = plot_aa_nt_hists_sp(
+  aln, 
+  1, length(aln[1,]), 
+  xlim_range = c(0, 0.2),
+  ylim_range = c(0, 0.2),
+  col_sp=6
+)
+df_dist = ph_sp[[1]]
+plots <- plot_hists(
+  df_dist,
+  xlim_nt = c(0, 0.7),
+  xlim_aa = c(0, 0.8),
+  ybreak_nt = c(1250, 10000),
+  ybreak_aa = c(1250, 10000)
+)
+title_plot <- ggdraw() +
+  draw_label(
+    "ORF1A_86nt",
+    fontface = "bold",
+    size = 16
+  ) +
+  theme(plot.background = element_rect(fill = "white", color = NA))
+final_plot <- plot_grid(
+  title_plot,
+  plots,
+  ncol = 1,
+  rel_heights = c(0.08, 1)
+)
+final_plot
+ggsave(
+  filename = "/Users/abagavetdinova/Desktop/lab/Astroviridae_database/data/clade_analysis/Aves/mmseq86_nt_ORF1A.svg",
+  plot = final_plot,
+  width = 14,
+  height = 6,
+  dpi = 300,
+  bg = "white"
+)
+```
+

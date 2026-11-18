@@ -1,0 +1,407 @@
+import csv
+import time
+from contextlib import contextmanager
+from datetime import datetime
+from pathlib import Path
+from threading import Event, Thread
+
+from Bio import Entrez, SeqIO
+
+
+# =========================
+# SETTINGS
+# =========================
+
+Entrez.email = "adelina.kzn@gmail.com"
+
+OUTPUT_DIR = Path(__file__).resolve().parent / "CYTB_results"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+FASTA_FILE = OUTPUT_DIR / "CYTB_all_sequences.fasta"
+CSV_FILE = OUTPUT_DIR / "CYTB_all_candidates.csv"
+MISSING_FILE = OUTPUT_DIR / "CYTB_missing_species.txt"
+
+BATCH_SIZE = 200
+SEARCH_PAGE_SIZE = 5000
+REQUEST_DELAY = 0.4
+LOG_INTERVAL_SECONDS = 30
+
+
+# =========================
+# SPECIES
+# =========================
+
+species_list = [
+    "Gallus gallus",
+    "Anser anser",
+    "Meleagris gallopavo",
+    "Anas platyrhynchos",
+    "Columba livia",
+    "Neogale vison",
+    "Cygnus olor",
+    "Gerygone igata",
+    "Spilopelia chinensis",
+    "Arenaria interpres",
+    "Leucogeranus leucogeranus",
+    "Canis lupus",
+    "Rhipidura fuliginosa",
+    "Corvus splendens",
+    "Recurvirostra novaehollandiae",
+    "Sus scrofa",
+    "Cairina moschata",
+    "Eolophus roseicapilla",
+    "Alisterus scapularis",
+    "Mareca falcata",
+    "Heteronotia planiceps",
+    "Pelophylax nigromaculatus",
+    "Montifringilla taczanowskii",
+    "Phrynocephalus erythrurus",
+    "Prunella montanella",
+    "Petroica macrocephala",
+    "Macaca mulatta",
+    "Hemidactylus bowringii",
+    "Gekko similignum",
+    "Duttaphrynus melanostictus"
+]
+
+
+# =========================
+# SEARCH TERMS
+# =========================
+
+SEARCH_TERMS = (
+    '("cytochrome b"[Title] '
+    'OR "cytochrome b"[Protein Name] '
+    'OR "cytochrome b-c1 complex subunit 1"[Title] '
+    'OR "mitochondrial cytochrome b"[Title] '
+    'OR CYTB[Gene Name] '
+    'OR MT-CYB[Gene Name] OR COB[Gene Name])'
+)
+
+
+CYTB_TERMS = [
+    "cytochrome b",
+    "cytochrome b-c1 complex subunit 1",
+    "mitochondrial cytochrome b"
+]
+
+
+# =========================
+# HELPERS
+# =========================
+
+def get_record_text(record):
+    """Collect text from protein record annotations and features."""
+    parts = [record.description]
+
+    for feature in record.features:
+        for key, values in feature.qualifiers.items():
+            parts.extend(values)
+
+    return " ".join(str(part) for part in parts).lower()
+
+
+def get_gene_names(record):
+    """Extract gene qualifiers."""
+    genes = []
+
+    for feature in record.features:
+        genes.extend(feature.qualifiers.get("gene", []))
+
+    return [gene.lower().strip() for gene in genes]
+
+
+def is_other_gene(text, genes):
+    """Exclude proteins other than CYTB."""
+
+    excluded_genes = [
+        "cox1",
+        "cox2",
+        "cox3",
+        "nd1",
+        "nd2",
+        "nd3",
+        "nd4",
+        "nd4l",
+        "nd5",
+        "nd6",
+        "atp6",
+        "atp8"
+    ]
+
+    if any(gene in excluded_genes for gene in genes):
+        return True
+
+    excluded_terms = [
+        "ubiquinol-cytochrome c reductase iron-sulfur subunit",
+        "cytochrome c oxidase subunit",
+        "cytochrome c oxidase polypeptide",
+        "cytochrome c1"
+    ]
+
+    return any(term in text for term in excluded_terms)
+
+
+def is_cytb(record):
+    """Check whether the record corresponds to CYTB."""
+
+    text = get_record_text(record)
+    genes = get_gene_names(record)
+
+    if is_other_gene(text, genes):
+        return False, False, False
+
+    gene_match = any(
+        gene in ["cytb", "mt-cyb", "cob"]
+        for gene in genes
+    )
+
+    product_match = any(
+        term in text
+        for term in CYTB_TERMS
+    )
+
+    return gene_match or product_match, gene_match, product_match
+
+
+def get_organism(record):
+    return record.annotations.get("organism", "")
+
+
+def is_partial(record):
+    """Mark records that appear to be partial."""
+
+    text = get_record_text(record)
+
+    partial_terms = [
+        "partial",
+        "fragment",
+        "incomplete"
+    ]
+
+    return any(term in text for term in partial_terms)
+
+
+def log(message):
+    timestamp = datetime.now().strftime("%H:%M:%S")
+    print(f"[{timestamp}] {message}", flush=True)
+
+
+@contextmanager
+def log_ncbi_request(stage):
+    started = time.monotonic()
+    finished = Event()
+
+    def report_wait():
+        while not finished.wait(LOG_INTERVAL_SECONDS):
+            elapsed = time.monotonic() - started
+            log(f"{stage}: still in progress ({elapsed:.0f}s elapsed)")
+
+    log(f"{stage}: started")
+    reporter = Thread(target=report_wait, daemon=True)
+    reporter.start()
+    try:
+        yield
+    except Exception as error:
+        elapsed = time.monotonic() - started
+        log(f"{stage}: failed after {elapsed:.1f}s ({type(error).__name__})")
+        raise
+    finally:
+        finished.set()
+        reporter.join()
+
+    elapsed = time.monotonic() - started
+    log(f"{stage}: completed in {elapsed:.1f}s")
+
+
+def search_protein_ids(species):
+    """Retrieve all Protein IDs returned by NCBI for a species."""
+
+    query = f'({SEARCH_TERMS}) AND "{species}"[Organism]'
+
+    with log_ncbi_request(f"{species} / ESearch count"):
+        with Entrez.esearch(db="protein", term=query, retmax=0) as handle:
+            search_result = Entrez.read(handle)
+
+    total = int(search_result["Count"])
+    ids = []
+
+    for start in range(0, total, SEARCH_PAGE_SIZE):
+        end = min(start + SEARCH_PAGE_SIZE, total)
+        with log_ncbi_request(f"{species} / ESearch IDs {start + 1}–{end}/{total}"):
+            with Entrez.esearch(
+                db="protein",
+                term=query,
+                retstart=start,
+                retmax=SEARCH_PAGE_SIZE
+            ) as handle:
+                result = Entrez.read(handle)
+
+        ids.extend(result["IdList"])
+        time.sleep(REQUEST_DELAY)
+
+    return ids
+
+
+def fetch_records(ids, species):
+    """Download GenBank records in batches."""
+
+    for start in range(0, len(ids), BATCH_SIZE):
+        batch = ids[start:start + BATCH_SIZE]
+
+        batch_number = start // BATCH_SIZE + 1
+        batch_total = (len(ids) + BATCH_SIZE - 1) // BATCH_SIZE
+        stage = (
+            f"{species} / EFetch batch {batch_number}/{batch_total} "
+            f"(IDs {start + 1}–{start + len(batch)}/{len(ids)})"
+        )
+        with log_ncbi_request(stage):
+            with Entrez.efetch(
+                db="protein",
+                id=",".join(batch),
+                rettype="gb",
+                retmode="text"
+            ) as handle:
+                log(f"{stage}: response opened, reading and parsing GenBank")
+                records = list(SeqIO.parse(handle, "genbank"))
+            log(f"{stage}: parsed {len(records)} GenBank records")
+
+        yield from records
+        time.sleep(REQUEST_DELAY)
+
+
+# =========================
+# MAIN
+# =========================
+
+all_records = []
+metadata = []
+missing_species = []
+
+seen_accessions = set()
+
+for index, species in enumerate(species_list, start=1):
+
+    log(f"\n[{index}/{len(species_list)}] Searching: {species}")
+
+    try:
+        protein_ids = search_protein_ids(species)
+
+        log(f"NCBI records found: {len(protein_ids)}")
+
+        species_records = []
+
+        for record in fetch_records(protein_ids, species):
+
+            accession = record.id
+
+            if accession in seen_accessions:
+                continue
+
+            organism = get_organism(record)
+
+            if organism.lower() != species.lower():
+                continue
+
+            matched, gene_match, product_match = is_cytb(record)
+
+            if not matched:
+                continue
+
+            seen_accessions.add(accession)
+            species_records.append(record)
+
+            description = record.description
+            length = len(record.seq)
+
+            metadata.append({
+                "Host_species": species,
+                "Accession": accession,
+                "Description": description,
+                "NCBI_organism": organism,
+                "Length_aa": length,
+                "Gene_match": gene_match,
+                "Product_match": product_match,
+                "RefSeq": accession.startswith(("NP_", "XP_")),
+                "Predicted": accession.startswith("XP_"),
+                "Partial": is_partial(record)
+            })
+
+        all_records.extend(species_records)
+
+        log(f"CYTB sequences found: {len(species_records)}")
+
+        if not species_records:
+            missing_species.append(species)
+
+    except Exception as error:
+
+        log(f"ERROR for {species}: {error}")
+        missing_species.append(species)
+
+    time.sleep(REQUEST_DELAY)
+
+
+# =========================
+# SAVE FASTA
+# =========================
+
+if all_records:
+    SeqIO.write(all_records, FASTA_FILE, "fasta")
+
+print(f"\nFASTA saved: {FASTA_FILE}")
+
+
+# =========================
+# SAVE METADATA CSV
+# =========================
+
+fieldnames = [
+    "Host_species",
+    "Accession",
+    "Description",
+    "NCBI_organism",
+    "Length_aa",
+    "Gene_match",
+    "Product_match",
+    "RefSeq",
+    "Predicted",
+    "Partial"
+]
+
+with open(CSV_FILE, "w", newline="", encoding="utf-8-sig") as file:
+
+    writer = csv.DictWriter(file, fieldnames=fieldnames)
+    writer.writeheader()
+    writer.writerows(metadata)
+
+print(f"Metadata saved: {CSV_FILE}")
+
+
+# =========================
+# SAVE MISSING SPECIES TXT
+# =========================
+
+with open(MISSING_FILE, "w", encoding="utf-8") as file:
+    file.write("\n".join(missing_species))
+
+print(f"Missing species saved: {MISSING_FILE}")
+
+
+# =========================
+# SUMMARY
+# =========================
+
+print("\n========== SUMMARY ==========")
+
+print(f"Species searched: {len(species_list)}")
+print(f"Species with CYTB: {len(species_list) - len(missing_species)}")
+print(f"Species without CYTB: {len(missing_species)}")
+print(f"Total CYTB sequences: {len(all_records)}")
+
+print("\nMissing species:")
+
+for species in missing_species:
+    print(f"- {species}")
+
+print("\nOutput directory:", OUTPUT_DIR.resolve())

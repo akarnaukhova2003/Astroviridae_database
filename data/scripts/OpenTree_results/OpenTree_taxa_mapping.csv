@@ -1,0 +1,33 @@
+input_name	matched_name	ott_id	status
+Alisterus scapularis	Alisterus scapularis	183243	matched
+Anas platyrhynchos	Anas platyrhynchos	765167	matched
+Anser anser	Anser anser	190887	matched
+Anser cygnoides	Anser cygnoides	190892	matched
+Arenaria interpres	Arenaria interpres	821753	matched
+Cairina moschata	Cairina moschata	714469	matched
+Canis lupus	Canis lupus	247341	matched
+Columba livia	Columba livia	938416	matched
+Corvus splendens	Corvus splendens	38262	matched
+Cygnus olor	Cygnus olor	140314	matched
+Duttaphrynus melanostictus	Duttaphrynus melanostictus	962265	matched
+Eolophus roseicapilla	Eolophus roseicapillus	900913	matched
+Gallus gallus	Gallus gallus	153563	matched
+Gekko similignum	Gekko similignum	4122648	matched
+Gerygone igata	Gerygone igata	452023	matched
+Hemidactylus bowringii			ambiguous
+Heteronotia planiceps	Heteronotia planiceps	862234	matched
+Leucogeranus leucogeranus			not matched
+Mareca falcata	Mareca falcata	82420	matched
+Meleagris gallopavo	Meleagris gallopavo	446482	matched
+Montifringilla taczanowskii	Montifringilla taczanowskii	96150	matched
+Neogale vison			not matched
+Pelophylax nigromaculatus	Pelophylax nigromaculatus	14673	matched
+Periparus ater	Periparus ater	746130	matched
+Petroica macrocephala	Petroica macrocephala	995906	matched
+Phrynocephalus erythrurus	Phrynocephalus erythrurus	985497	matched
+Prunella montanella	Prunella montanella	95302	matched
+Recurvirostra novaehollandiae	Recurvirostra novaehollandiae	3596831	matched
+Macaca mulatta	Macaca mulatta	689650	matched
+Rhipidura fuliginosa	Rhipidura fuliginosa	346153	matched
+Spilopelia chinensis	Streptopelia chinensis	329078	matched
+Sus scrofa	Sus scrofa	730013	matched

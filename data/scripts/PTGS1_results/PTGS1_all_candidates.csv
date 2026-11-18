@@ -1,0 +1,31 @@
+﻿Host_species,Accession,Description,NCBI_organism,Length_aa,Gene_match,Product_match,RefSeq,Predicted,Partial
+Gallus gallus,XP_040541475.1,prostaglandin G/H synthase 1 [Gallus gallus],Gallus gallus,607,True,True,True,True,False
+Gallus gallus,XP_425326.4,prostaglandin G/H synthase 1 [Gallus gallus],Gallus gallus,607,True,True,True,True,False
+Anser anser,XP_083663676.1,prostaglandin G/H synthase 1 [Anser anser],Anser anser,608,True,True,True,True,False
+Meleagris gallopavo,XP_085095555.1,prostaglandin G/H synthase 1 isoform X2 [Meleagris gallopavo],Meleagris gallopavo,560,True,True,True,True,False
+Meleagris gallopavo,XP_085095554.1,prostaglandin G/H synthase 1 isoform X1 [Meleagris gallopavo],Meleagris gallopavo,607,True,True,True,True,False
+Anas platyrhynchos,XP_027326714.3,prostaglandin G/H synthase 1 isoform X2 [Anas platyrhynchos],Anas platyrhynchos,608,True,True,True,True,False
+Anas platyrhynchos,XP_027326713.3,prostaglandin G/H synthase 1 isoform X1 [Anas platyrhynchos],Anas platyrhynchos,610,True,True,True,True,False
+Columba livia,XP_064891528.1,prostaglandin G/H synthase 1 [Columba livia],Columba livia,609,True,True,True,True,False
+Columba livia,PKK24401.1,"prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase), partial [Columba livia]",Columba livia,567,True,True,False,False,True
+Neogale vison,XP_044120906.1,prostaglandin G/H synthase 1 [Neogale vison],Neogale vison,601,True,True,True,True,False
+Neogale vison,CCP78794.1,"Prostaglandin G/H synthase 1, partial [Neogale vison]",Neogale vison,536,False,True,False,False,True
+Cygnus olor,XP_040387219.1,LOW QUALITY PROTEIN: prostaglandin G/H synthase 1 [Cygnus olor],Cygnus olor,604,True,True,True,True,False
+Sus scrofa,KAO0920407.1,prostaglandin G/H synthase 1 [Sus scrofa],Sus scrofa,600,True,True,False,False,False
+Sus scrofa,XP_084851099.1,prostaglandin G/H synthase 1 isoform X4 [Sus scrofa],Sus scrofa,340,True,True,True,True,False
+Sus scrofa,XP_084851089.1,prostaglandin G/H synthase 1 isoform X3 [Sus scrofa],Sus scrofa,377,True,True,True,True,False
+Sus scrofa,XP_084851078.1,prostaglandin G/H synthase 1 isoform X1 [Sus scrofa],Sus scrofa,610,True,True,True,True,False
+Sus scrofa,XP_001926164.2,prostaglandin G/H synthase 1 isoform X2 [Sus scrofa],Sus scrofa,600,True,True,True,True,False
+Sus scrofa,KAO0124645.1,prostaglandin G/H synthase 1 [Sus scrofa],Sus scrofa,600,True,True,False,False,False
+Sus scrofa,AAZ17476.1,"prostaglandin-endoperoxide synthase 1, partial [Sus scrofa]",Sus scrofa,40,False,True,False,False,True
+Sus scrofa,AAF20941.1,"cyclooxygenase-1, partial [Sus scrofa]",Sus scrofa,204,False,True,False,False,True
+Macaca mulatta,XP_077824192.1,prostaglandin G/H synthase 1 isoform X9 [Macaca mulatta],Macaca mulatta,488,True,True,True,True,False
+Macaca mulatta,XP_077824191.1,prostaglandin G/H synthase 1 isoform X8 [Macaca mulatta],Macaca mulatta,551,True,True,True,True,False
+Macaca mulatta,XP_077824190.1,prostaglandin G/H synthase 1 isoform X7 [Macaca mulatta],Macaca mulatta,556,True,True,True,True,False
+Macaca mulatta,XP_077824189.1,prostaglandin G/H synthase 1 isoform X6 [Macaca mulatta],Macaca mulatta,560,True,True,True,True,False
+Macaca mulatta,XP_077824188.1,prostaglandin G/H synthase 1 isoform X5 [Macaca mulatta],Macaca mulatta,562,True,True,True,True,False
+Macaca mulatta,XP_077824187.1,prostaglandin G/H synthase 1 isoform X4 [Macaca mulatta],Macaca mulatta,578,True,True,True,True,False
+Macaca mulatta,XP_077824186.1,prostaglandin G/H synthase 1 isoform X3 [Macaca mulatta],Macaca mulatta,593,True,True,True,True,False
+Macaca mulatta,XP_077824185.1,prostaglandin G/H synthase 1 isoform X2 [Macaca mulatta],Macaca mulatta,595,True,True,True,True,False
+Macaca mulatta,XP_001088270.1,prostaglandin G/H synthase 1 isoform X1 [Macaca mulatta],Macaca mulatta,599,True,True,True,True,False
+Macaca mulatta,AFE72039.1,"prostaglandin G/H synthase 1 isoform 1 precursor, partial [Macaca mulatta]",Macaca mulatta,128,True,True,False,False,True
