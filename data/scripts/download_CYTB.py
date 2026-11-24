@@ -34,6 +34,7 @@ LOG_INTERVAL_SECONDS = 30
 species_list = [
     "Gallus gallus",
     "Anser anser",
+    "Anser cygnoides",
     "Meleagris gallopavo",
     "Anas platyrhynchos",
     "Columba livia",
@@ -46,6 +47,7 @@ species_list = [
     "Canis lupus",
     "Rhipidura fuliginosa",
     "Corvus splendens",
+    "Periparus ater",
     "Recurvirostra novaehollandiae",
     "Sus scrofa",
     "Cairina moschata",

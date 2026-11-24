@@ -1,0 +1,31 @@
+input_name	matched_name	ott_id	status	score	equal_score_candidates
+Alisterus scapularis	Alisterus scapularis	183243	matched	1.0	
+Anas platyrhynchos	Anas platyrhynchos	765167	matched	1.0	
+Anser anser	Anser anser	190887	matched	1.0	
+Anser cygnoides	Anser cygnoides	190892	matched	1.0	
+Arenaria interpres	Arenaria interpres	821753	matched	1.0	
+Cairina moschata	Cairina moschata	714469	matched	1.0	
+Canis lupus	Canis lupus	247341	matched	1.0	
+Columba livia	Columba livia	938416	matched	1.0	
+Corvus splendens	Corvus splendens	38262	matched	1.0	
+Cygnus olor	Cygnus olor	140314	matched	1.0	
+Duttaphrynus melanostictus	Duttaphrynus melanostictus	962265	matched	1.0	
+Eolophus roseicapilla	Eolophus roseicapillus	900913	matched	1.0	
+Gallus gallus	Gallus gallus	153563	matched	1.0	
+Gekko similignum	Gekko similignum	4122648	matched	1.0	
+Gerygone igata	Gerygone igata	452023	matched	1.0	
+Hemidactylus bowringii	Hemidactylus bowringii	212508	matched: direct preferred	1.0	Hemidactylus bowringii (OTT 212508, direct); Hemidactylus frenatus (OTT 115217, synonym)
+Leucogeranus leucogeranus	Grus leucogeranus	832271	matched	1.0	
+Macaca mulatta	Macaca mulatta	689650	matched	1.0	
+Mareca falcata	Mareca falcata	82420	matched	1.0	
+Meleagris gallopavo	Meleagris gallopavo	446482	matched	1.0	
+Montifringilla taczanowskii	Montifringilla taczanowskii	96150	matched	1.0	
+Neogale vison	Neovison vison	310482	matched	1.0	
+Pelophylax nigromaculatus	Pelophylax nigromaculatus	14673	matched	1.0	
+Periparus ater	Periparus ater	746130	matched	1.0	
+Petroica macrocephala	Petroica macrocephala	995906	matched	1.0	
+Phrynocephalus erythrurus	Phrynocephalus erythrurus	985497	matched	1.0	
+Prunella montanella	Prunella montanella	95302	matched	1.0	
+Rhipidura fuliginosa	Rhipidura fuliginosa	346153	matched	1.0	
+Spilopelia chinensis	Streptopelia chinensis	329078	matched	1.0	
+Sus scrofa	Sus scrofa	730013	matched	1.0	

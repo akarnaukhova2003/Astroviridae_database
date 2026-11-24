@@ -34,11 +34,11 @@ SPECIES = [
     "Gerygone igata",
     "Hemidactylus bowringii",
     "Heteronotia planiceps",
-    "Leucogeranus leucogeranus",
+    "Grus leucogeranus",  # Original name: Leucogeranus leucogeranus
     "Mareca falcata",
     "Meleagris gallopavo",
     "Montifringilla taczanowskii",
-    "Neogale vison",
+    "Neovison vison",  # Original name: Neogale vison
     "Pelophylax nigromaculatus",
     "Periparus ater",
     "Petroica macrocephala",
@@ -90,21 +90,38 @@ def match_names():
             match for match in results.get(name.casefold(), [])
             if not match.get("is_approximate_match", False)
         ]
-        best = {}
+        row = {
+            "input_name": name, "matched_name": "", "ott_id": "",
+            "status": "not matched", "score": "", "equal_score_candidates": "",
+        }
         if matches:
             best_score = max(match["score"] for match in matches)
-            best = {
-                match["taxon"]["ott_id"]: match["taxon"]
-                for match in matches if match["score"] == best_score
-            }
+            candidates = {}
+            for match in matches:
+                if match["score"] == best_score:
+                    ott_id = match["taxon"]["ott_id"]
+                    if ott_id not in candidates or not match["is_synonym"]:
+                        candidates[ott_id] = match
 
-        row = {"input_name": name, "matched_name": "", "ott_id": "", "status": "not matched"}
-        if len(best) == 1:
-            ott_id, taxon = next(iter(best.items()))
-            row.update(matched_name=taxon["name"], ott_id=ott_id, status="matched")
+            # A smaller OTT ID provides a reproducible choice after a tie.
+            ordered = sorted(candidates, key=lambda ott_id: (candidates[ott_id]["is_synonym"], ott_id))
+            ott_id = ordered[0]
+            selected = candidates[ott_id]
+            taxon = selected["taxon"]
+            status = "matched"
+            if len(ordered) > 1:
+                status = "matched: direct preferred"
+                if selected["is_synonym"] == candidates[ordered[1]]["is_synonym"]:
+                    status = "ambiguous: provisional"
+                    print(f"WARNING: {name}: provisional OTT {ott_id}; review the mapping table.",
+                          file=sys.stderr)
+                row["equal_score_candidates"] = "; ".join(
+                    f"{candidates[candidate]['taxon']['name']} (OTT {candidate}, "
+                    f"{'synonym' if candidates[candidate]['is_synonym'] else 'direct'})"
+                    for candidate in ordered
+                )
+            row.update(matched_name=taxon["name"], ott_id=ott_id, status=status, score=best_score)
             print(f"{name} -> {taxon['name']} (OTT {ott_id})")
-        elif best:
-            row["status"] = "ambiguous"
         mapping.append(row)
     return mapping
 
@@ -156,6 +173,36 @@ def leaf_labels(newick):
     return labels
 
 
+def figtree_newick(newick, mapping):
+    """Render the OpenTree topology with input species names and display lengths."""
+    from io import StringIO
+
+    from Bio import Phylo
+
+    input_names = {}
+    for row in mapping:
+        if row["ott_id"] != "":
+            input_names.setdefault(row["ott_id"], row["input_name"])
+
+    tree = Phylo.read(StringIO(newick), "newick")
+
+    def render(clade):
+        if clade.is_terminal():
+            ott_id = int(re.search(r"_ott(\d+)$", clade.name)[1])
+            name = input_names[ott_id].replace("'", "''")
+            return f"'{name}'"
+
+        # Unary nodes do not define a new grouping of leaves.
+        if len(clade.clades) == 1:
+            return render(clade.clades[0])
+
+        children = ",".join(f"{render(child)}:1" for child in clade.clades)
+        return f"({children})"
+
+    # OpenTree supplies topology only. The unit lengths are for display.
+    return render(tree.root) + ";\n"
+
+
 def write_names(path, names):
     path.write_text("".join(f"{name}\n" for name in names), encoding="utf-8")
 
@@ -192,7 +239,7 @@ def main():
                 f"Unexpected OTT IDs: {sorted(leaf_ids - expected_ids)}."
             )
 
-        TREE_FILE.write_text(newick + "\n", encoding="utf-8")
+        TREE_FILE.write_text(figtree_newick(newick, mapping), encoding="utf-8")
         print(f"Saved {TREE_FILE} with {len(labels)}/{len(SPECIES)} requested leaves.")
         if len(labels) != len(SPECIES):
             print("Warning: the saved subtree is incomplete. See the reports.", file=sys.stderr)
